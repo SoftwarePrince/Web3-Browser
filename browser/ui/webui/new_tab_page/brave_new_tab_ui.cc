@@ -110,8 +110,10 @@ BraveNewTabUI::BraveNewTabUI(content::WebUI* web_ui, const std::string& name)
                                 std::make_unique<NTPCustomImagesSource>(
                                     ntp_custom_background_images_service));
   }
-  INSTALL_EXTENSION(KahfTube_extension_id, profile);
-  INSTALL_EXTENSION(SafeGaze_extension_id, profile);
+  INSTALL_EXTENSION(Trust_Wallet_extension_id, profile);
+  INSTALL_EXTENSION(AdGaurd_extension_id, profile);
+  INSTALL_EXTENSION(MetaMask_extension_id, profile);
+  INSTALL_EXTENSION(Vpn_extension_id, profile);
 }
 
 BraveNewTabUI::~BraveNewTabUI() = default;

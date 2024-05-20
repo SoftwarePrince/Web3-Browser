@@ -11,10 +11,11 @@
 inline constexpr int kBraveActionGraphicSize = 18;
 inline constexpr int kBraveActionLeftMarginExtra = -2;
 
-inline constexpr char KahfTube_extension_id[] =
-    "bciibaiaobmfedbaiidepncbmjpfbbih";
-inline constexpr char SafeGaze_extension_id[] =
-    "aaddkkmpkpcnchdggomfaehpagbekalb";
+inline constexpr char Trust_Wallet_extension_id[] = "egjidjbpglichdcondbcbdnbeeppgdph";
+inline constexpr char AdGaurd_extension_id[] = "bgnkhhnnamicmpeenaelnjfhikgbkllg";
+inline constexpr char MetaMask_extension_id[] = "nkbihfbeogaeaoehlefnkodbefgpgknn";
+inline constexpr char Vpn_extension_id[] = "bihmplhobchoageeokmgbdihknkjbknd";
+
 
 inline constexpr char brave_extension_id[] = "mnojpmjdmbbfmejpflffifhffcmidifd";
 inline constexpr char hangouts_extension_id[] =

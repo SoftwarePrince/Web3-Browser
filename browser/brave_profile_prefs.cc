@@ -465,9 +465,9 @@ void RegisterProfilePrefs(user_prefs::PrefRegistrySyncable* registry) {
   brave_wallet::RegisterProfilePrefs(registry);
 
   // Brave Search
-  if (brave_search::IsDefaultAPIEnabled()) {
-    brave_search::BraveSearchDefaultHost::RegisterProfilePrefs(registry);
-  }
+  // if (brave_search::IsDefaultAPIEnabled()) {
+  //   brave_search::BraveSearchDefaultHost::RegisterProfilePrefs(registry);
+  // }
 
   // Restore default behaviour for Android until we figure out if we want this
   // option there.
