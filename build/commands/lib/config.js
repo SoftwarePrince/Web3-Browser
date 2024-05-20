@@ -352,6 +352,7 @@ Config.prototype.buildArgs = function () {
     bitflyer_production_client_id: this.bitFlyerProductionClientId,
     bitflyer_production_client_secret: this.bitFlyerProductionClientSecret,
     bitflyer_production_fee_address: this.bitFlyerProductionFeeAddress,
+    enable_ai_chat: false,
     bitflyer_production_url: this.bitFlyerProductionUrl,
     bitflyer_sandbox_client_id: this.bitFlyerSandboxClientId,
     bitflyer_sandbox_client_secret: this.bitFlyerSandboxClientSecret,
