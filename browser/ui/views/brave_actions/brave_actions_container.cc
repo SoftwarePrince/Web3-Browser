@@ -107,12 +107,14 @@ void BraveActionsContainer::UpdateVisibility() {
   bool can_show = false;
 
   if (shields_action_btn_) {
-    can_show = shields_action_btn_->GetVisible();
+    // can_show = shields_action_btn_->GetVisible();
+    can_show = false;
   }
 
   if (rewards_action_btn_) {
-    can_show = can_show || rewards_action_btn_->GetVisible();
-  }
+    // can_show = can_show || rewards_action_btn_->GetVisible();
+    can_show = can_show || false;
+    }
 
   // If no buttons are visible, then we want to hide this view so that the
   // separator is not displayed.
