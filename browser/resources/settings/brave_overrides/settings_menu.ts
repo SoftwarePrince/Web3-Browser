@@ -238,11 +238,11 @@ RegisterPolymerTemplateModifications({
       'shield-done',
       'shields',
     )
-    appearanceBrowserEl.insertAdjacentElement('afterend', shieldsEl)
+    // appearanceBrowserEl.insertAdjacentElement('afterend', shieldsEl)
 
     // Add privacy item
     const privacyEl = getMenuElement(templateContent, '/privacy')
-    shieldsEl.insertAdjacentElement('afterend', privacyEl)
+    // shieldsEl.insertAdjacentElement('afterend', privacyEl)
 
     // // Add web3 item
     // const web3El = createMenuElement(
