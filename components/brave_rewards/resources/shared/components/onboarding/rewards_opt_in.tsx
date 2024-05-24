@@ -173,15 +173,15 @@ export function RewardsOptIn (props: Props) {
         {getString('onboardingEarnText')}
       </style.optInText>
       <style.mainAction>
-        <button onClick={onEnableClick} data-test-id='opt-in-button'>
+        <button onClick={onEnableClick} disabled data-test-id='opt-in-button'>
           {getString('onboardingStartUsingRewards')}
         </button>
       </style.mainAction>
-      <style.learnMore>
+      {/* <style.learnMore>
         <NewTabLink href={urls.rewardsTourURL}>
           {getString('onboardingHowDoesItWork')}
         </NewTabLink>
-      </style.learnMore>
+      </style.learnMore> */}
       <style.terms>
         <TermsOfService />
       </style.terms>

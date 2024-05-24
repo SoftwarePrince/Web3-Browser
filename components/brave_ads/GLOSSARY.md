@@ -9,7 +9,7 @@ A place to define all specific terms and vocabulary for the BrowseWeb3 Ads compo
 | Advertisement  | An advertisement is a promotional message or content created to promote a product, service, or idea to a target audience, also known as an Ad.  |
 | Analytics  | Examine data to uncover meaningful insights, trends, and patterns that can inform decision-making and improve understanding of a given subject or domain. See P2A and P3A.  |
 | Anti-targeting  | Exclude users from receiving targeted advertisements based on specific attributes such as demographics, interests, or behaviors.  |
-| Basic Attention Token  | See the [whitepaper](https://basicattentiontoken.org/static-assets/documents/BasicAttentionTokenWhitePaper-4.pdf). Also known as BAT.  |
+| Basic Attention Token  | See the [whitepaper](https://datum.org/static-assets/documents/BasicAttentionTokenWhitePaper-4.pdf). Also known as BAT.  |
 | Behavioral  | Behavioral advertising targets ads based on the user's previous online behavior, such as browsing history and interactions, to deliver relevant and personalized advertisements.  |
 | BrowseWeb3 Rewards user  | Refers to an individual who has joined BrowseWeb3 Rewards and will be rewarded BAT for viewing ads.  |
 | Campaign  | A campaign is a coordinated series of marketing activities and messages designed to achieve specific goals within a defined timeframe.  |

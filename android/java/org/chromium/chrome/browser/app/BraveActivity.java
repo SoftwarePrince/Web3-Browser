@@ -228,7 +228,7 @@ public abstract class BraveActivity extends ChromeActivity
     public static final String REWARDS_LEARN_MORE_URL =
             "https://browseweb3.com/faq-rewards/#unclaimed-funds";
     public static final String BRAVE_TERMS_PAGE =
-            "https://basicattentiontoken.org/user-terms-of-service/";
+            "https://datum.org/user-terms-of-service/";
     public static final String BRAVE_PRIVACY_POLICY = "https://browseweb3.com/privacy/browser/#rewards";
     public static final String OPEN_URL = "open_url";
 

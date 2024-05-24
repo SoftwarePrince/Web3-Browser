@@ -97,7 +97,7 @@ std::unique_ptr<NTPSponsoredImagesData> GetDemoBrandedWallpaper(
     demo->top_sites = {
       { "Brave", "https://browseweb3.com", "brave.png",
         base::FilePath(FILE_PATH_LITERAL("brave.png")) },
-     { "BAT", "https://basicattentiontoken.org/", "bat.png",
+     { "BAT", "https://datum.org/", "bat.png",
         base::FilePath(FILE_PATH_LITERAL("bat.png")) },
     };
   }

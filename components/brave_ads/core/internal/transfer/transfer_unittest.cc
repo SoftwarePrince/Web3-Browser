@@ -64,7 +64,7 @@ TEST_F(BraveAdsTransferTest,
                                   /*should_use_random_uuids=*/true);
   transfer_->SetLastClickedAd(ad);
   transfer_->MaybeTransferAd(/*tab_id=*/1,
-                             {GURL("https://basicattentiontoken.org")});
+                             {GURL("https://datum.org")});
 
   // Act & Assert
   FastForwardClockBy(kTransferAfter.Get());
@@ -164,7 +164,7 @@ TEST_F(BraveAdsTransferTest,
   // Arrange
   NotifyTabDidChange(
       /*tab_id=*/1,
-      /*redirect_chain=*/{GURL("https://basicattentiontoken.org")},
+      /*redirect_chain=*/{GURL("https://datum.org")},
       /*is_visible=*/true);
 
   const AdInfo ad = test::BuildAd(AdType::kNotificationAd,

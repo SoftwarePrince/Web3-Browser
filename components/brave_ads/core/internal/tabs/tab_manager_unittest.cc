@@ -107,11 +107,11 @@ TEST_F(BraveAdsTabManagerTest, ChangeTab) {
   EXPECT_CALL(observer_mock_,
               OnTabDidChange(TabInfo{
                   /*id=*/1,
-                  /*redirect_chain=*/{GURL("https://basicattentiontoken.org")},
+                  /*redirect_chain=*/{GURL("https://datum.org")},
                   /*is_playing_media=*/false}));
   NotifyTabDidChange(
       /*tab_id=*/1,
-      /*redirect_chain=*/{GURL("https://basicattentiontoken.org")},
+      /*redirect_chain=*/{GURL("https://datum.org")},
       /*is_visible=*/true);
 }
 
@@ -124,7 +124,7 @@ TEST_F(BraveAdsTabManagerTest, ChangeTabFocus) {
   EXPECT_CALL(observer_mock_, OnTabDidChangeFocus(/*tab_id=*/1));
   NotifyTabDidChange(
       /*tab_id=*/1,
-      /*redirect_chain=*/{GURL("https://basicattentiontoken.org")},
+      /*redirect_chain=*/{GURL("https://datum.org")},
       /*is_visible=*/true);
 }
 
@@ -148,11 +148,11 @@ TEST_F(BraveAdsTabManagerTest, UpdateExistingOccludedTabIfDifferentUrl) {
   EXPECT_CALL(observer_mock_,
               OnTabDidChange(TabInfo{
                   /*id=*/1,
-                  /*redirect_chain=*/{GURL("https://basicattentiontoken.org")},
+                  /*redirect_chain=*/{GURL("https://datum.org")},
                   /*is_playing_media=*/false}));
   NotifyTabDidChange(
       /*tab_id=*/1,
-      /*redirect_chain=*/{GURL("https://basicattentiontoken.org")},
+      /*redirect_chain=*/{GURL("https://datum.org")},
       /*is_visible=*/false);
 }
 
@@ -180,12 +180,12 @@ TEST_F(BraveAdsTabManagerTest, DoNotUpdateExistingVisibleTabIfDifferentUrl) {
   EXPECT_CALL(observer_mock_,
               OnTabDidChange(TabInfo(
                   /*id=*/1,
-                  /*redirect_chain=*/{GURL("https://basicattentiontoken.org")},
+                  /*redirect_chain=*/{GURL("https://datum.org")},
                   /*is_playing_media=*/false)));
 
   NotifyTabDidChange(
       /*tab_id=*/1,
-      /*redirect_chain=*/{GURL("https://basicattentiontoken.org")},
+      /*redirect_chain=*/{GURL("https://datum.org")},
       /*is_visible=*/true);
 }
 
@@ -198,11 +198,11 @@ TEST_F(BraveAdsTabManagerTest, UpdatedExistingVisibleTabIfDifferentUrl) {
   EXPECT_CALL(observer_mock_,
               OnTabDidChange(TabInfo{
                   /*id=*/1,
-                  /*redirect_chain=*/{GURL("https://basicattentiontoken.org")},
+                  /*redirect_chain=*/{GURL("https://datum.org")},
                   /*is_playing_media=*/false}));
   NotifyTabDidChange(
       /*tab_id=*/1,
-      /*redirect_chain=*/{GURL("https://basicattentiontoken.org")},
+      /*redirect_chain=*/{GURL("https://datum.org")},
       /*is_visible=*/true);
 }
 
@@ -255,13 +255,13 @@ TEST_F(BraveAdsTabManagerTest, GetVisible) {
           /*is_visible=*/true);
 
   OpenTab(/*tab_id=*/2,
-          /*redirect_chain=*/{GURL("https://basicattentiontoken.org")},
+          /*redirect_chain=*/{GURL("https://datum.org")},
           /*is_visible=*/true);
 
   // Act & Assert
   EXPECT_EQ(TabInfo(
                 /*id=*/2,
-                /*redirect_chain=*/{GURL("https://basicattentiontoken.org")},
+                /*redirect_chain=*/{GURL("https://datum.org")},
                 /*is_playing_media=*/false),
             TabManager::GetInstance().GetVisible());
 }
@@ -272,7 +272,7 @@ TEST_F(BraveAdsTabManagerTest, GetLastVisible) {
           /*is_visible=*/true);
 
   OpenTab(/*tab_id=*/2,
-          /*redirect_chain=*/{GURL("https://basicattentiontoken.org")},
+          /*redirect_chain=*/{GURL("https://datum.org")},
           /*is_visible=*/true);
 
   // Act & Assert
@@ -289,13 +289,13 @@ TEST_F(BraveAdsTabManagerTest, GetForId) {
           /*is_visible=*/true);
 
   OpenTab(/*tab_id=*/2,
-          /*redirect_chain=*/{GURL("https://basicattentiontoken.org")},
+          /*redirect_chain=*/{GURL("https://datum.org")},
           /*is_visible=*/true);
 
   // Act & Assert
   EXPECT_EQ(TabInfo(
                 /*id=*/2,
-                /*redirect_chain=*/{GURL("https://basicattentiontoken.org")},
+                /*redirect_chain=*/{GURL("https://datum.org")},
                 /*is_playing_media=*/false),
             TabManager::GetInstance().MaybeGetForId(2));
 }

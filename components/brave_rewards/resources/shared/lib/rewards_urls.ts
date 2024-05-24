@@ -3,7 +3,7 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
 
-export const termsOfServiceURL = 'https://basicattentiontoken.org/user-terms-of-service'
+export const termsOfServiceURL = 'https://datum.org/user-terms-of-service'
 export const privacyPolicyURL = 'https://browseweb3.com/privacy/#rewards'
 export const settingsURL = 'chrome://rewards'
 export const connectURL = 'chrome://rewards#verify'

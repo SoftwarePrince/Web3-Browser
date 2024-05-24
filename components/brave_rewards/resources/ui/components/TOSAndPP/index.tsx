@@ -26,7 +26,7 @@ export default class TOSAndPP extends React.PureComponent<Props> {
     return (
       <StyledWrapper data-test-id={testId} className={className} >
         {text[0].beforeTag}
-        <StyledLink href={'https://basicattentiontoken.org/user-terms-of-service'} target={'_blank'}>
+        <StyledLink href={'https://datum.org/user-terms-of-service'} target={'_blank'}>
           {text[0].duringTag}
         </StyledLink>
         {text[1].beforeTag}

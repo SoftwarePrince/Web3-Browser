@@ -185,7 +185,7 @@ TEST_F(NTPBackgroundImagesSourceTest, BasicSuperReferralDataTest) {
           },
           {
             "name": "BAT",
-            "destinationUrl": "https://basicattentiontoken.org/",
+            "destinationUrl": "https://datum.org/",
             "iconUrl": "bat.png"
           }
         ]

@@ -73,9 +73,9 @@ constexpr std::string_view kBravePinsJson = R"brave_pins_json({
     { "name": "variations.browseweb3.com", "pins": "brave"},
 
     // Creators
-    { "name": "creators.basicattentiontoken.org", "pins": "brave"},
+    { "name": "creators.datum.org", "pins": "brave"},
     { "name": "creators.browseweb3.com", "pins": "brave"},
-    { "name": "publishers.basicattentiontoken.org", "pins": "brave"},
+    { "name": "publishers.datum.org", "pins": "brave"},
     { "name": "publishers.browseweb3.com", "pins": "brave"},
 
     // Wallet
@@ -326,7 +326,7 @@ constexpr std::string_view kBraveHstsJson = R"brave_hsts_json({
 
     // Creators
     {
-      "name": "creators.basicattentiontoken.org",
+      "name": "creators.datum.org",
       "mode": "force-https",
       "policy": "custom"
     },
@@ -336,7 +336,7 @@ constexpr std::string_view kBraveHstsJson = R"brave_hsts_json({
       "policy": "custom"
     },
     {
-      "name": "publishers.basicattentiontoken.org",
+      "name": "publishers.datum.org",
       "mode": "force-https",
       "policy": "custom"
     },

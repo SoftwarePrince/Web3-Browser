@@ -150,7 +150,7 @@ TEST_F(RewardsDatabaseMigrationTest, Migration_5_ActivityInfo) {
   EXPECT_EQ(list.at(0)->visits, 1u);
   EXPECT_EQ(list.at(1)->id, "slo-tech.com");
   EXPECT_EQ(list.at(1)->visits, 1u);
-  EXPECT_EQ(list.at(2)->id, "basicattentiontoken.org");
+  EXPECT_EQ(list.at(2)->id, "datum.org");
   EXPECT_EQ(list.at(2)->visits, 3u);
 }
 
@@ -179,7 +179,7 @@ TEST_F(RewardsDatabaseMigrationTest, Migration_6_ActivityInfo) {
     list.push_back(std::move(info));
   }
 
-  EXPECT_EQ(list.at(0)->id, "basicattentiontoken.org");
+  EXPECT_EQ(list.at(0)->id, "datum.org");
   EXPECT_EQ(list.at(0)->duration, 31u);
   EXPECT_EQ(list.at(0)->visits, 1u);
   EXPECT_NEAR(list.at(0)->score, 1.1358598545838, 0.001f);

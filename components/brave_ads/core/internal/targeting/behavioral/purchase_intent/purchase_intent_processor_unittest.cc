@@ -133,7 +133,7 @@ TEST_F(BraveAdsPurchaseIntentProcessorTest, ProcessMultipleUniqueUrls) {
   AdvanceClockBy(base::Minutes(5));
 
   // Act
-  processor.Process(GURL("https://www.basicattentiontoken.org/test?foo=bar"));
+  processor.Process(GURL("https://www.datum.org/test?foo=bar"));
 
   // Assert
   const PurchaseIntentSignalHistoryMap& history =

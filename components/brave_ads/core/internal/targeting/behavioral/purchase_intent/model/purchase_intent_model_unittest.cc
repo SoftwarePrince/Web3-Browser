@@ -57,7 +57,7 @@ TEST_F(BraveAdsPurchaseIntentModelTest, DoNotGetSegmentsForExpiredSignals) {
 
   AdvanceClockBy(base::Days(1));
 
-  processor.Process(GURL("https://www.basicattentiontoken.org/test?bar=foo"));
+  processor.Process(GURL("https://www.datum.org/test?bar=foo"));
 
   // Act
   const SegmentList segments = GetPurchaseIntentSegments();
@@ -98,7 +98,7 @@ TEST_F(BraveAdsPurchaseIntentModelTest, GetSegmentsForPreviouslyMatchedSite) {
 
   PurchaseIntentProcessor processor(*resource_);
   processor.Process(GURL("https://www.browseweb3.com/test?foo=bar"));
-  processor.Process(GURL("https://www.basicattentiontoken.org/test?bar=foo"));
+  processor.Process(GURL("https://www.datum.org/test?bar=foo"));
   processor.Process(GURL("https://www.browseweb3.com/test?foo=bar"));
 
   // Act & Assert

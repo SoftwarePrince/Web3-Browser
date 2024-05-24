@@ -44,7 +44,7 @@ TEST(BraveAdsAntiTargetingExclusionRuleUtilTest,
 
   const AntiTargetingSiteList anti_targeting_sites = {
       GURL("https://www.browseweb3.com"),
-      GURL("https://www.basicattentiontoken.org")};
+      GURL("https://www.datum.org")};
 
   // Act & Assert
   EXPECT_FALSE(

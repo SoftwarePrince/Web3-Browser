@@ -134,7 +134,7 @@
     To continue using BrowseWeb3 Rewards, select your country so we can show you the right options and ads for your region. <ph name="LINK_BEGIN">$1</ph>Privacy Policy<ph name="LINK_END">$2</ph>
   </message>
   <message name="IDS_REWARDS_WIDGET_START_USING_REWARDS" desc="">
-    Start using Rewards
+    Coming soon
   </message>
   <message name="IDS_REWARDS_WIDGET_BALANCE_TITLE" desc="">
     Balance
@@ -344,10 +344,10 @@
     Continue
   </message>
   <message name="IDS_BRAVE_REWARDS_ONBOARDING_EARN_HEADER" desc="">
-    Earn tokens for private ads you see in BrowseWeb3
+    Engage &amp; Earn DATUM
   </message>
   <message name="IDS_BRAVE_REWARDS_ONBOARDING_EARN_TEXT" desc="">
-    Use tokens to buy gift cards, exchange for other currencies, support content creators, and more.
+    Get rewarded from your daily app activity in BrowseWeb3 while using our native VPN with an equipped Data Capsule NFT.
   </message>
   <message name="IDS_BRAVE_REWARDS_ONBOARDING_HOW_DOES_IT_WORK" desc="">
     How does it work?
@@ -386,7 +386,7 @@
     Select
   </message>
   <message name="IDS_BRAVE_REWARDS_ONBOARDING_START_USING_REWARDS" desc="">
-    Start using Rewards
+    Coming soon
   </message>
   <message name="IDS_BRAVE_REWARDS_ONBOARDING_START_USING_REWARDS_TEXT_ONLY" desc="">
     Press the <ph name="BAT_ICON">$1</ph> BAT icon in the URL bar to start.

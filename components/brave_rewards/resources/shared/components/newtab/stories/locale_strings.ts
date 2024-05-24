@@ -21,7 +21,7 @@ export const localeStrings = {
   rewardsLearnMore: 'Learn more',
   rewardsLogInToSeeBalance: '$1Log in to $2$3 to see your balance',
   rewardsManageAds: 'Manage ads',
-  rewardsOptInHeader: 'Earn tokens for private ads you see in Brave',
+  rewardsOptInHeader: 'Engage & Earn DATUM',
   rewardsOptInTerms: 'By proceeding, you agree to the $1Terms of Service$2 and $3Privacy Policy$4.',
   rewardsOptInText: 'Support content creators and use your tokens to buy gift cards, exchange for other currencies, and more.',
   rewardsPaymentCheckStatus: 'Check status',

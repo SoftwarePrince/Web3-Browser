@@ -40,7 +40,7 @@ public class BraveRewardsOnboardingFragment extends Fragment {
     private Button btnNext;
 
     private static final String BRAVE_TERMS_PAGE =
-        "https://basicattentiontoken.org/user-terms-of-service/";
+        "https://datum.org/user-terms-of-service/";
 
     private boolean isAdsAvailable;
 

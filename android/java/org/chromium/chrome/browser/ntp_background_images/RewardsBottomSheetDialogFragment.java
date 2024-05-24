@@ -47,7 +47,7 @@ public class RewardsBottomSheetDialogFragment extends BottomSheetDialogFragment 
     private static final String TAG = "RewardsBottomSheet";
 
     private static final String BRAVE_TERMS_PAGE =
-            "https://basicattentiontoken.org/user-terms-of-service/";
+            "https://datum.org/user-terms-of-service/";
     private static final String BRAVE_REWARDS_LEARN_MORE = "https://browseweb3.com/faq-rewards";
 
     private int ntpType;

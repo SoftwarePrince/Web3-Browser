@@ -529,7 +529,7 @@ const char kTestSuperReferral[] = R"(
         },
         {
           "name": "BAT",
-          "destinationUrl": "https://basicattentiontoken.org/",
+          "destinationUrl": "https://datum.org/",
           "backgroundColor": "#e22919",
           "iconUrl": "bat.png"
         }

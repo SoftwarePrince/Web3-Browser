@@ -86,7 +86,7 @@ CREATE TABLE IF NOT EXISTS "pending_contribution" (
 INSERT INTO "meta" VALUES ('mmap_status','-1');
 INSERT INTO "meta" VALUES ('last_compatible_version','1');
 INSERT INTO "meta" VALUES ('version','8');
-INSERT INTO "activity_info" VALUES ('basicattentiontoken.org',31,1,1.1358598545838,26,25.919327084376,1553423066);
+INSERT INTO "activity_info" VALUES ('datum.org',31,1,1.1358598545838,26,25.919327084376,1553423066);
 INSERT INTO "activity_info" VALUES ('browseweb3.com',20,2,1.07471534438942,25,24.5240629127033,1553423066);
 INSERT INTO "activity_info" VALUES ('slo-tech.com',44,2,2.17171393564128,49,49.5566100029207,1553423066);
 INSERT INTO "activity_info" VALUES ('3zsistemi.si',9,1,1.00662511542715,100,100.0,1573206313);
@@ -101,7 +101,7 @@ INSERT INTO "server_publisher_amounts" VALUES ('laurenwags.github.io',10.0);
 INSERT INTO "server_publisher_amounts" VALUES ('laurenwags.github.io',20.0);
 INSERT INTO "publisher_info" VALUES ('slo-tech.com',0,'slo-tech.com','','https://slo-tech.com/','');
 INSERT INTO "publisher_info" VALUES ('browseweb3.com',0,'browseweb3.com','','https://browseweb3.com/','');
-INSERT INTO "publisher_info" VALUES ('basicattentiontoken.org',0,'basicattentiontoken.org','','https://basicattentiontoken.org/','');
+INSERT INTO "publisher_info" VALUES ('datum.org',0,'datum.org','','https://datum.org/','');
 INSERT INTO "publisher_info" VALUES ('reddit.com',0,'reddit.com','','https://www.reddit.com/','');
 INSERT INTO "publisher_info" VALUES ('3zsistemi.si',0,'3zsistemi.si','','https://3zsistemi.si/','');
 INSERT INTO "contribution_info" VALUES ('3zsistemi.si','1000000000000000000',1570614352,8,10,2019);

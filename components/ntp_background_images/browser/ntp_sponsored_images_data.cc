@@ -52,7 +52,7 @@
         "imageUrl": "logo-2.png",
         "alt": "basic attention token",
         "companyName": "BAT",
-        "destinationUrl": "https://basicattentiontoken.org/"
+        "destinationUrl": "https://datum.org/"
       }
     }
   ]
