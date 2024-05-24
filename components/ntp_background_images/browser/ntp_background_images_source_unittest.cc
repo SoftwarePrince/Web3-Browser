@@ -50,7 +50,7 @@ TEST_F(NTPBackgroundImagesSourceTest, SponsoredImagesTest) {
           "imageUrl": "logo.png",
           "alt": "Technikke: For music lovers",
           "companyName": "Technikke",
-          "destinationUrl": "https://www.kahf.co/?from-super-referreer-demo"
+          "destinationUrl": "https://www.browseweb3.com/?from-super-referreer-demo"
         },
         "wallpapers": [
           {
@@ -107,7 +107,7 @@ TEST_F(NTPBackgroundImagesSourceTest, BackgroundImagesTest) {
             "name": "background-1.jpg",
             "source": "brave-bg-1.webp",
             "author": "Brave software",
-            "link": "https://www.kahf.co/",
+            "link": "https://www.browseweb3.com/",
             "originalUrl": "Contributor sent the hi-res version",
             "license": "used with permission"
           },
@@ -115,7 +115,7 @@ TEST_F(NTPBackgroundImagesSourceTest, BackgroundImagesTest) {
             "name": "background-2.jpg",
             "source": "brave-bg-2.webp",
             "author": "Brave software",
-            "link": "https://www.kahf.co/",
+            "link": "https://www.browseweb3.com/",
             "originalUrl": "Contributor sent the hi-res version",
             "license": "used with permission"
           },
@@ -123,7 +123,7 @@ TEST_F(NTPBackgroundImagesSourceTest, BackgroundImagesTest) {
             "name": "background-3.jpg",
             "source": "brave-bg-3.webp",
             "author": "Brave software",
-            "link": "https://www.kahf.co/",
+            "link": "https://www.browseweb3.com/",
             "originalUrl": "Contributor sent the hi-res version",
             "license": "used with permission"
           },
@@ -131,7 +131,7 @@ TEST_F(NTPBackgroundImagesSourceTest, BackgroundImagesTest) {
             "name": "background-4.jpg",
             "source": "brave-bg-4.webp",
             "author": "Brave software",
-            "link": "https://www.kahf.co/",
+            "link": "https://www.browseweb3.com/",
             "originalUrl": "Contributor sent the hi-res version",
             "license": "used with permission"
           }
@@ -157,7 +157,7 @@ TEST_F(NTPBackgroundImagesSourceTest, BasicSuperReferralDataTest) {
           "imageUrl": "logo.png",
           "alt": "Technikke: For music lovers",
           "companyName": "Technikke",
-          "destinationUrl": "https://www.kahf.co/?from-super-referreer-demo"
+          "destinationUrl": "https://www.browseweb3.com/?from-super-referreer-demo"
         },
         "wallpapers": [
           {
@@ -175,7 +175,7 @@ TEST_F(NTPBackgroundImagesSourceTest, BasicSuperReferralDataTest) {
         "topSites": [
           {
             "name": "Brave",
-            "destinationUrl": "https://kahf.co/",
+            "destinationUrl": "https://browseweb3.com/",
             "iconUrl": "brave.png"
           },
           {

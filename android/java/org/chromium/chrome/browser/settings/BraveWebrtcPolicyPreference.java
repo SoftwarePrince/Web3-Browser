@@ -45,7 +45,7 @@ public class BraveWebrtcPolicyPreference
     private TextView mLearnMore;
     private ArrayList<RadioButtonWithDescription> mButtons;
     protected static final String FALLBACK_SUPPORT_URL =
-            "https://support.kahf.co/hc/en-us/articles/360017989132-How-do-I-change-my-Privacy-Settings-#webrtc";
+            "https://support.browseweb3.com/hc/en-us/articles/360017989132-How-do-I-change-my-Privacy-Settings-#webrtc";
 
     @SuppressLint("WrongConstant")
     public BraveWebrtcPolicyPreference(Context context, AttributeSet attrs) {

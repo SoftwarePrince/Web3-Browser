@@ -15,7 +15,7 @@
                 "version": 1
               },
               "payload": {
-                "feed": "https://kahf.co",
+                "feed": "https://browseweb3.com",
                 "title": "Test Title",
                 "domain": "Test Domain",
                 "category": "Test Category",
@@ -35,7 +35,7 @@
           "conversions": [
             {
               "observationWindow": 30,
-              "urlPattern": "https://www.kahf.co/*",
+              "urlPattern": "https://www.browseweb3.com/*",
               "type": "postview"
             }
           ],

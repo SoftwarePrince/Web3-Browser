@@ -32,7 +32,7 @@ TEST(PaymentUtilTest, GetServerUrlStaging) {
 TEST(PaymentUtilTest, GetServerUrlProduction) {
   _environment = mojom::Environment::PRODUCTION;
   const std::string url = GetServerUrl("/test");
-  ASSERT_EQ(url, "https://payment.rewards.kahf.co/test");
+  ASSERT_EQ(url, "https://payment.rewards.browseweb3.com/test");
 }
 
 }  // namespace payment

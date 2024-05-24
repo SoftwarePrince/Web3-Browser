@@ -288,7 +288,7 @@ class EthTxManagerUnitTest : public testing::Test {
   }
 
   url::Origin GetOrigin() const {
-    return url::Origin::Create(GURL("https://kahf.co"));
+    return url::Origin::Create(GURL("https://browseweb3.com"));
   }
 
   EthTxManager* eth_tx_manager() { return tx_service_->GetEthTxManager(); }

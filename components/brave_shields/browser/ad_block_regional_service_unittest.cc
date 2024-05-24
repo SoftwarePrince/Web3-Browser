@@ -9,16 +9,16 @@
 TEST(AdBlockRegionalServiceTest, UserModelLanguages) {
   std::vector<brave_shields::FilterListCatalogEntry> catalog;
   catalog.push_back(brave_shields::FilterListCatalogEntry(
-      "uuid", "https://kahf.co", "Testing Filter List #1", {"fr"},
-      "https://support.kahf.co", "componentid", "base64publickey",
+      "uuid", "https://browseweb3.com", "Testing Filter List #1", {"fr"},
+      "https://support.browseweb3.com", "componentid", "base64publickey",
       "Filter list for testing purposes"));
   catalog.push_back(brave_shields::FilterListCatalogEntry(
-      "uuid", "https://kahf.co", "Testing Filter List #2", {"en"},
-      "https://support.kahf.co", "componentid", "base64publickey",
+      "uuid", "https://browseweb3.com", "Testing Filter List #2", {"en"},
+      "https://support.browseweb3.com", "componentid", "base64publickey",
       "Filter list for testing purposes"));
   catalog.push_back(brave_shields::FilterListCatalogEntry(
-      "uuid", "https://kahf.co", "Testing Filter List #2", {"fr"},
-      "https://support.kahf.co", "componentid", "base64publickey",
+      "uuid", "https://browseweb3.com", "Testing Filter List #2", {"fr"},
+      "https://support.browseweb3.com", "componentid", "base64publickey",
       "Filter list for testing purposes"));
 
   std::vector<std::string> languages({"fr", "fR", "fr-FR", "fr-ca"});

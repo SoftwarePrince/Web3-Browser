@@ -36,75 +36,75 @@ constexpr std::string_view kBravePinsJson = R"brave_pins_json({
   ],
   "entries": [
     // Brave
-    { "name": "adblock-data.s3.kahf.co", "pins": "brave"},
-    { "name": "ai-chat.bsg.kahf.co", "pins": "brave"},
-    { "name": "feedback.kahf.co", "pins": "brave"},
-    { "name": "brave-core-ext.s3.kahf.co", "pins": "brave"},
-    { "name": "brave-today-cdn.kahf.co", "pins": "brave"},
-    { "name": "clients4.kahf.co", "pins": "brave"},
-    { "name": "componentupdater.kahf.co", "pins": "brave"},
-    { "name": "crxdownload.kahf.co", "pins": "brave"},
-    { "name": "devtools.kahf.co", "pins": "brave"},
-    { "name": "dict.kahf.co", "pins": "brave"},
-    { "name": "extensionupdater.kahf.co", "pins": "brave"},
-    { "name": "gaia.kahf.co", "pins": "brave"},
-    { "name": "go-updater.kahf.co", "pins": "brave"},
-    { "name": "mobile-data.s3.kahf.co", "pins": "brave"},
-    { "name": "p2a.kahf.co", "pins": "brave"},
-    { "name": "p2a-json.kahf.co", "pins": "brave"},
-    { "name": "p3a.kahf.co", "pins": "brave"},
-    { "name": "p3a-creative.kahf.co", "pins": "brave"},
-    { "name": "p3a-json.kahf.co", "pins": "brave"},
+    { "name": "adblock-data.s3.browseweb3.com", "pins": "brave"},
+    { "name": "ai-chat.bsg.browseweb3.com", "pins": "brave"},
+    { "name": "feedback.browseweb3.com", "pins": "brave"},
+    { "name": "brave-core-ext.s3.browseweb3.com", "pins": "brave"},
+    { "name": "brave-today-cdn.browseweb3.com", "pins": "brave"},
+    { "name": "clients4.browseweb3.com", "pins": "brave"},
+    { "name": "componentupdater.browseweb3.com", "pins": "brave"},
+    { "name": "crxdownload.browseweb3.com", "pins": "brave"},
+    { "name": "devtools.browseweb3.com", "pins": "brave"},
+    { "name": "dict.browseweb3.com", "pins": "brave"},
+    { "name": "extensionupdater.browseweb3.com", "pins": "brave"},
+    { "name": "gaia.browseweb3.com", "pins": "brave"},
+    { "name": "go-updater.browseweb3.com", "pins": "brave"},
+    { "name": "mobile-data.s3.browseweb3.com", "pins": "brave"},
+    { "name": "p2a.browseweb3.com", "pins": "brave"},
+    { "name": "p2a-json.browseweb3.com", "pins": "brave"},
+    { "name": "p3a.browseweb3.com", "pins": "brave"},
+    { "name": "p3a-creative.browseweb3.com", "pins": "brave"},
+    { "name": "p3a-json.browseweb3.com", "pins": "brave"},
     { "name": "p3a.bravesoftware.com", "pins": "brave"},
     { "name": "p3a-dev.bravesoftware.com", "pins": "brave"},
-    { "name": "pcdn.kahf.co", "pins": "brave"},
-    { "name": "redirector.kahf.co", "pins": "brave"},
-    { "name": "safebrowsing.kahf.co", "pins": "brave"},
-    { "name": "safebrowsing2.kahf.co", "pins": "brave"},
-    { "name": "sb-ssl.kahf.co", "pins": "brave"},
-    { "name": "static.kahf.co", "pins": "brave"},
-    { "name": "static1.kahf.co", "pins": "brave"},
-    { "name": "sync-v2.kahf.co", "pins": "brave"},
+    { "name": "pcdn.browseweb3.com", "pins": "brave"},
+    { "name": "redirector.browseweb3.com", "pins": "brave"},
+    { "name": "safebrowsing.browseweb3.com", "pins": "brave"},
+    { "name": "safebrowsing2.browseweb3.com", "pins": "brave"},
+    { "name": "sb-ssl.browseweb3.com", "pins": "brave"},
+    { "name": "static.browseweb3.com", "pins": "brave"},
+    { "name": "static1.browseweb3.com", "pins": "brave"},
+    { "name": "sync-v2.browseweb3.com", "pins": "brave"},
     { "name": "sync-v2.brave.software", "pins": "brave"},
     { "name": "sync-v2.bravesoftware.com", "pins": "brave"},
     { "name": "tor.bravesoftware.com", "pins": "brave"},
-    { "name": "translate.kahf.co", "pins": "brave"},
-    { "name": "translate-static.kahf.co", "pins": "brave"},
-    { "name": "variations.kahf.co", "pins": "brave"},
+    { "name": "translate.browseweb3.com", "pins": "brave"},
+    { "name": "translate-static.browseweb3.com", "pins": "brave"},
+    { "name": "variations.browseweb3.com", "pins": "brave"},
 
     // Creators
     { "name": "creators.basicattentiontoken.org", "pins": "brave"},
-    { "name": "creators.kahf.co", "pins": "brave"},
+    { "name": "creators.browseweb3.com", "pins": "brave"},
     { "name": "publishers.basicattentiontoken.org", "pins": "brave"},
-    { "name": "publishers.kahf.co", "pins": "brave"},
+    { "name": "publishers.browseweb3.com", "pins": "brave"},
 
     // Wallet
-    { "name": "goerli-infura.kahf.co", "pins": "brave"},
-    { "name": "sepolia-infura.kahf.co", "pins": "brave"},
-    { "name": "mainnet-infura.kahf.co", "pins": "brave"},
-    { "name": "mainnet-beta-solana.kahf.co", "pins": "brave"},
-    { "name": "mainnet-polygon.kahf.co", "pins": "brave"},
+    { "name": "goerli-infura.browseweb3.com", "pins": "brave"},
+    { "name": "sepolia-infura.browseweb3.com", "pins": "brave"},
+    { "name": "mainnet-infura.browseweb3.com", "pins": "brave"},
+    { "name": "mainnet-beta-solana.browseweb3.com", "pins": "brave"},
+    { "name": "mainnet-polygon.browseweb3.com", "pins": "brave"},
 
     // Rewards
-    { "name": "anonymous.ads.kahf.co", "pins": "brave"},
+    { "name": "anonymous.ads.browseweb3.com", "pins": "brave"},
     { "name": "anonymous.ads.bravesoftware.com", "pins": "brave"},
-    { "name": "api.rewards.kahf.co", "pins": "brave"},
+    { "name": "api.rewards.browseweb3.com", "pins": "brave"},
     { "name": "api.rewards.bravesoftware.com", "pins": "brave"},
     { "name": "api.rewards.brave.software", "pins": "brave"},
-    { "name": "geo.ads.kahf.co", "pins": "brave"},
+    { "name": "geo.ads.browseweb3.com", "pins": "brave"},
     { "name": "geo.ads.bravesoftware.com", "pins": "brave"},
-    { "name": "grant.rewards.kahf.co", "pins": "brave"},
+    { "name": "grant.rewards.browseweb3.com", "pins": "brave"},
     { "name": "grant.rewards.bravesoftware.com", "pins": "brave"},
     { "name": "grant.rewards.brave.software", "pins": "brave"},
-    { "name": "mywallet.ads.kahf.co", "pins": "brave"},
+    { "name": "mywallet.ads.browseweb3.com", "pins": "brave"},
     { "name": "mywallet.ads.bravesoftware.com", "pins": "brave"},
-    { "name": "payment.rewards.kahf.co", "pins": "brave"},
+    { "name": "payment.rewards.browseweb3.com", "pins": "brave"},
     { "name": "payment.rewards.bravesoftware.com", "pins": "brave"},
     { "name": "payment.rewards.brave.software", "pins": "brave"},
-    { "name": "rewards.kahf.co", "pins": "brave"},
-    { "name": "search.anonymous.kahf.co", "pins": "brave"},
+    { "name": "rewards.browseweb3.com", "pins": "brave"},
+    { "name": "search.anonymous.browseweb3.com", "pins": "brave"},
     { "name": "search.anonymous.bravesoftware.com", "pins": "brave"},
-    { "name": "static.ads.kahf.co", "pins": "brave"},
+    { "name": "static.ads.browseweb3.com", "pins": "brave"},
     { "name": "static.ads.bravesoftware.com", "pins": "brave"},
 
     // Search
@@ -113,13 +113,13 @@ constexpr std::string_view kBravePinsJson = R"brave_pins_json({
     { "name": "fg.search.brave.com", "pins": "brave"},
     { "name": "imgs.search.brave.com", "pins": "brave"},
     { "name": "tiles.search.brave.com", "pins": "brave"},
-    { "name": "collector.wdp.kahf.co", "pins": "brave"},
-    { "name": "patterns.wdp.kahf.co", "pins": "brave"},
-    { "name": "quorum.wdp.kahf.co", "pins": "brave"},
-    { "name": "star.wdp.kahf.co", "pins": "brave"},
+    { "name": "collector.wdp.browseweb3.com", "pins": "brave"},
+    { "name": "patterns.wdp.browseweb3.com", "pins": "brave"},
+    { "name": "quorum.wdp.browseweb3.com", "pins": "brave"},
+    { "name": "star.wdp.browseweb3.com", "pins": "brave"},
 
     // Premium
-    { "name": "account.kahf.co", "pins": "brave"},
+    { "name": "account.browseweb3.com", "pins": "brave"},
     { "name": "account.bravesoftware.com", "pins": "brave"},
     { "name": "account.brave.software", "pins": "brave"},
 
@@ -132,7 +132,7 @@ constexpr std::string_view kBraveHstsJson = R"brave_hsts_json({
     // Critical endpoints that should remain unpinned so that they
     // always work.
     {
-      "name": "laptop-updates.kahf.co",
+      "name": "laptop-updates.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
@@ -149,97 +149,97 @@ constexpr std::string_view kBraveHstsJson = R"brave_hsts_json({
 
     // Brave
     {
-      "name": "adblock-data.s3.kahf.co",
+      "name": "adblock-data.s3.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "ai-chat.bsg.kahf.co",
+      "name": "ai-chat.bsg.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "feedback.kahf.co",
+      "name": "feedback.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "brave-core-ext.s3.kahf.co",
+      "name": "brave-core-ext.s3.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "brave-today-cdn.kahf.co",
+      "name": "brave-today-cdn.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "clients4.kahf.co",
+      "name": "clients4.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "componentupdater.kahf.co",
+      "name": "componentupdater.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "crxdownload.kahf.co",
+      "name": "crxdownload.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "devtools.kahf.co",
+      "name": "devtools.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "dict.kahf.co",
+      "name": "dict.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "extensionupdater.kahf.co",
+      "name": "extensionupdater.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "gaia.kahf.co",
+      "name": "gaia.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "go-updater.kahf.co",
+      "name": "go-updater.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "mobile-data.s3.kahf.co",
+      "name": "mobile-data.s3.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "p2a.kahf.co",
+      "name": "p2a.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "p2a-json.kahf.co",
+      "name": "p2a-json.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "p3a.kahf.co",
+      "name": "p3a.browseweb3.com",
       "policy": "custom",
       "mode": "force-https"
     },
     {
-      "name": "p3a-creative.kahf.co",
+      "name": "p3a-creative.browseweb3.com",
       "policy": "custom",
       "mode": "force-https"
     },
     {
-      "name": "p3a-json.kahf.co",
+      "name": "p3a-json.browseweb3.com",
       "policy": "custom",
       "mode": "force-https"
     },
@@ -254,42 +254,42 @@ constexpr std::string_view kBraveHstsJson = R"brave_hsts_json({
       "mode": "force-https"
     },
     {
-      "name": "pcdn.kahf.co",
+      "name": "pcdn.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "redirector.kahf.co",
+      "name": "redirector.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "safebrowsing.kahf.co",
+      "name": "safebrowsing.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "safebrowsing2.kahf.co",
+      "name": "safebrowsing2.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "sb-ssl.kahf.co",
+      "name": "sb-ssl.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "static.kahf.co",
+      "name": "static.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "static1.kahf.co",
+      "name": "static1.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "sync-v2.kahf.co",
+      "name": "sync-v2.browseweb3.com",
       "policy": "custom",
       "mode": "force-https"
     },
@@ -309,17 +309,17 @@ constexpr std::string_view kBraveHstsJson = R"brave_hsts_json({
       "policy": "custom"
     },
     {
-      "name": "translate.kahf.co",
+      "name": "translate.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "translate-static.kahf.co",
+      "name": "translate-static.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "variations.kahf.co",
+      "name": "variations.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
@@ -331,7 +331,7 @@ constexpr std::string_view kBraveHstsJson = R"brave_hsts_json({
       "policy": "custom"
     },
     {
-      "name": "creators.kahf.co",
+      "name": "creators.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
@@ -341,41 +341,41 @@ constexpr std::string_view kBraveHstsJson = R"brave_hsts_json({
       "policy": "custom"
     },
     {
-      "name": "publishers.kahf.co",
+      "name": "publishers.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
 
     // Wallet
     {
-      "name": "goerli-infura.kahf.co",
+      "name": "goerli-infura.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "sepolia-infura.kahf.co",
+      "name": "sepolia-infura.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "mainnet-infura.kahf.co",
+      "name": "mainnet-infura.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "mainnet-beta-solana.kahf.co",
+      "name": "mainnet-beta-solana.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "mainnet-polygon.kahf.co",
+      "name": "mainnet-polygon.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
 
     // Rewards
     {
-      "name": "anonymous.ads.kahf.co",
+      "name": "anonymous.ads.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
@@ -385,7 +385,7 @@ constexpr std::string_view kBraveHstsJson = R"brave_hsts_json({
       "policy": "custom"
     },
     {
-      "name": "api.rewards.kahf.co",
+      "name": "api.rewards.browseweb3.com",
       "policy": "custom",
       "mode": "force-https"
     },
@@ -400,7 +400,7 @@ constexpr std::string_view kBraveHstsJson = R"brave_hsts_json({
       "mode": "force-https"
     },
     {
-      "name": "geo.ads.kahf.co",
+      "name": "geo.ads.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
@@ -410,7 +410,7 @@ constexpr std::string_view kBraveHstsJson = R"brave_hsts_json({
       "policy": "custom"
     },
     {
-      "name": "grant.rewards.kahf.co",
+      "name": "grant.rewards.browseweb3.com",
       "policy": "custom",
       "mode": "force-https"
     },
@@ -425,7 +425,7 @@ constexpr std::string_view kBraveHstsJson = R"brave_hsts_json({
       "mode": "force-https"
     },
     {
-      "name": "mywallet.ads.kahf.co",
+      "name": "mywallet.ads.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
@@ -435,7 +435,7 @@ constexpr std::string_view kBraveHstsJson = R"brave_hsts_json({
       "policy": "custom"
     },
     {
-      "name": "payment.rewards.kahf.co",
+      "name": "payment.rewards.browseweb3.com",
       "policy": "custom",
       "mode": "force-https"
     },
@@ -450,12 +450,12 @@ constexpr std::string_view kBraveHstsJson = R"brave_hsts_json({
       "mode": "force-https"
     },
     {
-      "name": "rewards.kahf.co",
+      "name": "rewards.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "search.anonymous.kahf.co",
+      "name": "search.anonymous.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
@@ -465,7 +465,7 @@ constexpr std::string_view kBraveHstsJson = R"brave_hsts_json({
       "policy": "custom"
     },
     {
-      "name": "static.ads.kahf.co",
+      "name": "static.ads.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
@@ -502,29 +502,29 @@ constexpr std::string_view kBraveHstsJson = R"brave_hsts_json({
       "policy": "custom"
     },
     {
-      "name": "collector.wdp.kahf.co",
+      "name": "collector.wdp.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "patterns.wdp.kahf.co",
+      "name": "patterns.wdp.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "quorum.wdp.kahf.co",
+      "name": "quorum.wdp.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
     {
-      "name": "star.wdp.kahf.co",
+      "name": "star.wdp.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },
 
     // Premium
     {
-      "name": "account.kahf.co",
+      "name": "account.browseweb3.com",
       "mode": "force-https",
       "policy": "custom"
     },

@@ -14,7 +14,7 @@ namespace skus {
 
 TEST(SkusUtilsUnitTest, IsSafeOrigin) {
   EXPECT_TRUE(skus::IsSafeOrigin(
-      blink::WebSecurityOrigin::Create(GURL("https://account.kahf.co"))));
+      blink::WebSecurityOrigin::Create(GURL("https://account.browseweb3.com"))));
   EXPECT_TRUE(skus::IsSafeOrigin(blink::WebSecurityOrigin::Create(
       GURL("https://account.bravesoftware.com"))));
   EXPECT_TRUE(skus::IsSafeOrigin(blink::WebSecurityOrigin::Create(
@@ -23,14 +23,14 @@ TEST(SkusUtilsUnitTest, IsSafeOrigin) {
   EXPECT_FALSE(skus::IsSafeOrigin(blink::WebSecurityOrigin::Create(
       GURL("https://a.account.brave.software"))));
   EXPECT_FALSE(skus::IsSafeOrigin(
-      blink::WebSecurityOrigin::Create(GURL("https://vpm.kahf.co"))));
+      blink::WebSecurityOrigin::Create(GURL("https://vpm.browseweb3.com"))));
   EXPECT_FALSE(skus::IsSafeOrigin(blink::WebSecurityOrigin::Create(GURL())));
   EXPECT_FALSE(skus::IsSafeOrigin(
-      blink::WebSecurityOrigin::Create(GURL("http://account.kahf.co"))));
+      blink::WebSecurityOrigin::Create(GURL("http://account.browseweb3.com"))));
   EXPECT_FALSE(skus::IsSafeOrigin(
-      blink::WebSecurityOrigin::Create(GURL("https://kahf.co"))));
+      blink::WebSecurityOrigin::Create(GURL("https://browseweb3.com"))));
   EXPECT_FALSE(skus::IsSafeOrigin(
-      blink::WebSecurityOrigin::Create(GURL("file://kahf.co"))));
+      blink::WebSecurityOrigin::Create(GURL("file://browseweb3.com"))));
 }
 
 }  // namespace skus

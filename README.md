@@ -1,6 +1,6 @@
-# Kahf Core
+# BrowseWeb3 Core
 
-Kahf Core is a set of changes, APIs, and scripts used for customizing Chromium to make the Kahf browser.
+BrowseWeb3 Core is a set of changes, APIs, and scripts used for customizing Chromium to make the BrowseWeb3 browser.
 
 ## Getting Started
 

@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Ekstenzija Kahf",
+    "message": "Ekstenzija BrowseWeb3",
     "description": "The name of the extension."
   },
   "shields": {
@@ -24,12 +24,12 @@
     "description": "Message telling the user to disable shields if a site appears broken"
   },
   "disabledMessage": {
-    "message": "Pregledavate ovo mrežno mjesto bez sigurnosne zaštite i zaštite privatnosti preglednika Kahf. Radi li ispravno s uključenom značajkom Štitnika?",
+    "message": "Pregledavate ovo mrežno mjesto bez sigurnosne zaštite i zaštite privatnosti preglednika BrowseWeb3. Radi li ispravno s uključenom značajkom Štitnika?",
     "description": "Message telling the user that shields are disabled, and prompting them towards reporting an issue if necessary"
   },
   "reportBrokenSite": {
     "message": "Prijavi nevaljano mjesto",
-    "description": "Message for the button allowing users to report a broken site to Kahf developers"
+    "description": "Message for the button allowing users to report a broken site to BrowseWeb3 developers"
   },
   "itemsBlocked": {
     "message": "Blokirane stavke",
@@ -188,8 +188,8 @@
     "description": "Message for the simple view option"
   },
   "shieldsExplanation": {
-    "message": "Na mrežnim se mjestima obično nalaze kolačići i skripte kojima se pokušavate identificirati vi i vaš uređaj (obično ugrađeni u oglase). Njima se želi saznati tko ste i pratiti vas na internetu — praćenje što radite na svakom mrežnom mjestu. Kahf blokira navedene stavke kako biste mogli pregledavati internet, a da vas se pritom ne prati.",
-    "description": "Message in read-only view explaining what Kahf Shields do"
+    "message": "Na mrežnim se mjestima obično nalaze kolačići i skripte kojima se pokušavate identificirati vi i vaš uređaj (obično ugrađeni u oglase). Njima se želi saznati tko ste i pratiti vas na internetu — praćenje što radite na svakom mrežnom mjestu. BrowseWeb3 blokira navedene stavke kako biste mogli pregledavati internet, a da vas se pritom ne prati.",
+    "description": "Message in read-only view explaining what BrowseWeb3 Shields do"
   },
   "blockedResoucesExplanation": {
     "message": "Blokirani elementi za praćenje na više mrežnih mjesta i ostale čudne stavke",
@@ -207,13 +207,13 @@
     "message": "Saznajte više",
     "description": "Message inviting the user to learn more about Shields"
   },
-  "addToKahf": {
-    "message": "Dodajte u Kahf",
-    "description": "Message for adding an extension to Kahf"
+  "addToBrowseWeb3": {
+    "message": "Dodajte u BrowseWeb3",
+    "description": "Message for adding an extension to BrowseWeb3"
   },
-  "removeFromKahf": {
-    "message": "Ukloni iz programa Kahf",
-    "description": "Message for removing an extension from Kahf"
+  "removeFromBrowseWeb3": {
+    "message": "Ukloni iz programa BrowseWeb3",
+    "description": "Message for removing an extension from BrowseWeb3"
   },
   "addToChrome": {
     "message": "Dodaj u Chrome",

@@ -1,474 +1,474 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="nl">
-<translation id="1581411377110837276">Naar de versie-instellingen voor Kahf</translation>
+<translation id="1581411377110837276">Naar de versie-instellingen voor BrowseWeb3</translation>
 <translation id="1026101648481255140">Installatie hervatten</translation>
-<translation id="7099479769133613710">Opnieuw opstarten om &amp;Kahf OS te updaten</translation>
-<translation id="2479110114759182442">Kahf raadt je aan deze extensie te checken</translation>
-<translation id="3814674848168165531">Als een site vraagt om links op de sitepagina privé vooraf te laden, gebruikt Kahf de servers van Kahf. Je identiteit wordt dan verborgen voor de vooraf geladen site, maar Kahf leert welke sites vooraf worden geladen.</translation>
+<translation id="7099479769133613710">Opnieuw opstarten om &amp;BrowseWeb3 OS te updaten</translation>
+<translation id="2479110114759182442">BrowseWeb3 raadt je aan deze extensie te checken</translation>
+<translation id="3814674848168165531">Als een site vraagt om links op de sitepagina privé vooraf te laden, gebruikt BrowseWeb3 de servers van BrowseWeb3. Je identiteit wordt dan verborgen voor de vooraf geladen site, maar BrowseWeb3 leert welke sites vooraf worden geladen.</translation>
 <translation id="1065672644894730302">Je voorkeuren kunnen niet worden gelezen.
 
 Sommige functies zijn wellicht niet beschikbaar en wijzigingen in voorkeuren worden niet opgeslagen.</translation>
-<translation id="7577672138294294152">Je ouder heeft 'Rechten voor sites, apps en extensies' uitgezet voor Kahf</translation>
-<translation id="2796517443093885402">Kahf kan je beschermen tegen gegevenslekken, schadelijke extensies en meer</translation>
-<translation id="5918095577778020936">Kahf wil je wachtwoorden exporteren. Geef je Windows-wachtwoord op om dit toe te staan.</translation>
-<translation id="5468853758063275923">Kahf is je standaardbrowser</translation>
-<translation id="8522292744959221145">Als je wilt checken of je wachtwoorden zijn beveiligd tegen gegevenslekken en andere beveiligingsproblemen, <ph name="BEGIN_LINK"/>log je in bij Kahf<ph name="END_LINK"/>.</translation>
-<translation id="2627788872035182013">Klik op het Kahf-menu</translation>
-<translation id="8541922081612557424">Over Kahf</translation>
+<translation id="7577672138294294152">Je ouder heeft 'Rechten voor sites, apps en extensies' uitgezet voor BrowseWeb3</translation>
+<translation id="2796517443093885402">BrowseWeb3 kan je beschermen tegen gegevenslekken, schadelijke extensies en meer</translation>
+<translation id="5918095577778020936">BrowseWeb3 wil je wachtwoorden exporteren. Geef je Windows-wachtwoord op om dit toe te staan.</translation>
+<translation id="5468853758063275923">BrowseWeb3 is je standaardbrowser</translation>
+<translation id="8522292744959221145">Als je wilt checken of je wachtwoorden zijn beveiligd tegen gegevenslekken en andere beveiligingsproblemen, <ph name="BEGIN_LINK"/>log je in bij BrowseWeb3<ph name="END_LINK"/>.</translation>
+<translation id="2627788872035182013">Klik op het BrowseWeb3-menu</translation>
+<translation id="8541922081612557424">Over BrowseWeb3</translation>
 <translation id="1203500561924088507">Bedankt voor het installeren. Je moet de browser opnieuw opstarten voordat je <ph name="BUNDLE_NAME"/> kunt gebruiken.</translation>
-<translation id="4658574652223735641">Geheugenbesparing heeft Kahf sneller gemaakt</translation>
-<translation id="8799570501820813406">Terwijl dit tabblad inactief was, is er geheugen vrijgemaakt om Kahf snel te houden. Je kunt ervoor kiezen deze site altijd uit te sluiten van inactiviteit.</translation>
-<translation id="8767381092474532098">Kahf heeft deze download geblokkeerd, omdat het bestand gevaarlijk is</translation>
-<translation id="4798342026247191171">Je nieuwe Kahf-profiel instellen</translation>
-<translation id="108284536240904209">Gegevens ook verwijderen uit Kahf (<ph name="URL"/>)</translation>
-<translation id="8132634101975074716">Je bent ingelogd bij Kahf.</translation>
-<translation id="1586284627848250203">Hulp bij Kahf for Testing</translation>
+<translation id="4658574652223735641">Geheugenbesparing heeft BrowseWeb3 sneller gemaakt</translation>
+<translation id="8799570501820813406">Terwijl dit tabblad inactief was, is er geheugen vrijgemaakt om BrowseWeb3 snel te houden. Je kunt ervoor kiezen deze site altijd uit te sluiten van inactiviteit.</translation>
+<translation id="8767381092474532098">BrowseWeb3 heeft deze download geblokkeerd, omdat het bestand gevaarlijk is</translation>
+<translation id="4798342026247191171">Je nieuwe BrowseWeb3-profiel instellen</translation>
+<translation id="108284536240904209">Gegevens ook verwijderen uit BrowseWeb3 (<ph name="URL"/>)</translation>
+<translation id="8132634101975074716">Je bent ingelogd bij BrowseWeb3.</translation>
+<translation id="1586284627848250203">Hulp bij BrowseWeb3 for Testing</translation>
 <translation id="1497802159252041924">Installatiefout: <ph name="INSTALL_ERROR"/></translation>
-<translation id="5147525139567260139">Een Kahf-tabblad delen</translation>
-<translation id="1530633922026945685">Kahf heeft toegangsrechten voor de camera nodig om een 3D-kaart van je omgeving te maken</translation>
-<translation id="6570689355868013775">Veiligheidstools van Kahf</translation>
-<translation id="4449148723378534338">Neem belangrijke privacy- en beveiligingsopties in Kahf door</translation>
+<translation id="5147525139567260139">Een BrowseWeb3-tabblad delen</translation>
+<translation id="1530633922026945685">BrowseWeb3 heeft toegangsrechten voor de camera nodig om een 3D-kaart van je omgeving te maken</translation>
+<translation id="6570689355868013775">Veiligheidstools van BrowseWeb3</translation>
+<translation id="4449148723378534338">Neem belangrijke privacy- en beveiligingsopties in BrowseWeb3 door</translation>
 <translation id="1640672724030957280">Bezig met downloaden...</translation>
-<translation id="5616153642055197778">Er is een nieuwe, veiligere versie van Kahf beschikbaar.</translation>
-<translation id="2913217021115517297">Kahf stuurt je interacties met deze functies naar Kahf om de functies te verbeteren. Deze gegevens kunnen worden gelezen, verwerkt en geannoteerd door reviewers.</translation>
-<translation id="5846727201643228411">Je kunt interessante onderwerpen bekijken en verwijderen die sites hebben gebruikt om advertenties te tonen. Kahf schat je interesses op basis van je recente browsegeschiedenis</translation>
-<translation id="8004287232784878841">Kahf verwijdert zo meteen browsegegevens</translation>
-<translation id="4197839351786449392">Kahf probeert navigatie te upgraden naar HTTPS</translation>
-<translation id="9048361966237194186">Kahf wordt over <ph name="REMAINING_TIME"/> opnieuw opgestart</translation>
-<translation id="5524150602137990006">Als HTTPS niet beschikbaar is, gebruikt Kahf een niet-beveiligde verbinding zonder je te waarschuwen</translation>
-<translation id="6797402139308059782">Kahf laten uitvoeren op de achtergrond</translation>
-<translation id="5875673934455379806">Kahf opnieuw installeren</translation>
-<translation id="4529028207655448215">Kahf probeert het volgende te doen: <ph name="AUTHENTICATION_PURPOSE"/></translation>
-<translation id="6888366668010117849">Sites kunnen informatie over je interesses in Kahf opslaan. Als je bijvoorbeeld een site bezoekt om schoenen voor een marathon te kopen, kan de site je interesse definiëren als 'deelname aan marathons'. Als je later een andere site bezoekt om je aan te melden voor een race, kan die site je een advertentie voor hardloopschoenen laten zien op basis van je interesses.</translation>
-<translation id="4528406859989804913">Je logt in op een beheerd account waarmee de eigenaar van dat account beheer krijgt over je Kahf-profiel. Je Kahf-gegevens zoals je apps, bookmarks, geschiedenis, wachtwoorden en andere instellingen worden permanent gekoppeld aan <ph name="USER_NAME"/>. Je kunt deze gegevens verwijderen via het Kahf sync chains Dashboard, maar je kunt deze gegevens niet koppelen aan een ander account. Je kunt een nieuw profiel maken om je bestaande Kahf-gegevens apart te houden. <ph name="LEARN_MORE"/></translation>
-<translation id="1649714546770135458">Als je dit uitzet, kun je inloggen bij Kahf-sites zoals Gmail zonder in te loggen bij Kahf</translation>
-<translation id="189297655255130768">Kahf reageert niet. Nu opnieuw starten?</translation>
-<translation id="4035053306113201399">Kahf OS moet opnieuw worden gestart om de update uit te voeren.</translation>
-<translation id="9048754176089806686">Kahf heeft deze download geblokkeerd, omdat het bestandstype niet vaak wordt gedownload en misschien gevaarlijk is</translation>
+<translation id="5616153642055197778">Er is een nieuwe, veiligere versie van BrowseWeb3 beschikbaar.</translation>
+<translation id="2913217021115517297">BrowseWeb3 stuurt je interacties met deze functies naar BrowseWeb3 om de functies te verbeteren. Deze gegevens kunnen worden gelezen, verwerkt en geannoteerd door reviewers.</translation>
+<translation id="5846727201643228411">Je kunt interessante onderwerpen bekijken en verwijderen die sites hebben gebruikt om advertenties te tonen. BrowseWeb3 schat je interesses op basis van je recente browsegeschiedenis</translation>
+<translation id="8004287232784878841">BrowseWeb3 verwijdert zo meteen browsegegevens</translation>
+<translation id="4197839351786449392">BrowseWeb3 probeert navigatie te upgraden naar HTTPS</translation>
+<translation id="9048361966237194186">BrowseWeb3 wordt over <ph name="REMAINING_TIME"/> opnieuw opgestart</translation>
+<translation id="5524150602137990006">Als HTTPS niet beschikbaar is, gebruikt BrowseWeb3 een niet-beveiligde verbinding zonder je te waarschuwen</translation>
+<translation id="6797402139308059782">BrowseWeb3 laten uitvoeren op de achtergrond</translation>
+<translation id="5875673934455379806">BrowseWeb3 opnieuw installeren</translation>
+<translation id="4529028207655448215">BrowseWeb3 probeert het volgende te doen: <ph name="AUTHENTICATION_PURPOSE"/></translation>
+<translation id="6888366668010117849">Sites kunnen informatie over je interesses in BrowseWeb3 opslaan. Als je bijvoorbeeld een site bezoekt om schoenen voor een marathon te kopen, kan de site je interesse definiëren als 'deelname aan marathons'. Als je later een andere site bezoekt om je aan te melden voor een race, kan die site je een advertentie voor hardloopschoenen laten zien op basis van je interesses.</translation>
+<translation id="4528406859989804913">Je logt in op een beheerd account waarmee de eigenaar van dat account beheer krijgt over je BrowseWeb3-profiel. Je BrowseWeb3-gegevens zoals je apps, bookmarks, geschiedenis, wachtwoorden en andere instellingen worden permanent gekoppeld aan <ph name="USER_NAME"/>. Je kunt deze gegevens verwijderen via het BrowseWeb3 sync chains Dashboard, maar je kunt deze gegevens niet koppelen aan een ander account. Je kunt een nieuw profiel maken om je bestaande BrowseWeb3-gegevens apart te houden. <ph name="LEARN_MORE"/></translation>
+<translation id="1649714546770135458">Als je dit uitzet, kun je inloggen bij BrowseWeb3-sites zoals Gmail zonder in te loggen bij BrowseWeb3</translation>
+<translation id="189297655255130768">BrowseWeb3 reageert niet. Nu opnieuw starten?</translation>
+<translation id="4035053306113201399">BrowseWeb3 OS moet opnieuw worden gestart om de update uit te voeren.</translation>
+<translation id="9048754176089806686">BrowseWeb3 heeft deze download geblokkeerd, omdat het bestandstype niet vaak wordt gedownload en misschien gevaarlijk is</translation>
 <translation id="1953553007165777902">Downloaden... Nog <ph name="MINUTE"/> minuten</translation>
-<translation id="1775322105159056176">Kahf kan de standaardbrowser niet bepalen of instellen</translation>
-<translation id="9220324636239049437">Hiermee wordt 1 item verwijderd van dit apparaat. Als je je gegevens later wilt terughalen, log je in bij Kahf als <ph name="USER_EMAIL"/>.</translation>
+<translation id="1775322105159056176">BrowseWeb3 kan de standaardbrowser niet bepalen of instellen</translation>
+<translation id="9220324636239049437">Hiermee wordt 1 item verwijderd van dit apparaat. Als je je gegevens later wilt terughalen, log je in bij BrowseWeb3 als <ph name="USER_EMAIL"/>.</translation>
 <translation id="2018879682492276940">Installatie mislukt. Probeer het opnieuw.</translation>
-<translation id="831418749472885028">Als je wilt checken of je andere wachtwoorden zijn beveiligd tegen gegevenslekken en andere beveiligingsproblemen, <ph name="BEGIN_LINK"/>log je in bij Kahf<ph name="END_LINK"/>.</translation>
-<translation id="5499149312981370855">Kies of je de Kahf-geschiedenis wilt opnemen voor meer gepersonaliseerde functies in Kahf-services</translation>
-<translation id="2472891440303445472">Kahf heeft deze download geblokkeerd, omdat het bestand misleidend is en onverwachte wijzigingen kan aanbrengen op je apparaat</translation>
-<translation id="849607431499549468">Informatie over hoe Kahf rootcertificaten beheert</translation>
-<translation id="4375530476448642348">{COUNT,plural, =1{Je organisatie verwijdert browsegegevens automatisch als Kahf 1 minuut niet wordt gebruikt. Dit kunnen onder andere de geschiedenis, gegevens voor automatisch invullen en downloads zijn. Je tabbladen blijven geopend.}other{Je organisatie verwijdert browsegegevens automatisch als Kahf # minuten niet wordt gebruikt. Dit kunnen onder andere de geschiedenis, gegevens voor automatisch invullen en downloads zijn. Je tabbladen blijven geopend.}}</translation>
+<translation id="831418749472885028">Als je wilt checken of je andere wachtwoorden zijn beveiligd tegen gegevenslekken en andere beveiligingsproblemen, <ph name="BEGIN_LINK"/>log je in bij BrowseWeb3<ph name="END_LINK"/>.</translation>
+<translation id="5499149312981370855">Kies of je de BrowseWeb3-geschiedenis wilt opnemen voor meer gepersonaliseerde functies in BrowseWeb3-services</translation>
+<translation id="2472891440303445472">BrowseWeb3 heeft deze download geblokkeerd, omdat het bestand misleidend is en onverwachte wijzigingen kan aanbrengen op je apparaat</translation>
+<translation id="849607431499549468">Informatie over hoe BrowseWeb3 rootcertificaten beheert</translation>
+<translation id="4375530476448642348">{COUNT,plural, =1{Je organisatie verwijdert browsegegevens automatisch als BrowseWeb3 1 minuut niet wordt gebruikt. Dit kunnen onder andere de geschiedenis, gegevens voor automatisch invullen en downloads zijn. Je tabbladen blijven geopend.}other{Je organisatie verwijdert browsegegevens automatisch als BrowseWeb3 # minuten niet wordt gebruikt. Dit kunnen onder andere de geschiedenis, gegevens voor automatisch invullen en downloads zijn. Je tabbladen blijven geopend.}}</translation>
 <translation id="2126108037660393668">De verificatie van het gedownloade bestand is mislukt.</translation>
 <translation id="2130870084309816036">Kan geen verbinding maken met internet. Zet <ph name="PRODUCT_EXE_NAME"/> op de toelatingslijst als je een firewall gebruikt.</translation>
-<translation id="5789330946301045610">Kahf heeft deze download geblokkeerd, omdat de site geen beveiligde verbinding gebruikt en er met het bestand kan zijn geknoeid</translation>
-<translation id="142389341645668510">Kahf aanpassen</translation>
+<translation id="5789330946301045610">BrowseWeb3 heeft deze download geblokkeerd, omdat de site geen beveiligde verbinding gebruikt en er met het bestand kan zijn geknoeid</translation>
+<translation id="142389341645668510">BrowseWeb3 aanpassen</translation>
 <translation id="2174917724755363426">Installatie niet afgerond. Weet je zeker dat je wilt annuleren?</translation>
-<translation id="8745514854244955877">Kahf - Inloggen bij netwerk - <ph name="PAGE_TITLE"/></translation>
+<translation id="8745514854244955877">BrowseWeb3 - Inloggen bij netwerk - <ph name="PAGE_TITLE"/></translation>
 <translation id="2190166659037789668">Fout bij updaten: <ph name="UPDATE_CHECK_ERROR"/>.</translation>
-<translation id="5659384504794665581">Als je een computer deelt, kunnen vrienden en familie afzonderlijk surfen en Kahf configureren zoals zij dat willen.</translation>
-<translation id="7810992039564280750">Checkt URL's aan de hand van een lijst met onveilige sites die is opgeslagen in Kahf. Als een site je wachtwoord probeert te stelen of als je een schadelijk bestand downloadt, kan Kahf ook URL's, inclusief delen van de paginacontent, naar Safe Browsing sturen.</translation>
-<translation id="7682239218279776307">Als deze instelling aanstaat, worden pagina's vooraf geladen door Kahf, zodat je sneller kunt browsen en zoeken.</translation>
-<translation id="9095263438435683933">Als je een nummer hier vandaan naar je Android-telefoon wilt sturen, log je in bij Kahf op beide apparaten.</translation>
+<translation id="5659384504794665581">Als je een computer deelt, kunnen vrienden en familie afzonderlijk surfen en BrowseWeb3 configureren zoals zij dat willen.</translation>
+<translation id="7810992039564280750">Checkt URL's aan de hand van een lijst met onveilige sites die is opgeslagen in BrowseWeb3. Als een site je wachtwoord probeert te stelen of als je een schadelijk bestand downloadt, kan BrowseWeb3 ook URL's, inclusief delen van de paginacontent, naar Safe Browsing sturen.</translation>
+<translation id="7682239218279776307">Als deze instelling aanstaat, worden pagina's vooraf geladen door BrowseWeb3, zodat je sneller kunt browsen en zoeken.</translation>
+<translation id="9095263438435683933">Als je een nummer hier vandaan naar je Android-telefoon wilt sturen, log je in bij BrowseWeb3 op beide apparaten.</translation>
 <translation id="2359808026110333948">Doorgaan</translation>
-<translation id="1917698491051673244">Als je browsegegevens alleen van dit apparaat wilt wissen, maar ze in je Kahf-account wilt houden, <ph name="BEGIN_LINK"/>log je uit van Kahf<ph name="END_LINK"/>.</translation>
-<translation id="8418845734693287262">Kahf OS kan je gegevens niet synchroniseren, omdat de inloggegevens voor je account zijn verouderd.</translation>
-<translation id="5617265241715541684">{NUM_DEVICES,plural, =0{Een of meer Kahf-extensies hebben toegang gekregen tot 1 HID-apparaat}=1{Een of meer Kahf-extensies hebben toegang tot 1 HID-apparaat}other{Een of meer Kahf-extensies hebben toegang tot # HID-apparaten}}</translation>
-<translation id="1248225940185478633">Kahf heeft camera- en microfoonrechten nodig voor deze site</translation>
-<translation id="2118275934191847461">Met <ph name="BEGIN_LINK"/>tools van Kahf<ph name="END_LINK"/> kun je beveiligd browsen en de controle behouden</translation>
+<translation id="1917698491051673244">Als je browsegegevens alleen van dit apparaat wilt wissen, maar ze in je BrowseWeb3-account wilt houden, <ph name="BEGIN_LINK"/>log je uit van BrowseWeb3<ph name="END_LINK"/>.</translation>
+<translation id="8418845734693287262">BrowseWeb3 OS kan je gegevens niet synchroniseren, omdat de inloggegevens voor je account zijn verouderd.</translation>
+<translation id="5617265241715541684">{NUM_DEVICES,plural, =0{Een of meer BrowseWeb3-extensies hebben toegang gekregen tot 1 HID-apparaat}=1{Een of meer BrowseWeb3-extensies hebben toegang tot 1 HID-apparaat}other{Een of meer BrowseWeb3-extensies hebben toegang tot # HID-apparaten}}</translation>
+<translation id="1248225940185478633">BrowseWeb3 heeft camera- en microfoonrechten nodig voor deze site</translation>
+<translation id="2118275934191847461">Met <ph name="BEGIN_LINK"/>tools van BrowseWeb3<ph name="END_LINK"/> kun je beveiligd browsen en de controle behouden</translation>
 <translation id="2451727308784734061">Gebruik je snelkoppeling om snel naar Wachtwoordmanager te gaan. Je kunt je snelkoppeling verplaatsen naar het startscherm of de App Launcher van je computer.</translation>
-<translation id="6381750314821942592">Kahf wordt zo meteen gesloten</translation>
-<translation id="6078442581074612226">In Kahf</translation>
+<translation id="6381750314821942592">BrowseWeb3 wordt zo meteen gesloten</translation>
+<translation id="6078442581074612226">In BrowseWeb3</translation>
 <translation id="2485422356828889247">Installatie ongedaan maken</translation>
 <translation id="2513154137948333830">Opnieuw opstarten vereist: <ph name="INSTALL_SUCCESS"/></translation>
-<translation id="70183448213529602">Kahf probeert bestaande wachtwoorden te vervangen. Typ je Windows-wachtwoord om dit toe te staan.</translation>
-<translation id="7798069806040634998">Kahf heeft toegang tot de opslag nodig om bestanden te downloaden</translation>
-<translation id="8447483940522230788">Kahf Helper</translation>
-<translation id="7291143854620707672">Alle Kahf-gegevens die worden gegenereerd bij het gebruik van dit profiel (zoals bookmarks, geschiedenis, wachtwoorden en andere instellingen) kunnen worden verwijderd door de beheerder van het werkprofiel. <ph name="LEARN_MORE"/></translation>
-<translation id="6252796827759111076">Kahf blijven gebruiken</translation>
+<translation id="70183448213529602">BrowseWeb3 probeert bestaande wachtwoorden te vervangen. Typ je Windows-wachtwoord om dit toe te staan.</translation>
+<translation id="7798069806040634998">BrowseWeb3 heeft toegang tot de opslag nodig om bestanden te downloaden</translation>
+<translation id="8447483940522230788">BrowseWeb3 Helper</translation>
+<translation id="7291143854620707672">Alle BrowseWeb3-gegevens die worden gegenereerd bij het gebruik van dit profiel (zoals bookmarks, geschiedenis, wachtwoorden en andere instellingen) kunnen worden verwijderd door de beheerder van het werkprofiel. <ph name="LEARN_MORE"/></translation>
+<translation id="6252796827759111076">BrowseWeb3 blijven gebruiken</translation>
 <translation id="259935314519650377">Kan het gedownloade installatieprogramma niet opslaan in het cachegeheugen. Fout: <ph name="UNPACK_CACHING_ERROR_CODE"/>.</translation>
-<translation id="7387051847644272380">Er is tijdens de installatie een fout opgetreden in het besturingssysteem. Download Kahf opnieuw.</translation>
-<translation id="2648689842065142443">Als je een apparaat deelt, kunnen vrienden en familie afzonderlijk surfen en Kahf instellen zoals zij dat willen.</translation>
-<translation id="6384359666082467439">Welkom bij Kahf, <ph name="ACCOUNT_FIRST_NAME"/></translation>
-<translation id="6791166902140255175">Kahf-tabblad</translation>
-<translation id="8372880274820509128">Je gegevens worden voor extra beveiliging door Kahf gecodeerd.</translation>
+<translation id="7387051847644272380">Er is tijdens de installatie een fout opgetreden in het besturingssysteem. Download BrowseWeb3 opnieuw.</translation>
+<translation id="2648689842065142443">Als je een apparaat deelt, kunnen vrienden en familie afzonderlijk surfen en BrowseWeb3 instellen zoals zij dat willen.</translation>
+<translation id="6384359666082467439">Welkom bij BrowseWeb3, <ph name="ACCOUNT_FIRST_NAME"/></translation>
+<translation id="6791166902140255175">BrowseWeb3-tabblad</translation>
+<translation id="8372880274820509128">Je gegevens worden voor extra beveiliging door BrowseWeb3 gecodeerd.</translation>
 <translation id="2738871930057338499">Kan geen verbinding maken met internet. HTTP 403 Verboden. Check je proxyconfiguratie.</translation>
 <translation id="2770231113462710648">Standaardbrowser wijzigen in:</translation>
-<translation id="1187986649024576560">Deze extensie bevat malware en is onveilig. Verwijder de extensie van Kahf zodat deze je gegevens (waaronder je persoonlijke informatie) niet meer kan bekijken en wijzigen op sites die je bezoekt.</translation>
+<translation id="1187986649024576560">Deze extensie bevat malware en is onveilig. Verwijder de extensie van BrowseWeb3 zodat deze je gegevens (waaronder je persoonlijke informatie) niet meer kan bekijken en wijzigen op sites die je bezoekt.</translation>
 <translation id="2799223571221894425">Opnieuw starten</translation>
-<translation id="3783547330001921298">Hiermee maak je een nieuw Kahf-profiel voor <ph name="USER_EMAIL_ADDRESS"/>.</translation>
+<translation id="3783547330001921298">Hiermee maak je een nieuw BrowseWeb3-profiel voor <ph name="USER_EMAIL_ADDRESS"/>.</translation>
 <translation id="2846251086934905009">Installatiefout: Het installatieprogramma is niet afgerond. De installatie is afgebroken.</translation>
-<translation id="777113543093865885">Verwijderen uit Kahf…</translation>
-<translation id="5265419033369521352">Beschermt je op Kahf en kan worden gebruikt om de beveiliging in andere Kahf-apps te verbeteren als je bent ingelogd.</translation>
+<translation id="777113543093865885">Verwijderen uit BrowseWeb3…</translation>
+<translation id="5265419033369521352">Beschermt je op BrowseWeb3 en kan worden gebruikt om de beveiliging in andere BrowseWeb3-apps te verbeteren als je bent ingelogd.</translation>
 <translation id="2885378588091291677">Taakbeheer</translation>
-<translation id="2176825726964012531">Over &amp;Kahf</translation>
+<translation id="2176825726964012531">Over &amp;BrowseWeb3</translation>
 <translation id="2915996080311180594">Later opnieuw opstarten</translation>
 <translation id="2928420929544864228">Installatie afgerond.</translation>
 <translation id="2945997411976714835">Installatiefout: Het installatieproces kan niet worden gestart.</translation>
-<translation id="8208853227947884571">Kahf is up-to-date</translation>
-<translation id="5122472867956731189">Als een site je wachtwoord probeert te stelen of als je een schadelijk bestand downloadt, kan Kahf ook URL's, inclusief delen van de paginacontent, naar Safe Browsing sturen</translation>
-<translation id="8755404239607088219">Kahf kan je wachtwoorden niet checken. Probeer het later opnieuw.</translation>
-<translation id="8880183781256147665">Toevoegen aan Kahf...</translation>
+<translation id="8208853227947884571">BrowseWeb3 is up-to-date</translation>
+<translation id="5122472867956731189">Als een site je wachtwoord probeert te stelen of als je een schadelijk bestand downloadt, kan BrowseWeb3 ook URL's, inclusief delen van de paginacontent, naar Safe Browsing sturen</translation>
+<translation id="8755404239607088219">BrowseWeb3 kan je wachtwoorden niet checken. Probeer het later opnieuw.</translation>
+<translation id="8880183781256147665">Toevoegen aan BrowseWeb3...</translation>
 <translation id="3038232873781883849">Wachten op installatie...</translation>
-<translation id="7918740962659365265">Help ons Kahf te verbeteren door crashrapporten en <ph name="UMA_LINK"/> naar Kahf te verzenden</translation>
-<translation id="2332543193474246254">{NUM_DEVICES,plural, =0{Een of meer Kahf-extensies hebben toegang gekregen tot 1 USB-apparaat}=1{Een of meer Kahf-extensies hebben toegang tot 1 USB-apparaat}other{Een of meer Kahf-extensies hebben toegang tot # USB-apparaten}}</translation>
-<translation id="5320085753638900910">Je browsegeschiedenis heeft invloed op de advertenties die je ziet en je interesses. Hieronder staat een schatting. Ter bescherming van je privacy verwijdert Kahf je interesses automatisch elke maand op voortschrijdende basis. Interesses kunnen worden vernieuwd, tenzij je ze verwijdert.</translation>
-<translation id="7365690458036015383">Het installatieprogramma kan het archief niet uitpakken. Download Kahf opnieuw.</translation>
-<translation id="8919461291440820124">Kahf gebruikt je microfoon.</translation>
-<translation id="4805806622840861220">Kahf opnieuw starten</translation>
-<translation id="1742948938503172561">Je nieuwe Kahf-profiel aanpassen</translation>
-<translation id="1477146545787277177">Kahf is gecrasht. Nu opnieuw starten?</translation>
-<translation id="2585240446624043880">Kahf kan niet lezen van en schrijven naar de eigen gegevensdirectory :
+<translation id="7918740962659365265">Help ons BrowseWeb3 te verbeteren door crashrapporten en <ph name="UMA_LINK"/> naar BrowseWeb3 te verzenden</translation>
+<translation id="2332543193474246254">{NUM_DEVICES,plural, =0{Een of meer BrowseWeb3-extensies hebben toegang gekregen tot 1 USB-apparaat}=1{Een of meer BrowseWeb3-extensies hebben toegang tot 1 USB-apparaat}other{Een of meer BrowseWeb3-extensies hebben toegang tot # USB-apparaten}}</translation>
+<translation id="5320085753638900910">Je browsegeschiedenis heeft invloed op de advertenties die je ziet en je interesses. Hieronder staat een schatting. Ter bescherming van je privacy verwijdert BrowseWeb3 je interesses automatisch elke maand op voortschrijdende basis. Interesses kunnen worden vernieuwd, tenzij je ze verwijdert.</translation>
+<translation id="7365690458036015383">Het installatieprogramma kan het archief niet uitpakken. Download BrowseWeb3 opnieuw.</translation>
+<translation id="8919461291440820124">BrowseWeb3 gebruikt je microfoon.</translation>
+<translation id="4805806622840861220">BrowseWeb3 opnieuw starten</translation>
+<translation id="1742948938503172561">Je nieuwe BrowseWeb3-profiel aanpassen</translation>
+<translation id="1477146545787277177">BrowseWeb3 is gecrasht. Nu opnieuw starten?</translation>
+<translation id="2585240446624043880">BrowseWeb3 kan niet lezen van en schrijven naar de eigen gegevensdirectory :
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="2423637317249323944">Kahf-versie <ph name="PRODUCT_VERSION"/> is geïnstalleerd</translation>
+<translation id="2423637317249323944">BrowseWeb3-versie <ph name="PRODUCT_VERSION"/> is geïnstalleerd</translation>
 <translation id="3286538390144397061">Nu herstarten</translation>
-<translation id="2339258256897053758">Kahf API-sleutels ontbreken. Sommige functies van Kahf worden uitgezet.</translation>
-<translation id="8926637909431618259">Achtergrondapps actief houden als Kahf is gesloten</translation>
-<translation id="518125528057094977">Kahf waarschuwt je voordat een site wordt geladen via een niet-beveiligde verbinding</translation>
-<translation id="2711887072399498551">Er bestaat al een Kahf-profiel voor dit account</translation>
-<translation id="2645435784669275700">Kahf OS</translation>
-<translation id="2297290224191497273">Overschakelen naar bestaand Kahf-profiel?</translation>
+<translation id="2339258256897053758">BrowseWeb3 API-sleutels ontbreken. Sommige functies van BrowseWeb3 worden uitgezet.</translation>
+<translation id="8926637909431618259">Achtergrondapps actief houden als BrowseWeb3 is gesloten</translation>
+<translation id="518125528057094977">BrowseWeb3 waarschuwt je voordat een site wordt geladen via een niet-beveiligde verbinding</translation>
+<translation id="2711887072399498551">Er bestaat al een BrowseWeb3-profiel voor dit account</translation>
+<translation id="2645435784669275700">BrowseWeb3 OS</translation>
+<translation id="2297290224191497273">Overschakelen naar bestaand BrowseWeb3-profiel?</translation>
 <translation id="3412460710772753638">In Wachtwoordmanager op dit apparaat</translation>
-<translation id="2450003541323895471">Met Kahf-profielen kun je alle Kahf-gegevens gescheiden houden. Maak profielen voor vrienden en familie of maak onderscheid tussen werk en privé.</translation>
-<translation id="9216183508558772570">Kahf laat het je weten als je inlogt met een gehackt wachtwoord</translation>
-<translation id="5853262807109651878">Hiermee worden <ph name="ITEMS_COUNT"/> items verwijderd van dit apparaat. Als je je gegevens later wilt terughalen, log je in bij Kahf als <ph name="USER_EMAIL"/>.</translation>
-<translation id="2024972335338126423"><ph name="SHORTCUT"/> kan schakelen tussen Kahf-profielen</translation>
-<translation id="8703492925273919597">Sluit alle Kahf-vensters en probeer het opnieuw.</translation>
-<translation id="4061445349373849749">Ter bescherming van je privacy verwijderen we automatisch interesses die ouder zijn dan 4 weken. Het kan gebeuren dat een interesse weer in de lijst komt te staan als je blijft browsen. Je kunt ook interesses verwijderen waarvan je niet wilt dat Kahf deze overweegt.</translation>
-<translation id="691208314680168371">Je browsegeschiedenis, een lijst van de sites die je via Kahf op dit apparaat hebt bezocht.</translation>
-<translation id="1073077513148817424">Er is al een ander account ingelogd. Als je je browsegegevens gescheiden wilt houden, kan Kahf een eigen profiel voor je maken.</translation>
-<translation id="4250277591581952830">Als je toekomstige Kahf-updates wilt krijgen, heb je macOS 10.15 of hoger nodig. Deze computer gebruikt macOS 10.13.</translation>
-<translation id="7029305463989165490">Als je een nummer vanaf <ph name="ORIGIN"/> naar je Android-telefoon wilt sturen, log je in bij Kahf op beide apparaten.</translation>
+<translation id="2450003541323895471">Met BrowseWeb3-profielen kun je alle BrowseWeb3-gegevens gescheiden houden. Maak profielen voor vrienden en familie of maak onderscheid tussen werk en privé.</translation>
+<translation id="9216183508558772570">BrowseWeb3 laat het je weten als je inlogt met een gehackt wachtwoord</translation>
+<translation id="5853262807109651878">Hiermee worden <ph name="ITEMS_COUNT"/> items verwijderd van dit apparaat. Als je je gegevens later wilt terughalen, log je in bij BrowseWeb3 als <ph name="USER_EMAIL"/>.</translation>
+<translation id="2024972335338126423"><ph name="SHORTCUT"/> kan schakelen tussen BrowseWeb3-profielen</translation>
+<translation id="8703492925273919597">Sluit alle BrowseWeb3-vensters en probeer het opnieuw.</translation>
+<translation id="4061445349373849749">Ter bescherming van je privacy verwijderen we automatisch interesses die ouder zijn dan 4 weken. Het kan gebeuren dat een interesse weer in de lijst komt te staan als je blijft browsen. Je kunt ook interesses verwijderen waarvan je niet wilt dat BrowseWeb3 deze overweegt.</translation>
+<translation id="691208314680168371">Je browsegeschiedenis, een lijst van de sites die je via BrowseWeb3 op dit apparaat hebt bezocht.</translation>
+<translation id="1073077513148817424">Er is al een ander account ingelogd. Als je je browsegegevens gescheiden wilt houden, kan BrowseWeb3 een eigen profiel voor je maken.</translation>
+<translation id="4250277591581952830">Als je toekomstige BrowseWeb3-updates wilt krijgen, heb je macOS 10.15 of hoger nodig. Deze computer gebruikt macOS 10.13.</translation>
+<translation id="7029305463989165490">Als je een nummer vanaf <ph name="ORIGIN"/> naar je Android-telefoon wilt sturen, log je in bij BrowseWeb3 op beide apparaten.</translation>
 <translation id="3667616615096815454">Kan niet installeren. De app is niet bekend bij de server.</translation>
-<translation id="4304059894777924102">Kahf kan je wachtwoorden niet checken. Check de internetverbinding.</translation>
-<translation id="2100587595569959771">Meer informatie over advertentiepersonalisatie in Kahf</translation>
-<translation id="1807774211756215222">Link openen op een nieuw Kahf-&amp;tabblad</translation>
-<translation id="2106568569080763501">Met Kahf kun je klikken op een telefoonnummer op internet om dit via Skype te bellen!</translation>
-<translation id="308146532933302843">Meer informatie over waarom Kahf bepaalde downloads blokkeert</translation>
-<translation id="2189149060536531804">Kahf laat het je weten als je iets moet controleren</translation>
-<translation id="6324134303015966238">Kahf laadt vooraf de pagina's die je waarschijnlijk gaat bezoeken, zodat de pagina's sneller laden als je ze bezoekt.</translation>
-<translation id="2401189691232800402">Kahf OS-systeem</translation>
-<translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Kahf</translation>
-<translation id="3744202345691150878">Hulp bij Kahf OS</translation>
-<translation id="6009720635797285369">Haal je Kahf-browsergegevens op via <ph name="ACCOUNT_EMAIL"/></translation>
-<translation id="5111297589157398321">Als je toekomstige Kahf-updates wilt krijgen, heb je macOS 10.15 of hoger nodig. Deze computer gebruikt macOS 10.14.</translation>
-<translation id="6315734375101223238">Pas Kahf aan en beheer de instellingen. Je aandacht is vereist. Klik voor meer informatie.</translation>
-<translation id="7130675370997202556">Klik op je naam om Kahf te openen en begin met surfen.</translation>
-<translation id="4920958997042285125"><ph name="EXISTING_USER"/> is al ingelogd bij dit Kahf-profiel. Als je je browsegegevens gescheiden wilt houden, kan Kahf een eigen profiel voor je maken.</translation>
-<translation id="2337217774418822704">Je account wordt beheerd door <ph name="MANAGER_NAME"/>. Je beheerder kan dit Kahf-browserprofiel en de bijbehorende gegevens (zoals bookmarks, geschiedenis en wachtwoorden) bekijken en bewerken.</translation>
-<translation id="4561646469134805137">Terwijl je typt, stuurt Kahf de content van de adresbalk of het zoekvak naar je standaard zoekmachine</translation>
+<translation id="4304059894777924102">BrowseWeb3 kan je wachtwoorden niet checken. Check de internetverbinding.</translation>
+<translation id="2100587595569959771">Meer informatie over advertentiepersonalisatie in BrowseWeb3</translation>
+<translation id="1807774211756215222">Link openen op een nieuw BrowseWeb3-&amp;tabblad</translation>
+<translation id="2106568569080763501">Met BrowseWeb3 kun je klikken op een telefoonnummer op internet om dit via Skype te bellen!</translation>
+<translation id="308146532933302843">Meer informatie over waarom BrowseWeb3 bepaalde downloads blokkeert</translation>
+<translation id="2189149060536531804">BrowseWeb3 laat het je weten als je iets moet controleren</translation>
+<translation id="6324134303015966238">BrowseWeb3 laadt vooraf de pagina's die je waarschijnlijk gaat bezoeken, zodat de pagina's sneller laden als je ze bezoekt.</translation>
+<translation id="2401189691232800402">BrowseWeb3 OS-systeem</translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - BrowseWeb3</translation>
+<translation id="3744202345691150878">Hulp bij BrowseWeb3 OS</translation>
+<translation id="6009720635797285369">Haal je BrowseWeb3-browsergegevens op via <ph name="ACCOUNT_EMAIL"/></translation>
+<translation id="5111297589157398321">Als je toekomstige BrowseWeb3-updates wilt krijgen, heb je macOS 10.15 of hoger nodig. Deze computer gebruikt macOS 10.14.</translation>
+<translation id="6315734375101223238">Pas BrowseWeb3 aan en beheer de instellingen. Je aandacht is vereist. Klik voor meer informatie.</translation>
+<translation id="7130675370997202556">Klik op je naam om BrowseWeb3 te openen en begin met surfen.</translation>
+<translation id="4920958997042285125"><ph name="EXISTING_USER"/> is al ingelogd bij dit BrowseWeb3-profiel. Als je je browsegegevens gescheiden wilt houden, kan BrowseWeb3 een eigen profiel voor je maken.</translation>
+<translation id="2337217774418822704">Je account wordt beheerd door <ph name="MANAGER_NAME"/>. Je beheerder kan dit BrowseWeb3-browserprofiel en de bijbehorende gegevens (zoals bookmarks, geschiedenis en wachtwoorden) bekijken en bewerken.</translation>
+<translation id="4561646469134805137">Terwijl je typt, stuurt BrowseWeb3 de content van de adresbalk of het zoekvak naar je standaard zoekmachine</translation>
 <translation id="3941890832296813527">Installatiefout: De bestandsnaam van het installatieprogramma is ongeldig of wordt niet ondersteund.</translation>
-<translation id="8090497651549769448">Kahf probeert wachtwoorden te kopiëren. Geef je Windows-wachtwoord op om dit toe te staan.</translation>
-<translation id="4194619960643453552">Meer informatie over hoe Kahf je beschermt</translation>
-<translation id="1311808042904310985">Over &amp;Kahf for Testing</translation>
-<translation id="1152920704813762236">Over Kahf OS</translation>
-<translation id="3703994572283698466">Kahf OS wordt mogelijk gemaakt door aanvullende <ph name="BEGIN_LINK_CROS_OSS"/>opensource-software<ph name="END_LINK_CROS_OSS"/>, net als de <ph name="BEGIN_LINK_LINUX_OSS"/>Linux-ontwikkelomgeving<ph name="END_LINK_LINUX_OSS"/>.</translation>
-<translation id="238935410828556037">Als dit uitstaat, zie je nog steeds suggesties die Kahf lokaal biedt</translation>
-<translation id="6056473803837713617">Help Kahf beter te maken door de <ph name="BEGIN_LINK"/>huidige instellingen<ph name="END_LINK"/> te melden</translation>
+<translation id="8090497651549769448">BrowseWeb3 probeert wachtwoorden te kopiëren. Geef je Windows-wachtwoord op om dit toe te staan.</translation>
+<translation id="4194619960643453552">Meer informatie over hoe BrowseWeb3 je beschermt</translation>
+<translation id="1311808042904310985">Over &amp;BrowseWeb3 for Testing</translation>
+<translation id="1152920704813762236">Over BrowseWeb3 OS</translation>
+<translation id="3703994572283698466">BrowseWeb3 OS wordt mogelijk gemaakt door aanvullende <ph name="BEGIN_LINK_CROS_OSS"/>opensource-software<ph name="END_LINK_CROS_OSS"/>, net als de <ph name="BEGIN_LINK_LINUX_OSS"/>Linux-ontwikkelomgeving<ph name="END_LINK_LINUX_OSS"/>.</translation>
+<translation id="238935410828556037">Als dit uitstaat, zie je nog steeds suggesties die BrowseWeb3 lokaal biedt</translation>
+<translation id="6056473803837713617">Help BrowseWeb3 beter te maken door de <ph name="BEGIN_LINK"/>huidige instellingen<ph name="END_LINK"/> te melden</translation>
 <translation id="4050175100176540509">Er zijn belangrijke beveiligingsverbeteringen en nieuwe functies beschikbaar in de nieuwste versie.</translation>
 <translation id="4055805654398742145">W&amp;achtwoordmanager</translation>
-<translation id="6217792792122501564">{COUNT,plural, =1{Je organisatie sluit Kahf automatisch als deze 1 minuut niet wordt gebruikt. Browsegegevens worden verwijderd. Dit kunnen onder andere de geschiedenis, gegevens voor automatisch invullen en downloads zijn.}other{Je organisatie sluit Kahf automatisch als deze # minuten niet wordt gebruikt. Browsegegevens worden verwijderd. Dit kunnen onder andere de geschiedenis, gegevens voor automatisch invullen en downloads zijn.}}</translation>
+<translation id="6217792792122501564">{COUNT,plural, =1{Je organisatie sluit BrowseWeb3 automatisch als deze 1 minuut niet wordt gebruikt. Browsegegevens worden verwijderd. Dit kunnen onder andere de geschiedenis, gegevens voor automatisch invullen en downloads zijn.}other{Je organisatie sluit BrowseWeb3 automatisch als deze # minuten niet wordt gebruikt. Browsegegevens worden verwijderd. Dit kunnen onder andere de geschiedenis, gegevens voor automatisch invullen en downloads zijn.}}</translation>
 <translation id="4148957013307229264">Installeren...</translation>
-<translation id="4658486203392098459"><ph name="PAGE_TITLE"/> - Inloggen bij netwerk - Kahf</translation>
-<translation id="2871190378186459992">Ontdek fantastische apps, games, extensies en thema's voor Kahf.</translation>
-<translation id="5757460455745382269">Deze taal wordt gebruikt om de Kahf-UI weer te geven</translation>
+<translation id="4658486203392098459"><ph name="PAGE_TITLE"/> - Inloggen bij netwerk - BrowseWeb3</translation>
+<translation id="2871190378186459992">Ontdek fantastische apps, games, extensies en thema's voor BrowseWeb3.</translation>
+<translation id="5757460455745382269">Deze taal wordt gebruikt om de BrowseWeb3-UI weer te geven</translation>
 <translation id="4222932583846282852">Annuleren…</translation>
-<translation id="1853997773668795891">Wil je je Kahf-gegevens aan dit account koppelen?</translation>
-<translation id="4732930052828648898">Geeft je waarschuwingen over gevaarlijke sites, zelfs sites die Kahf niet eerder kende, door meer gegevens van sites te analyseren dan de standaardbeveiliging. Je kunt ervoor kiezen om waarschuwingen voor Kahf over te slaan.</translation>
-<translation id="3262506503470845422">Hulp bij Kahf</translation>
+<translation id="1853997773668795891">Wil je je BrowseWeb3-gegevens aan dit account koppelen?</translation>
+<translation id="4732930052828648898">Geeft je waarschuwingen over gevaarlijke sites, zelfs sites die BrowseWeb3 niet eerder kende, door meer gegevens van sites te analyseren dan de standaardbeveiliging. Je kunt ervoor kiezen om waarschuwingen voor BrowseWeb3 over te slaan.</translation>
+<translation id="3262506503470845422">Hulp bij BrowseWeb3</translation>
 <translation id="4281844954008187215">Servicevoorwaarden</translation>
-<translation id="7691786510374174420">De installatie is mislukt wegens een onbekende fout. Als Kahf momenteel actief is, moet je Kahf sluiten en het opnieuw proberen.</translation>
+<translation id="7691786510374174420">De installatie is mislukt wegens een onbekende fout. Als BrowseWeb3 momenteel actief is, moet je BrowseWeb3 sluiten en het opnieuw proberen.</translation>
 <translation id="4304713468139749426">Wachtwoordmanager</translation>
 <translation id="4334294535648607276">Downloaden voltooid.</translation>
-<translation id="1068681683510904753"><ph name="MANAGER"/> vereist dat je de volgende Servicevoorwaarden leest en accepteert voordat je dit apparaat gebruikt. Deze voorwaarden zijn geen uitbreiding, aanpassing of beperking van de Voorwaarden van Kahf OS.</translation>
-<translation id="9183662282810237335">Kahf toch sluiten?</translation>
-<translation id="4065288863231444640">Kahf laten uitvoeren op de achtergrond</translation>
-<translation id="8148611988012584308">Kahf aanpassen en beheren</translation>
+<translation id="1068681683510904753"><ph name="MANAGER"/> vereist dat je de volgende Servicevoorwaarden leest en accepteert voordat je dit apparaat gebruikt. Deze voorwaarden zijn geen uitbreiding, aanpassing of beperking van de Voorwaarden van BrowseWeb3 OS.</translation>
+<translation id="9183662282810237335">BrowseWeb3 toch sluiten?</translation>
+<translation id="4065288863231444640">BrowseWeb3 laten uitvoeren op de achtergrond</translation>
+<translation id="8148611988012584308">BrowseWeb3 aanpassen en beheren</translation>
 <translation id="4427306783828095590">Geoptimaliseerde beveiliging die je nog beter beschermt tegen phishing en malware</translation>
-<translation id="6786534271003695094">Over Kahf for Testing</translation>
+<translation id="6786534271003695094">Over BrowseWeb3 for Testing</translation>
 <translation id="4501471624619070934">De installatie is mislukt omdat de toegang is beperkt in dit land.</translation>
-<translation id="7084397798469173252">Welkom bij Kahf, nieuw browservenster geopend</translation>
-<translation id="2633397153656205379">Kahf is niet geüpdatet. Er is een fout opgetreden. <ph name="BEGIN_LINK"/>Updateproblemen en mislukte updates voor Kahf verhelpen<ph name="END_LINK"/></translation>
-<translation id="3679799810790990472">Doorgaan met een nieuw Kahf-profiel?</translation>
+<translation id="7084397798469173252">Welkom bij BrowseWeb3, nieuw browservenster geopend</translation>
+<translation id="2633397153656205379">BrowseWeb3 is niet geüpdatet. Er is een fout opgetreden. <ph name="BEGIN_LINK"/>Updateproblemen en mislukte updates voor BrowseWeb3 verhelpen<ph name="END_LINK"/></translation>
+<translation id="3679799810790990472">Doorgaan met een nieuw BrowseWeb3-profiel?</translation>
 <translation id="4567424176335768812">Je bent ingelogd als <ph name="USER_EMAIL_ADDRESS"/>. Je hebt nu toegang tot je bookmarks, geschiedenis en andere instellingen op al je apparaten waarop je bent ingelogd.</translation>
-<translation id="8669339108356170796">Kahf heeft deze download geblokkeerd, omdat je Safe Browsing hebt uitgezet en het bestand niet kan worden geverifieerd</translation>
+<translation id="8669339108356170796">BrowseWeb3 heeft deze download geblokkeerd, omdat je Safe Browsing hebt uitgezet en het bestand niet kan worden geverifieerd</translation>
 <translation id="4594305310729380060">Naar Wachtwoordmanager op dit apparaat</translation>
-<translation id="300669147395456190">Kahf-apps</translation>
-<translation id="4970880042055371251">Kahf OS-versie</translation>
-<translation id="2182657378556811785">Updaten bijna voltooid. Start Kahf opnieuw op om de update te voltooien.</translation>
-<translation id="7402642357351265733">Als je ook Kahf-gebruiksrapporten deelt, bevatten die rapporten de URL's die je bezoekt</translation>
-<translation id="8142245354207161805">Het profiel lijkt te worden gebruikt door een ander proces in Kahf (<ph name="PROCESS_ID"/>) op een andere computer (<ph name="HOST_NAME"/>). Het profiel is vergrendeld zodat het niet wordt beschadigd. Als je zeker weet dat dit profiel niet door andere processen wordt gebruikt, kun je het profiel ontgrendelen en Kahf opnieuw starten.</translation>
+<translation id="300669147395456190">BrowseWeb3-apps</translation>
+<translation id="4970880042055371251">BrowseWeb3 OS-versie</translation>
+<translation id="2182657378556811785">Updaten bijna voltooid. Start BrowseWeb3 opnieuw op om de update te voltooien.</translation>
+<translation id="7402642357351265733">Als je ook BrowseWeb3-gebruiksrapporten deelt, bevatten die rapporten de URL's die je bezoekt</translation>
+<translation id="8142245354207161805">Het profiel lijkt te worden gebruikt door een ander proces in BrowseWeb3 (<ph name="PROCESS_ID"/>) op een andere computer (<ph name="HOST_NAME"/>). Het profiel is vergrendeld zodat het niet wordt beschadigd. Als je zeker weet dat dit profiel niet door andere processen wordt gebruikt, kun je het profiel ontgrendelen en BrowseWeb3 opnieuw starten.</translation>
 <translation id="4680828127924988555">Installatie annuleren</translation>
-<translation id="847561904663814268">Iemand heeft eerder bij Kahf op deze computer ingelogd als <ph name="ACCOUNT_EMAIL_LAST"/>. Maak een nieuwe Kahf-gebruiker om je informatie gescheiden te houden.</translation>
+<translation id="847561904663814268">Iemand heeft eerder bij BrowseWeb3 op deze computer ingelogd als <ph name="ACCOUNT_EMAIL_LAST"/>. Maak een nieuwe BrowseWeb3-gebruiker om je informatie gescheiden te houden.</translation>
 <translation id="4724676981607797757">De installatie is mislukt vanwege een fout met een niet-ondersteund protocol.</translation>
-<translation id="3834935463915107022">Kahf toch sluiten?</translation>
-<translation id="8668413672647811944">Er is zojuist een speciale beveiligingsupdate voor Kahf toegepast. Start nu opnieuw op. Je tabbladen worden hersteld.</translation>
-<translation id="5857638389580847844">Je kunt dit altijd wijzigen via de Kahf-instellingen. De proeven worden uitgevoerd in combinatie met de huidige manier waarop advertenties worden weergegeven, dus je ziet de wijzigingen niet meteen.</translation>
-<translation id="4823369970559443694">Kahf kan je wachtwoorden niet checken. Probeer het over 24 uur opnieuw of <ph name="BEGIN_LINK"/>check de wachtwoorden in je Kahf-account<ph name="END_LINK"/>.</translation>
-<translation id="215320507915280336">Hiervoor wordt dezelfde spellingcontrole gebruikt als voor Kahf Zoeken. Tekst die je in de browser typt, wordt naar Kahf gestuurd. Je kunt dit altijd wijzigen in de instellingen.</translation>
-<translation id="2899369907387169108">Kahf gebruiken zonder account</translation>
-<translation id="1912973375560256099">Inkomende regel zodat Kahf mDNS-verkeer toestaat.</translation>
-<translation id="711601904575862069">Opnieuw starten om &amp;Kahf te updaten</translation>
-<translation id="8797356639448065696">Kahf bevindt zich in de achtergrondmodus.</translation>
-<translation id="7406627712452599344">Gasten kunnen Kahf gebruiken zonder iets achter te laten.</translation>
-<translation id="5952898964075639679">Jezelf toevoegen aan Kahf</translation>
-<translation id="8112581848375017126">Kahf bevat nieuwe functies waarmee sites dezelfde browsefunctionaliteit kunnen leveren terwijl er minder van je gegevens worden gebruikt</translation>
-<translation id="9078804073692109646">Geen opgeslagen wachtwoorden. Kahf kan je wachtwoorden checken als je deze hebt opgeslagen.</translation>
-<translation id="729580998737807583"><ph name="EXISTING_USER"/> is al ingelogd bij dit Kahf-profiel. Hiermee maak je een nieuw Kahf-profiel voor <ph name="USER_EMAIL_ADDRESS"/>.</translation>
-<translation id="8586264863973514035">Als je de wijzigingen wilt toepassen, start je Kahf opnieuw</translation>
-<translation id="300369155175407115">Tijdens actieve proeven en als Kahf je willekeurig in een actieve proef heeft geplaatst, heeft je browsegeschiedenis invloed op de advertenties die je te zien krijgt en de interesses zoals hieronder geschat. Ter bescherming van je privacy verwijdert Kahf je interesses elke maand op voortschrijdende basis.</translation>
-<translation id="7573068992266397941">Kahf heeft een aantal veiligheidsaanbevelingen gevonden die je moet controleren</translation>
-<translation id="7708394612738038097">Je logt in op een beheerd account waarmee de eigenaar van dat account beheer krijgt over je Kahf-profiel. Je Kahf-gegevens zoals je apps, bookmarks, geschiedenis, wachtwoorden en andere instellingen worden permanent gekoppeld aan <ph name="USER_NAME"/>. Je kunt deze gegevens verwijderen via het Kahf sync chains Dashboard, maar je kunt deze gegevens niet koppelen aan een ander account.<ph name="LEARN_MORE"/></translation>
+<translation id="3834935463915107022">BrowseWeb3 toch sluiten?</translation>
+<translation id="8668413672647811944">Er is zojuist een speciale beveiligingsupdate voor BrowseWeb3 toegepast. Start nu opnieuw op. Je tabbladen worden hersteld.</translation>
+<translation id="5857638389580847844">Je kunt dit altijd wijzigen via de BrowseWeb3-instellingen. De proeven worden uitgevoerd in combinatie met de huidige manier waarop advertenties worden weergegeven, dus je ziet de wijzigingen niet meteen.</translation>
+<translation id="4823369970559443694">BrowseWeb3 kan je wachtwoorden niet checken. Probeer het over 24 uur opnieuw of <ph name="BEGIN_LINK"/>check de wachtwoorden in je BrowseWeb3-account<ph name="END_LINK"/>.</translation>
+<translation id="215320507915280336">Hiervoor wordt dezelfde spellingcontrole gebruikt als voor BrowseWeb3 Zoeken. Tekst die je in de browser typt, wordt naar BrowseWeb3 gestuurd. Je kunt dit altijd wijzigen in de instellingen.</translation>
+<translation id="2899369907387169108">BrowseWeb3 gebruiken zonder account</translation>
+<translation id="1912973375560256099">Inkomende regel zodat BrowseWeb3 mDNS-verkeer toestaat.</translation>
+<translation id="711601904575862069">Opnieuw starten om &amp;BrowseWeb3 te updaten</translation>
+<translation id="8797356639448065696">BrowseWeb3 bevindt zich in de achtergrondmodus.</translation>
+<translation id="7406627712452599344">Gasten kunnen BrowseWeb3 gebruiken zonder iets achter te laten.</translation>
+<translation id="5952898964075639679">Jezelf toevoegen aan BrowseWeb3</translation>
+<translation id="8112581848375017126">BrowseWeb3 bevat nieuwe functies waarmee sites dezelfde browsefunctionaliteit kunnen leveren terwijl er minder van je gegevens worden gebruikt</translation>
+<translation id="9078804073692109646">Geen opgeslagen wachtwoorden. BrowseWeb3 kan je wachtwoorden checken als je deze hebt opgeslagen.</translation>
+<translation id="729580998737807583"><ph name="EXISTING_USER"/> is al ingelogd bij dit BrowseWeb3-profiel. Hiermee maak je een nieuw BrowseWeb3-profiel voor <ph name="USER_EMAIL_ADDRESS"/>.</translation>
+<translation id="8586264863973514035">Als je de wijzigingen wilt toepassen, start je BrowseWeb3 opnieuw</translation>
+<translation id="300369155175407115">Tijdens actieve proeven en als BrowseWeb3 je willekeurig in een actieve proef heeft geplaatst, heeft je browsegeschiedenis invloed op de advertenties die je te zien krijgt en de interesses zoals hieronder geschat. Ter bescherming van je privacy verwijdert BrowseWeb3 je interesses elke maand op voortschrijdende basis.</translation>
+<translation id="7573068992266397941">BrowseWeb3 heeft een aantal veiligheidsaanbevelingen gevonden die je moet controleren</translation>
+<translation id="7708394612738038097">Je logt in op een beheerd account waarmee de eigenaar van dat account beheer krijgt over je BrowseWeb3-profiel. Je BrowseWeb3-gegevens zoals je apps, bookmarks, geschiedenis, wachtwoorden en andere instellingen worden permanent gekoppeld aan <ph name="USER_NAME"/>. Je kunt deze gegevens verwijderen via het BrowseWeb3 sync chains Dashboard, maar je kunt deze gegevens niet koppelen aan een ander account.<ph name="LEARN_MORE"/></translation>
 <translation id="5368118228313795342">Extra code: <ph name="EXTRA_CODE"/>.</translation>
-<translation id="5154625106151193600">Meer informatie over waarom Kahf bepaalde bestanden blokkeert</translation>
-<translation id="1786715389543715322">Kahf updaten (<ph name="PROGRESS_PERCENT"/>)</translation>
-<translation id="7021823858304886493">Inloggen bij Kahf toestaan</translation>
-<translation id="5536657158619734169">Er is een nieuwe versie van Kahf beschikbaar.</translation>
-<translation id="5267531627648004734">Verwijderen uit Kahf</translation>
-<translation id="239760341987199724">Kahf instellen als je standaardbrowser</translation>
-<translation id="1403270718080126244"><ph name="PAGE_TITLE"/> - Kahf bèta</translation>
-<translation id="894936507076470937">Kahf werkt misschien niet goed omdat dit niet meer wordt ondersteund in deze Linux-distributie</translation>
-<translation id="696826782632239602">Kahf heeft toegang tot je locatie nodig om je locatie met deze site te delen</translation>
-<translation id="3809116188788099368">Ter bescherming van je privacy verwijderen we automatisch interesses die ouder zijn dan 4 weken. Het kan gebeuren dat een interesse weer in de lijst komt te staan als je blijft browsen. Je kunt interesses ook verwijderen als Kahf die verkeerd inschat of je bepaalde advertenties niet wilt zien.</translation>
-<translation id="1744365871163268756">Wacht terwijl Kahf de nieuwste systeemupdates installeert.</translation>
-<translation id="3861679447659630159">Kahf probeert wachtwoorden te bewerken. Geef je Windows-wachtwoord op om dit toe te staan.</translation>
-<translation id="232381795826373334">Pdf's openen in Kahf</translation>
-<translation id="1026406809507858026">{0,plural, =0{Er is een Kahf-update beschikbaar}=1{Er is een Kahf-update beschikbaar}other{Er is al # dagen een Kahf-update beschikbaar}}</translation>
-<translation id="1023472437588692618">Sitegegevens altijd verwijderen van je apparaat als je Kahf sluit</translation>
-<translation id="5646769069113654257">Kahf nu opnieuw opstarten</translation>
-<translation id="1482073660249013898">Dit bestand kan gevaarlijk zijn<ph name="LINE_BREAK"/>Kahf kan deze download voor je checken als je het wachtwoord verstrekt. Je wachtwoord blijft op je apparaat staan.</translation>
-<translation id="3117204675033805491">Kahf LLC</translation>
-<translation id="2335583906071111058">Kahf bekijken in deze taal</translation>
+<translation id="5154625106151193600">Meer informatie over waarom BrowseWeb3 bepaalde bestanden blokkeert</translation>
+<translation id="1786715389543715322">BrowseWeb3 updaten (<ph name="PROGRESS_PERCENT"/>)</translation>
+<translation id="7021823858304886493">Inloggen bij BrowseWeb3 toestaan</translation>
+<translation id="5536657158619734169">Er is een nieuwe versie van BrowseWeb3 beschikbaar.</translation>
+<translation id="5267531627648004734">Verwijderen uit BrowseWeb3</translation>
+<translation id="239760341987199724">BrowseWeb3 instellen als je standaardbrowser</translation>
+<translation id="1403270718080126244"><ph name="PAGE_TITLE"/> - BrowseWeb3 bèta</translation>
+<translation id="894936507076470937">BrowseWeb3 werkt misschien niet goed omdat dit niet meer wordt ondersteund in deze Linux-distributie</translation>
+<translation id="696826782632239602">BrowseWeb3 heeft toegang tot je locatie nodig om je locatie met deze site te delen</translation>
+<translation id="3809116188788099368">Ter bescherming van je privacy verwijderen we automatisch interesses die ouder zijn dan 4 weken. Het kan gebeuren dat een interesse weer in de lijst komt te staan als je blijft browsen. Je kunt interesses ook verwijderen als BrowseWeb3 die verkeerd inschat of je bepaalde advertenties niet wilt zien.</translation>
+<translation id="1744365871163268756">Wacht terwijl BrowseWeb3 de nieuwste systeemupdates installeert.</translation>
+<translation id="3861679447659630159">BrowseWeb3 probeert wachtwoorden te bewerken. Geef je Windows-wachtwoord op om dit toe te staan.</translation>
+<translation id="232381795826373334">Pdf's openen in BrowseWeb3</translation>
+<translation id="1026406809507858026">{0,plural, =0{Er is een BrowseWeb3-update beschikbaar}=1{Er is een BrowseWeb3-update beschikbaar}other{Er is al # dagen een BrowseWeb3-update beschikbaar}}</translation>
+<translation id="1023472437588692618">Sitegegevens altijd verwijderen van je apparaat als je BrowseWeb3 sluit</translation>
+<translation id="5646769069113654257">BrowseWeb3 nu opnieuw opstarten</translation>
+<translation id="1482073660249013898">Dit bestand kan gevaarlijk zijn<ph name="LINE_BREAK"/>BrowseWeb3 kan deze download voor je checken als je het wachtwoord verstrekt. Je wachtwoord blijft op je apparaat staan.</translation>
+<translation id="3117204675033805491">BrowseWeb3 LLC</translation>
+<translation id="2335583906071111058">BrowseWeb3 bekijken in deze taal</translation>
 <translation id="569897634095159764">Kan geen verbinding maken met internet. Proxyserver vereist verificatie.</translation>
 <translation id="5809516625706423866">Kan geen verbinding maken met internet. HTTP 401 Niet geautoriseerd. Check je proxyconfiguratie.</translation>
-<translation id="7207456302801184289">Welkom bij Kahf</translation>
-<translation id="8054200348483755053">Kahf heeft vastgesteld dat deze items malware bevatten:</translation>
-<translation id="3955583201925082436">Kahf checkt regelmatig of je browser de veiligste instellingen heeft. We laten het je weten als je iets moet controleren.</translation>
+<translation id="7207456302801184289">Welkom bij BrowseWeb3</translation>
+<translation id="8054200348483755053">BrowseWeb3 heeft vastgesteld dat deze items malware bevatten:</translation>
+<translation id="3955583201925082436">BrowseWeb3 checkt regelmatig of je browser de veiligste instellingen heeft. We laten het je weten als je iets moet controleren.</translation>
 <translation id="5895138241574237353">Opnieuw starten</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE"/> - Inloggen bij netwerk</translation>
 <translation id="5924017743176219022">Verbinding maken met internet...</translation>
 <translation id="5941711191222866238">Minimaliseren</translation>
-<translation id="3613110494561632737">Als Kahf je willekeurig in een actieve proef heeft geplaatst, heeft je browsegeschiedenis invloed op de advertenties die je te zien krijgt en de interesses zoals hieronder geschat. Ter bescherming van je privacy verwijdert Kahf je interesses elke maand op voortschrijdende basis. Interesses worden vernieuwd, tenzij je ze verwijdert.</translation>
-<translation id="4357808717322635817">{COUNT,plural, =1{Je organisatie sluit Kahf automatisch als deze 1 minuut niet wordt gebruikt.}other{Je organisatie sluit Kahf automatisch als deze # minuten niet wordt gebruikt.}}</translation>
-<translation id="3598551856834560515">Kahf updaten om de synchronisatie te starten</translation>
-<translation id="5225261774087485064">Door jou bezochte sites onthouden over het algemeen informatie over je interesses om zo de functionaliteit te personaliseren. Sites kunnen ook informatie over je interesses in Kahf opslaan.</translation>
+<translation id="3613110494561632737">Als BrowseWeb3 je willekeurig in een actieve proef heeft geplaatst, heeft je browsegeschiedenis invloed op de advertenties die je te zien krijgt en de interesses zoals hieronder geschat. Ter bescherming van je privacy verwijdert BrowseWeb3 je interesses elke maand op voortschrijdende basis. Interesses worden vernieuwd, tenzij je ze verwijdert.</translation>
+<translation id="4357808717322635817">{COUNT,plural, =1{Je organisatie sluit BrowseWeb3 automatisch als deze 1 minuut niet wordt gebruikt.}other{Je organisatie sluit BrowseWeb3 automatisch als deze # minuten niet wordt gebruikt.}}</translation>
+<translation id="3598551856834560515">BrowseWeb3 updaten om de synchronisatie te starten</translation>
+<translation id="5225261774087485064">Door jou bezochte sites onthouden over het algemeen informatie over je interesses om zo de functionaliteit te personaliseren. Sites kunnen ook informatie over je interesses in BrowseWeb3 opslaan.</translation>
 <translation id="6003112304606738118">Downloaden... Nog <ph name="HOURS"/> uur</translation>
 <translation id="6040143037577758943">Sluiten</translation>
-<translation id="505042220086416644">Er is een nieuwe versie van Kahf beschikbaar, en deze is sneller dan ooit.</translation>
-<translation id="700488072601322385">Ter bescherming van je gegevens kun je Kahf de rechten laten verwijderen voor sites die je niet recent hebt bezocht. Hiermee worden meldingen niet gestopt.</translation>
-<translation id="9071554113102421877">&amp;Openen in Kahf</translation>
-<translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> is toegevoegd aan Kahf</translation>
-<translation id="3693188491491843187">Maak Kahf sneller</translation>
+<translation id="505042220086416644">Er is een nieuwe versie van BrowseWeb3 beschikbaar, en deze is sneller dan ooit.</translation>
+<translation id="700488072601322385">Ter bescherming van je gegevens kun je BrowseWeb3 de rechten laten verwijderen voor sites die je niet recent hebt bezocht. Hiermee worden meldingen niet gestopt.</translation>
+<translation id="9071554113102421877">&amp;Openen in BrowseWeb3</translation>
+<translation id="7861579472672677409"><ph name="EXTENSION_NAME"/> is toegevoegd aan BrowseWeb3</translation>
+<translation id="3693188491491843187">Maak BrowseWeb3 sneller</translation>
 <translation id="608006075545470555">Werkprofiel toevoegen aan deze browser</translation>
-<translation id="5849446944780602366">Kahf aanpassen en beheren. Update is beschikbaar</translation>
-<translation id="5505258595603236622">Als deze instelling aanstaat, spaart Kahf de batterij door achtergrondactiviteit en visuele effecten te beperken, zoals vloeiend scrollen en videoframesnelheden.</translation>
-<translation id="7433698744896946664">Toestaan dat de extensie toegangsverzoeken toont op de Kahf-werkbalk</translation>
-<translation id="492209281555538239">Kahf slaat dit wachtwoord op in je Kahf-account. Je hoeft het niet te onthouden.</translation>
-<translation id="4168372721886011198"><ph name="FILE_NAME"/> is gevaarlijk en is daarom door Kahf geblokkeerd.</translation>
-<translation id="991182453936521413">Kahf wordt zo meteen gesloten en de gegevens worden verwijderd</translation>
-<translation id="7006260220514217183">Safe Browsing staat uit. Kahf raadt je aan deze functie aan te zetten.</translation>
-<translation id="2542068854151299295">Log in om het maximale uit Kahf te halen</translation>
-<translation id="4060970194201477024">Je kunt hier schakelen tussen verschillende Kahf-profielen</translation>
-<translation id="7815000350132166985">Als je cookies toestaat, kan Kahf deze gebruiken voor vooraf laden.</translation>
-<translation id="3156047523158042818">Afhankelijk van je instellingen kan Kahf ook cookies en je huidige URL sturen</translation>
+<translation id="5849446944780602366">BrowseWeb3 aanpassen en beheren. Update is beschikbaar</translation>
+<translation id="5505258595603236622">Als deze instelling aanstaat, spaart BrowseWeb3 de batterij door achtergrondactiviteit en visuele effecten te beperken, zoals vloeiend scrollen en videoframesnelheden.</translation>
+<translation id="7433698744896946664">Toestaan dat de extensie toegangsverzoeken toont op de BrowseWeb3-werkbalk</translation>
+<translation id="492209281555538239">BrowseWeb3 slaat dit wachtwoord op in je BrowseWeb3-account. Je hoeft het niet te onthouden.</translation>
+<translation id="4168372721886011198"><ph name="FILE_NAME"/> is gevaarlijk en is daarom door BrowseWeb3 geblokkeerd.</translation>
+<translation id="991182453936521413">BrowseWeb3 wordt zo meteen gesloten en de gegevens worden verwijderd</translation>
+<translation id="7006260220514217183">Safe Browsing staat uit. BrowseWeb3 raadt je aan deze functie aan te zetten.</translation>
+<translation id="2542068854151299295">Log in om het maximale uit BrowseWeb3 te halen</translation>
+<translation id="4060970194201477024">Je kunt hier schakelen tussen verschillende BrowseWeb3-profielen</translation>
+<translation id="7815000350132166985">Als je cookies toestaat, kan BrowseWeb3 deze gebruiken voor vooraf laden.</translation>
+<translation id="3156047523158042818">Afhankelijk van je instellingen kan BrowseWeb3 ook cookies en je huidige URL sturen</translation>
 <translation id="6182736845697986886">De installatie is mislukt vanwege een interne fout met de updateserver.</translation>
-<translation id="4368341489795135329">Zorg dat je bent ingelogd bij Kahf op je <ph name="TARGET_DEVICE_NAME"/> en probeer opnieuw te sturen.</translation>
-<translation id="8320964054148936490">Deze computer beschikt al over een recentere versie van Kahf. Als de software niet werkt, moet je Kahf verwijderen en het opnieuw proberen.</translation>
-<translation id="3574823187131579180">{0,plural, =0{Kahf wordt nu opnieuw gestart}=1{Kahf wordt over één seconde opnieuw gestart}other{Kahf wordt over # seconden opnieuw gestart}}</translation>
-<translation id="5980269616827212166">Kahf heeft toegang tot de opslag nodig om bestanden te downloaden</translation>
-<translation id="7651600795135059130">Checkt URL's aan de hand van een lijst met onveilige sites die is opgeslagen in Kahf</translation>
-<translation id="5019879183386042809">Kahf als standaardbrowser instellen</translation>
-<translation id="428541510811554120">Kahf kan niet checken op updates. Check de internetverbinding.</translation>
-<translation id="7445061995866044926">Uitloggen bij Kahf?</translation>
+<translation id="4368341489795135329">Zorg dat je bent ingelogd bij BrowseWeb3 op je <ph name="TARGET_DEVICE_NAME"/> en probeer opnieuw te sturen.</translation>
+<translation id="8320964054148936490">Deze computer beschikt al over een recentere versie van BrowseWeb3. Als de software niet werkt, moet je BrowseWeb3 verwijderen en het opnieuw proberen.</translation>
+<translation id="3574823187131579180">{0,plural, =0{BrowseWeb3 wordt nu opnieuw gestart}=1{BrowseWeb3 wordt over één seconde opnieuw gestart}other{BrowseWeb3 wordt over # seconden opnieuw gestart}}</translation>
+<translation id="5980269616827212166">BrowseWeb3 heeft toegang tot de opslag nodig om bestanden te downloaden</translation>
+<translation id="7651600795135059130">Checkt URL's aan de hand van een lijst met onveilige sites die is opgeslagen in BrowseWeb3</translation>
+<translation id="5019879183386042809">BrowseWeb3 als standaardbrowser instellen</translation>
+<translation id="428541510811554120">BrowseWeb3 kan niet checken op updates. Check de internetverbinding.</translation>
+<translation id="7445061995866044926">Uitloggen bij BrowseWeb3?</translation>
 <translation id="6273793429163604305">Op je plaats...</translation>
-<translation id="6806912298071949921">Je Kahf-profiel aanpassen</translation>
-<translation id="3792238845239580301">Je Kahf-profiel een naam geven</translation>
-<translation id="3561569806301739367"><ph name="FILE_NAME"/> kan gevaarlijk zijn en is daarom door Kahf geblokkeerd.</translation>
-<translation id="3205074487970075628">Kahf gebruikt je camera.</translation>
-<translation id="7470405854261046555">Kahf heeft dit bestand geblokkeerd omdat het gevaarlijk is</translation>
+<translation id="6806912298071949921">Je BrowseWeb3-profiel aanpassen</translation>
+<translation id="3792238845239580301">Je BrowseWeb3-profiel een naam geven</translation>
+<translation id="3561569806301739367"><ph name="FILE_NAME"/> kan gevaarlijk zijn en is daarom door BrowseWeb3 geblokkeerd.</translation>
+<translation id="3205074487970075628">BrowseWeb3 gebruikt je camera.</translation>
+<translation id="7470405854261046555">BrowseWeb3 heeft dit bestand geblokkeerd omdat het gevaarlijk is</translation>
 <translation id="6327105987658262776">Er is geen update beschikbaar.</translation>
-<translation id="1819119299840995223">Er wordt een andere bewerking in Kahf uitgevoerd. Probeer het later opnieuw.</translation>
-<translation id="8616874628011103667">Het is nu gemakkelijker om Kahf met je Kahf-account en op gedeelde computers te gebruiken.</translation>
-<translation id="6890616081898535725">Kahf heeft deze download geblokkeerd, omdat het bestand niet vaak wordt gedownload en misschien gevaarlijk is</translation>
-<translation id="335632367599648646">Weet je zeker dat je Kahf wilt verwijderen?</translation>
+<translation id="1819119299840995223">Er wordt een andere bewerking in BrowseWeb3 uitgevoerd. Probeer het later opnieuw.</translation>
+<translation id="8616874628011103667">Het is nu gemakkelijker om BrowseWeb3 met je BrowseWeb3-account en op gedeelde computers te gebruiken.</translation>
+<translation id="6890616081898535725">BrowseWeb3 heeft deze download geblokkeerd, omdat het bestand niet vaak wordt gedownload en misschien gevaarlijk is</translation>
+<translation id="335632367599648646">Weet je zeker dat je BrowseWeb3 wilt verwijderen?</translation>
 <translation id="6375219077595103062">Voeg een snelkoppeling naar Wachtwoordmanager toe</translation>
-<translation id="4867486350347355096"><ph name="BEGIN_BOLD"/>Hoe we deze gegevens gebruiken:<ph name="END_BOLD"/> Kahf kan een schatting van je interesses maken. Later kan een site die je bezoekt Kahf vragen om je interesses te bekijken zodat de advertenties die je ziet, kunnen worden gepersonaliseerd.</translation>
-<translation id="3256100650978957522">Kahf-logo in een computerscherm.</translation>
-<translation id="6373767849825830651">Kahf is een webbrowser die webpagina's en applicaties bliksemsnel uitvoert. Kahf is snel, stabiel en eenvoudig in gebruik. Surf veiliger op internet met de in Kahf ingebouwde beveiliging tegen malware en phishing.</translation>
-<translation id="2139300032719313227">Kahf OS opnieuw opstarten</translation>
-<translation id="638302211119176182">Kahf laadt vooraf nog meer pagina's die je waarschijnlijk gaat bezoeken, zodat de pagina's sneller laden als je ze bezoekt.</translation>
-<translation id="1684121725014454063">Welkom bij Kahf-profielen</translation>
-<translation id="2675662665675552980">Hiermee wordt ook gecontroleerd welke pagina wordt getoond wanneer je Kahf start.</translation>
+<translation id="4867486350347355096"><ph name="BEGIN_BOLD"/>Hoe we deze gegevens gebruiken:<ph name="END_BOLD"/> BrowseWeb3 kan een schatting van je interesses maken. Later kan een site die je bezoekt BrowseWeb3 vragen om je interesses te bekijken zodat de advertenties die je ziet, kunnen worden gepersonaliseerd.</translation>
+<translation id="3256100650978957522">BrowseWeb3-logo in een computerscherm.</translation>
+<translation id="6373767849825830651">BrowseWeb3 is een webbrowser die webpagina's en applicaties bliksemsnel uitvoert. BrowseWeb3 is snel, stabiel en eenvoudig in gebruik. Surf veiliger op internet met de in BrowseWeb3 ingebouwde beveiliging tegen malware en phishing.</translation>
+<translation id="2139300032719313227">BrowseWeb3 OS opnieuw opstarten</translation>
+<translation id="638302211119176182">BrowseWeb3 laadt vooraf nog meer pagina's die je waarschijnlijk gaat bezoeken, zodat de pagina's sneller laden als je ze bezoekt.</translation>
+<translation id="1684121725014454063">Welkom bij BrowseWeb3-profielen</translation>
+<translation id="2675662665675552980">Hiermee wordt ook gecontroleerd welke pagina wordt getoond wanneer je BrowseWeb3 start.</translation>
 <translation id="648319183876919572">De uitgebreide versie van Safe Browsing doet meer om je te beschermen tegen gevaarlijke websites en downloads</translation>
-<translation id="5590013613412457132">Kahf verwijderen</translation>
-<translation id="3617744907966785605">Je organisatie sluit Kahf als deze <ph name="TIMEOUT_DURATION"/> niet wordt gebruikt. Browsegegevens zijn verwijderd. Dit kunnen onder andere de geschiedenis, gegevens voor automatisch invullen en downloads zijn.</translation>
-<translation id="8646609321956191980">Elk profiel heeft eigen Kahf-informatie, zoals bookmarks, geschiedenis en wachtwoorden</translation>
-<translation id="6756656512757374876">Meer informatie over <ph name="BEGIN_LINK"/>hoe Kahf je gegevens privé houdt<ph name="END_LINK"/></translation>
-<translation id="2535436634051789953">Je kunt schakelen om wachtwoorden van een ander Kahf-profiel te bekijken</translation>
-<translation id="2312399718665761438">Kahf verzendt de tekst die je in tekstvelden typt naar Kahf om spelfouten te corrigeren</translation>
-<translation id="3507835409099344374">Ga naar instellingen voor Kahf-meldingen</translation>
-<translation id="9156965752763025780">Je wijzigingen worden toegepast wanneer je Kahf opnieuw start.</translation>
-<translation id="245693535809364497">Kahf heeft camerarechten nodig om een 3D-kaart van je omgeving te maken</translation>
-<translation id="5060669762365466104">Sites werken waarschijnlijk zoals verwacht, maar onthouden je niet nadat je alle Kahf-vensters hebt gesloten</translation>
-<translation id="9210457680074341078">Als je je bookmarks ook opslaat in je Kahf-account, kun je productprijzen in Kahf bijhouden en een melding krijgen als de prijs daalt</translation>
+<translation id="5590013613412457132">BrowseWeb3 verwijderen</translation>
+<translation id="3617744907966785605">Je organisatie sluit BrowseWeb3 als deze <ph name="TIMEOUT_DURATION"/> niet wordt gebruikt. Browsegegevens zijn verwijderd. Dit kunnen onder andere de geschiedenis, gegevens voor automatisch invullen en downloads zijn.</translation>
+<translation id="8646609321956191980">Elk profiel heeft eigen BrowseWeb3-informatie, zoals bookmarks, geschiedenis en wachtwoorden</translation>
+<translation id="6756656512757374876">Meer informatie over <ph name="BEGIN_LINK"/>hoe BrowseWeb3 je gegevens privé houdt<ph name="END_LINK"/></translation>
+<translation id="2535436634051789953">Je kunt schakelen om wachtwoorden van een ander BrowseWeb3-profiel te bekijken</translation>
+<translation id="2312399718665761438">BrowseWeb3 verzendt de tekst die je in tekstvelden typt naar BrowseWeb3 om spelfouten te corrigeren</translation>
+<translation id="3507835409099344374">Ga naar instellingen voor BrowseWeb3-meldingen</translation>
+<translation id="9156965752763025780">Je wijzigingen worden toegepast wanneer je BrowseWeb3 opnieuw start.</translation>
+<translation id="245693535809364497">BrowseWeb3 heeft camerarechten nodig om een 3D-kaart van je omgeving te maken</translation>
+<translation id="5060669762365466104">Sites werken waarschijnlijk zoals verwacht, maar onthouden je niet nadat je alle BrowseWeb3-vensters hebt gesloten</translation>
+<translation id="9210457680074341078">Als je je bookmarks ook opslaat in je BrowseWeb3-account, kun je productprijzen in BrowseWeb3 bijhouden en een melding krijgen als de prijs daalt</translation>
 <translation id="6676384891291319759">Verbinding maken met internet</translation>
-<translation id="1363996462118479832">Kahf OS kan je gegevens niet synchroniseren vanwege een fout tijdens het inloggen.</translation>
-<translation id="1257247502847251159">Kahf heeft microfoonrechten nodig voor deze site</translation>
+<translation id="1363996462118479832">BrowseWeb3 OS kan je gegevens niet synchroniseren vanwege een fout tijdens het inloggen.</translation>
+<translation id="1257247502847251159">BrowseWeb3 heeft microfoonrechten nodig voor deze site</translation>
 <translation id="6712881677154121168">Downloadfout: <ph name="DOWNLOAD_ERROR"/>.</translation>
-<translation id="1489465648257900784">Je profiel kan niet worden gebruikt, omdat dit is gemaakt in een recentere versie van Kahf.
+<translation id="1489465648257900784">Je profiel kan niet worden gebruikt, omdat dit is gemaakt in een recentere versie van BrowseWeb3.
 
-Sommige functies zijn mogelijk niet beschikbaar. Geef een andere profieldirectory op of gebruik een recentere versie van Kahf.</translation>
-<translation id="7870748924073900361">Geheugenbesparing heeft Kahf sneller gemaakt</translation>
-<translation id="6666624454809779082">Kahf is al geïnstalleerd voor alle gebruikers op je computer.</translation>
-<translation id="5360050006043219962">Log in en zet synchronisatie aan voor toegang tot je Kahf-gegevens op al je apparaten</translation>
-<translation id="3136039682492230890">Kahf raadt aan dit bestand te scannen omdat het misschien gevaarlijk is.</translation>
-<translation id="1547295885616600893">Kahf OS wordt mogelijk gemaakt door aanvullende <ph name="BEGIN_LINK_CROS_OSS"/>opensource-software<ph name="END_LINK_CROS_OSS"/>.</translation>
-<translation id="8211837073776713955">Kahf laat het je weten als je wachtwoorden mogelijk niet veilig meer zijn</translation>
-<translation id="4879299985215961051">Kahf heeft dit bestand geblokkeerd omdat het malware bevat</translation>
-<translation id="7830723774663008396">Kahf - <ph name="PAGE_TITLE"/></translation>
-<translation id="2049565899730874086">Google Pay (gekopieerd naar Kahf)</translation>
-<translation id="3028928628792374067">Kahf heeft vastgesteld dat <ph name="EXTENSION_NAME"/> malware bevat</translation>
-<translation id="2301993384336631869">Kahf is bijgewerkt, maar je hebt het programma minstens 30 dagen niet gebruikt.</translation>
-<translation id="8828443087767259398">Kahf heeft bluetooth-toegang nodig om door te gaan met koppelen. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK"/></translation>
-<translation id="126871877963043118">Tijdens actieve proeven kunnen sites die je bezoekt Kahf via Advertentiemeting om informatie vragen zodat ze de prestaties van hun advertenties kunnen meten. Advertentiemeting beperkt tracking op meerdere sites door zo min mogelijk informatie over te dragen tussen sites.</translation>
-<translation id="4392161457256085190">Later kan een site die je bezoekt Kahf vragen om je interesses te bekijken zodat de advertenties die je ziet, kunnen worden gepersonaliseerd. Kahf kan maximaal 3 interesses delen.</translation>
-<translation id="6418340404893954563">Zwakke wachtwoorden zijn makkelijk te raden. Laat Kahf <ph name="BEGIN_LINK"/>sterke wachtwoorden voor je instellen en onthouden<ph name="END_LINK"/>.</translation>
-<translation id="7164968566146897003">Als deze functie aanstaat, maakt Kahf geheugen van inactieve tabbladen vrij. Zo krijgen actieve tabbladen en andere apps meer computerbronnen en blijft Kahf snel. Je inactieve tabbladen worden automatisch weer actief als je ernaar terugkeert.</translation>
-<translation id="3453763134178591239">Voorwaarden van Kahf OS</translation>
-<translation id="3335606533094650083">Kahf heeft toegangsrechten voor je microfoon nodig voor deze site</translation>
+Sommige functies zijn mogelijk niet beschikbaar. Geef een andere profieldirectory op of gebruik een recentere versie van BrowseWeb3.</translation>
+<translation id="7870748924073900361">Geheugenbesparing heeft BrowseWeb3 sneller gemaakt</translation>
+<translation id="6666624454809779082">BrowseWeb3 is al geïnstalleerd voor alle gebruikers op je computer.</translation>
+<translation id="5360050006043219962">Log in en zet synchronisatie aan voor toegang tot je BrowseWeb3-gegevens op al je apparaten</translation>
+<translation id="3136039682492230890">BrowseWeb3 raadt aan dit bestand te scannen omdat het misschien gevaarlijk is.</translation>
+<translation id="1547295885616600893">BrowseWeb3 OS wordt mogelijk gemaakt door aanvullende <ph name="BEGIN_LINK_CROS_OSS"/>opensource-software<ph name="END_LINK_CROS_OSS"/>.</translation>
+<translation id="8211837073776713955">BrowseWeb3 laat het je weten als je wachtwoorden mogelijk niet veilig meer zijn</translation>
+<translation id="4879299985215961051">BrowseWeb3 heeft dit bestand geblokkeerd omdat het malware bevat</translation>
+<translation id="7830723774663008396">BrowseWeb3 - <ph name="PAGE_TITLE"/></translation>
+<translation id="2049565899730874086">Google Pay (gekopieerd naar BrowseWeb3)</translation>
+<translation id="3028928628792374067">BrowseWeb3 heeft vastgesteld dat <ph name="EXTENSION_NAME"/> malware bevat</translation>
+<translation id="2301993384336631869">BrowseWeb3 is bijgewerkt, maar je hebt het programma minstens 30 dagen niet gebruikt.</translation>
+<translation id="8828443087767259398">BrowseWeb3 heeft bluetooth-toegang nodig om door te gaan met koppelen. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK"/></translation>
+<translation id="126871877963043118">Tijdens actieve proeven kunnen sites die je bezoekt BrowseWeb3 via Advertentiemeting om informatie vragen zodat ze de prestaties van hun advertenties kunnen meten. Advertentiemeting beperkt tracking op meerdere sites door zo min mogelijk informatie over te dragen tussen sites.</translation>
+<translation id="4392161457256085190">Later kan een site die je bezoekt BrowseWeb3 vragen om je interesses te bekijken zodat de advertenties die je ziet, kunnen worden gepersonaliseerd. BrowseWeb3 kan maximaal 3 interesses delen.</translation>
+<translation id="6418340404893954563">Zwakke wachtwoorden zijn makkelijk te raden. Laat BrowseWeb3 <ph name="BEGIN_LINK"/>sterke wachtwoorden voor je instellen en onthouden<ph name="END_LINK"/>.</translation>
+<translation id="7164968566146897003">Als deze functie aanstaat, maakt BrowseWeb3 geheugen van inactieve tabbladen vrij. Zo krijgen actieve tabbladen en andere apps meer computerbronnen en blijft BrowseWeb3 snel. Je inactieve tabbladen worden automatisch weer actief als je ernaar terugkeert.</translation>
+<translation id="3453763134178591239">Voorwaarden van BrowseWeb3 OS</translation>
+<translation id="3335606533094650083">BrowseWeb3 heeft toegangsrechten voor je microfoon nodig voor deze site</translation>
 <translation id="7011190694940573312">De installatie is mislukt omdat deze versie van het besturingssysteem niet wordt ondersteund.</translation>
 <translation id="7024536598735240744">Fout bij uitpakken: <ph name="UNPACK_ERROR"/>.</translation>
 <translation id="7025789849649390912">Installatie gestopt.</translation>
-<translation id="1705567146636171298">Kahf updaten</translation>
-<translation id="5499063270485366718">Als een afbeelding geen nuttige beschrijving bevat, probeert Kahf je er een te geven. Afbeeldingen worden naar Kahf verzonden om beschrijvingen te maken.</translation>
-<translation id="5966368554860795750">Kahf for Testing aanpassen</translation>
-<translation id="2332301637111071062">Je organisatie verwijdert Kahf-gegevens als deze <ph name="TIMEOUT_DURATION"/> niet worden gebruikt. Dit kunnen onder andere de geschiedenis, gegevens voor automatisch invullen en downloads zijn.</translation>
-<translation id="1008530050039597147">Kahf heeft camerarechten nodig voor deze site</translation>
-<translation id="1197672524850678392">Kan Kahf niet starten. Probeer het opnieuw.</translation>
-<translation id="3405035915691517126">Kahf kan je wachtwoorden niet checken. Probeer het over 24 uur opnieuw.</translation>
-<translation id="5755581833598928580">Kahf gebruiken als je op links in berichten, documenten en andere apps klikt</translation>
-<translation id="5516268345616100622">Taakbeheer - Kahf</translation>
-<translation id="713191641919118540">Je interesses volgens schattingen van Kahf</translation>
-<translation id="9068395155143628872">Via Advertentiemeting kunnen sites die je bezoekt Kahf om informatie vragen zodat ze de prestaties van hun advertenties kunnen meten. Advertentiemeting beperkt tracking op meerdere sites door zo min mogelijk informatie over te dragen tussen sites.</translation>
-<translation id="1864557848095568223">Kahf updaten</translation>
+<translation id="1705567146636171298">BrowseWeb3 updaten</translation>
+<translation id="5499063270485366718">Als een afbeelding geen nuttige beschrijving bevat, probeert BrowseWeb3 je er een te geven. Afbeeldingen worden naar BrowseWeb3 verzonden om beschrijvingen te maken.</translation>
+<translation id="5966368554860795750">BrowseWeb3 for Testing aanpassen</translation>
+<translation id="2332301637111071062">Je organisatie verwijdert BrowseWeb3-gegevens als deze <ph name="TIMEOUT_DURATION"/> niet worden gebruikt. Dit kunnen onder andere de geschiedenis, gegevens voor automatisch invullen en downloads zijn.</translation>
+<translation id="1008530050039597147">BrowseWeb3 heeft camerarechten nodig voor deze site</translation>
+<translation id="1197672524850678392">Kan BrowseWeb3 niet starten. Probeer het opnieuw.</translation>
+<translation id="3405035915691517126">BrowseWeb3 kan je wachtwoorden niet checken. Probeer het over 24 uur opnieuw.</translation>
+<translation id="5755581833598928580">BrowseWeb3 gebruiken als je op links in berichten, documenten en andere apps klikt</translation>
+<translation id="5516268345616100622">Taakbeheer - BrowseWeb3</translation>
+<translation id="713191641919118540">Je interesses volgens schattingen van BrowseWeb3</translation>
+<translation id="9068395155143628872">Via Advertentiemeting kunnen sites die je bezoekt BrowseWeb3 om informatie vragen zodat ze de prestaties van hun advertenties kunnen meten. Advertentiemeting beperkt tracking op meerdere sites door zo min mogelijk informatie over te dragen tussen sites.</translation>
+<translation id="1864557848095568223">BrowseWeb3 updaten</translation>
 <translation id="3403365884036456766">Je bestand met voorkeuren is beschadigd of ongeldig.
 
-Kahf kan je instellingen niet herstellen.</translation>
+BrowseWeb3 kan je instellingen niet herstellen.</translation>
 <translation id="7339898014177206373">Nieuw venster</translation>
-<translation id="3511996232906761537">Hier vind je internet, bookmarks en andere Kahf-instellingen.</translation>
-<translation id="5380963249588143069">Je systeembeheerder heeft Kahf geconfigureerd om <ph name="ALTERNATIVE_BROWSER_NAME"/> te openen voor toegang tot <ph name="TARGET_URL_HOSTNAME"/>.</translation>
-<translation id="38294420683216447">Met Kahf-profielen kun je alle Kahf-gegevens gescheiden houden. Zo kun je makkelijker onderscheid maken tussen werk en privé.</translation>
-<translation id="3943696263619956191"><ph name="PAGE_TITLE"/> - Kahf voor ontwikkelaars</translation>
-<translation id="2034072705932785495">Kahf heeft toegangsrechten voor je camera nodig voor deze site</translation>
-<translation id="5296583608321648908">Als je toekomstige Kahf-updates wilt krijgen, heb je Windows 10 of hoger nodig. Deze computer gebruikt Windows 7.</translation>
-<translation id="3962395975456095331">Kahf opnieuw starten?</translation>
-<translation id="2619516027171717873">Kan niet dezelfde Kahf-versie installeren, omdat deze versie nu actief is. Sluit Kahf en probeer het opnieuw.</translation>
-<translation id="3186363903915641692">{0,plural, =1{Kahf wordt over één minuut opnieuw gestart}other{Kahf wordt over # minuten opnieuw gestart}}</translation>
-<translation id="6378857626787254617">Kahf kan een schatting van je interesses maken. Later kan een site die je bezoekt Kahf vragen om je interesses te bekijken zodat de advertenties die je ziet, kunnen worden gepersonaliseerd.</translation>
+<translation id="3511996232906761537">Hier vind je internet, bookmarks en andere BrowseWeb3-instellingen.</translation>
+<translation id="5380963249588143069">Je systeembeheerder heeft BrowseWeb3 geconfigureerd om <ph name="ALTERNATIVE_BROWSER_NAME"/> te openen voor toegang tot <ph name="TARGET_URL_HOSTNAME"/>.</translation>
+<translation id="38294420683216447">Met BrowseWeb3-profielen kun je alle BrowseWeb3-gegevens gescheiden houden. Zo kun je makkelijker onderscheid maken tussen werk en privé.</translation>
+<translation id="3943696263619956191"><ph name="PAGE_TITLE"/> - BrowseWeb3 voor ontwikkelaars</translation>
+<translation id="2034072705932785495">BrowseWeb3 heeft toegangsrechten voor je camera nodig voor deze site</translation>
+<translation id="5296583608321648908">Als je toekomstige BrowseWeb3-updates wilt krijgen, heb je Windows 10 of hoger nodig. Deze computer gebruikt Windows 7.</translation>
+<translation id="3962395975456095331">BrowseWeb3 opnieuw starten?</translation>
+<translation id="2619516027171717873">Kan niet dezelfde BrowseWeb3-versie installeren, omdat deze versie nu actief is. Sluit BrowseWeb3 en probeer het opnieuw.</translation>
+<translation id="3186363903915641692">{0,plural, =1{BrowseWeb3 wordt over één minuut opnieuw gestart}other{BrowseWeb3 wordt over # minuten opnieuw gestart}}</translation>
+<translation id="6378857626787254617">BrowseWeb3 kan een schatting van je interesses maken. Later kan een site die je bezoekt BrowseWeb3 vragen om je interesses te bekijken zodat de advertenties die je ziet, kunnen worden gepersonaliseerd.</translation>
 <translation id="7583399374488819119"><ph name="COMPANY_NAME"/>-installatieprogramma</translation>
-<translation id="3293668930608086049">Kahf gebruikt je camera en microfoon.</translation>
-<translation id="2827121003398607864">Kahf is nu nog beter</translation>
+<translation id="3293668930608086049">BrowseWeb3 gebruikt je camera en microfoon.</translation>
+<translation id="2827121003398607864">BrowseWeb3 is nu nog beter</translation>
 <translation id="7649070708921625228">Hulp</translation>
-<translation id="7631741717293858595">Bekijk meer informatie over deze functies in de Kahf-instellingen.</translation>
-<translation id="8678991866891573053">Kahf bevat nieuwe experimentele functies waarmee sites dezelfde browsefunctionaliteit kunnen leveren terwijl er minder van je gegevens worden gebruikt</translation>
-<translation id="3343095737966473035">Kahf is niet je standaardbrowser</translation>
-<translation id="5477319665405831211">Kahf synchroniseren en personaliseren op al je apparaten</translation>
-<translation id="2339273275658335597">Kahf-update</translation>
-<translation id="4784414698887946907">Hiermee worden je browsegegevens verwijderd van dit apparaat. Als je je gegevens later wilt terughalen, log je in bij Kahf als <ph name="USER_EMAIL"/>.</translation>
+<translation id="7631741717293858595">Bekijk meer informatie over deze functies in de BrowseWeb3-instellingen.</translation>
+<translation id="8678991866891573053">BrowseWeb3 bevat nieuwe experimentele functies waarmee sites dezelfde browsefunctionaliteit kunnen leveren terwijl er minder van je gegevens worden gebruikt</translation>
+<translation id="3343095737966473035">BrowseWeb3 is niet je standaardbrowser</translation>
+<translation id="5477319665405831211">BrowseWeb3 synchroniseren en personaliseren op al je apparaten</translation>
+<translation id="2339273275658335597">BrowseWeb3-update</translation>
+<translation id="4784414698887946907">Hiermee worden je browsegegevens verwijderd van dit apparaat. Als je je gegevens later wilt terughalen, log je in bij BrowseWeb3 als <ph name="USER_EMAIL"/>.</translation>
 <translation id="7747138024166251722">Het installatieprogramma kan geen tijdelijke directory maken. Controleer of je nog schijfruimte hebt en of je rechten hebt om software te installeren.</translation>
-<translation id="1978509466033734608">Maak Kahf sneller</translation>
-<translation id="6236814935154483927"><ph name="PAGE_TITLE"/> - Kahf Canary</translation>
-<translation id="1652855885539187849">Er bestaat op dit apparaat al een Kahf-profiel met dit account</translation>
+<translation id="1978509466033734608">Maak BrowseWeb3 sneller</translation>
+<translation id="6236814935154483927"><ph name="PAGE_TITLE"/> - BrowseWeb3 Canary</translation>
+<translation id="1652855885539187849">Er bestaat op dit apparaat al een BrowseWeb3-profiel met dit account</translation>
 <translation id="7845233973568007926">Bedankt voor het installeren. Je moet de computer opnieuw opstarten voordat je <ph name="BUNDLE_NAME"/> kunt gebruiken.</translation>
-<translation id="7963515534397191222">Kahf kan niet worden geüpdatet naar de nieuwste versie, dus je loopt nieuwe functies en beveiligingsoplossingen mis.</translation>
+<translation id="7963515534397191222">BrowseWeb3 kan niet worden geüpdatet naar de nieuwste versie, dus je loopt nieuwe functies en beveiligingsoplossingen mis.</translation>
 <translation id="7872446069773932638">Downloaden... Nog <ph name="SECONDS"/> seconden</translation>
-<translation id="1977195831772110829"><ph name="BEGIN_BOLD"/>Hoe je je gegevens kunt beheren:<ph name="END_BOLD"/> Ter bescherming van je privacy verwijderen we automatisch interesses die ouder zijn dan 4 weken. Het kan gebeuren dat een interesse weer in de lijst komt te staan als je blijft browsen. Je kunt ook interesses verwijderen waarvan je niet wilt dat Kahf deze overweegt.</translation>
-<translation id="2925193881330501265">Je bent ingelogd bij Kahf als <ph name="USER_EMAIL_ADDRESS"/>. Gebruik hetzelfde account om opnieuw in te loggen.</translation>
-<translation id="6915252145142862992">Dit is een tweede installatie van Kahf en kan niet als standaardbrowser worden ingesteld.</translation>
-<translation id="7685904775439037072">Zodra Kahf toegang heeft, kunnen websites je om toegang vragen.</translation>
+<translation id="1977195831772110829"><ph name="BEGIN_BOLD"/>Hoe je je gegevens kunt beheren:<ph name="END_BOLD"/> Ter bescherming van je privacy verwijderen we automatisch interesses die ouder zijn dan 4 weken. Het kan gebeuren dat een interesse weer in de lijst komt te staan als je blijft browsen. Je kunt ook interesses verwijderen waarvan je niet wilt dat BrowseWeb3 deze overweegt.</translation>
+<translation id="2925193881330501265">Je bent ingelogd bij BrowseWeb3 als <ph name="USER_EMAIL_ADDRESS"/>. Gebruik hetzelfde account om opnieuw in te loggen.</translation>
+<translation id="6915252145142862992">Dit is een tweede installatie van BrowseWeb3 en kan niet als standaardbrowser worden ingesteld.</translation>
+<translation id="7685904775439037072">Zodra BrowseWeb3 toegang heeft, kunnen websites je om toegang vragen.</translation>
 <translation id="80471789339884597">Bedankt voor het installeren. Je moet alle browsers opnieuw opstarten voordat je <ph name="BUNDLE_NAME"/> kunt gebruiken.</translation>
 <translation id="8086881907087796310">De installatie is mislukt omdat je computer niet voldoet aan de minimale hardwarevereisten.</translation>
-<translation id="8263061319795838019"><ph name="PAGE_TITLE"/> - Kahf for Testing</translation>
-<translation id="2061155704815580583">Kahf heeft locatierechten nodig voor deze site</translation>
-<translation id="5334309298019785904">Kahf OS kan je gegevens niet synchroniseren, omdat synchronisatie niet beschikbaar is voor je domein.</translation>
+<translation id="8263061319795838019"><ph name="PAGE_TITLE"/> - BrowseWeb3 for Testing</translation>
+<translation id="2061155704815580583">BrowseWeb3 heeft locatierechten nodig voor deze site</translation>
+<translation id="5334309298019785904">BrowseWeb3 OS kan je gegevens niet synchroniseren, omdat synchronisatie niet beschikbaar is voor je domein.</translation>
 <translation id="813913629614996137">Starten...</translation>
-<translation id="9067428552314418522">Dit bestand is gevaarlijk en is daarom door Kahf geblokkeerd.</translation>
-<translation id="7344826952831915813">Kahf heeft dit bestand geblokkeerd omdat dit type bestand gevaarlijk is</translation>
-<translation id="8207657266087451193">Als een afbeelding geen nuttige beschrijving bevat, probeert Kahf je er een te geven. Afbeeldingen worden naar Kahf gestuurd om beschrijvingen te maken. Je kunt dit op elk gewenst moment uitzetten in Instellingen.</translation>
-<translation id="8622246347342688645">Kahf kan je wachtwoorden niet checken omdat je niet bent ingelogd.</translation>
-<translation id="976541154724186511"><ph name="BEGIN_LINK"/>Kahf waarschuwt je<ph name="END_LINK"/> voor onveilige sites en downloads.</translation>
-<translation id="89367911614620585">Dit bestand kan gevaarlijk zijn en is daarom door Kahf geblokkeerd.</translation>
-<translation id="6098476632210317894">Je organisatie sluit Kahf als deze <ph name="TIMEOUT_DURATION"/> niet wordt gebruikt.</translation>
-<translation id="5196445203969439095">Doe meer met Kahf</translation>
-<translation id="3360368475735266712">Log in om Kahf op al je apparaten te synchroniseren en te personaliseren</translation>
-<translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> maakte eerder gebruik van Kahf</translation>
-<translation id="3098618823450433881">Log in en zet synchronisatie aan voor toegang tot je Kahf-browsergegevens op al je apparaten</translation>
-<translation id="2569754604093464025">Als je toekomstige Kahf-updates wilt krijgen, heb je Windows 10 of hoger nodig. Deze computer gebruikt Windows 8.</translation>
-<translation id="8577108764439626300">De publicatie van deze extensie is ongedaan gemaakt door de ontwikkelaar en deze is mogelijk onveilig. Verwijder de extensie van Kahf zodat deze je gegevens (waaronder je persoonlijke informatie) niet meer kan bekijken en wijzigen op sites die je bezoekt.</translation>
-<translation id="5337999052834672687">{0,plural, =1{Start Kahf binnen een dag opnieuw}other{Start Kahf binnen # dagen opnieuw}}</translation>
-<translation id="6914496861676471566">Het archief van het installatieprogramma is beschadigd of ongeldig. Download Kahf opnieuw.</translation>
-<translation id="4378573854226202617">Voor Kahf is Windows 10 of hoger vereist.</translation>
-<translation id="6431861494713261006">Optioneel: Help de functies en prestaties van Kahf OS te verbeteren door automatisch diagnostische en gebruiksgegevens naar Kahf te sturen.</translation>
-<translation id="2097604701283463988">Kahf is verouderd</translation>
-<translation id="871233388178581868">Kahf kan je wachtwoorden checken als je deze hebt opgeslagen</translation>
+<translation id="9067428552314418522">Dit bestand is gevaarlijk en is daarom door BrowseWeb3 geblokkeerd.</translation>
+<translation id="7344826952831915813">BrowseWeb3 heeft dit bestand geblokkeerd omdat dit type bestand gevaarlijk is</translation>
+<translation id="8207657266087451193">Als een afbeelding geen nuttige beschrijving bevat, probeert BrowseWeb3 je er een te geven. Afbeeldingen worden naar BrowseWeb3 gestuurd om beschrijvingen te maken. Je kunt dit op elk gewenst moment uitzetten in Instellingen.</translation>
+<translation id="8622246347342688645">BrowseWeb3 kan je wachtwoorden niet checken omdat je niet bent ingelogd.</translation>
+<translation id="976541154724186511"><ph name="BEGIN_LINK"/>BrowseWeb3 waarschuwt je<ph name="END_LINK"/> voor onveilige sites en downloads.</translation>
+<translation id="89367911614620585">Dit bestand kan gevaarlijk zijn en is daarom door BrowseWeb3 geblokkeerd.</translation>
+<translation id="6098476632210317894">Je organisatie sluit BrowseWeb3 als deze <ph name="TIMEOUT_DURATION"/> niet wordt gebruikt.</translation>
+<translation id="5196445203969439095">Doe meer met BrowseWeb3</translation>
+<translation id="3360368475735266712">Log in om BrowseWeb3 op al je apparaten te synchroniseren en te personaliseren</translation>
+<translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> maakte eerder gebruik van BrowseWeb3</translation>
+<translation id="3098618823450433881">Log in en zet synchronisatie aan voor toegang tot je BrowseWeb3-browsergegevens op al je apparaten</translation>
+<translation id="2569754604093464025">Als je toekomstige BrowseWeb3-updates wilt krijgen, heb je Windows 10 of hoger nodig. Deze computer gebruikt Windows 8.</translation>
+<translation id="8577108764439626300">De publicatie van deze extensie is ongedaan gemaakt door de ontwikkelaar en deze is mogelijk onveilig. Verwijder de extensie van BrowseWeb3 zodat deze je gegevens (waaronder je persoonlijke informatie) niet meer kan bekijken en wijzigen op sites die je bezoekt.</translation>
+<translation id="5337999052834672687">{0,plural, =1{Start BrowseWeb3 binnen een dag opnieuw}other{Start BrowseWeb3 binnen # dagen opnieuw}}</translation>
+<translation id="6914496861676471566">Het archief van het installatieprogramma is beschadigd of ongeldig. Download BrowseWeb3 opnieuw.</translation>
+<translation id="4378573854226202617">Voor BrowseWeb3 is Windows 10 of hoger vereist.</translation>
+<translation id="6431861494713261006">Optioneel: Help de functies en prestaties van BrowseWeb3 OS te verbeteren door automatisch diagnostische en gebruiksgegevens naar BrowseWeb3 te sturen.</translation>
+<translation id="2097604701283463988">BrowseWeb3 is verouderd</translation>
+<translation id="871233388178581868">BrowseWeb3 kan je wachtwoorden checken als je deze hebt opgeslagen</translation>
 <translation id="8550334526674375523">Dit werkprofiel is volledig gescheiden van je persoonlijke profiel.</translation>
 <translation id="8555465886620020932">Servicefout: <ph name="SERVICE_ERROR"/>.</translation>
-<translation id="227028348235968071">Kahf kan je wachtwoorden checken als je inlogt met je Kahf-account</translation>
-<translation id="8121009781989288430">Copyright © <ph name="YEAR"/> De auteurs van Kahf. Alle rechten voorbehouden.</translation>
-<translation id="7890337656251106515"><ph name="BEGIN_BOLD"/>Hoe we deze gegevens gebruiken:<ph name="END_BOLD"/> Sites kunnen informatie over je interesses in Kahf opslaan. Als je bijvoorbeeld een site bezoekt om schoenen voor een marathon te kopen, kan de site je interesse definiëren als 'deelname aan marathons'. Als je later een andere site bezoekt om je aan te melden voor een race, kan die site je een advertentie voor hardloopschoenen laten zien op basis van je interesses.</translation>
-<translation id="3052349005266761501">Kahf starten…</translation>
-<translation id="6283840329609797763">De installatie is mislukt wegens een onbekende fout. Download Kahf opnieuw.</translation>
-<translation id="5128665650717824082">Kahf for Testing kan niet worden ingesteld als je standaardbrowser.</translation>
-<translation id="2433912322225810055">Hiermee wordt ook gecontroleerd welke pagina wordt getoond wanneer je Kahf start of vanuit de omnibox zoekt.</translation>
-<translation id="4100716194836114130">Personaliseer jouw Kahf</translation>
-<translation id="1419543648228375718">Inloggen bij Kahf?</translation>
+<translation id="227028348235968071">BrowseWeb3 kan je wachtwoorden checken als je inlogt met je BrowseWeb3-account</translation>
+<translation id="8121009781989288430">Copyright © <ph name="YEAR"/> De auteurs van BrowseWeb3. Alle rechten voorbehouden.</translation>
+<translation id="7890337656251106515"><ph name="BEGIN_BOLD"/>Hoe we deze gegevens gebruiken:<ph name="END_BOLD"/> Sites kunnen informatie over je interesses in BrowseWeb3 opslaan. Als je bijvoorbeeld een site bezoekt om schoenen voor een marathon te kopen, kan de site je interesse definiëren als 'deelname aan marathons'. Als je later een andere site bezoekt om je aan te melden voor een race, kan die site je een advertentie voor hardloopschoenen laten zien op basis van je interesses.</translation>
+<translation id="3052349005266761501">BrowseWeb3 starten…</translation>
+<translation id="6283840329609797763">De installatie is mislukt wegens een onbekende fout. Download BrowseWeb3 opnieuw.</translation>
+<translation id="5128665650717824082">BrowseWeb3 for Testing kan niet worden ingesteld als je standaardbrowser.</translation>
+<translation id="2433912322225810055">Hiermee wordt ook gecontroleerd welke pagina wordt getoond wanneer je BrowseWeb3 start of vanuit de omnibox zoekt.</translation>
+<translation id="4100716194836114130">Personaliseer jouw BrowseWeb3</translation>
+<translation id="1419543648228375718">Inloggen bij BrowseWeb3?</translation>
 <translation id="878572486461146056">Installatiefout: Je netwerkbeheerder heeft een groepsbeleid toegepast waardoor er niet kan worden geïnstalleerd: <ph name="INSTALL_ERROR"/></translation>
-<translation id="4831743161813926460">Kahf heeft toegangsrechten voor je camera en microfoon nodig voor deze site</translation>
+<translation id="4831743161813926460">BrowseWeb3 heeft toegangsrechten voor je camera en microfoon nodig voor deze site</translation>
 <translation id="8826492472752484139">Klik op Wachtwoordmanager</translation>
-<translation id="6933858244219479645">Kahf OS-systeem</translation>
-<translation id="4105986395895210872"><ph name="BEGIN_BOLD"/>Welke gegevens worden gebruikt:<ph name="END_BOLD"/> Je browsegeschiedenis, een lijst van de sites die je via Kahf op dit apparaat hebt bezocht.</translation>
+<translation id="6933858244219479645">BrowseWeb3 OS-systeem</translation>
+<translation id="4105986395895210872"><ph name="BEGIN_BOLD"/>Welke gegevens worden gebruikt:<ph name="END_BOLD"/> Je browsegeschiedenis, een lijst van de sites die je via BrowseWeb3 op dit apparaat hebt bezocht.</translation>
 <translation id="8862326446509486874">Je hebt geen rechten om op systeemniveau te installeren. Meld je aan als beheerder en voer het installatieprogramma opnieuw uit.</translation>
-<translation id="6412037018950369131">Als dit het geval is, bewerk je het opgeslagen wachtwoord in Kahf, zodat het overeenkomt met je nieuwe wachtwoord.</translation>
-<translation id="8285294305439559616">Kahf probeert wachtwoorden te bekijken. Geef je Windows-wachtwoord op om dit toe te staan.</translation>
-<translation id="6514033039060816211">Kahf kan een schatting van je interesses maken op basis van je browsegeschiedenis van de afgelopen weken. Deze informatie blijft op je apparaat staan.</translation>
-<translation id="6389268239133412586">Kan Kahf niet updaten</translation>
-<translation id="7731184591599776500">Kahf Enterprise-logo</translation>
+<translation id="6412037018950369131">Als dit het geval is, bewerk je het opgeslagen wachtwoord in BrowseWeb3, zodat het overeenkomt met je nieuwe wachtwoord.</translation>
+<translation id="8285294305439559616">BrowseWeb3 probeert wachtwoorden te bekijken. Geef je Windows-wachtwoord op om dit toe te staan.</translation>
+<translation id="6514033039060816211">BrowseWeb3 kan een schatting van je interesses maken op basis van je browsegeschiedenis van de afgelopen weken. Deze informatie blijft op je apparaat staan.</translation>
+<translation id="6389268239133412586">Kan BrowseWeb3 niet updaten</translation>
+<translation id="7731184591599776500">BrowseWeb3 Enterprise-logo</translation>
 <translation id="8986207147630327271">Je voegt een werkprofiel toe aan deze browser en geeft je beheerder alleen de controle over het werkprofiel.</translation>
-<translation id="82609232232243542">Inloggen bij Kahf</translation>
-<translation id="3273774796888928550">Log in bij Kahf. Als je eenmalig wilt inloggen op een account, kun je <ph name="GUEST_LINK_BEGIN"/>het apparaat gebruiken als gast<ph name="GUEST_LINK_END"/>.</translation>
-<translation id="4561046754724442504">Kahf is automatisch gesloten</translation>
-<translation id="5173820533850252773">Kahf is verouderd</translation>
-<translation id="310518206836658214">{0,plural, =1{Kahf wordt over een uur opnieuw gestart}other{Kahf wordt over # uur opnieuw gestart}}</translation>
-<translation id="5190991181158966940">Als je toekomstige Kahf-updates wilt krijgen, heb je Windows 10 of hoger nodig. Deze computer gebruikt Windows 8.1.</translation>
-<translation id="7863882214613921971">Link openen op een nieuw Kahf-&amp;tabblad</translation>
+<translation id="82609232232243542">Inloggen bij BrowseWeb3</translation>
+<translation id="3273774796888928550">Log in bij BrowseWeb3. Als je eenmalig wilt inloggen op een account, kun je <ph name="GUEST_LINK_BEGIN"/>het apparaat gebruiken als gast<ph name="GUEST_LINK_END"/>.</translation>
+<translation id="4561046754724442504">BrowseWeb3 is automatisch gesloten</translation>
+<translation id="5173820533850252773">BrowseWeb3 is verouderd</translation>
+<translation id="310518206836658214">{0,plural, =1{BrowseWeb3 wordt over een uur opnieuw gestart}other{BrowseWeb3 wordt over # uur opnieuw gestart}}</translation>
+<translation id="5190991181158966940">Als je toekomstige BrowseWeb3-updates wilt krijgen, heb je Windows 10 of hoger nodig. Deze computer gebruikt Windows 8.1.</translation>
+<translation id="7863882214613921971">Link openen op een nieuw BrowseWeb3-&amp;tabblad</translation>
 <translation id="911206726377975832">Ook browsegegevens wissen?</translation>
-<translation id="5708733457516068434">Tijdens de proeven kun je interessante onderwerpen bekijken en verwijderen die sites hebben gebruikt om je advertenties te laten zien. Kahf schat je interesses op basis van je recente browsegeschiedenis</translation>
-<translation id="2444257125841652328">Je systeembeheerder heeft geconfigureerd dat Kahf een alternatieve browser opent voor toegang tot <ph name="TARGET_URL_HOSTNAME"/>.</translation>
-<translation id="7902365066753170041">Opnieuw starten om &amp;Kahf te updaten</translation>
-<translation id="3350544518197210895">Kahf (mDNS-In)</translation>
-<translation id="296137235951584143">Personaliseer Kahf</translation>
-<translation id="7977787072794666032">Kahf werkt mogelijk niet naar behoren omdat dit niet langer wordt ondersteund op Windows XP en Windows Vista</translation>
-<translation id="8180288330711585962">Certificaten beheerd door Kahf</translation>
-<translation id="4484434718272972655">Wie gebruikt Kahf?</translation>
-<translation id="7173394303099002355">Gebruik het hoogste beveiligingsniveau van Kahf</translation>
+<translation id="5708733457516068434">Tijdens de proeven kun je interessante onderwerpen bekijken en verwijderen die sites hebben gebruikt om je advertenties te laten zien. BrowseWeb3 schat je interesses op basis van je recente browsegeschiedenis</translation>
+<translation id="2444257125841652328">Je systeembeheerder heeft geconfigureerd dat BrowseWeb3 een alternatieve browser opent voor toegang tot <ph name="TARGET_URL_HOSTNAME"/>.</translation>
+<translation id="7902365066753170041">Opnieuw starten om &amp;BrowseWeb3 te updaten</translation>
+<translation id="3350544518197210895">BrowseWeb3 (mDNS-In)</translation>
+<translation id="296137235951584143">Personaliseer BrowseWeb3</translation>
+<translation id="7977787072794666032">BrowseWeb3 werkt mogelijk niet naar behoren omdat dit niet langer wordt ondersteund op Windows XP en Windows Vista</translation>
+<translation id="8180288330711585962">Certificaten beheerd door BrowseWeb3</translation>
+<translation id="4484434718272972655">Wie gebruikt BrowseWeb3?</translation>
+<translation id="7173394303099002355">Gebruik het hoogste beveiligingsniveau van BrowseWeb3</translation>
 <translation id="983803489796659991">De installatie is mislukt omdat de updateserver geen hash-gegevens voor de app heeft.</translation>
-<translation id="8992261409816268381">De auteurs van Kahf</translation>
+<translation id="8992261409816268381">De auteurs van BrowseWeb3</translation>
 <translation id="137466361146087520">Google Chrome Bèta</translation>
 <translation id="7535429826459677826">Google Chrome Dev</translation>
-<translation id="5359574361379286250">Indien u dit account eenmalig wilt gebruiken, kunt u de<ph name="GUEST_LINK_BEGIN"/>Gastmodus<ph name="GUEST_LINK_END"/> in Kahf-browser gebruiken. Indien u een account voor iemand wilt toevoegen, kunt u <ph name="LINK_BEGIN"/>een nieuw profiel toevoegen<ph name="LINK_END"/> aan uw <ph name="DEVICE_TYPE"/>.
+<translation id="5359574361379286250">Indien u dit account eenmalig wilt gebruiken, kunt u de<ph name="GUEST_LINK_BEGIN"/>Gastmodus<ph name="GUEST_LINK_END"/> in BrowseWeb3-browser gebruiken. Indien u een account voor iemand wilt toevoegen, kunt u <ph name="LINK_BEGIN"/>een nieuw profiel toevoegen<ph name="LINK_END"/> aan uw <ph name="DEVICE_TYPE"/>.
 
-Rechten die u al hebt verleend aan websites en apps zijn mogelijk van toepassing op dit account. U kunt uw Kahf-synchronisatieketens beheren in <ph name="SETTINGS_LINK_BEGIN"/>Instellingen<ph name="SETTINGS_LINK_END"/>.</translation>
-<translation id="1743665722170667430">Extensies, apps en thema's van onbekende bronnen kunnen schade toebrengen aan uw apparaat. Kahf beveelt aan deze alleen te installeren via de <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/></translation>
-<translation id="6184592406110188164">Deze extensie schendt het Webwinkelbeleid en is mogelijk onveilig. Verwijder deze van Kahf, zodat deze niet langer uw gegevens kan zien en wijzigen op websites die u bezoekt, waaronder uw persoonsgegevens.</translation>
-<translation id="1299765473362724475">Waarschuwing: Kahf kan niet voorkomen dat extensies je browsergeschiedenis vastleggen. Als je deze extensie in de privémodus wilt uitschakelen, verwijder je het vinkje bij deze optie.</translation>
-<translation id="1448049584457347995">Om Kahf veiliger te maken, hebben we een aantal extensies uitgeschakeld die niet worden vermeld in de <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> en mogelijk zonder je medeweten zijn geïnstalleerd.</translation>
-<translation id="8848045066928358658">We hebben de volgende extensie uitgeschakeld die niet wordt vermeld in de <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> en mogelijk zonder je medeweten is toegevoegd. We doen dit om Kahf veiliger te maken.</translation>
-<translation id="669092380621816981">De browsergegevens van deze persoon worden verwijderd van dit apparaat. Als je de gegevens wilt herstellen, log je in bij Kahf als <ph name="USER_EMAIL"/>.</translation>
-<translation id="4624945300945265642">Link openen in een Kahf-inco&amp;gnitovenster</translation>
-<translation id="6554952862405000915">Link openen in een Kahf-inco&amp;gnitovenster</translation>
-<translation id="8274659559228306809">{COUNT,plural, =0{Er is een nieuwe update voor Kahf beschikbaar die wordt uitgevoerd zodra je het programma opnieuw start.}=1{Er is een nieuwe update voor Kahf beschikbaar die wordt uitgevoerd zodra je het programma opnieuw start. Je incognitovenster kan niet opnieuw worden geopend.}other{Er is een nieuwe update voor Kahf beschikbaar die wordt uitgevoerd zodra je het programma opnieuw start. Je # incognitovensters kunnen niet opnieuw worden geopend.}}</translation>
-<translation id="3829358914761176693">{COUNT,plural, =0{Je beheerder vraagt je Kahf opnieuw te starten om deze update uit te voeren.}=1{Je beheerder vraagt je Kahf opnieuw te starten om deze update uit te voeren. Je incognitovenster kan niet opnieuw worden geopend.}other{Je beheerder vraagt je Kahf opnieuw te starten om deze update uit te voeren. Je # incognitovensters kunnen niet opnieuw worden geopend.}}</translation>
-<translation id="552349673358711446">{COUNT,plural, =0{Je beheerder vereist dat je Kahf opnieuw start om een update uit te voeren.}=1{Je beheerder vereist dat je Kahf opnieuw start om een update uit te voeren. Je incognitovenster kan niet opnieuw worden geopend.}other{Je beheerder vereist dat je Kahf opnieuw start om een update uit te voeren. Je # incognitovensters kunnen niet opnieuw worden geopend.}}</translation>
-<translation id="2176087127109773485">Je kunt je ingelogde Kahf-synchronisatieketens beheren. Je Kahf-synchronisatieketens worden gebruikt voor de Kahf-browser, Play Store, Gmail en meer. Als je een account voor iemand anders wil toevoegen, zoals een familielid, voeg dan in plaats daarvan een nieuw profiel toe aan je <ph name="DEVICE_TYPE"/>. <ph name="LINK_BEGIN"/>Meer informatie<ph name="LINK_END"/></translation>
-<translation id="79269250264141507">Wanneer u iets in de adresbalk of het zoekveld typt, stuurt Kahf dat naar uw standaard zoekmachine voor betere suggesties. Dit is uitgeschakeld in Privé.</translation>
-<translation id="3739288578188828252">Wanneer u iets in de adresbalk of het zoekveld typt, stuurt Kahf dat naar Google Drive voor itemsuggesties. Dit is uitgeschakeld in Privé.</translation>
-<translation id="2589970573128789862">Kahf Privé</translation>
-<translation id="5994282802285556682">Wanneer u in privémodus surft, zal Kahf u waarschuwen voordat u een site laadt met een onveilige verbinding</translation>
+Rechten die u al hebt verleend aan websites en apps zijn mogelijk van toepassing op dit account. U kunt uw BrowseWeb3-synchronisatieketens beheren in <ph name="SETTINGS_LINK_BEGIN"/>Instellingen<ph name="SETTINGS_LINK_END"/>.</translation>
+<translation id="1743665722170667430">Extensies, apps en thema's van onbekende bronnen kunnen schade toebrengen aan uw apparaat. BrowseWeb3 beveelt aan deze alleen te installeren via de <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/></translation>
+<translation id="6184592406110188164">Deze extensie schendt het Webwinkelbeleid en is mogelijk onveilig. Verwijder deze van BrowseWeb3, zodat deze niet langer uw gegevens kan zien en wijzigen op websites die u bezoekt, waaronder uw persoonsgegevens.</translation>
+<translation id="1299765473362724475">Waarschuwing: BrowseWeb3 kan niet voorkomen dat extensies je browsergeschiedenis vastleggen. Als je deze extensie in de privémodus wilt uitschakelen, verwijder je het vinkje bij deze optie.</translation>
+<translation id="1448049584457347995">Om BrowseWeb3 veiliger te maken, hebben we een aantal extensies uitgeschakeld die niet worden vermeld in de <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> en mogelijk zonder je medeweten zijn geïnstalleerd.</translation>
+<translation id="8848045066928358658">We hebben de volgende extensie uitgeschakeld die niet wordt vermeld in de <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> en mogelijk zonder je medeweten is toegevoegd. We doen dit om BrowseWeb3 veiliger te maken.</translation>
+<translation id="669092380621816981">De browsergegevens van deze persoon worden verwijderd van dit apparaat. Als je de gegevens wilt herstellen, log je in bij BrowseWeb3 als <ph name="USER_EMAIL"/>.</translation>
+<translation id="4624945300945265642">Link openen in een BrowseWeb3-inco&amp;gnitovenster</translation>
+<translation id="6554952862405000915">Link openen in een BrowseWeb3-inco&amp;gnitovenster</translation>
+<translation id="8274659559228306809">{COUNT,plural, =0{Er is een nieuwe update voor BrowseWeb3 beschikbaar die wordt uitgevoerd zodra je het programma opnieuw start.}=1{Er is een nieuwe update voor BrowseWeb3 beschikbaar die wordt uitgevoerd zodra je het programma opnieuw start. Je incognitovenster kan niet opnieuw worden geopend.}other{Er is een nieuwe update voor BrowseWeb3 beschikbaar die wordt uitgevoerd zodra je het programma opnieuw start. Je # incognitovensters kunnen niet opnieuw worden geopend.}}</translation>
+<translation id="3829358914761176693">{COUNT,plural, =0{Je beheerder vraagt je BrowseWeb3 opnieuw te starten om deze update uit te voeren.}=1{Je beheerder vraagt je BrowseWeb3 opnieuw te starten om deze update uit te voeren. Je incognitovenster kan niet opnieuw worden geopend.}other{Je beheerder vraagt je BrowseWeb3 opnieuw te starten om deze update uit te voeren. Je # incognitovensters kunnen niet opnieuw worden geopend.}}</translation>
+<translation id="552349673358711446">{COUNT,plural, =0{Je beheerder vereist dat je BrowseWeb3 opnieuw start om een update uit te voeren.}=1{Je beheerder vereist dat je BrowseWeb3 opnieuw start om een update uit te voeren. Je incognitovenster kan niet opnieuw worden geopend.}other{Je beheerder vereist dat je BrowseWeb3 opnieuw start om een update uit te voeren. Je # incognitovensters kunnen niet opnieuw worden geopend.}}</translation>
+<translation id="2176087127109773485">Je kunt je ingelogde BrowseWeb3-synchronisatieketens beheren. Je BrowseWeb3-synchronisatieketens worden gebruikt voor de BrowseWeb3-browser, Play Store, Gmail en meer. Als je een account voor iemand anders wil toevoegen, zoals een familielid, voeg dan in plaats daarvan een nieuw profiel toe aan je <ph name="DEVICE_TYPE"/>. <ph name="LINK_BEGIN"/>Meer informatie<ph name="LINK_END"/></translation>
+<translation id="79269250264141507">Wanneer u iets in de adresbalk of het zoekveld typt, stuurt BrowseWeb3 dat naar uw standaard zoekmachine voor betere suggesties. Dit is uitgeschakeld in Privé.</translation>
+<translation id="3739288578188828252">Wanneer u iets in de adresbalk of het zoekveld typt, stuurt BrowseWeb3 dat naar Google Drive voor itemsuggesties. Dit is uitgeschakeld in Privé.</translation>
+<translation id="2589970573128789862">BrowseWeb3 Privé</translation>
+<translation id="5994282802285556682">Wanneer u in privémodus surft, zal BrowseWeb3 u waarschuwen voordat u een site laadt met een onveilige verbinding</translation>
 </translationbundle>

@@ -8,7 +8,7 @@
 namespace {
 
 const char kSafeBrowsingHelpCenterURL[] =
-    "https://support.kahf.co/hc/en-us/articles/"
+    "https://support.browseweb3.com/hc/en-us/articles/"
     "15222663599629-Safe-Browsing-in-Brave";
 
 }  // namespace

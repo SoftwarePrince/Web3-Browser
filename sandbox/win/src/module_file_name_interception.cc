@@ -69,7 +69,8 @@ absl::optional<DWORD> PatchFilenameImpl(CharT* filename,
 
   constexpr DWORD kBraveLen = FromTo<CharT>::kBrave.length();
   constexpr DWORD kChromeLen = FromTo<CharT>::kChrome.length();
-  static_assert(kBraveLen <= kChromeLen);
+  LOG(ERROR)<<"kBraveLen:"<<kBraveLen<<" kChromeLen:"<<kChromeLen;
+  static_assert(kBraveLen < kChromeLen);
   constexpr DWORD kLenDiff = kChromeLen - kBraveLen;
 
   --size;  // space for null-terminator

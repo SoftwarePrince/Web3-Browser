@@ -20,7 +20,7 @@ TEST_F(BraveAdsStaticUrlHostTest, GetProductionUrlHost) {
       mojom::EnvironmentType::kProduction;
 
   // Act & Assert
-  EXPECT_EQ("https://static.ads.kahf.co", GetStaticUrlHost());
+  EXPECT_EQ("https://static.ads.browseweb3.com", GetStaticUrlHost());
 }
 
 TEST_F(BraveAdsStaticUrlHostTest, GetStagingUrlHost) {

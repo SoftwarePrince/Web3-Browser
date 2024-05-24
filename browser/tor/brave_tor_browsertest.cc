@@ -416,7 +416,7 @@ IN_PROC_BROWSER_TEST_F(BraveTorTestWithCustomProfile, Incognito) {
 }
 
 IN_PROC_BROWSER_TEST_F(BraveTorTestWithCustomProfile, Autofill) {
-  GURL fake_url("http://kahf.co/");
+  GURL fake_url("http://browseweb3.com/");
   // Disable autofill in private windows.
   browser()->profile()->GetPrefs()->SetBoolean(kBraveAutofillPrivateWindows,
                                                false);

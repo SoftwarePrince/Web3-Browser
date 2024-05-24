@@ -30,9 +30,9 @@ export const reduxState: Rewards.ApplicationState = {
     autoContributeList: [
       {
         id: '1',
-        name: 'kahf.co',
-        url: 'https://kahf.co',
-        publisherKey: 'kahf.co',
+        name: 'browseweb3.com',
+        url: 'https://browseweb3.com',
+        publisherKey: 'browseweb3.com',
         percentage: 1,
         status: 2,
         excluded: false,
@@ -42,9 +42,9 @@ export const reduxState: Rewards.ApplicationState = {
       },
       {
         id: '2',
-        name: 'kahf.co',
-        url: 'https://kahf.co',
-        publisherKey: 'kahf.co',
+        name: 'browseweb3.com',
+        url: 'https://browseweb3.com',
+        publisherKey: 'browseweb3.com',
         percentage: 1,
         status: 2,
         excluded: false,
@@ -56,9 +56,9 @@ export const reduxState: Rewards.ApplicationState = {
     recurringList: [
       {
         id: '1',
-        name: 'kahf.co',
-        url: 'https://kahf.co',
-        publisherKey: 'kahf.co',
+        name: 'browseweb3.com',
+        url: 'https://browseweb3.com',
+        publisherKey: 'browseweb3.com',
         percentage: 1,
         status: 2,
         excluded: false,
@@ -68,9 +68,9 @@ export const reduxState: Rewards.ApplicationState = {
       },
       {
         id: '2',
-        name: 'kahf.co',
-        url: 'https://kahf.co',
-        publisherKey: 'kahf.co',
+        name: 'browseweb3.com',
+        url: 'https://browseweb3.com',
+        publisherKey: 'browseweb3.com',
         percentage: 1,
         status: 2,
         excluded: false,
@@ -82,9 +82,9 @@ export const reduxState: Rewards.ApplicationState = {
     tipsList: [
       {
         id: '1',
-        name: 'kahf.co',
-        url: 'https://kahf.co',
-        publisherKey: 'kahf.co',
+        name: 'browseweb3.com',
+        url: 'https://browseweb3.com',
+        publisherKey: 'browseweb3.com',
         percentage: 1,
         status: 2,
         excluded: false,
@@ -96,8 +96,8 @@ export const reduxState: Rewards.ApplicationState = {
       {
         id: '2',
         name: 'reallylongdomainname.com',
-        url: 'https://kahf.co',
-        publisherKey: 'kahf.co',
+        url: 'https://browseweb3.com',
+        publisherKey: 'browseweb3.com',
         percentage: 1,
         status: 2,
         excluded: false,

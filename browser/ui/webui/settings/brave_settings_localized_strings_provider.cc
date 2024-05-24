@@ -49,7 +49,7 @@ namespace settings {
 namespace {
 
 const char16_t kWebRTCLearnMoreURL[] =
-    u"https://support.kahf.co/hc/en-us/articles/"
+    u"https://support.browseweb3.com/hc/en-us/articles/"
     u"360017989132-How-do-I-change-my-Privacy-Settings-#webrtc";
 const char16_t kBraveBuildInstructionsUrl[] =
     u"https://github.com/AsilHQ/asil-core";
@@ -67,11 +67,11 @@ const char16_t kUnstoppableDomainsLearnMoreURL[] =
 const char16_t kEnsOffchainLookupLearnMoreURL[] =
     u"https://github.com/brave/brave-browser/wiki/ENS-offchain-lookup";
 const char16_t kBraveSyncGuideUrl[] =
-    u"https://support.kahf.co/hc/en-us/articles/360047642371-Sync-FAQ";
+    u"https://support.browseweb3.com/hc/en-us/articles/360047642371-Sync-FAQ";
 const char16_t kDeAmpLearnMoreUrl[] =
-    u"https://support.kahf.co/hc/en-us/articles/8611298579981";
+    u"https://support.browseweb3.com/hc/en-us/articles/8611298579981";
 const char16_t kDebounceLearnMoreUrl[] =
-    u"https://kahf.co/privacy-updates/11-debouncing/";
+    u"https://browseweb3.com/privacy-updates/11-debouncing/";
 const char16_t kEnableNftDiscoveryLearnMoreUrl[] =
     u"https://github.com/AsilHQ/asil-core/"
     u"NFT-Discovery";

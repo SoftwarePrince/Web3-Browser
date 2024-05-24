@@ -62,7 +62,7 @@ CreativeAdInfo BuildCreativeAd(const bool should_use_random_uuids) {
 
   creative_ad.geo_targets = {"US"};
 
-  creative_ad.target_url = GURL("https://kahf.co");
+  creative_ad.target_url = GURL("https://browseweb3.com");
 
   return creative_ad;
 }

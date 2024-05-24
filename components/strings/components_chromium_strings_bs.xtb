@@ -3,14 +3,14 @@
 <translationbundle lang="bs">
 <translation id="130631256467250065">Vaše promjene će stupiti na snagu kada sljedeći put ponovo pokrenete uređaj.</translation>
 <translation id="1555506416658437797">urediti načine plaćanja.</translation>
-<translation id="7999989146447764333">Izrada izvještaja o padovima aplikacije nije dostupna na Kahfu.</translation>
-<translation id="1953231710324290369">Prikazana vam je sigurna stranica Kahfa</translation>
-<translation id="907470742420136113">Kahf pokušava izmijeniti postavke za popunjavanje načina plaćanja.</translation>
-<translation id="4847979153841887006">Logotip Kahfa</translation>
-<translation id="336808635693308470">Kahf pokušava urediti načine plaćanja.</translation>
-<translation id="7932149101545999102">Kahf je dostupan zahvaljujući <ph name="BEGIN_LINK_CHROMIUM"/>Kahf<ph name="END_LINK_CHROMIUM"/> projektu otvorenog koda i drugom <ph name="BEGIN_LINK_OSS"/>softveru otvorenog koda<ph name="END_LINK_OSS"/>.</translation>
+<translation id="7999989146447764333">Izrada izvještaja o padovima aplikacije nije dostupna na BrowseWeb3u.</translation>
+<translation id="1953231710324290369">Prikazana vam je sigurna stranica BrowseWeb3a</translation>
+<translation id="907470742420136113">BrowseWeb3 pokušava izmijeniti postavke za popunjavanje načina plaćanja.</translation>
+<translation id="4847979153841887006">Logotip BrowseWeb3a</translation>
+<translation id="336808635693308470">BrowseWeb3 pokušava urediti načine plaćanja.</translation>
+<translation id="7932149101545999102">BrowseWeb3 je dostupan zahvaljujući <ph name="BEGIN_LINK_CHROMIUM"/>BrowseWeb3<ph name="END_LINK_CHROMIUM"/> projektu otvorenog koda i drugom <ph name="BEGIN_LINK_OSS"/>softveru otvorenog koda<ph name="END_LINK_OSS"/>.</translation>
 <translation id="8746410156982274638">Idite na
-          Kahf meni &gt;
+          BrowseWeb3 meni &gt;
           <ph name="SETTINGS_TITLE"/>
           &gt;
           <ph name="ADVANCED_TITLE"/>
@@ -19,11 +19,11 @@
           &gt;
           LAN postavke
           i poništite odabir u polju za potvrdu "Koristi proksi server za svoj LAN".</translation>
-<translation id="303960458633076466">Ovu stranicu je blokirao Kahf</translation>
-<translation id="2017237562285586622">U postavkama zaštitnog zida ili antivirusnog programa dozvolite Kahfu da pristupi
+<translation id="303960458633076466">Ovu stranicu je blokirao BrowseWeb3</translation>
+<translation id="2017237562285586622">U postavkama zaštitnog zida ili antivirusnog programa dozvolite BrowseWeb3u da pristupi
           mreži.</translation>
 <translation id="8619622797841001082">Idite u
-          meni Kahfa&gt;
+          meni BrowseWeb3a&gt;
           <ph name="SETTINGS_TITLE"/>
           &gt;
           <ph name="ADVANCED_TITLE"/>
@@ -31,11 +31,11 @@
           <ph name="PROXIES_TITLE"/>
           i provjerite je li vaša konfiguracija postavljena na "bez proksi servera" ili "direktno".</translation>
 <translation id="585620188971323280">izmijeniti postavke za popunjavanje načina plaćanja.</translation>
-<translation id="2765022094254723779">Kahf su omogućili i drugi <ph name="BEGIN_LINK_OSS"/>softveri otvorenog koda<ph name="END_LINK_OSS"/>.</translation>
-<translation id="9156965752763025780">Vaše promjene će stupiti na snagu kada sljedeći put budete ponovo pokrenuli Kahf.</translation>
-<translation id="6477625882876869143">Kahf je omogućio <ph name="BEGIN_LINK_CHROMIUM"/>Kahf<ph name="END_LINK_CHROMIUM"/> projekat otvorenog koda.</translation>
+<translation id="2765022094254723779">BrowseWeb3 su omogućili i drugi <ph name="BEGIN_LINK_OSS"/>softveri otvorenog koda<ph name="END_LINK_OSS"/>.</translation>
+<translation id="9156965752763025780">Vaše promjene će stupiti na snagu kada sljedeći put budete ponovo pokrenuli BrowseWeb3.</translation>
+<translation id="6477625882876869143">BrowseWeb3 je omogućio <ph name="BEGIN_LINK_CHROMIUM"/>BrowseWeb3<ph name="END_LINK_CHROMIUM"/> projekat otvorenog koda.</translation>
 <translation id="4068928808254189629">Idite na
-          meni u Kahfu &gt;
+          meni u BrowseWeb3u &gt;
           <ph name="SETTINGS_TITLE"/>
           &gt;
           <ph name="ADVANCED_TITLE"/>
@@ -45,6 +45,6 @@
 <translation id="8187289872471304532">Idite na
           Aplikacije &gt; Postavke sistema &gt; Mreža &gt; Napredno &gt; Proksiji
           i poništite odabir svih odabranih proksija.</translation>
-<translation id="4159376633403260073">Gledate sigurnu stranicu verzije Kahf for Testing</translation>
-<translation id="88187049159266777">Kahf se nije ispravno zatvorio.</translation>
+<translation id="4159376633403260073">Gledate sigurnu stranicu verzije BrowseWeb3 for Testing</translation>
+<translation id="88187049159266777">BrowseWeb3 se nije ispravno zatvorio.</translation>
 </translationbundle>

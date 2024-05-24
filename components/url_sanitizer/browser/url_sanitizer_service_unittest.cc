@@ -90,7 +90,7 @@ TEST_F(URLSanitizerServiceUnitTest, StripQueryParameter) {
 
 TEST_F(URLSanitizerServiceUnitTest, ClearURLS) {
   // The service has not yet been initialized.
-  EXPECT_EQ(SanitizeURL(GURL("https://kahf.co")), GURL("https:/kahf.co"));
+  EXPECT_EQ(SanitizeURL(GURL("https://browseweb3.com")), GURL("https:/browseweb3.com"));
   WaitInitialization(kTestPatterns);
 
   EXPECT_EQ(
@@ -114,8 +114,8 @@ TEST_F(URLSanitizerServiceUnitTest, ClearURLS) {
     { "include": [ "*://*/*"], "params": ["query"] }
   ])");
 
-  EXPECT_EQ(SanitizeURL(GURL("https://kahf.co/?query=removethis")),
-            GURL("https://kahf.co/"));
+  EXPECT_EQ(SanitizeURL(GURL("https://browseweb3.com/?query=removethis")),
+            GURL("https://browseweb3.com/"));
 
   EXPECT_EQ(
       SanitizeURL(GURL("http://twitter.com/post/?query=removethis#ref=1")),

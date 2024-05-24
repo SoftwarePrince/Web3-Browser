@@ -156,7 +156,7 @@ TEST_F(DecentralizedDnsNetworkDelegateHelperTest,
       {"https://brave.bitcoin", true},
       {"https://brave.zil", true},
       {"https://brave", false},
-      {"https://kahf.co", false},
+      {"https://browseweb3.com", false},
       {"", false},
   };
 
@@ -193,12 +193,12 @@ TEST_F(DecentralizedDnsNetworkDelegateHelperTest,
   test_url_loader_factory().SimulateResponseForPendingRequest(
       polygon_spec,
       brave_wallet::MakeJsonRpcStringArrayResponse(
-          {"", "", "", "", "", "https://kahf.co"}),
+          {"", "", "", "", "", "https://browseweb3.com"}),
       net::HTTP_REQUEST_TIMEOUT);
   test_url_loader_factory().SimulateResponseForPendingRequest(
       eth_spec,
       brave_wallet::MakeJsonRpcStringArrayResponse(
-          {"", "", "", "", "", "https://kahf.co"}),
+          {"", "", "", "", "", "https://browseweb3.com"}),
       net::HTTP_REQUEST_TIMEOUT);
   base::RunLoop().RunUntilIdle();
   EXPECT_TRUE(brave_request_info->new_url_spec.empty());
@@ -210,7 +210,7 @@ TEST_F(DecentralizedDnsNetworkDelegateHelperTest,
   test_url_loader_factory().SimulateResponseForPendingRequest(
       polygon_spec,
       brave_wallet::MakeJsonRpcStringArrayResponse(
-          {"", "", "", "", "", "https://kahf.co"}),
+          {"", "", "", "", "", "https://browseweb3.com"}),
       net::HTTP_OK);
   test_url_loader_factory().SimulateResponseForPendingRequest(
       eth_spec,
@@ -218,7 +218,7 @@ TEST_F(DecentralizedDnsNetworkDelegateHelperTest,
           {"hash", "", "", "", "", ""}),
       net::HTTP_OK);
   base::RunLoop().RunUntilIdle();
-  EXPECT_EQ(brave_request_info->new_url_spec, "https://kahf.co/");
+  EXPECT_EQ(brave_request_info->new_url_spec, "https://browseweb3.com/");
 
   // Eth result.
   EXPECT_EQ(net::ERR_IO_PENDING,
@@ -322,9 +322,9 @@ TEST_F(DecentralizedDnsNetworkDelegateHelperTest, SnsRedirectWork) {
 
   // Redirect for valid url.
   OnBeforeURLRequest_SnsRedirectWork(
-      base::DoNothing(), brave_request_info, GURL("https://kahf.co"),
+      base::DoNothing(), brave_request_info, GURL("https://browseweb3.com"),
       brave_wallet::mojom::SolanaProviderError::kSuccess, "");
-  EXPECT_EQ(brave_request_info->new_url_spec, GURL("https://kahf.co"));
+  EXPECT_EQ(brave_request_info->new_url_spec, GURL("https://browseweb3.com"));
 
   EXPECT_FALSE(brave_request_info->pending_error.has_value());
 }

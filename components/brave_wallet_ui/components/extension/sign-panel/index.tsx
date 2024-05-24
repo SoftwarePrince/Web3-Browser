@@ -70,7 +70,7 @@ interface Props {
 const onClickLearnMore = () => {
   chrome.tabs.create(
     {
-      url: 'https://support.kahf.co/hc/en-us/articles/4409513799693'
+      url: 'https://support.browseweb3.com/hc/en-us/articles/4409513799693'
     },
     () => {
       if (chrome.runtime.lastError) {

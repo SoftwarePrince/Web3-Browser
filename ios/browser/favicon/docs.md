@@ -1,17 +1,17 @@
 # Favicon Documentation
 
-This file documents the list of changes made to the Chromium iOS Favicon implementation as it isn't compatible with Kahf-iOS.
+This file documents the list of changes made to the Chromium iOS Favicon implementation as it isn't compatible with BrowseWeb3-iOS.
 
 
 # Changes
 
-[KahfIOSWebFaviconDriver.h](https://github.com/AsilHQ/asil-core/blob/master/ios/browser/favicon/brave_ios_web_favicon_driver.h): Modification of `WebFaviconDriver` to get rid of `web::WebState` and instead use `ChromeBrowserState` as iOS cannot use `web::WebState` since we do not use `CRWWebView` in our Swift code. This means we got rid of all the `WebStateObserver` and `UserData` as well, and instead store the class with the `ChromeBrowserState`. This is done via the `CreateForBrowserState` and `FromBrowserState` functions.
+[BrowseWeb3IOSWebFaviconDriver.h](https://github.com/AsilHQ/asil-core/blob/master/ios/browser/favicon/brave_ios_web_favicon_driver.h): Modification of `WebFaviconDriver` to get rid of `web::WebState` and instead use `ChromeBrowserState` as iOS cannot use `web::WebState` since we do not use `CRWWebView` in our Swift code. This means we got rid of all the `WebStateObserver` and `UserData` as well, and instead store the class with the `ChromeBrowserState`. This is done via the `CreateForBrowserState` and `FromBrowserState` functions.
 
-[KahfIOSWebFaviconDriver.mm](https://github.com/AsilHQ/asil-core/blob/master/ios/browser/favicon/brave_ios_web_favicon_driver.mm)
+[BrowseWeb3IOSWebFaviconDriver.mm](https://github.com/AsilHQ/asil-core/blob/master/ios/browser/favicon/brave_ios_web_favicon_driver.mm)
 
 The below code was added in order to setup a navigation stack for the Swift iOS WebView when navigation has just begun.
 ```c++
-void KahfIOSWebFaviconDriver::DidStartNavigation(
+void BrowseWeb3IOSWebFaviconDriver::DidStartNavigation(
                                     ChromeBrowserState* browser_state, 
                                          const GURL& page_url) {
     items.clear();
@@ -24,7 +24,7 @@ void KahfIOSWebFaviconDriver::DidStartNavigation(
 
 When navigation is complete, we call the below function to begin fetching the `Favicon` for the `URL` that was navigated to:
 ```c++
-void KahfIOSWebFaviconDriver::DidFinishNavigation(
+void BrowseWeb3IOSWebFaviconDriver::DidFinishNavigation(
                                     ChromeBrowserState* browser_state, 
                                          const GURL& page_url) {
     web::NavigationItemImpl* item = !items.empty() ? items.back().get() : nullptr;
@@ -35,4 +35,4 @@ void KahfIOSWebFaviconDriver::DidFinishNavigation(
 }
 ```
 
-This all emulates the `web::WebState::DidStartNavigation` and `web::WebState::DidFinishNavigation` functions in a much simpler way, that would be compatible with Kahf-iOS until the day we switch over to using Chromium's `CRWWebView`.
+This all emulates the `web::WebState::DidStartNavigation` and `web::WebState::DidFinishNavigation` functions in a much simpler way, that would be compatible with BrowseWeb3-iOS until the day we switch over to using Chromium's `CRWWebView`.

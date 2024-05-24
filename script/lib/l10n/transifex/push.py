@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# Copyright (c) 2022 The Kahf Authors. All rights reserved.
+# Copyright (c) 2022 The BrowseWeb3 Authors. All rights reserved.
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -207,7 +207,7 @@ def upload_source_string_file_to_transifex(source_file_path, filename,
 
 
 def check_for_chromium_upgrade_extra_langs(src_root, grd_file_path):
-    """Checks the Kahf GRD file vs the Chromium GRD file for extra
+    """Checks the BrowseWeb3 GRD file vs the Chromium GRD file for extra
        languages."""
     chromium_grd_file_path = get_original_grd(src_root, grd_file_path)
     if not chromium_grd_file_path:
@@ -216,13 +216,13 @@ def check_for_chromium_upgrade_extra_langs(src_root, grd_file_path):
     chromium_langs = get_grd_languages(chromium_grd_file_path)
     x_brave_extra_langs = brave_langs - chromium_langs
     assert len(x_brave_extra_langs) == 0, \
-        f'Kahf GRD {grd_file_path} has extra languages ' \
+        f'BrowseWeb3 GRD {grd_file_path} has extra languages ' \
             f'{list(x_brave_extra_langs)} over Chromium GRD ' \
             f'{chromium_grd_file_path}'
     x_chromium_extra_langs = chromium_langs - brave_langs
     assert len(x_chromium_extra_langs) == 0, \
         f'Chromium GRD {chromium_grd_file_path} has extra languages ' \
-            f'{list(x_chromium_extra_langs)} over Kahf GRD {grd_file_path}'
+            f'{list(x_chromium_extra_langs)} over BrowseWeb3 GRD {grd_file_path}'
 
 
 def get_transifex_source_resource_strings(grd_file_path):
@@ -275,22 +275,22 @@ def upload_translation_to_transifex(source_string_path, lang_code, filename,
 
 
 def braveify(string_value):
-    """Replace Chromium branded strings with Kahf branded strings."""
-    return (string_value.replace('Chrome', 'Kahf')
-            .replace('Chromium', 'Kahf')
-            .replace('Google', 'Kahf')
-            .replace('Kahf Docs', 'Google Docs')
-            .replace('Kahf Drive', 'Google Drive')
-            .replace('Kahf Play', 'Google Play')
-            .replace('Kahf Safe', 'Google Safe')
-            .replace('Sends URLs of some pages you visit to Kahf',
+    """Replace Chromium branded strings with BrowseWeb3 branded strings."""
+    return (string_value.replace('Chrome', 'BrowseWeb3')
+            .replace('Chromium', 'BrowseWeb3')
+            .replace('Google', 'BrowseWeb3')
+            .replace('BrowseWeb3 Docs', 'Google Docs')
+            .replace('BrowseWeb3 Drive', 'Google Drive')
+            .replace('BrowseWeb3 Play', 'Google Play')
+            .replace('BrowseWeb3 Safe', 'Google Safe')
+            .replace('Sends URLs of some pages you visit to BrowseWeb3',
                      'Sends URLs of some pages you visit to Google')
-            .replace('Kahf Account', 'Kahf sync chain')
-            .replace('Kahf Lens', 'Google Lens')
-            .replace('Kahfbook', 'Chromebook')
-            .replace('Kahfcast', 'Chromecast')
-            .replace('Kahf Cloud', 'Google Cloud')
-            .replace('Kahf Pay', 'Google Pay')
-            .replace('Kahf Photos', 'Google Photos')
-            .replace('Kahf Projects', 'Chromium Projects')
-            .replace('Kahf Widevine', 'Google Widevine'))
+            .replace('BrowseWeb3 Account', 'BrowseWeb3 sync chain')
+            .replace('BrowseWeb3 Lens', 'Google Lens')
+            .replace('BrowseWeb3book', 'Chromebook')
+            .replace('BrowseWeb3cast', 'Chromecast')
+            .replace('BrowseWeb3 Cloud', 'Google Cloud')
+            .replace('BrowseWeb3 Pay', 'Google Pay')
+            .replace('BrowseWeb3 Photos', 'Google Photos')
+            .replace('BrowseWeb3 Projects', 'Chromium Projects')
+            .replace('BrowseWeb3 Widevine', 'Google Widevine'))

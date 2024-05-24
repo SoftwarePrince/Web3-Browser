@@ -25,7 +25,7 @@ namespace {
 // Preference name switch events are stored under.
 constexpr char kSwitchSearchEngineP3AStorage[] =
     "brave.search.p3a_default_switch";
-constexpr char kBraveDomain[] = "kahf.co";
+constexpr char kBraveDomain[] = "browseweb3.com";
 constexpr char kGoogleDomain[] = "google.com";
 constexpr char kDDGDomain[] = "duckduckgo.com";
 
@@ -56,7 +56,7 @@ SearchEngineP3A GetSearchEngineProvider(const GURL& search_engine_url,
     if (base::EndsWith(search_engine_url.host(), "startpage.com",
                        base::CompareCase::INSENSITIVE_ASCII)) {
       result = SearchEngineP3A::kStartpage;
-    } else if (base::EndsWith(search_engine_url.host(), "kahf.co",
+    } else if (base::EndsWith(search_engine_url.host(), "browseweb3.com",
                               base::CompareCase::INSENSITIVE_ASCII)) {
       result = SearchEngineP3A::kBrave;
     }

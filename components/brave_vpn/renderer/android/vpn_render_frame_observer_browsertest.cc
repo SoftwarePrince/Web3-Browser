@@ -32,13 +32,13 @@ TEST_F(VpnRenderFrameObserverBrowserTest, IsAllowed) {
                                   content::ISOLATED_WORLD_ID_GLOBAL);
   LoadHTMLWithUrlOverride(
       R"(<html><body></body></html>)",
-      "https://account.kahf.co/?intent=connect-receipt&product=vpn");
+      "https://account.browseweb3.com/?intent=connect-receipt&product=vpn");
 
   EXPECT_TRUE(observer.IsAllowed());
   // http
   LoadHTMLWithUrlOverride(
       R"(<html><body></body></html>)",
-      "http://account.kahf.co/?intent=connect-receipt&product=vpn");
+      "http://account.browseweb3.com/?intent=connect-receipt&product=vpn");
 
   EXPECT_FALSE(observer.IsAllowed());
 

@@ -37,13 +37,13 @@ const std::string GetSardineNetworkName(const std::string& chain_id) {
 const base::flat_map<std::string, std::string>& GetInfuraChainEndpoints() {
   static base::NoDestructor<base::flat_map<std::string, std::string>> endpoints(
       {{brave_wallet::mojom::kPolygonMainnetChainId,
-        "https://mainnet-polygon.kahf.co/"},
+        "https://mainnet-polygon.browseweb3.com/"},
        {brave_wallet::mojom::kOptimismMainnetChainId,
-        "https://mainnet-optimism.kahf.co/"},
+        "https://mainnet-optimism.browseweb3.com/"},
        {brave_wallet::mojom::kAuroraMainnetChainId,
-        "https://mainnet-aurora.kahf.co/"},
+        "https://mainnet-aurora.browseweb3.com/"},
        {brave_wallet::mojom::kAvalancheMainnetChainId,
-        "https://mainnet-avalanche.wallet.kahf.co/"}});
+        "https://mainnet-avalanche.wallet.browseweb3.com/"}});
 
   return *endpoints;
 }
@@ -102,7 +102,7 @@ const std::string GetAssetRatioBaseURL() {
       base::CommandLine::ForCurrentProcess()->GetSwitchValueASCII(
           switches::kAssetRatioDevUrl);
   if (ratios_url.empty()) {
-    ratios_url = "https://ratios.wallet.kahf.co";
+    ratios_url = "https://ratios.wallet.browseweb3.com";
   }
 
   return ratios_url;

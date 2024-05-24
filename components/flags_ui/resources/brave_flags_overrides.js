@@ -13,10 +13,10 @@ document.addEventListener('DOMContentLoaded', function () {
     node.appendChild(link)
     node.appendChild(text2)
     if (index === 0) {
-      link.setAttribute('href', 'https://kahf.co/download-beta/')
+      link.setAttribute('href', 'https://browseweb3.com/download-beta/')
       link.textContent = 'beta channel'
     } else {
-      link.setAttribute('href', 'https://kahf.co/download-nightly/')
+      link.setAttribute('href', 'https://browseweb3.com/download-nightly/')
       link.textContent = 'nightly channel'
     }
   })

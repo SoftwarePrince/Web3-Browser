@@ -31,7 +31,7 @@ TEST(RewardsUtilTest, GetServerUrlStaging) {
 TEST(RewardsUtilTest, GetServerUrlProduction) {
   _environment = mojom::Environment::PRODUCTION;
   const std::string url = GetServerUrl("/test");
-  ASSERT_EQ(url, "https://rewards.kahf.co/test");
+  ASSERT_EQ(url, "https://rewards.browseweb3.com/test");
 }
 
 }  // namespace rewards

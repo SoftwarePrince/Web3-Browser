@@ -22,7 +22,7 @@ TEST(BraveAdsSearchEngineResultsPageUtilTest, IsSearchEngineResultsPage) {
 
 TEST(BraveAdsSearchEngineResultsPageUtilTest, IsNotSearchEngineResultsPage) {
   // Act & Assert
-  EXPECT_FALSE(IsSearchEngineResultsPage(GURL("https://kahf.co/")));
+  EXPECT_FALSE(IsSearchEngineResultsPage(GURL("https://browseweb3.com/")));
 }
 
 TEST(BraveAdsSearchEngineResultsPageUtilTest,

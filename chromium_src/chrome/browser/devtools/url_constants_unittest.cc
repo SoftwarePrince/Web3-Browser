@@ -6,7 +6,7 @@
 #include "chrome/browser/ui/webui/devtools/devtools_ui.h"
 #include "testing/gtest/include/gtest/gtest.h"
 
-const char kBraveDevtoolsURLHost[] = "devtools.kahf.co";
+const char kBraveDevtoolsURLHost[] = "devtools.browseweb3.com";
 
 TEST(BraveDevtoolsURLConstants, TestDevtoolsURL) {
   EXPECT_EQ(DevToolsUI::GetRemoteBaseURL().host(), kBraveDevtoolsURLHost);

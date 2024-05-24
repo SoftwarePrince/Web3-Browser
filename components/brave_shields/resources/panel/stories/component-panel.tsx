@@ -37,8 +37,8 @@ const LIST_JS = [
 ]
 
 const LIST_ADS = [
-  { url: 'ads.kahf.co' },
-  { url: 'ads2.kahf.co' }
+  { url: 'ads.browseweb3.com' },
+  { url: 'ads2.browseweb3.com' }
 ]
 
 export default {
@@ -54,7 +54,7 @@ export default {
       // mock data
       const store = {
         siteBlockInfo: {
-          host: text('Host name', 'kahf.co'),
+          host: text('Host name', 'browseweb3.com'),
           totalBlockedResources: (LIST_ADS.length + LIST_JS.length),
           isBraveShieldsEnabled: boolean('Enable Shields', true),
           isBraveShieldsManaged: boolean('Shields Managed', false),
@@ -63,7 +63,7 @@ export default {
           allowedJsList: LIST_JS,
           httpRedirectsList: [],
           fingerprintsList: [],
-          faviconUrl: { url: 'https://kahf.co/static-assets/images/brave-favicon.png' }
+          faviconUrl: { url: 'https://browseweb3.com/static-assets/images/brave-favicon.png' }
         },
         siteSettings: {
           adBlockMode: AdBlockMode.ALLOW,

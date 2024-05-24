@@ -408,7 +408,7 @@ export function createHost (): Host {
     },
 
     openAdaptiveCaptchaSupport () {
-      openTab('https://support.kahf.co/')
+      openTab('https://support.browseweb3.com/')
     },
 
     openRewardsSettings () {

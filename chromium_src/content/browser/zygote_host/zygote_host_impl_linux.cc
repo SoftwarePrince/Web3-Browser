@@ -7,7 +7,7 @@
 
 #define BRAVE_ZYGOTE_HOST_IMPL_LINUX_ZYGOTE_HOST_IMPL_INIT             \
   << "No usable sandbox! You probably need to enable user namespaces " \
-     "in your kernel. See https://kahf.co/linux for more info.";     \
+     "in your kernel. See https://browseweb3.com/linux for more info.";     \
   std::stringstream ss;                                                \
   ss
 

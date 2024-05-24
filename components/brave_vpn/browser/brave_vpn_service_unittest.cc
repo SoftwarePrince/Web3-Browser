@@ -101,7 +101,7 @@ const char kTestVpnOrders[] = R"(
             ],
             "last_paid_at": "2022-06-13T13:06:49.466083",
             "location": "{domain}",
-            "merchant_id": "kahf.co",
+            "merchant_id": "browseweb3.com",
             "metadata":
             {
                 "stripe_checkout_session_id": null

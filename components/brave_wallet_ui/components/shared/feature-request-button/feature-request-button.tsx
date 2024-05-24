@@ -16,7 +16,7 @@ import {
 } from './feature-request-button.style'
 
 const featureRequestUrl =
-  'https://community.kahf.co/tags/c/wallet/131/feature-request'
+  'https://community.browseweb3.com/tags/c/wallet/131/feature-request'
 
 export const FeatureRequestButton = () => {
   const onClickFeatureRequestButton = React.useCallback(() => {

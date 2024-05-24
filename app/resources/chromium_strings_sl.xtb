@@ -1,475 +1,475 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="sl">
-<translation id="1581411377110837276">Odprite nastavitve različice Kahfa</translation>
+<translation id="1581411377110837276">Odprite nastavitve različice BrowseWeb3a</translation>
 <translation id="1026101648481255140">Nadaljuj namestitev</translation>
 <translation id="7099479769133613710">Znova zaženite, če želite posodobiti &amp;Chrome OS</translation>
-<translation id="2479110114759182442">Kahf priporoča, da pregledate to razširitev</translation>
-<translation id="3814674848168165531">Ko spletno mesto zahteva zasebno vnaprejšnje nalaganje povezav na svoji strani, Kahf uporabi Googlove strežnike. S tem je vaša identiteta skrita pred vnaprej naloženim mestom, vendar Kahf izve, katera spletna mesta se vnaprej nalagajo.</translation>
+<translation id="2479110114759182442">BrowseWeb3 priporoča, da pregledate to razširitev</translation>
+<translation id="3814674848168165531">Ko spletno mesto zahteva zasebno vnaprejšnje nalaganje povezav na svoji strani, BrowseWeb3 uporabi Googlove strežnike. S tem je vaša identiteta skrita pred vnaprej naloženim mestom, vendar BrowseWeb3 izve, katera spletna mesta se vnaprej nalagajo.</translation>
 <translation id="1065672644894730302">Nastavitev ni mogoče prebrati.
 
 Nekatere funkcije morda niso na voljo in spremembe nastavitev ne bodo shranjene.</translation>
-<translation id="7577672138294294152">Tvoj starš je izklopil »Dovoljenja za spletna mesta, aplikacije in razširitve« za Kahf</translation>
-<translation id="2796517443093885402">Kahf vas lahko varuje pred podatkovnimi kršitvami, zlonamernimi razširitvami in drugim</translation>
-<translation id="5918095577778020936">Kahf želi izvoziti gesla. Če želite omogočiti to, vnesite geslo za Windows.</translation>
-<translation id="5468853758063275923">Kahf je privzeti brskalnik</translation>
-<translation id="8522292744959221145">Če želite preveriti, ali so gesla varna pred podatkovnimi kršitvami in drugimi varnostnimi težavami, <ph name="BEGIN_LINK"/>se prijavite v Kahf<ph name="END_LINK"/>.</translation>
-<translation id="2627788872035182013">Kliknite Kahfov meni</translation>
-<translation id="8541922081612557424">O Kahfu</translation>
+<translation id="7577672138294294152">Tvoj starš je izklopil »Dovoljenja za spletna mesta, aplikacije in razširitve« za BrowseWeb3</translation>
+<translation id="2796517443093885402">BrowseWeb3 vas lahko varuje pred podatkovnimi kršitvami, zlonamernimi razširitvami in drugim</translation>
+<translation id="5918095577778020936">BrowseWeb3 želi izvoziti gesla. Če želite omogočiti to, vnesite geslo za Windows.</translation>
+<translation id="5468853758063275923">BrowseWeb3 je privzeti brskalnik</translation>
+<translation id="8522292744959221145">Če želite preveriti, ali so gesla varna pred podatkovnimi kršitvami in drugimi varnostnimi težavami, <ph name="BEGIN_LINK"/>se prijavite v BrowseWeb3<ph name="END_LINK"/>.</translation>
+<translation id="2627788872035182013">Kliknite BrowseWeb3ov meni</translation>
+<translation id="8541922081612557424">O BrowseWeb3u</translation>
 <translation id="1203500561924088507">Hvala, ker ste se odločili za namestitev. Preden uporabite <ph name="BUNDLE_NAME"/>, morate znova zagnati brskalnik.</translation>
-<translation id="4658574652223735641">Varčevanje s pomnilnikom je pospešilo Kahf</translation>
-<translation id="8799570501820813406">Ko je bil ta zavihek neaktiven, je bil pomnilnik sproščen, da je bil Kahf še naprej hiter. Izberete lahko, da to spletno mesto ni nikoli neaktivno.</translation>
-<translation id="8767381092474532098">Kahf je blokiral ta prenos, ker je datoteka nevarna</translation>
-<translation id="4798342026247191171">Nastavitev novega profila v Kahfu</translation>
-<translation id="108284536240904209">Iz Kahfa izbriši tudi podatke (<ph name="URL"/>)</translation>
-<translation id="8132634101975074716">Prijavljeni ste v Kahf.</translation>
-<translation id="1586284627848250203">Pomoč za Kahf for Testing</translation>
+<translation id="4658574652223735641">Varčevanje s pomnilnikom je pospešilo BrowseWeb3</translation>
+<translation id="8799570501820813406">Ko je bil ta zavihek neaktiven, je bil pomnilnik sproščen, da je bil BrowseWeb3 še naprej hiter. Izberete lahko, da to spletno mesto ni nikoli neaktivno.</translation>
+<translation id="8767381092474532098">BrowseWeb3 je blokiral ta prenos, ker je datoteka nevarna</translation>
+<translation id="4798342026247191171">Nastavitev novega profila v BrowseWeb3u</translation>
+<translation id="108284536240904209">Iz BrowseWeb3a izbriši tudi podatke (<ph name="URL"/>)</translation>
+<translation id="8132634101975074716">Prijavljeni ste v BrowseWeb3.</translation>
+<translation id="1586284627848250203">Pomoč za BrowseWeb3 for Testing</translation>
 <translation id="1497802159252041924">Napaka pri namestitvi: <ph name="INSTALL_ERROR"/></translation>
-<translation id="5147525139567260139">Deljenje zavihka v Kahfu</translation>
-<translation id="1530633922026945685">Kahf potrebuje dovoljenje za dostop do fotoaparata zaradi ustvarjanja tridimenzionalnega zemljevida okolice.</translation>
-<translation id="6570689355868013775">Varnostna orodja v Kahfu</translation>
-<translation id="4449148723378534338">Oglejte si ključne kontrolnike zasebnosti in varnosti v Kahfu.</translation>
+<translation id="5147525139567260139">Deljenje zavihka v BrowseWeb3u</translation>
+<translation id="1530633922026945685">BrowseWeb3 potrebuje dovoljenje za dostop do fotoaparata zaradi ustvarjanja tridimenzionalnega zemljevida okolice.</translation>
+<translation id="6570689355868013775">Varnostna orodja v BrowseWeb3u</translation>
+<translation id="4449148723378534338">Oglejte si ključne kontrolnike zasebnosti in varnosti v BrowseWeb3u.</translation>
 <translation id="1640672724030957280">Prenos ...</translation>
-<translation id="5616153642055197778">Na voljo je nova, varnejša različica Kahfa.</translation>
-<translation id="2913217021115517297">Zaradi izboljšanja teh funkcij Kahf vaše interakcije z njimi pošilja Googlu. Pregledovalci lahko te podatke pregledajo, obdelajo in označijo.</translation>
-<translation id="5846727201643228411">Vidite ali odstranite lahko teme zanimanja, ki jih spletna mesta uporabljajo, da vam prikazujejo oglase. Kahf oceni vaša zanimanja glede na nedavno zgodovino brskanja.</translation>
-<translation id="8004287232784878841">Kahf bo kmalu izbrisal podatke brskanja</translation>
-<translation id="4197839351786449392">Kahf bo poskusil nadgraditi pomikanje na HTTPS</translation>
-<translation id="9048361966237194186">Kahf se bo znova zagnal čez toliko časa: <ph name="REMAINING_TIME"/></translation>
-<translation id="5524150602137990006">Če HTTPS ni na voljo, Kahf uporabi povezavo, ki ni varna, ne da bi vas opozoril</translation>
-<translation id="6797402139308059782">Naj se Kahf izvaja v ozadju</translation>
-<translation id="5875673934455379806">Vnovična namestitev Kahfa</translation>
-<translation id="4529028207655448215">Kahf poskuša <ph name="AUTHENTICATION_PURPOSE"/></translation>
-<translation id="6888366668010117849">Spletna mesta lahko v Kahfu shranjujejo podatke o vaših zanimanjih. Če na primer obiščete spletno mesto zaradi nakupa športnih copatov za maraton, bo spletno mesto morda določilo vaše zanimanje kot udeleževanje maratonov. Če pozneje obiščete drugo spletno mesto za registriranje za tek, vam lahko to spletno mesto glede na vaša zanimanja prikaže oglas za tekaško obutev.</translation>
-<translation id="4528406859989804913">Prijavljate se z upravljanim računom in s tem njegovemu skrbniku omogočate nadzor vašega profila v Kahfu. Vaši podatki v Kahfu, kot so aplikacije, zaznamki, zgodovina, gesla in druge nastavitve, bodo postali trajno povezani z uporabnikom <ph name="USER_NAME"/>. Te podatke boste lahko izbrisali na nadzorni plošči za Kahf Račune, vendar jih ne boste mogli povezati z drugim računom. Če želite, lahko ustvarite nov profil, da bodo obstoječi podatki v Kahfu ostali ločeni. <ph name="LEARN_MORE"/></translation>
-<translation id="1649714546770135458">Če to izklopite, se lahko prijavite na Googlovih spletnih mestih, kot je Gmail, ne da bi se morali prijaviti v Kahf</translation>
-<translation id="189297655255130768">Kahf se ne odziva. Ga želite znova zagnati?</translation>
+<translation id="5616153642055197778">Na voljo je nova, varnejša različica BrowseWeb3a.</translation>
+<translation id="2913217021115517297">Zaradi izboljšanja teh funkcij BrowseWeb3 vaše interakcije z njimi pošilja Googlu. Pregledovalci lahko te podatke pregledajo, obdelajo in označijo.</translation>
+<translation id="5846727201643228411">Vidite ali odstranite lahko teme zanimanja, ki jih spletna mesta uporabljajo, da vam prikazujejo oglase. BrowseWeb3 oceni vaša zanimanja glede na nedavno zgodovino brskanja.</translation>
+<translation id="8004287232784878841">BrowseWeb3 bo kmalu izbrisal podatke brskanja</translation>
+<translation id="4197839351786449392">BrowseWeb3 bo poskusil nadgraditi pomikanje na HTTPS</translation>
+<translation id="9048361966237194186">BrowseWeb3 se bo znova zagnal čez toliko časa: <ph name="REMAINING_TIME"/></translation>
+<translation id="5524150602137990006">Če HTTPS ni na voljo, BrowseWeb3 uporabi povezavo, ki ni varna, ne da bi vas opozoril</translation>
+<translation id="6797402139308059782">Naj se BrowseWeb3 izvaja v ozadju</translation>
+<translation id="5875673934455379806">Vnovična namestitev BrowseWeb3a</translation>
+<translation id="4529028207655448215">BrowseWeb3 poskuša <ph name="AUTHENTICATION_PURPOSE"/></translation>
+<translation id="6888366668010117849">Spletna mesta lahko v BrowseWeb3u shranjujejo podatke o vaših zanimanjih. Če na primer obiščete spletno mesto zaradi nakupa športnih copatov za maraton, bo spletno mesto morda določilo vaše zanimanje kot udeleževanje maratonov. Če pozneje obiščete drugo spletno mesto za registriranje za tek, vam lahko to spletno mesto glede na vaša zanimanja prikaže oglas za tekaško obutev.</translation>
+<translation id="4528406859989804913">Prijavljate se z upravljanim računom in s tem njegovemu skrbniku omogočate nadzor vašega profila v BrowseWeb3u. Vaši podatki v BrowseWeb3u, kot so aplikacije, zaznamki, zgodovina, gesla in druge nastavitve, bodo postali trajno povezani z uporabnikom <ph name="USER_NAME"/>. Te podatke boste lahko izbrisali na nadzorni plošči za BrowseWeb3 Račune, vendar jih ne boste mogli povezati z drugim računom. Če želite, lahko ustvarite nov profil, da bodo obstoječi podatki v BrowseWeb3u ostali ločeni. <ph name="LEARN_MORE"/></translation>
+<translation id="1649714546770135458">Če to izklopite, se lahko prijavite na Googlovih spletnih mestih, kot je Gmail, ne da bi se morali prijaviti v BrowseWeb3</translation>
+<translation id="189297655255130768">BrowseWeb3 se ne odziva. Ga želite znova zagnati?</translation>
 <translation id="4035053306113201399">Če želite uveljaviti posodobitev, morate znova zagnati Chrome OS.</translation>
-<translation id="9048754176089806686">Kahf je blokiral ta prenos, ker se vrsta datoteke ne prenaša pogosto in je morda nevarna</translation>
+<translation id="9048754176089806686">BrowseWeb3 je blokiral ta prenos, ker se vrsta datoteke ne prenaša pogosto in je morda nevarna</translation>
 <translation id="1953553007165777902">Prenašanje … Še <ph name="MINUTE"/> min.</translation>
-<translation id="1775322105159056176">Kahf ne more določiti ali nastaviti privzetega brskalnika</translation>
-<translation id="9220324636239049437">S tem bo iz te naprave izbrisan 1 element. Če želite pozneje prenesti podatke, se v Kahf prijavite kot <ph name="USER_EMAIL"/>.</translation>
+<translation id="1775322105159056176">BrowseWeb3 ne more določiti ali nastaviti privzetega brskalnika</translation>
+<translation id="9220324636239049437">S tem bo iz te naprave izbrisan 1 element. Če želite pozneje prenesti podatke, se v BrowseWeb3 prijavite kot <ph name="USER_EMAIL"/>.</translation>
 <translation id="2018879682492276940">Namestitev ni uspela. Poskusite znova.</translation>
-<translation id="831418749472885028">Če želite preveriti, ali so druga gesla varna pred podatkovnimi kršitvami in drugimi varnostnimi težavami, <ph name="BEGIN_LINK"/>se prijavite v Kahf<ph name="END_LINK"/>.</translation>
-<translation id="5499149312981370855">Izberite, ali želite, da je zaradi osebno bolj prilagojenih izkušenj v Googlovih storitvah vključena zgodovina v Kahfu.</translation>
-<translation id="2472891440303445472">Kahf je blokiral ta prenos, ker je datoteka zavajajoča in v napravi morda izvaja nepričakovane spremembe</translation>
-<translation id="849607431499549468">Informacije o tem, kako Kahf upravlja korenska potrdila.</translation>
-<translation id="4375530476448642348">{COUNT,plural, =1{Organizacija samodejno izbriše podatke brskanja, če Kahfa ne uporabljate 1 minuto. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose. Zavihki bodo ostali odprti.}one{Organizacija samodejno izbriše podatke brskanja, če Kahfa ne uporabljate # minuto. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose. Zavihki bodo ostali odprti.}two{Organizacija samodejno izbriše podatke brskanja, če Kahfa ne uporabljate # minuti. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose. Zavihki bodo ostali odprti.}few{Organizacija samodejno izbriše podatke brskanja, če Kahfa ne uporabljate # minute. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose. Zavihki bodo ostali odprti.}other{Organizacija samodejno izbriše podatke brskanja, če Kahfa ne uporabljate # minut. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose. Zavihki bodo ostali odprti.}}</translation>
+<translation id="831418749472885028">Če želite preveriti, ali so druga gesla varna pred podatkovnimi kršitvami in drugimi varnostnimi težavami, <ph name="BEGIN_LINK"/>se prijavite v BrowseWeb3<ph name="END_LINK"/>.</translation>
+<translation id="5499149312981370855">Izberite, ali želite, da je zaradi osebno bolj prilagojenih izkušenj v Googlovih storitvah vključena zgodovina v BrowseWeb3u.</translation>
+<translation id="2472891440303445472">BrowseWeb3 je blokiral ta prenos, ker je datoteka zavajajoča in v napravi morda izvaja nepričakovane spremembe</translation>
+<translation id="849607431499549468">Informacije o tem, kako BrowseWeb3 upravlja korenska potrdila.</translation>
+<translation id="4375530476448642348">{COUNT,plural, =1{Organizacija samodejno izbriše podatke brskanja, če BrowseWeb3a ne uporabljate 1 minuto. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose. Zavihki bodo ostali odprti.}one{Organizacija samodejno izbriše podatke brskanja, če BrowseWeb3a ne uporabljate # minuto. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose. Zavihki bodo ostali odprti.}two{Organizacija samodejno izbriše podatke brskanja, če BrowseWeb3a ne uporabljate # minuti. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose. Zavihki bodo ostali odprti.}few{Organizacija samodejno izbriše podatke brskanja, če BrowseWeb3a ne uporabljate # minute. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose. Zavihki bodo ostali odprti.}other{Organizacija samodejno izbriše podatke brskanja, če BrowseWeb3a ne uporabljate # minut. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose. Zavihki bodo ostali odprti.}}</translation>
 <translation id="2126108037660393668">Napaka pri preverjanju prenesene datoteke.</translation>
 <translation id="2130870084309816036">Internetne povezave ni mogoče vzpostaviti. Če uporabljate požarni zid, dodajte <ph name="PRODUCT_EXE_NAME"/> na seznam dovoljenih.</translation>
-<translation id="5789330946301045610">Kahf je blokiral ta prenos, ker spletno mesto ne uporablja varne povezave in so v datoteko morda posegali</translation>
-<translation id="142389341645668510">Prilagodi Kahf</translation>
+<translation id="5789330946301045610">BrowseWeb3 je blokiral ta prenos, ker spletno mesto ne uporablja varne povezave in so v datoteko morda posegali</translation>
+<translation id="142389341645668510">Prilagodi BrowseWeb3</translation>
 <translation id="2174917724755363426">Namestitev še ni končana. Ali ste prepričani, da jo želite preklicati?</translation>
-<translation id="8745514854244955877">Kahf – Prijava v omrežje – <ph name="PAGE_TITLE"/></translation>
+<translation id="8745514854244955877">BrowseWeb3 – Prijava v omrežje – <ph name="PAGE_TITLE"/></translation>
 <translation id="2190166659037789668">Napaka pri preverjanju posodobitev: <ph name="UPDATE_CHECK_ERROR"/>.</translation>
-<translation id="5659384504794665581">Če računalnik souporabljate z drugimi, lahko prijatelji in sorodniki ločeno brskajo ter nastavijo Kahf tako, kot ga želijo.</translation>
-<translation id="7810992039564280750">Preveri URL-je, tako da jih primerja s seznamom spletnih mest, ki niso varna, shranjenim v Kahfu. Če vam spletno mesto poskusi ukrasti geslo ali če prenašate škodljivo datoteko, lahko Kahf prav tako pošlje URL-je, vključno z delčki vsebine strani, Varnemu brskanju.</translation>
-<translation id="7682239218279776307">Če je vklopljena ta nastavitev, Kahf vnaprej naloži strani, kar omogoča hitrejše brskanje in iskanje.</translation>
-<translation id="9095263438435683933">Če želite poslati telefonsko številko od tukaj v telefon Android, se prijavite v Kahf v obeh napravah.</translation>
+<translation id="5659384504794665581">Če računalnik souporabljate z drugimi, lahko prijatelji in sorodniki ločeno brskajo ter nastavijo BrowseWeb3 tako, kot ga želijo.</translation>
+<translation id="7810992039564280750">Preveri URL-je, tako da jih primerja s seznamom spletnih mest, ki niso varna, shranjenim v BrowseWeb3u. Če vam spletno mesto poskusi ukrasti geslo ali če prenašate škodljivo datoteko, lahko BrowseWeb3 prav tako pošlje URL-je, vključno z delčki vsebine strani, Varnemu brskanju.</translation>
+<translation id="7682239218279776307">Če je vklopljena ta nastavitev, BrowseWeb3 vnaprej naloži strani, kar omogoča hitrejše brskanje in iskanje.</translation>
+<translation id="9095263438435683933">Če želite poslati telefonsko številko od tukaj v telefon Android, se prijavite v BrowseWeb3 v obeh napravah.</translation>
 <translation id="2359808026110333948">Naprej</translation>
-<translation id="1917698491051673244">Če želite izbrisati podatke brskanja samo iz te naprave, v računu Kahf pa jih želite ohraniti, <ph name="BEGIN_LINK"/>se odjavite iz Kahfa<ph name="END_LINK"/>.</translation>
+<translation id="1917698491051673244">Če želite izbrisati podatke brskanja samo iz te naprave, v računu BrowseWeb3 pa jih želite ohraniti, <ph name="BEGIN_LINK"/>se odjavite iz BrowseWeb3a<ph name="END_LINK"/>.</translation>
 <translation id="8418845734693287262">Chrome OS ni mogel sinhronizirati podatkov, ker so podatki za prijavo v račun zastareli.</translation>
-<translation id="5617265241715541684">{NUM_DEVICES,plural, =0{Najmanj ena razširitev za Kahf je dostopala do 1 naprave HID}=1{Najmanj ena razširitev za Kahf dostopa do 1 naprave HID}one{Najmanj ena razširitev za Kahf dostopa do # naprave HID}two{Najmanj ena razširitev za Kahf dostopa do # naprav HID}few{Najmanj ena razširitev za Kahf dostopa do # naprav HID}other{Najmanj ena razširitev za Kahf dostopa do # naprav HID}}</translation>
-<translation id="1248225940185478633">Kahf potrebuje dovoljenje za fotoaparat in mikrofon za to spletno mesto.</translation>
-<translation id="2118275934191847461">Z <ph name="BEGIN_LINK"/>orodji iz Kahfa<ph name="END_LINK"/> lahko varno brskate in imate nadzor</translation>
+<translation id="5617265241715541684">{NUM_DEVICES,plural, =0{Najmanj ena razširitev za BrowseWeb3 je dostopala do 1 naprave HID}=1{Najmanj ena razširitev za BrowseWeb3 dostopa do 1 naprave HID}one{Najmanj ena razširitev za BrowseWeb3 dostopa do # naprave HID}two{Najmanj ena razširitev za BrowseWeb3 dostopa do # naprav HID}few{Najmanj ena razširitev za BrowseWeb3 dostopa do # naprav HID}other{Najmanj ena razširitev za BrowseWeb3 dostopa do # naprav HID}}</translation>
+<translation id="1248225940185478633">BrowseWeb3 potrebuje dovoljenje za fotoaparat in mikrofon za to spletno mesto.</translation>
+<translation id="2118275934191847461">Z <ph name="BEGIN_LINK"/>orodji iz BrowseWeb3a<ph name="END_LINK"/> lahko varno brskate in imate nadzor</translation>
 <translation id="2451727308784734061">Z bližnjico lahko hitro odprete Upravitelja gesel. Bližnjico lahko premaknete na začetni zaslon računalnika ali v zaganjalnik aplikacij.</translation>
-<translation id="6381750314821942592">Kahf se bo kmalu zaprl</translation>
-<translation id="6078442581074612226">V Kahfu</translation>
+<translation id="6381750314821942592">BrowseWeb3 se bo kmalu zaprl</translation>
+<translation id="6078442581074612226">V BrowseWeb3u</translation>
 <translation id="2485422356828889247">Odmeščanje</translation>
 <translation id="2513154137948333830">Potreben je vnovičen zagon: <ph name="INSTALL_SUCCESS"/></translation>
-<translation id="70183448213529602">Kahf poskuša zamenjati obstoječa gesla. Če želite to omogočiti, vnesite geslo za Windows.</translation>
-<translation id="7798069806040634998">Kahf potrebuje za prenos datotek dostop do shrambe</translation>
-<translation id="8447483940522230788">Pomoč za Kahf</translation>
-<translation id="7291143854620707672">Podatke v Kahfu, ki se ustvarijo med uporabo tega profila (na primer zaznamke, zgodovino, gesla in druge nastavitve), lahko odstrani skrbnik delovnega profila. <ph name="LEARN_MORE"/></translation>
-<translation id="6252796827759111076">Še naprej uporabljaj Kahf</translation>
+<translation id="70183448213529602">BrowseWeb3 poskuša zamenjati obstoječa gesla. Če želite to omogočiti, vnesite geslo za Windows.</translation>
+<translation id="7798069806040634998">BrowseWeb3 potrebuje za prenos datotek dostop do shrambe</translation>
+<translation id="8447483940522230788">Pomoč za BrowseWeb3</translation>
+<translation id="7291143854620707672">Podatke v BrowseWeb3u, ki se ustvarijo med uporabo tega profila (na primer zaznamke, zgodovino, gesla in druge nastavitve), lahko odstrani skrbnik delovnega profila. <ph name="LEARN_MORE"/></translation>
+<translation id="6252796827759111076">Še naprej uporabljaj BrowseWeb3</translation>
 <translation id="259935314519650377">Prenesenega namestitvenega programa ni bilo mogoče predpomniti. Napaka: <ph name="UNPACK_CACHING_ERROR_CODE"/>.</translation>
-<translation id="7387051847644272380">Napaka v operacijskem sistemu med namestitvijo. Znova prenesite Kahf.</translation>
-<translation id="2648689842065142443">Če napravo souporabljate z drugimi, lahko prijatelji in sorodniki ločeno brskajo ter nastavijo Kahf tako, kot ga želijo.</translation>
-<translation id="6384359666082467439">Pozdravljeni v Kahfu, <ph name="ACCOUNT_FIRST_NAME"/></translation>
-<translation id="6791166902140255175">Zavihek v Kahfu</translation>
-<translation id="8372880274820509128">Zaradi večje varnosti bo Kahf šifriral vaše podatke.</translation>
+<translation id="7387051847644272380">Napaka v operacijskem sistemu med namestitvijo. Znova prenesite BrowseWeb3.</translation>
+<translation id="2648689842065142443">Če napravo souporabljate z drugimi, lahko prijatelji in sorodniki ločeno brskajo ter nastavijo BrowseWeb3 tako, kot ga želijo.</translation>
+<translation id="6384359666082467439">Pozdravljeni v BrowseWeb3u, <ph name="ACCOUNT_FIRST_NAME"/></translation>
+<translation id="6791166902140255175">Zavihek v BrowseWeb3u</translation>
+<translation id="8372880274820509128">Zaradi večje varnosti bo BrowseWeb3 šifriral vaše podatke.</translation>
 <translation id="2738871930057338499">Internetne povezave ni mogoče vzpostaviti. Koda napake HTTP je »403 Forbidden«. Preverite konfiguracijo strežnika proxy configuration.</translation>
 <translation id="2770231113462710648">Spremeni privzeti brskalnik na:</translation>
-<translation id="1187986649024576560">Ta razširitev vsebuje zlonamerno programsko opremo in ni varna. Odstranite jo iz Kahfa, da si ne bo mogla več ogledati vaših podatkov na obiskanih spletnih mestih, vključno z osebnimi podatki, in jih spreminjati.</translation>
+<translation id="1187986649024576560">Ta razširitev vsebuje zlonamerno programsko opremo in ni varna. Odstranite jo iz BrowseWeb3a, da si ne bo mogla več ogledati vaših podatkov na obiskanih spletnih mestih, vključno z osebnimi podatki, in jih spreminjati.</translation>
 <translation id="2799223571221894425">Vnovičen zagon</translation>
-<translation id="3783547330001921298">S tem bo ustvarjen novi profil v Kahfu za uporabnika <ph name="USER_EMAIL_ADDRESS"/>.</translation>
+<translation id="3783547330001921298">S tem bo ustvarjen novi profil v BrowseWeb3u za uporabnika <ph name="USER_EMAIL_ADDRESS"/>.</translation>
 <translation id="2846251086934905009">Napaka pri namestitvi: Namestitveni program se ni dokončal. Namestitev je bila prekinjena.</translation>
-<translation id="777113543093865885">Odstranitev iz Kahfa ...</translation>
-<translation id="5265419033369521352">Skrbi za vašo varnost v Kahfu in ga je mogoče uporabiti za okrepitev varnosti v drugih Googlovih aplikacijah, ko ste prijavljeni.</translation>
+<translation id="777113543093865885">Odstranitev iz BrowseWeb3a ...</translation>
+<translation id="5265419033369521352">Skrbi za vašo varnost v BrowseWeb3u in ga je mogoče uporabiti za okrepitev varnosti v drugih Googlovih aplikacijah, ko ste prijavljeni.</translation>
 <translation id="2885378588091291677">Upravitelj opravil</translation>
-<translation id="2176825726964012531">O &amp;Kahfu</translation>
+<translation id="2176825726964012531">O &amp;BrowseWeb3u</translation>
 <translation id="2915996080311180594">Znova zaženi pozneje</translation>
 <translation id="2928420929544864228">Namestitev je dokončana.</translation>
 <translation id="2945997411976714835">Napaka pri namestitvi: Proces namestitvenega programa se ni zagnal.</translation>
-<translation id="8208853227947884571">Kahf je posodobljen</translation>
-<translation id="5122472867956731189">Če vam spletno mesto poskusi ukrasti geslo ali če prenašate škodljivo datoteko, lahko Kahf prav tako pošlje URL-je, vključno z delčki vsebine strani, Varnemu brskanju.</translation>
-<translation id="8755404239607088219">Kahf ne more preveriti gesel. Poskusite pozneje.</translation>
-<translation id="8880183781256147665">Dodajanje v Kahf ...</translation>
+<translation id="8208853227947884571">BrowseWeb3 je posodobljen</translation>
+<translation id="5122472867956731189">Če vam spletno mesto poskusi ukrasti geslo ali če prenašate škodljivo datoteko, lahko BrowseWeb3 prav tako pošlje URL-je, vključno z delčki vsebine strani, Varnemu brskanju.</translation>
+<translation id="8755404239607088219">BrowseWeb3 ne more preveriti gesel. Poskusite pozneje.</translation>
+<translation id="8880183781256147665">Dodajanje v BrowseWeb3 ...</translation>
 <translation id="3038232873781883849">Čakanje na namestitev …</translation>
-<translation id="7918740962659365265">Pomagajte izboljšati Kahf – Googlu pošiljajte poročila o zrušitvah in ta dokument: <ph name="UMA_LINK"/>.</translation>
-<translation id="2332543193474246254">{NUM_DEVICES,plural, =0{Najmanj ena razširitev za Kahf je dostopala do 1 naprave USB}=1{Najmanj ena razširitev za Kahf dostopa do 1 naprave USB}one{Najmanj ena razširitev za Kahf dostopa do # naprave USB}two{Najmanj ena razširitev za Kahf dostopa do # naprav USB}few{Najmanj ena razširitev za Kahf dostopa do # naprav USB}other{Najmanj ena razširitev za Kahf dostopa do # naprav USB}}</translation>
-<translation id="5320085753638900910">Zgodovina brskanja vpliva na prikazane oglase in zanimanja, kot je ocenjeno spodaj. Kahf zaradi varovanja vaše zasebnosti vsak mesec sproti samodejno izbriše vaša zanimanja. Zanimanja se lahko osvežujejo, razen če jih odstranite.</translation>
-<translation id="7365690458036015383">Namestitvenemu programu ni uspelo razširiti arhiva. Znova prenesite Kahf.</translation>
-<translation id="8919461291440820124">Kahf uporablja vaš mikrofon.</translation>
-<translation id="4805806622840861220">Znova zaženite Kahf</translation>
-<translation id="1742948938503172561">Prilagajanje novega profila v Kahfu</translation>
-<translation id="1477146545787277177">Opa! Kahf se je zrušil. Ga želite znova zagnati?</translation>
-<translation id="2585240446624043880">Kahf ne more brati svojega imenika s podatki ali pisati vanj:
+<translation id="7918740962659365265">Pomagajte izboljšati BrowseWeb3 – Googlu pošiljajte poročila o zrušitvah in ta dokument: <ph name="UMA_LINK"/>.</translation>
+<translation id="2332543193474246254">{NUM_DEVICES,plural, =0{Najmanj ena razširitev za BrowseWeb3 je dostopala do 1 naprave USB}=1{Najmanj ena razširitev za BrowseWeb3 dostopa do 1 naprave USB}one{Najmanj ena razširitev za BrowseWeb3 dostopa do # naprave USB}two{Najmanj ena razširitev za BrowseWeb3 dostopa do # naprav USB}few{Najmanj ena razširitev za BrowseWeb3 dostopa do # naprav USB}other{Najmanj ena razširitev za BrowseWeb3 dostopa do # naprav USB}}</translation>
+<translation id="5320085753638900910">Zgodovina brskanja vpliva na prikazane oglase in zanimanja, kot je ocenjeno spodaj. BrowseWeb3 zaradi varovanja vaše zasebnosti vsak mesec sproti samodejno izbriše vaša zanimanja. Zanimanja se lahko osvežujejo, razen če jih odstranite.</translation>
+<translation id="7365690458036015383">Namestitvenemu programu ni uspelo razširiti arhiva. Znova prenesite BrowseWeb3.</translation>
+<translation id="8919461291440820124">BrowseWeb3 uporablja vaš mikrofon.</translation>
+<translation id="4805806622840861220">Znova zaženite BrowseWeb3</translation>
+<translation id="1742948938503172561">Prilagajanje novega profila v BrowseWeb3u</translation>
+<translation id="1477146545787277177">Opa! BrowseWeb3 se je zrušil. Ga želite znova zagnati?</translation>
+<translation id="2585240446624043880">BrowseWeb3 ne more brati svojega imenika s podatki ali pisati vanj:
 
 <ph name="USER_DATA_DIRECTORY"/></translation>
-<translation id="2423637317249323944">Nameščen je Kahf različice <ph name="PRODUCT_VERSION"/></translation>
+<translation id="2423637317249323944">Nameščen je BrowseWeb3 različice <ph name="PRODUCT_VERSION"/></translation>
 <translation id="3286538390144397061">Znova zaženi</translation>
-<translation id="2339258256897053758">Manjkajo ključi za Kahf API. Nekatere funkcije Kahfa bodo onemogočene.</translation>
-<translation id="8926637909431618259">Nadaljuj izvajanje aplikacij v ozadju, ko je Kahf zaprt</translation>
-<translation id="518125528057094977">Kahf vas bo opozoril pred nalaganjem katerega koli spletnega mesta prek povezave, ki ni varna</translation>
-<translation id="2711887072399498551">Profil v Kahfu s tem računom že obstaja.</translation>
+<translation id="2339258256897053758">Manjkajo ključi za BrowseWeb3 API. Nekatere funkcije BrowseWeb3a bodo onemogočene.</translation>
+<translation id="8926637909431618259">Nadaljuj izvajanje aplikacij v ozadju, ko je BrowseWeb3 zaprt</translation>
+<translation id="518125528057094977">BrowseWeb3 vas bo opozoril pred nalaganjem katerega koli spletnega mesta prek povezave, ki ni varna</translation>
+<translation id="2711887072399498551">Profil v BrowseWeb3u s tem računom že obstaja.</translation>
 <translation id="2645435784669275700">Chrome OS</translation>
-<translation id="2297290224191497273">Želite preklopiti na obstoječi profil v Kahfu?</translation>
+<translation id="2297290224191497273">Želite preklopiti na obstoječi profil v BrowseWeb3u?</translation>
 <translation id="3412460710772753638">V Upravitelju gesel v tej napravi</translation>
-<translation id="2450003541323895471">S profili v Kahfu lahko ločite vse stvari v Kahfu. Ustvarite profile za prijatelje in svojce ali ustvarite ločene za delo in zabavo.</translation>
-<translation id="9216183508558772570">Kahf vas bo obvestil, če se prijavite z ogroženim geslom</translation>
-<translation id="5853262807109651878">S tem bo iz te naprave izbrisanih več elementov (<ph name="ITEMS_COUNT"/>). Če želite pozneje prenesti podatke, se v Kahf prijavite kot <ph name="USER_EMAIL"/>.</translation>
-<translation id="2024972335338126423">Bližnjica <ph name="SHORTCUT"/> omogoča preklop med profili v Kahfu</translation>
-<translation id="8703492925273919597">Zaprite vsa okna Kahfa in poskusite znova.</translation>
-<translation id="4061445349373849749">Zaradi zaščite vaše varnosti samodejno izbrišemo vaša zanimanja, starejša od 4 tednov. Ko brskate naprej, se zanimanje morda znova prikaže na seznamu. Odstranite lahko tudi zanimanja, za katera ne želite, da jih Kahf predlaga.</translation>
-<translation id="691208314680168371">Zgodovina brskanja, evidenca spletnih mest, ki ste jih obiskali s Kahfom v tej napravi.</translation>
-<translation id="1073077513148817424">Drug račun je že prijavljen. Če želite ločiti brskanje, lahko Kahf za vas ustvari nov profil.</translation>
-<translation id="4250277591581952830">Če želite prejemati prihodnje posodobitve Kahfa, potrebujete macOS 10.15 ali novejšega. V tem računalniku je nameščen macOS 10.13.</translation>
-<translation id="7029305463989165490">Če želite telefonsko številko iz <ph name="ORIGIN"/> poslati v telefon Android, se prijavite v Kahf v obeh napravah.</translation>
+<translation id="2450003541323895471">S profili v BrowseWeb3u lahko ločite vse stvari v BrowseWeb3u. Ustvarite profile za prijatelje in svojce ali ustvarite ločene za delo in zabavo.</translation>
+<translation id="9216183508558772570">BrowseWeb3 vas bo obvestil, če se prijavite z ogroženim geslom</translation>
+<translation id="5853262807109651878">S tem bo iz te naprave izbrisanih več elementov (<ph name="ITEMS_COUNT"/>). Če želite pozneje prenesti podatke, se v BrowseWeb3 prijavite kot <ph name="USER_EMAIL"/>.</translation>
+<translation id="2024972335338126423">Bližnjica <ph name="SHORTCUT"/> omogoča preklop med profili v BrowseWeb3u</translation>
+<translation id="8703492925273919597">Zaprite vsa okna BrowseWeb3a in poskusite znova.</translation>
+<translation id="4061445349373849749">Zaradi zaščite vaše varnosti samodejno izbrišemo vaša zanimanja, starejša od 4 tednov. Ko brskate naprej, se zanimanje morda znova prikaže na seznamu. Odstranite lahko tudi zanimanja, za katera ne želite, da jih BrowseWeb3 predlaga.</translation>
+<translation id="691208314680168371">Zgodovina brskanja, evidenca spletnih mest, ki ste jih obiskali s BrowseWeb3om v tej napravi.</translation>
+<translation id="1073077513148817424">Drug račun je že prijavljen. Če želite ločiti brskanje, lahko BrowseWeb3 za vas ustvari nov profil.</translation>
+<translation id="4250277591581952830">Če želite prejemati prihodnje posodobitve BrowseWeb3a, potrebujete macOS 10.15 ali novejšega. V tem računalniku je nameščen macOS 10.13.</translation>
+<translation id="7029305463989165490">Če želite telefonsko številko iz <ph name="ORIGIN"/> poslati v telefon Android, se prijavite v BrowseWeb3 v obeh napravah.</translation>
 <translation id="3667616615096815454">Namestitev ni mogoča, ker strežnik ne pozna aplikacije.</translation>
-<translation id="4304059894777924102">Kahf ne more preveriti gesel. Poskusite preveriti internetno povezavo.</translation>
-<translation id="2100587595569959771">Preberite več o osebnem prilagajanju oglasov v Kahfu</translation>
-<translation id="1807774211756215222">Odpiranje povezave na novem &amp;zavihku v Kahfu</translation>
-<translation id="2106568569080763501">Kahf omogoča, da v spletu kliknete telefonsko številko in jo pokličete prek Skypa.</translation>
-<translation id="308146532933302843">Preberite, zakaj Kahf blokira nekatere prenose</translation>
-<translation id="2189149060536531804">Kahf vas bo obvestil, če boste morali kaj pregledati</translation>
-<translation id="6324134303015966238">Kahf vnaprej naloži strani, ki jih boste verjetno obiskali, da se ob obisku naložijo še hitreje</translation>
+<translation id="4304059894777924102">BrowseWeb3 ne more preveriti gesel. Poskusite preveriti internetno povezavo.</translation>
+<translation id="2100587595569959771">Preberite več o osebnem prilagajanju oglasov v BrowseWeb3u</translation>
+<translation id="1807774211756215222">Odpiranje povezave na novem &amp;zavihku v BrowseWeb3u</translation>
+<translation id="2106568569080763501">BrowseWeb3 omogoča, da v spletu kliknete telefonsko številko in jo pokličete prek Skypa.</translation>
+<translation id="308146532933302843">Preberite, zakaj BrowseWeb3 blokira nekatere prenose</translation>
+<translation id="2189149060536531804">BrowseWeb3 vas bo obvestil, če boste morali kaj pregledati</translation>
+<translation id="6324134303015966238">BrowseWeb3 vnaprej naloži strani, ki jih boste verjetno obiskali, da se ob obisku naložijo še hitreje</translation>
 <translation id="2401189691232800402">Sistem Chrome OS</translation>
-<translation id="5381622442243174305"><ph name="PAGE_TITLE"/> – Kahf</translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE"/> – BrowseWeb3</translation>
 <translation id="3744202345691150878">Pomoč za Chrome OS</translation>
-<translation id="6009720635797285369">Prenesite stvari za brskalnik Kahf iz računa <ph name="ACCOUNT_EMAIL"/>.</translation>
-<translation id="5111297589157398321">Če želite prejemati prihodnje posodobitve Kahfa, potrebujete macOS 10.15 ali novejšega. V tem računalniku je nameščen macOS 10.14.</translation>
-<translation id="6315734375101223238">Prilagajanje in nadziranje Kahfa. Nekaj morate preveriti – kliknite za podrobnosti.</translation>
-<translation id="7130675370997202556">Kliknite ime, da odprete Kahf in začnete brskati.</translation>
-<translation id="4920958997042285125">Uporabnik <ph name="EXISTING_USER"/> je že prijavljen v ta profil v Kahfu. Če želite ločiti brskanje, lahko Kahf za vas ustvari nov profil.</translation>
-<translation id="2337217774418822704">Vaš račun upravlja <ph name="MANAGER_NAME"/>. Vaš skrbnik lahko vidi in upravlja ta profil za brskalnik Kahf s podatki vred, in sicer zaznamki, zgodovino ter gesli.</translation>
-<translation id="4561646469134805137">Med vnašanjem Kahf pošlje vsebino naslovne vrstice ali iskalnega polja privzetemu iskalniku</translation>
+<translation id="6009720635797285369">Prenesite stvari za brskalnik BrowseWeb3 iz računa <ph name="ACCOUNT_EMAIL"/>.</translation>
+<translation id="5111297589157398321">Če želite prejemati prihodnje posodobitve BrowseWeb3a, potrebujete macOS 10.15 ali novejšega. V tem računalniku je nameščen macOS 10.14.</translation>
+<translation id="6315734375101223238">Prilagajanje in nadziranje BrowseWeb3a. Nekaj morate preveriti – kliknite za podrobnosti.</translation>
+<translation id="7130675370997202556">Kliknite ime, da odprete BrowseWeb3 in začnete brskati.</translation>
+<translation id="4920958997042285125">Uporabnik <ph name="EXISTING_USER"/> je že prijavljen v ta profil v BrowseWeb3u. Če želite ločiti brskanje, lahko BrowseWeb3 za vas ustvari nov profil.</translation>
+<translation id="2337217774418822704">Vaš račun upravlja <ph name="MANAGER_NAME"/>. Vaš skrbnik lahko vidi in upravlja ta profil za brskalnik BrowseWeb3 s podatki vred, in sicer zaznamki, zgodovino ter gesli.</translation>
+<translation id="4561646469134805137">Med vnašanjem BrowseWeb3 pošlje vsebino naslovne vrstice ali iskalnega polja privzetemu iskalniku</translation>
 <translation id="3941890832296813527">Napaka pri namestitvi: Ime datoteke namestitvenega programa je neveljavno ali ni podprto.</translation>
-<translation id="8090497651549769448">Kahf poskuša kopirati gesla. Če želite to omogočiti, vnesite geslo za Windows.</translation>
-<translation id="4194619960643453552">Preberite, kako vas Kahf varuje</translation>
-<translation id="1311808042904310985">O različici &amp;Kahf for Testing</translation>
+<translation id="8090497651549769448">BrowseWeb3 poskuša kopirati gesla. Če želite to omogočiti, vnesite geslo za Windows.</translation>
+<translation id="4194619960643453552">Preberite, kako vas BrowseWeb3 varuje</translation>
+<translation id="1311808042904310985">O različici &amp;BrowseWeb3 for Testing</translation>
 <translation id="1152920704813762236">O sistemu Chrome OS</translation>
 <translation id="3703994572283698466">Chrome OS omogoča dodatna <ph name="BEGIN_LINK_CROS_OSS"/>odprtokodna programska oprema<ph name="END_LINK_CROS_OSS"/>, enako kot <ph name="BEGIN_LINK_LINUX_OSS"/>razvojno okolje Linux<ph name="END_LINK_LINUX_OSS"/>.</translation>
-<translation id="238935410828556037">Če je to izklopljeno, bodo še vedno prikazani predlogi, ki jih Kahf zagotavlja lokalno</translation>
-<translation id="6056473803837713617">Pomagajte izboljšati Kahf s poročanjem o <ph name="BEGIN_LINK"/>trenutnih nastavitvah<ph name="END_LINK"/></translation>
+<translation id="238935410828556037">Če je to izklopljeno, bodo še vedno prikazani predlogi, ki jih BrowseWeb3 zagotavlja lokalno</translation>
+<translation id="6056473803837713617">Pomagajte izboljšati BrowseWeb3 s poročanjem o <ph name="BEGIN_LINK"/>trenutnih nastavitvah<ph name="END_LINK"/></translation>
 <translation id="4050175100176540509">V najnovejši različici so na voljo pomembne varnostne izboljšave in nove funkcije.</translation>
 <translation id="4055805654398742145">Upravitelj g&amp;esel</translation>
-<translation id="6217792792122501564">{COUNT,plural, =1{Organizacija samodejno zapre Kahf, če ga ne uporabljate 1 minuto. Podatki brskanja so izbrisani. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose.}one{Organizacija samodejno zapre Kahf, če ga ne uporabljate # minuto. Podatki brskanja so izbrisani. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose.}two{Organizacija samodejno zapre Kahf, če ga ne uporabljate # minuti. Podatki brskanja so izbrisani. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose.}few{Organizacija samodejno zapre Kahf, če ga ne uporabljate # minute. Podatki brskanja so izbrisani. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose.}other{Organizacija samodejno zapre Kahf, če ga ne uporabljate # minut. Podatki brskanja so izbrisani. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose.}}</translation>
+<translation id="6217792792122501564">{COUNT,plural, =1{Organizacija samodejno zapre BrowseWeb3, če ga ne uporabljate 1 minuto. Podatki brskanja so izbrisani. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose.}one{Organizacija samodejno zapre BrowseWeb3, če ga ne uporabljate # minuto. Podatki brskanja so izbrisani. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose.}two{Organizacija samodejno zapre BrowseWeb3, če ga ne uporabljate # minuti. Podatki brskanja so izbrisani. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose.}few{Organizacija samodejno zapre BrowseWeb3, če ga ne uporabljate # minute. Podatki brskanja so izbrisani. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose.}other{Organizacija samodejno zapre BrowseWeb3, če ga ne uporabljate # minut. Podatki brskanja so izbrisani. To lahko vključuje zgodovino, samodejno izpolnjevanje in prenose.}}</translation>
 <translation id="4148957013307229264">Nameščanje ...</translation>
-<translation id="4658486203392098459"><ph name="PAGE_TITLE"/> – Prijava v omrežje – Kahf</translation>
-<translation id="2871190378186459992">Odkrijte zanimive aplikacije, igre, razširitve in teme za Kahf.</translation>
-<translation id="5757460455745382269">Ta jezik se uporablja za prikaz uporabniškega vmesnika v Kahfu</translation>
+<translation id="4658486203392098459"><ph name="PAGE_TITLE"/> – Prijava v omrežje – BrowseWeb3</translation>
+<translation id="2871190378186459992">Odkrijte zanimive aplikacije, igre, razširitve in teme za BrowseWeb3.</translation>
+<translation id="5757460455745382269">Ta jezik se uporablja za prikaz uporabniškega vmesnika v BrowseWeb3u</translation>
 <translation id="4222932583846282852">Preklic …</translation>
-<translation id="1853997773668795891">Želite svoje podatke v Kahfu povezati s tem računom?</translation>
-<translation id="4732930052828648898">Opozori vas o nevarnih spletnih mestih, celo tistih, za katere Kahf prej ni vedel, in sicer tako, da analizira več podatkov s spletnih mest kot standardna zaščita. Izberete lahko, da preskočite opozorila za Kahf.</translation>
-<translation id="3262506503470845422">Pomoč za Kahf</translation>
+<translation id="1853997773668795891">Želite svoje podatke v BrowseWeb3u povezati s tem računom?</translation>
+<translation id="4732930052828648898">Opozori vas o nevarnih spletnih mestih, celo tistih, za katere BrowseWeb3 prej ni vedel, in sicer tako, da analizira več podatkov s spletnih mest kot standardna zaščita. Izberete lahko, da preskočite opozorila za BrowseWeb3.</translation>
+<translation id="3262506503470845422">Pomoč za BrowseWeb3</translation>
 <translation id="4281844954008187215">Pogoji storitve</translation>
-<translation id="7691786510374174420">Namestitev ni bila izvedena zaradi nedoločene napake. Če se Kahf trenutno izvaja, ga zaprite in poskusite znova.</translation>
+<translation id="7691786510374174420">Namestitev ni bila izvedena zaradi nedoločene napake. Če se BrowseWeb3 trenutno izvaja, ga zaprite in poskusite znova.</translation>
 <translation id="4304713468139749426">Upravitelj gesel</translation>
 <translation id="4334294535648607276">Prenos končan.</translation>
 <translation id="1068681683510904753"><ph name="MANAGER"/> zahteva, da preberete in sprejmete pogoje storitve, preden začnete uporabljati napravo. Ti pogoji ne dopolnjujejo, spreminjajo ali omejujejo pogojev za Chrome OS.</translation>
-<translation id="9183662282810237335">Želite vseeno zapreti Kahf?</translation>
-<translation id="4065288863231444640">Naj se Kahf izvaja v ozadju</translation>
-<translation id="8148611988012584308">Prilagajanje in nadziranje Kahfa</translation>
+<translation id="9183662282810237335">Želite vseeno zapreti BrowseWeb3?</translation>
+<translation id="4065288863231444640">Naj se BrowseWeb3 izvaja v ozadju</translation>
+<translation id="8148611988012584308">Prilagajanje in nadziranje BrowseWeb3a</translation>
 <translation id="4427306783828095590">Izboljšana zaščita učinkoviteje blokira lažno predstavljanje in zlonamerno programsko opremo.</translation>
-<translation id="6786534271003695094">O različici Kahf for Testing</translation>
+<translation id="6786534271003695094">O različici BrowseWeb3 for Testing</translation>
 <translation id="4501471624619070934">Namestitev ni bila uspešna, ker je dostop v tej državi omejen.</translation>
-<translation id="7084397798469173252">Pozdravljeni v Kahfu; odprlo se je novo okno brskalnika</translation>
-<translation id="2633397153656205379">Kahf se ni posodobil, prišlo je do napake. <ph name="BEGIN_LINK"/>Odpravite težave s posodobitvijo Kahfa in neuspelimi posodobitvami Kahfa.<ph name="END_LINK"/></translation>
-<translation id="3679799810790990472">Ali želite nadaljevati v novem profilu v Kahfu?</translation>
+<translation id="7084397798469173252">Pozdravljeni v BrowseWeb3u; odprlo se je novo okno brskalnika</translation>
+<translation id="2633397153656205379">BrowseWeb3 se ni posodobil, prišlo je do napake. <ph name="BEGIN_LINK"/>Odpravite težave s posodobitvijo BrowseWeb3a in neuspelimi posodobitvami BrowseWeb3a.<ph name="END_LINK"/></translation>
+<translation id="3679799810790990472">Ali želite nadaljevati v novem profilu v BrowseWeb3u?</translation>
 <translation id="4567424176335768812">Prijavljeni ste kot <ph name="USER_EMAIL_ADDRESS"/>. Zdaj imate dostop do zaznamkov, zgodovine in drugih nastavitev v vseh napravah, v katerih ste prijavljeni.</translation>
-<translation id="8669339108356170796">Kahf je blokiral ta prenos, ker ste izklopili Varno brskanje in datoteke ni mogoče preveriti</translation>
+<translation id="8669339108356170796">BrowseWeb3 je blokiral ta prenos, ker ste izklopili Varno brskanje in datoteke ni mogoče preveriti</translation>
 <translation id="4594305310729380060">V Upravitelja gesel v tej napravi</translation>
-<translation id="300669147395456190">Aplikacije za Kahf</translation>
+<translation id="300669147395456190">Aplikacije za BrowseWeb3</translation>
 <translation id="4970880042055371251">Različica sistema Chrome OS</translation>
-<translation id="2182657378556811785">Samo še malo. Znova zaženite Kahf, da dokončate posodobitev.</translation>
-<translation id="7402642357351265733">Če delite tudi poročila o uporabi Kahfa, so v teh poročilih vključeni URL-ji, ki jih obiščete.</translation>
-<translation id="8142245354207161805">Videti je, da profil uporablja drug Kahfov proces (<ph name="PROCESS_ID"/>) v drugem računalniku (<ph name="HOST_NAME"/>). Kahf je zaklenil profil, da se ne poškoduje. Če ste prepričani, da tega profila ne uporabljajo nobeni drugi procesi, ga lahko odklenete in znova zaženete Kahf.</translation>
+<translation id="2182657378556811785">Samo še malo. Znova zaženite BrowseWeb3, da dokončate posodobitev.</translation>
+<translation id="7402642357351265733">Če delite tudi poročila o uporabi BrowseWeb3a, so v teh poročilih vključeni URL-ji, ki jih obiščete.</translation>
+<translation id="8142245354207161805">Videti je, da profil uporablja drug BrowseWeb3ov proces (<ph name="PROCESS_ID"/>) v drugem računalniku (<ph name="HOST_NAME"/>). BrowseWeb3 je zaklenil profil, da se ne poškoduje. Če ste prepričani, da tega profila ne uporabljajo nobeni drugi procesi, ga lahko odklenete in znova zaženete BrowseWeb3.</translation>
 <translation id="4680828127924988555">Prekliči namestitev</translation>
-<translation id="847561904663814268">Nekdo se je prijavil v Kahf v tem računalniku kot <ph name="ACCOUNT_EMAIL_LAST"/>. Ustvarite nov uporabniški profil za Kahf, če želite, da bodo vaši podatki ločeni.</translation>
+<translation id="847561904663814268">Nekdo se je prijavil v BrowseWeb3 v tem računalniku kot <ph name="ACCOUNT_EMAIL_LAST"/>. Ustvarite nov uporabniški profil za BrowseWeb3, če želite, da bodo vaši podatki ločeni.</translation>
 <translation id="4724676981607797757">Namestitev ni uspela zaradi napake, povezane z nepodprtim protokolom.</translation>
-<translation id="3834935463915107022">Želite vseeno zapreti Kahf?</translation>
-<translation id="8668413672647811944">Pravkar je bila nameščena posebna varnostna posodobitev za Kahf. Znova ga zaženite (vaše zavihke bomo obnovili).</translation>
-<translation id="5857638389580847844">Kadar koli si lahko premislite v nastavitvah za Kahf. Preizkusi potekajo skupaj s trenutnim načinom prikazovanja oglasov, zato spremembe ne bodo takoj vidne.</translation>
-<translation id="4823369970559443694">Kahf ne more preveriti gesel. Poskusite znova čez 24 ur ali <ph name="BEGIN_LINK"/>preverite gesla v računu Kahf<ph name="END_LINK"/>.</translation>
-<translation id="215320507915280336">Uporabljeno je isto preverjanje črkovanja kot v Iskanju Kahf. Besedilo, ki ga vnesete v brskalniku, je poslano Googlu. To lahko kadar koli spremenite v nastavitvah.</translation>
-<translation id="2899369907387169108">Uporaba Kahfa brez računa</translation>
-<translation id="1912973375560256099">Pravilo za dohodni promet za Kahf, ki omogoča promet mDNS.</translation>
-<translation id="711601904575862069">Znova zaženite, če želite posodobiti &amp;Kahf</translation>
-<translation id="8797356639448065696">Kahf se izvaja v ozadju.</translation>
-<translation id="7406627712452599344">Gostje lahko uporabljajo Kahf, ne da bi za seboj pustili kar koli.</translation>
-<translation id="5952898964075639679">Dodajte se v Kahf</translation>
-<translation id="8112581848375017126">Kahf raziskuje nove funkcije, ki spletnim mestom omogočajo, da zagotavljajo isto izkušnjo pri brskanju, pri tem pa uporabljajo manj vaših podatkov.</translation>
-<translation id="9078804073692109646">Ni shranjenih gesel. Kahf lahko preveri gesla, če jih shranite.</translation>
-<translation id="729580998737807583">Uporabnik <ph name="EXISTING_USER"/> je že prijavljen v ta profil v Kahfu. S tem bo ustvarjen novi profil v Kahfu za uporabnika <ph name="USER_EMAIL_ADDRESS"/>.</translation>
-<translation id="8586264863973514035">Če želite uporabiti spremembe, znova zaženite Kahf</translation>
-<translation id="300369155175407115">Če so preizkusi vklopljeni in vas je Kahf naključno prijavil za aktivni preizkus, zgodovina brskanja vpliva na oglase, ki so prikazani, in zanimanja, kot je ocenjeno spodaj. Kahf zaradi varovanja vaše zasebnosti vsak mesec sproti izbriše vaša zanimanja.</translation>
-<translation id="7573068992266397941">Kahf je za vaš pregled našel nekaj varnostnih priporočil</translation>
-<translation id="7708394612738038097">Prijavljate se z upravljanim računom in s tem njegovemu skrbniku omogočate nadzor vašega profila v Kahfu. Vaši podatki v Kahfu, kot so aplikacije, zaznamki, zgodovina, gesla in druge nastavitve, bodo postali trajno povezani z uporabnikom <ph name="USER_NAME"/>. Te podatke boste lahko izbrisali na nadzorni plošči za Kahf Račune, vendar jih ne boste mogli povezati z drugim računom. <ph name="LEARN_MORE"/></translation>
+<translation id="3834935463915107022">Želite vseeno zapreti BrowseWeb3?</translation>
+<translation id="8668413672647811944">Pravkar je bila nameščena posebna varnostna posodobitev za BrowseWeb3. Znova ga zaženite (vaše zavihke bomo obnovili).</translation>
+<translation id="5857638389580847844">Kadar koli si lahko premislite v nastavitvah za BrowseWeb3. Preizkusi potekajo skupaj s trenutnim načinom prikazovanja oglasov, zato spremembe ne bodo takoj vidne.</translation>
+<translation id="4823369970559443694">BrowseWeb3 ne more preveriti gesel. Poskusite znova čez 24 ur ali <ph name="BEGIN_LINK"/>preverite gesla v računu BrowseWeb3<ph name="END_LINK"/>.</translation>
+<translation id="215320507915280336">Uporabljeno je isto preverjanje črkovanja kot v Iskanju BrowseWeb3. Besedilo, ki ga vnesete v brskalniku, je poslano Googlu. To lahko kadar koli spremenite v nastavitvah.</translation>
+<translation id="2899369907387169108">Uporaba BrowseWeb3a brez računa</translation>
+<translation id="1912973375560256099">Pravilo za dohodni promet za BrowseWeb3, ki omogoča promet mDNS.</translation>
+<translation id="711601904575862069">Znova zaženite, če želite posodobiti &amp;BrowseWeb3</translation>
+<translation id="8797356639448065696">BrowseWeb3 se izvaja v ozadju.</translation>
+<translation id="7406627712452599344">Gostje lahko uporabljajo BrowseWeb3, ne da bi za seboj pustili kar koli.</translation>
+<translation id="5952898964075639679">Dodajte se v BrowseWeb3</translation>
+<translation id="8112581848375017126">BrowseWeb3 raziskuje nove funkcije, ki spletnim mestom omogočajo, da zagotavljajo isto izkušnjo pri brskanju, pri tem pa uporabljajo manj vaših podatkov.</translation>
+<translation id="9078804073692109646">Ni shranjenih gesel. BrowseWeb3 lahko preveri gesla, če jih shranite.</translation>
+<translation id="729580998737807583">Uporabnik <ph name="EXISTING_USER"/> je že prijavljen v ta profil v BrowseWeb3u. S tem bo ustvarjen novi profil v BrowseWeb3u za uporabnika <ph name="USER_EMAIL_ADDRESS"/>.</translation>
+<translation id="8586264863973514035">Če želite uporabiti spremembe, znova zaženite BrowseWeb3</translation>
+<translation id="300369155175407115">Če so preizkusi vklopljeni in vas je BrowseWeb3 naključno prijavil za aktivni preizkus, zgodovina brskanja vpliva na oglase, ki so prikazani, in zanimanja, kot je ocenjeno spodaj. BrowseWeb3 zaradi varovanja vaše zasebnosti vsak mesec sproti izbriše vaša zanimanja.</translation>
+<translation id="7573068992266397941">BrowseWeb3 je za vaš pregled našel nekaj varnostnih priporočil</translation>
+<translation id="7708394612738038097">Prijavljate se z upravljanim računom in s tem njegovemu skrbniku omogočate nadzor vašega profila v BrowseWeb3u. Vaši podatki v BrowseWeb3u, kot so aplikacije, zaznamki, zgodovina, gesla in druge nastavitve, bodo postali trajno povezani z uporabnikom <ph name="USER_NAME"/>. Te podatke boste lahko izbrisali na nadzorni plošči za BrowseWeb3 Račune, vendar jih ne boste mogli povezati z drugim računom. <ph name="LEARN_MORE"/></translation>
 <translation id="5368118228313795342">Dodatna koda: <ph name="EXTRA_CODE"/>.</translation>
-<translation id="5154625106151193600">Preberite, zakaj Kahf blokira nekatere datoteke</translation>
-<translation id="1786715389543715322">Posodabljanje Kahfa (<ph name="PROGRESS_PERCENT"/>)</translation>
-<translation id="7021823858304886493">Omogočanje prijave v Kahf</translation>
-<translation id="5536657158619734169">Na voljo je nova različica Kahfa.</translation>
-<translation id="5267531627648004734">Odstrani iz Kahfa</translation>
-<translation id="239760341987199724">Nastavitev Kahfa za privzeti brskalnik</translation>
-<translation id="1403270718080126244"><ph name="PAGE_TITLE"/> – različica beta Kahfa</translation>
-<translation id="894936507076470937">Kahf morda ne bo deloval pravilno, ker ni več podprt v tej distribuciji Linuxa.</translation>
-<translation id="696826782632239602">Kahf potrebuje dostop do vaše lokacije, da jo bo lahko delil s tem spletnim mestom</translation>
-<translation id="3809116188788099368">Zaradi zaščite vaše varnosti samodejno izbrišemo vaša zanimanja, starejša od 4 tednov. Ko brskate naprej, se zanimanje morda znova prikaže na seznamu. Če se Kahf zmoti in ne želite videti nekaterih oglasov, lahko odstranite zanimanje.</translation>
-<translation id="1744365871163268756">Počakajte, da Kahf namesti najnovejše sistemske posodobitve.</translation>
-<translation id="3861679447659630159">Kahf poskuša urejati gesla. Če želite to omogočiti, vnesite geslo za Windows.</translation>
-<translation id="232381795826373334">Odpri datoteke PDF v Kahfu</translation>
-<translation id="1026406809507858026">{0,plural, =0{Posodobitev za Kahf je na voljo}=1{Posodobitev za Kahf je na voljo}one{Posodobitev za Kahf je na voljo že # dan}two{Posodobitev za Kahf je na voljo že # dneva}few{Posodobitev za Kahf je na voljo že # dni}other{Posodobitev za Kahf je na voljo že # dni}}</translation>
-<translation id="1023472437588692618">Podatki spletnih mest se vedno izbrišejo iz naprave, ko zaprete Kahf</translation>
-<translation id="5646769069113654257">Znova zaženite Kahf</translation>
-<translation id="1482073660249013898">Ta datoteka je morda nevarna<ph name="LINE_BREAK"/>Kahf lahko preveri ta prenos, če navedete geslo – geslo ostane v napravi</translation>
-<translation id="3117204675033805491">Kahf LLC</translation>
-<translation id="2335583906071111058">Prikaži Kahf v tem jeziku</translation>
+<translation id="5154625106151193600">Preberite, zakaj BrowseWeb3 blokira nekatere datoteke</translation>
+<translation id="1786715389543715322">Posodabljanje BrowseWeb3a (<ph name="PROGRESS_PERCENT"/>)</translation>
+<translation id="7021823858304886493">Omogočanje prijave v BrowseWeb3</translation>
+<translation id="5536657158619734169">Na voljo je nova različica BrowseWeb3a.</translation>
+<translation id="5267531627648004734">Odstrani iz BrowseWeb3a</translation>
+<translation id="239760341987199724">Nastavitev BrowseWeb3a za privzeti brskalnik</translation>
+<translation id="1403270718080126244"><ph name="PAGE_TITLE"/> – različica beta BrowseWeb3a</translation>
+<translation id="894936507076470937">BrowseWeb3 morda ne bo deloval pravilno, ker ni več podprt v tej distribuciji Linuxa.</translation>
+<translation id="696826782632239602">BrowseWeb3 potrebuje dostop do vaše lokacije, da jo bo lahko delil s tem spletnim mestom</translation>
+<translation id="3809116188788099368">Zaradi zaščite vaše varnosti samodejno izbrišemo vaša zanimanja, starejša od 4 tednov. Ko brskate naprej, se zanimanje morda znova prikaže na seznamu. Če se BrowseWeb3 zmoti in ne želite videti nekaterih oglasov, lahko odstranite zanimanje.</translation>
+<translation id="1744365871163268756">Počakajte, da BrowseWeb3 namesti najnovejše sistemske posodobitve.</translation>
+<translation id="3861679447659630159">BrowseWeb3 poskuša urejati gesla. Če želite to omogočiti, vnesite geslo za Windows.</translation>
+<translation id="232381795826373334">Odpri datoteke PDF v BrowseWeb3u</translation>
+<translation id="1026406809507858026">{0,plural, =0{Posodobitev za BrowseWeb3 je na voljo}=1{Posodobitev za BrowseWeb3 je na voljo}one{Posodobitev za BrowseWeb3 je na voljo že # dan}two{Posodobitev za BrowseWeb3 je na voljo že # dneva}few{Posodobitev za BrowseWeb3 je na voljo že # dni}other{Posodobitev za BrowseWeb3 je na voljo že # dni}}</translation>
+<translation id="1023472437588692618">Podatki spletnih mest se vedno izbrišejo iz naprave, ko zaprete BrowseWeb3</translation>
+<translation id="5646769069113654257">Znova zaženite BrowseWeb3</translation>
+<translation id="1482073660249013898">Ta datoteka je morda nevarna<ph name="LINE_BREAK"/>BrowseWeb3 lahko preveri ta prenos, če navedete geslo – geslo ostane v napravi</translation>
+<translation id="3117204675033805491">BrowseWeb3 LLC</translation>
+<translation id="2335583906071111058">Prikaži BrowseWeb3 v tem jeziku</translation>
 <translation id="569897634095159764">Internetne povezave ni mogoče vzpostaviti. Strežnik proxy zahteva preverjanje pristnosti.</translation>
 <translation id="5809516625706423866">Internetne povezave ni mogoče vzpostaviti. Koda napake HTTP je »401 Unauthorized«. Preverite konfiguracijo strežnika proxy.</translation>
-<translation id="7207456302801184289">Pozdravljeni v Kahfu</translation>
-<translation id="8054200348483755053">Kahf je ugotovil, da ti elementi vsebujejo zlonamerno programsko opremo:</translation>
-<translation id="3955583201925082436">Kahf redno preverja, ali so v brskalniku na voljo najvarnejše nastavitve Če boste morali kaj pregledati, vam bomo sporočili.</translation>
+<translation id="7207456302801184289">Pozdravljeni v BrowseWeb3u</translation>
+<translation id="8054200348483755053">BrowseWeb3 je ugotovil, da ti elementi vsebujejo zlonamerno programsko opremo:</translation>
+<translation id="3955583201925082436">BrowseWeb3 redno preverja, ali so v brskalniku na voljo najvarnejše nastavitve Če boste morali kaj pregledati, vam bomo sporočili.</translation>
 <translation id="5895138241574237353">Znova zaženi</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE"/> – Prijava v omrežje</translation>
 <translation id="5924017743176219022">Vzpostavljanje povezave z internetom …</translation>
 <translation id="5941711191222866238">Minimiziraj</translation>
-<translation id="3613110494561632737">Če vas je Kahf naključno prijavil za aktivni preizkus, zgodovina brskanja vpliva na oglase, ki so prikazani, in zanimanja, kot je ocenjeno spodaj. Kahf zaradi varovanja vaše zasebnosti vsak mesec sproti izbriše vaša zanimanja. Zanimanja se osvežujejo, razen če jih odstranite.</translation>
-<translation id="4357808717322635817">{COUNT,plural, =1{Organizacija samodejno zapre Kahf, če ga ne uporabljate 1 minuto.}one{Organizacija samodejno zapre Kahf, če ga ne uporabljate # minuto.}two{Organizacija samodejno zapre Kahf, če ga ne uporabljate # minuti.}few{Organizacija samodejno zapre Kahf, če ga ne uporabljate # minute.}other{Organizacija samodejno zapre Kahf, če ga ne uporabljate # minut.}}</translation>
-<translation id="3598551856834560515">Posodobite Kahf, če želite začeti sinhronizacijo</translation>
-<translation id="5225261774087485064">Spletna mesta, ki jih obiščete, si zaradi osebnega prilagajanja vaše izkušnje pogosto zapomnijo, kaj vas zanima. Spletna mesta lahko v Kahfu prav tako shranjujejo podatke o vaših zanimanjih.</translation>
+<translation id="3613110494561632737">Če vas je BrowseWeb3 naključno prijavil za aktivni preizkus, zgodovina brskanja vpliva na oglase, ki so prikazani, in zanimanja, kot je ocenjeno spodaj. BrowseWeb3 zaradi varovanja vaše zasebnosti vsak mesec sproti izbriše vaša zanimanja. Zanimanja se osvežujejo, razen če jih odstranite.</translation>
+<translation id="4357808717322635817">{COUNT,plural, =1{Organizacija samodejno zapre BrowseWeb3, če ga ne uporabljate 1 minuto.}one{Organizacija samodejno zapre BrowseWeb3, če ga ne uporabljate # minuto.}two{Organizacija samodejno zapre BrowseWeb3, če ga ne uporabljate # minuti.}few{Organizacija samodejno zapre BrowseWeb3, če ga ne uporabljate # minute.}other{Organizacija samodejno zapre BrowseWeb3, če ga ne uporabljate # minut.}}</translation>
+<translation id="3598551856834560515">Posodobite BrowseWeb3, če želite začeti sinhronizacijo</translation>
+<translation id="5225261774087485064">Spletna mesta, ki jih obiščete, si zaradi osebnega prilagajanja vaše izkušnje pogosto zapomnijo, kaj vas zanima. Spletna mesta lahko v BrowseWeb3u prav tako shranjujejo podatke o vaših zanimanjih.</translation>
 <translation id="6003112304606738118">Prenašanje … Še <ph name="HOURS"/> h.</translation>
 <translation id="6040143037577758943">Zapri</translation>
-<translation id="505042220086416644">Na voljo je nova različica Kahfa, ki je najhitrejša doslej.</translation>
-<translation id="700488072601322385">Zaradi zaščite podatkov dovolite Kahfu, da odstrani dovoljenja za spletna mesta, ki jih nedavno niste obiskali. Prikazovanje obvestil se ne ustavi.</translation>
-<translation id="9071554113102421877">&amp;Odpri v Kahfu</translation>
-<translation id="7861579472672677409">Razširitev <ph name="EXTENSION_NAME"/> je dodana v Kahf</translation>
-<translation id="3693188491491843187">Pospešite Kahf</translation>
+<translation id="505042220086416644">Na voljo je nova različica BrowseWeb3a, ki je najhitrejša doslej.</translation>
+<translation id="700488072601322385">Zaradi zaščite podatkov dovolite BrowseWeb3u, da odstrani dovoljenja za spletna mesta, ki jih nedavno niste obiskali. Prikazovanje obvestil se ne ustavi.</translation>
+<translation id="9071554113102421877">&amp;Odpri v BrowseWeb3u</translation>
+<translation id="7861579472672677409">Razširitev <ph name="EXTENSION_NAME"/> je dodana v BrowseWeb3</translation>
+<translation id="3693188491491843187">Pospešite BrowseWeb3</translation>
 <translation id="608006075545470555">Dodajanje delovnega profila v ta brskalnik</translation>
-<translation id="5849446944780602366">Prilagodite in nadzirajte Kahf. Posodobitev je na voljo.</translation>
-<translation id="5505258595603236622">Če je vklopljena ta nastavitev, Kahf varčuje z energijo baterije tako, da omeji dejavnost v ozadju in vizualne učinke, kot sta tekoče pomikanje in število sličic v sekundi pri videoposnetkih.</translation>
-<translation id="7433698744896946664">Omogočanje razširitve za prikaz zahtev za dostop v orodni vrstici Kahfa</translation>
-<translation id="492209281555538239">Kahf bo shranil to geslo v Kahf Računu. Ni si vam ga treba zapomniti.</translation>
-<translation id="4168372721886011198">Datoteka <ph name="FILE_NAME"/> je nevarna, zato jo je Kahf blokiral.</translation>
-<translation id="991182453936521413">Kahf se bo kmalu zaprl in izbrisal bo podatke</translation>
-<translation id="7006260220514217183">Varno brskanje je izklopljeno. Kahf priporoča, da ga vklopite.</translation>
-<translation id="2542068854151299295">Prijavite se, če želite čim bolje izkoristiti Kahf</translation>
-<translation id="4060970194201477024">Med profili v Kahfu lahko preklapljate tukaj</translation>
-<translation id="7815000350132166985">Če omogočite piškotke, jih bo Kahf morda uporabil za vnaprejšnje nalaganje</translation>
-<translation id="3156047523158042818">Kahf lahko glede na nastavitve pošlje tudi piškotke in vaš trenutni URL</translation>
+<translation id="5849446944780602366">Prilagodite in nadzirajte BrowseWeb3. Posodobitev je na voljo.</translation>
+<translation id="5505258595603236622">Če je vklopljena ta nastavitev, BrowseWeb3 varčuje z energijo baterije tako, da omeji dejavnost v ozadju in vizualne učinke, kot sta tekoče pomikanje in število sličic v sekundi pri videoposnetkih.</translation>
+<translation id="7433698744896946664">Omogočanje razširitve za prikaz zahtev za dostop v orodni vrstici BrowseWeb3a</translation>
+<translation id="492209281555538239">BrowseWeb3 bo shranil to geslo v BrowseWeb3 Računu. Ni si vam ga treba zapomniti.</translation>
+<translation id="4168372721886011198">Datoteka <ph name="FILE_NAME"/> je nevarna, zato jo je BrowseWeb3 blokiral.</translation>
+<translation id="991182453936521413">BrowseWeb3 se bo kmalu zaprl in izbrisal bo podatke</translation>
+<translation id="7006260220514217183">Varno brskanje je izklopljeno. BrowseWeb3 priporoča, da ga vklopite.</translation>
+<translation id="2542068854151299295">Prijavite se, če želite čim bolje izkoristiti BrowseWeb3</translation>
+<translation id="4060970194201477024">Med profili v BrowseWeb3u lahko preklapljate tukaj</translation>
+<translation id="7815000350132166985">Če omogočite piškotke, jih bo BrowseWeb3 morda uporabil za vnaprejšnje nalaganje</translation>
+<translation id="3156047523158042818">BrowseWeb3 lahko glede na nastavitve pošlje tudi piškotke in vaš trenutni URL</translation>
 <translation id="6182736845697986886">Namestitev ni uspela zaradi notranje napake strežnika za posodobitve.</translation>
-<translation id="4368341489795135329">Preverite, ali ste v napravi <ph name="TARGET_DEVICE_NAME"/> prijavljeni v Kahf, nato poskusite znova poslati.</translation>
-<translation id="8320964054148936490">Ta računalnik že ima novejšo različico Kahfa. Če programska oprema ne deluje, odstranite Kahf in poskusite znova.</translation>
-<translation id="3574823187131579180">{0,plural, =0{Kahf se bo zdaj znova zagnal}=1{Kahf se bo znova zagnal čez eno sekundo}one{Kahf se bo znova zagnal čez # sekundo}two{Kahf se bo znova zagnal čez # sekundi}few{Kahf se bo znova zagnal čez # sekunde}other{Kahf se bo znova zagnal čez # sekund}}</translation>
-<translation id="5980269616827212166">Kahf potrebuje dovoljenje za dostop do shrambe za prenos datotek.</translation>
-<translation id="7651600795135059130">Preveri URL-je, tako da jih primerja s seznamom spletnih mest, ki niso varna, shranjenim v Kahfu.</translation>
-<translation id="5019879183386042809">Nastavi Kahf kot privzeti brskalnik</translation>
-<translation id="428541510811554120">Kahf ne more preveriti, ali so na voljo posodobitve. Poskusite preveriti internetno povezavo.</translation>
-<translation id="7445061995866044926">Se želite odjaviti iz Kahfa?</translation>
+<translation id="4368341489795135329">Preverite, ali ste v napravi <ph name="TARGET_DEVICE_NAME"/> prijavljeni v BrowseWeb3, nato poskusite znova poslati.</translation>
+<translation id="8320964054148936490">Ta računalnik že ima novejšo različico BrowseWeb3a. Če programska oprema ne deluje, odstranite BrowseWeb3 in poskusite znova.</translation>
+<translation id="3574823187131579180">{0,plural, =0{BrowseWeb3 se bo zdaj znova zagnal}=1{BrowseWeb3 se bo znova zagnal čez eno sekundo}one{BrowseWeb3 se bo znova zagnal čez # sekundo}two{BrowseWeb3 se bo znova zagnal čez # sekundi}few{BrowseWeb3 se bo znova zagnal čez # sekunde}other{BrowseWeb3 se bo znova zagnal čez # sekund}}</translation>
+<translation id="5980269616827212166">BrowseWeb3 potrebuje dovoljenje za dostop do shrambe za prenos datotek.</translation>
+<translation id="7651600795135059130">Preveri URL-je, tako da jih primerja s seznamom spletnih mest, ki niso varna, shranjenim v BrowseWeb3u.</translation>
+<translation id="5019879183386042809">Nastavi BrowseWeb3 kot privzeti brskalnik</translation>
+<translation id="428541510811554120">BrowseWeb3 ne more preveriti, ali so na voljo posodobitve. Poskusite preveriti internetno povezavo.</translation>
+<translation id="7445061995866044926">Se želite odjaviti iz BrowseWeb3a?</translation>
 <translation id="6273793429163604305">Na mesta …</translation>
-<translation id="6806912298071949921">Prilagajanje profila v Kahfu</translation>
-<translation id="3792238845239580301">Poimenujte profil v Kahfu</translation>
-<translation id="3561569806301739367">Datoteka <ph name="FILE_NAME"/> je morda nevarna, zato jo je Kahf blokiral.</translation>
-<translation id="3205074487970075628">Kahf uporablja vašo kamero.</translation>
-<translation id="7470405854261046555">Kahf je blokiral to datoteko, ker je nevarna.</translation>
+<translation id="6806912298071949921">Prilagajanje profila v BrowseWeb3u</translation>
+<translation id="3792238845239580301">Poimenujte profil v BrowseWeb3u</translation>
+<translation id="3561569806301739367">Datoteka <ph name="FILE_NAME"/> je morda nevarna, zato jo je BrowseWeb3 blokiral.</translation>
+<translation id="3205074487970075628">BrowseWeb3 uporablja vašo kamero.</translation>
+<translation id="7470405854261046555">BrowseWeb3 je blokiral to datoteko, ker je nevarna.</translation>
 <translation id="6327105987658262776">Na voljo ni nobena posodobitev.</translation>
-<translation id="1819119299840995223">Poteka druga operacija v Kahfu. Poskusite znova pozneje.</translation>
-<translation id="8616874628011103667">Zdaj je Kahf lažje uporabljati z Kahf Računom in v računalnikih, ki so v skupni rabi.</translation>
-<translation id="6890616081898535725">Kahf je blokiral ta prenos, ker se datoteka ne prenaša pogosto in je morda nevarna</translation>
-<translation id="335632367599648646">Ali ste prepričani, da želite odstraniti Kahfa?</translation>
+<translation id="1819119299840995223">Poteka druga operacija v BrowseWeb3u. Poskusite znova pozneje.</translation>
+<translation id="8616874628011103667">Zdaj je BrowseWeb3 lažje uporabljati z BrowseWeb3 Računom in v računalnikih, ki so v skupni rabi.</translation>
+<translation id="6890616081898535725">BrowseWeb3 je blokiral ta prenos, ker se datoteka ne prenaša pogosto in je morda nevarna</translation>
+<translation id="335632367599648646">Ali ste prepričani, da želite odstraniti BrowseWeb3a?</translation>
 <translation id="6375219077595103062">Dodajanje bližnjice do Upravitelja gesel</translation>
-<translation id="4867486350347355096"><ph name="BEGIN_BOLD"/>Kako uporabljamo te podatke:<ph name="END_BOLD"/> Kahf lahko oceni vaša zanimanja. Pozneje lahko stran, ki jo obiščete, od Kahfa zahteva ogled vaših zanimanj zaradi osebnega prilagajanja oglasov, ki so vam prikazani.</translation>
-<translation id="3256100650978957522">Kahfov logotip na zaslonu računalnika.</translation>
-<translation id="6373767849825830651">Kahf je spletni brskalnik, ki bliskovito odpira spletne strani in izvaja aplikacije. Je hiter, stabilen in preprost za uporabo. Z vgrajeno zaščito pred zlonamerno programsko opremo in lažnim predstavljanjem je brskanje po spletu varno.</translation>
+<translation id="4867486350347355096"><ph name="BEGIN_BOLD"/>Kako uporabljamo te podatke:<ph name="END_BOLD"/> BrowseWeb3 lahko oceni vaša zanimanja. Pozneje lahko stran, ki jo obiščete, od BrowseWeb3a zahteva ogled vaših zanimanj zaradi osebnega prilagajanja oglasov, ki so vam prikazani.</translation>
+<translation id="3256100650978957522">BrowseWeb3ov logotip na zaslonu računalnika.</translation>
+<translation id="6373767849825830651">BrowseWeb3 je spletni brskalnik, ki bliskovito odpira spletne strani in izvaja aplikacije. Je hiter, stabilen in preprost za uporabo. Z vgrajeno zaščito pred zlonamerno programsko opremo in lažnim predstavljanjem je brskanje po spletu varno.</translation>
 <translation id="2139300032719313227">Vnovičen zagon sistema Chrome OS</translation>
-<translation id="638302211119176182">Kahf vnaprej naloži še več strani, ki jih boste verjetno obiskali, da se ob obisku naložijo še hitreje</translation>
-<translation id="1684121725014454063">Pozdravljeni v profilih za Kahf</translation>
-<translation id="2675662665675552980">Določa tudi, katera stran je prikazana, ko zaženete Kahf.</translation>
+<translation id="638302211119176182">BrowseWeb3 vnaprej naloži še več strani, ki jih boste verjetno obiskali, da se ob obisku naložijo še hitreje</translation>
+<translation id="1684121725014454063">Pozdravljeni v profilih za BrowseWeb3</translation>
+<translation id="2675662665675552980">Določa tudi, katera stran je prikazana, ko zaženete BrowseWeb3.</translation>
 <translation id="648319183876919572">Izboljšano varno brskanje vas še bolje varuje pred nevarnimi spletnimi mesti in prenosi</translation>
-<translation id="5590013613412457132">Odstranitev Kahfa</translation>
-<translation id="3617744907966785605">Vaša organizacija zapre Kahf, če se ne uporablja <ph name="TIMEOUT_DURATION"/>. Podatki brskanja so bili izbrisani. To lahko vključuje zgodovino, samodejno izpolnjene podatke in prenose.</translation>
-<translation id="8646609321956191980">Vsak profil ima svoje podatke v Kahfu, kot so zaznamki, zgodovina, gesla in drugo.</translation>
-<translation id="6756656512757374876">Preberite več o tem, <ph name="BEGIN_LINK"/>kako Kahf zagotavlja zasebnost vaših podatkov<ph name="END_LINK"/></translation>
-<translation id="2535436634051789953">Če si želite ogledati gesla v drugem profilu za Kahf, lahko preklopite</translation>
-<translation id="2312399718665761438">Kahf zaradi odpravljanja napak pri črkovanju Googlu pošlje besedilo, ki ga vnesete v besedilna polja</translation>
-<translation id="3507835409099344374">Odprite nastavitve obvestil v Kahfu</translation>
-<translation id="9156965752763025780">Spremembe bodo začele veljati ob naslednjem zagonu Kahfa.</translation>
-<translation id="245693535809364497">Kahf potrebuje dovoljenje za dostop do fotoaparata zaradi ustvarjanja tridimenzionalnega zemljevida okolice.</translation>
-<translation id="5060669762365466104">Spletna mesta bodo verjetno delovala po pričakovanjih, vendar si vas ne bodo zapomnila, ko zaprete vsa okna Kahfa.</translation>
-<translation id="9210457680074341078">Če v računu Kahf shranite tudi zaznamke, lahko v Kahfu spremljate cene izdelkov in prejmete obvestilo, ko se cena zniža</translation>
+<translation id="5590013613412457132">Odstranitev BrowseWeb3a</translation>
+<translation id="3617744907966785605">Vaša organizacija zapre BrowseWeb3, če se ne uporablja <ph name="TIMEOUT_DURATION"/>. Podatki brskanja so bili izbrisani. To lahko vključuje zgodovino, samodejno izpolnjene podatke in prenose.</translation>
+<translation id="8646609321956191980">Vsak profil ima svoje podatke v BrowseWeb3u, kot so zaznamki, zgodovina, gesla in drugo.</translation>
+<translation id="6756656512757374876">Preberite več o tem, <ph name="BEGIN_LINK"/>kako BrowseWeb3 zagotavlja zasebnost vaših podatkov<ph name="END_LINK"/></translation>
+<translation id="2535436634051789953">Če si želite ogledati gesla v drugem profilu za BrowseWeb3, lahko preklopite</translation>
+<translation id="2312399718665761438">BrowseWeb3 zaradi odpravljanja napak pri črkovanju Googlu pošlje besedilo, ki ga vnesete v besedilna polja</translation>
+<translation id="3507835409099344374">Odprite nastavitve obvestil v BrowseWeb3u</translation>
+<translation id="9156965752763025780">Spremembe bodo začele veljati ob naslednjem zagonu BrowseWeb3a.</translation>
+<translation id="245693535809364497">BrowseWeb3 potrebuje dovoljenje za dostop do fotoaparata zaradi ustvarjanja tridimenzionalnega zemljevida okolice.</translation>
+<translation id="5060669762365466104">Spletna mesta bodo verjetno delovala po pričakovanjih, vendar si vas ne bodo zapomnila, ko zaprete vsa okna BrowseWeb3a.</translation>
+<translation id="9210457680074341078">Če v računu BrowseWeb3 shranite tudi zaznamke, lahko v BrowseWeb3u spremljate cene izdelkov in prejmete obvestilo, ko se cena zniža</translation>
 <translation id="6676384891291319759">Dostop do interneta</translation>
 <translation id="1363996462118479832">Chrome OS ni mogel sinhronizirati podatkov zaradi napake pri prijavi.</translation>
-<translation id="1257247502847251159">Kahf potrebuje dovoljenje za mikrofon za to spletno mesto.</translation>
+<translation id="1257247502847251159">BrowseWeb3 potrebuje dovoljenje za mikrofon za to spletno mesto.</translation>
 <translation id="6712881677154121168">Napaka pri prenosu: <ph name="DOWNLOAD_ERROR"/>.</translation>
-<translation id="1489465648257900784">Vašega profila ni mogoče uporabiti, ker je iz novejše različice Kahfa.
+<translation id="1489465648257900784">Vašega profila ni mogoče uporabiti, ker je iz novejše različice BrowseWeb3a.
 
-Nekatere funkcije morda ne bodo na voljo. Določite drug imenik profila ali uporabite novejšo različico Kahfa.</translation>
-<translation id="7870748924073900361">Varčevanje s pomnilnikom je pospešilo Kahf</translation>
-<translation id="6666624454809779082">Kahf je že nameščen za vse uporabnike v računalniku.</translation>
-<translation id="5360050006043219962">Če želite do stvari v Kahfu dostopati v vseh svojih napravah, se prijavite in nato vklopite sinhronizacijo.</translation>
-<translation id="3136039682492230890">Kahf priporoča, da pregledate to datoteko, saj je morda nevarna.</translation>
+Nekatere funkcije morda ne bodo na voljo. Določite drug imenik profila ali uporabite novejšo različico BrowseWeb3a.</translation>
+<translation id="7870748924073900361">Varčevanje s pomnilnikom je pospešilo BrowseWeb3</translation>
+<translation id="6666624454809779082">BrowseWeb3 je že nameščen za vse uporabnike v računalniku.</translation>
+<translation id="5360050006043219962">Če želite do stvari v BrowseWeb3u dostopati v vseh svojih napravah, se prijavite in nato vklopite sinhronizacijo.</translation>
+<translation id="3136039682492230890">BrowseWeb3 priporoča, da pregledate to datoteko, saj je morda nevarna.</translation>
 <translation id="1547295885616600893">Chrome OS omogoča dodatna <ph name="BEGIN_LINK_CROS_OSS"/>odprtokodna programska oprema<ph name="END_LINK_CROS_OSS"/>.</translation>
-<translation id="8211837073776713955">Kahf vam sporoči, ali so gesla ogrožena</translation>
-<translation id="4879299985215961051">Kahf je blokiral to datoteko, ker vsebuje zlonamerno programsko opremo.</translation>
-<translation id="7830723774663008396">Kahf – <ph name="PAGE_TITLE"/></translation>
-<translation id="2049565899730874086">Google Pay (kopirano v Kahf)</translation>
-<translation id="3028928628792374067">Kahf je ugotovil, da razširitev »<ph name="EXTENSION_NAME"/>« vsebuje zlonamerno programsko opremo.</translation>
-<translation id="2301993384336631869">Kahf je posodobljen, vendar ga niste uporabljali najmanj 30 dni.</translation>
-<translation id="8828443087767259398">Kahf potrebuje dostop do Bluetootha za nadaljevanje 
+<translation id="8211837073776713955">BrowseWeb3 vam sporoči, ali so gesla ogrožena</translation>
+<translation id="4879299985215961051">BrowseWeb3 je blokiral to datoteko, ker vsebuje zlonamerno programsko opremo.</translation>
+<translation id="7830723774663008396">BrowseWeb3 – <ph name="PAGE_TITLE"/></translation>
+<translation id="2049565899730874086">Google Pay (kopirano v BrowseWeb3)</translation>
+<translation id="3028928628792374067">BrowseWeb3 je ugotovil, da razširitev »<ph name="EXTENSION_NAME"/>« vsebuje zlonamerno programsko opremo.</translation>
+<translation id="2301993384336631869">BrowseWeb3 je posodobljen, vendar ga niste uporabljali najmanj 30 dni.</translation>
+<translation id="8828443087767259398">BrowseWeb3 potrebuje dostop do Bluetootha za nadaljevanje 
  seznanjanja. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK"/></translation>
-<translation id="126871877963043118">Če so preizkusi vklopljeni, merjenje oglasov spletnim mestom omogoča, da od Kahfa zahtevajo podatke, ki jim pomagajo pri merjenju učinkovitosti oglasov. Merjenje oglasov omejuje sledenje na več spletnih mestih s prenašanjem čim manj podatkov med spletnimi mesti.</translation>
-<translation id="4392161457256085190">Pozneje lahko stran, ki jo obiščete, od Kahfa zahteva ogled vaših zanimanj zaradi osebnega prilagajanja oglasov, ki so vam prikazani. Kahf lahko deli do 3 zanimanja.</translation>
-<translation id="6418340404893954563">Šibka gesla je preprosto ugotoviti. Kahfu omogočite, da <ph name="BEGIN_LINK"/>ustvari zapletena gesla za vas in jih shrani<ph name="END_LINK"/>.</translation>
-<translation id="7164968566146897003">Če je vklopljeno, Kahf sprosti pomnilnik z neaktivnih zavihkov. Tako imajo aktivni zavihki in druge aplikacije več računalniških sredstev, Kahf pa je še naprej hiter. Neaktivni zavihki znova postanejo aktivni, ko se vrnete nanje.</translation>
+<translation id="126871877963043118">Če so preizkusi vklopljeni, merjenje oglasov spletnim mestom omogoča, da od BrowseWeb3a zahtevajo podatke, ki jim pomagajo pri merjenju učinkovitosti oglasov. Merjenje oglasov omejuje sledenje na več spletnih mestih s prenašanjem čim manj podatkov med spletnimi mesti.</translation>
+<translation id="4392161457256085190">Pozneje lahko stran, ki jo obiščete, od BrowseWeb3a zahteva ogled vaših zanimanj zaradi osebnega prilagajanja oglasov, ki so vam prikazani. BrowseWeb3 lahko deli do 3 zanimanja.</translation>
+<translation id="6418340404893954563">Šibka gesla je preprosto ugotoviti. BrowseWeb3u omogočite, da <ph name="BEGIN_LINK"/>ustvari zapletena gesla za vas in jih shrani<ph name="END_LINK"/>.</translation>
+<translation id="7164968566146897003">Če je vklopljeno, BrowseWeb3 sprosti pomnilnik z neaktivnih zavihkov. Tako imajo aktivni zavihki in druge aplikacije več računalniških sredstev, BrowseWeb3 pa je še naprej hiter. Neaktivni zavihki znova postanejo aktivni, ko se vrnete nanje.</translation>
 <translation id="3453763134178591239">Pogoji za Chrome OS</translation>
-<translation id="3335606533094650083">Kahf potrebuje dovoljenje za dostop do mikrofona za to spletno mesto</translation>
+<translation id="3335606533094650083">BrowseWeb3 potrebuje dovoljenje za dostop do mikrofona za to spletno mesto</translation>
 <translation id="7011190694940573312">Namestitev ni uspela, ker ta različica operacijskega sistema ni podprta.</translation>
 <translation id="7024536598735240744">Napaka pri odpakiranju: <ph name="UNPACK_ERROR"/>.</translation>
 <translation id="7025789849649390912">Namestitev je prekinjena.</translation>
-<translation id="1705567146636171298">Posodobi Kahf</translation>
-<translation id="5499063270485366718">Če slika nima koristnega opisa, ga bo Kahf poskušal zagotoviti. Opisi se ustvarijo tako, da se slike pošljejo Googlu.</translation>
-<translation id="5966368554860795750">Prilagajanje različice Kahf for Testing</translation>
-<translation id="2332301637111071062">Organizacija izbriše podatke v Kahfu, če se ne uporablja <ph name="TIMEOUT_DURATION"/>. To lahko vključuje zgodovino, samodejno izpolnjene podatke in prenose.</translation>
-<translation id="1008530050039597147">Kahf potrebuje dovoljenje za fotoaparat za to spletno mesto.</translation>
-<translation id="1197672524850678392">Kahfa ni bilo mogoče zagnati. Poskusite znova.</translation>
-<translation id="3405035915691517126">Kahf ne more preveriti gesel. Poskusite znova čez 24 ur.</translation>
-<translation id="5755581833598928580">Uporaba Kahfa ob vsakem kliku povezav v sporočilih, dokumentih in drugih aplikacijah</translation>
-<translation id="5516268345616100622">Upravitelj opravil – Kahf</translation>
-<translation id="713191641919118540">Vaša zanimanja po Kahfovi oceni</translation>
-<translation id="9068395155143628872">Merjenje oglasov spletnim mestom omogoča, da od Kahfa zahtevajo podatke, ki jim pomagajo pri merjenju učinkovitosti oglasov. Merjenje oglasov omejuje sledenje na več spletnih mestih s prenašanjem čim manj podatkov med spletnimi mesti.</translation>
-<translation id="1864557848095568223">Posodabljanje Kahfa</translation>
+<translation id="1705567146636171298">Posodobi BrowseWeb3</translation>
+<translation id="5499063270485366718">Če slika nima koristnega opisa, ga bo BrowseWeb3 poskušal zagotoviti. Opisi se ustvarijo tako, da se slike pošljejo Googlu.</translation>
+<translation id="5966368554860795750">Prilagajanje različice BrowseWeb3 for Testing</translation>
+<translation id="2332301637111071062">Organizacija izbriše podatke v BrowseWeb3u, če se ne uporablja <ph name="TIMEOUT_DURATION"/>. To lahko vključuje zgodovino, samodejno izpolnjene podatke in prenose.</translation>
+<translation id="1008530050039597147">BrowseWeb3 potrebuje dovoljenje za fotoaparat za to spletno mesto.</translation>
+<translation id="1197672524850678392">BrowseWeb3a ni bilo mogoče zagnati. Poskusite znova.</translation>
+<translation id="3405035915691517126">BrowseWeb3 ne more preveriti gesel. Poskusite znova čez 24 ur.</translation>
+<translation id="5755581833598928580">Uporaba BrowseWeb3a ob vsakem kliku povezav v sporočilih, dokumentih in drugih aplikacijah</translation>
+<translation id="5516268345616100622">Upravitelj opravil – BrowseWeb3</translation>
+<translation id="713191641919118540">Vaša zanimanja po BrowseWeb3ovi oceni</translation>
+<translation id="9068395155143628872">Merjenje oglasov spletnim mestom omogoča, da od BrowseWeb3a zahtevajo podatke, ki jim pomagajo pri merjenju učinkovitosti oglasov. Merjenje oglasov omejuje sledenje na več spletnih mestih s prenašanjem čim manj podatkov med spletnimi mesti.</translation>
+<translation id="1864557848095568223">Posodabljanje BrowseWeb3a</translation>
 <translation id="3403365884036456766">Datoteka z nastavitvami je poškodovana ali neveljavna.
 
-Kahf ne more obnoviti vaših nastavitev.</translation>
+BrowseWeb3 ne more obnoviti vaših nastavitev.</translation>
 <translation id="7339898014177206373">Novo okno</translation>
-<translation id="3511996232906761537">Tu so shranjeni vaš splet, zaznamki in druge stvari v Kahfu.</translation>
-<translation id="5380963249588143069">Skrbnik sistema je Kahf nastavil tako, da za dostop do <ph name="TARGET_URL_HOSTNAME"/> odpre brskalnik <ph name="ALTERNATIVE_BROWSER_NAME"/>.</translation>
-<translation id="38294420683216447">S profili v Kahfu lahko ločite vse stvari v Kahfu. Tako laže ločite delo in zabavo.</translation>
-<translation id="3943696263619956191"><ph name="PAGE_TITLE"/> – različica Kahfa za razvijalce</translation>
-<translation id="2034072705932785495">Kahf potrebuje dovoljenje za dostop do fotoaparata za to spletno mesto</translation>
-<translation id="5296583608321648908">Če želite prejemati prihodnje posodobitve Kahfa, potrebujete Windows 10 ali novejšega. V tem računalniku je nameščen Windows 7.</translation>
-<translation id="3962395975456095331">Želite znova zagnati Kahf?</translation>
-<translation id="2619516027171717873">Ni mogoče namestiti iste različice Kahfa, ki se trenutno izvaja. Zaprite Kahf in poskusite znova.</translation>
-<translation id="3186363903915641692">{0,plural, =1{Kahf se bo znova zagnal čez eno minuto}one{Kahf se bo znova zagnal čez # minuto}two{Kahf se bo znova zagnal čez # minuti}few{Kahf se bo znova zagnal čez # minute}other{Kahf se bo znova zagnal čez # minut}}</translation>
-<translation id="6378857626787254617">Kahf lahko oceni vaša zanimanja. Pozneje lahko stran, ki jo obiščete, od Kahfa zahteva ogled vaših zanimanj zaradi osebnega prilagajanja oglasov, ki so vam prikazani.</translation>
+<translation id="3511996232906761537">Tu so shranjeni vaš splet, zaznamki in druge stvari v BrowseWeb3u.</translation>
+<translation id="5380963249588143069">Skrbnik sistema je BrowseWeb3 nastavil tako, da za dostop do <ph name="TARGET_URL_HOSTNAME"/> odpre brskalnik <ph name="ALTERNATIVE_BROWSER_NAME"/>.</translation>
+<translation id="38294420683216447">S profili v BrowseWeb3u lahko ločite vse stvari v BrowseWeb3u. Tako laže ločite delo in zabavo.</translation>
+<translation id="3943696263619956191"><ph name="PAGE_TITLE"/> – različica BrowseWeb3a za razvijalce</translation>
+<translation id="2034072705932785495">BrowseWeb3 potrebuje dovoljenje za dostop do fotoaparata za to spletno mesto</translation>
+<translation id="5296583608321648908">Če želite prejemati prihodnje posodobitve BrowseWeb3a, potrebujete Windows 10 ali novejšega. V tem računalniku je nameščen Windows 7.</translation>
+<translation id="3962395975456095331">Želite znova zagnati BrowseWeb3?</translation>
+<translation id="2619516027171717873">Ni mogoče namestiti iste različice BrowseWeb3a, ki se trenutno izvaja. Zaprite BrowseWeb3 in poskusite znova.</translation>
+<translation id="3186363903915641692">{0,plural, =1{BrowseWeb3 se bo znova zagnal čez eno minuto}one{BrowseWeb3 se bo znova zagnal čez # minuto}two{BrowseWeb3 se bo znova zagnal čez # minuti}few{BrowseWeb3 se bo znova zagnal čez # minute}other{BrowseWeb3 se bo znova zagnal čez # minut}}</translation>
+<translation id="6378857626787254617">BrowseWeb3 lahko oceni vaša zanimanja. Pozneje lahko stran, ki jo obiščete, od BrowseWeb3a zahteva ogled vaših zanimanj zaradi osebnega prilagajanja oglasov, ki so vam prikazani.</translation>
 <translation id="7583399374488819119">Namestitveni program za <ph name="COMPANY_NAME"/></translation>
-<translation id="3293668930608086049">Kahf uporablja vašo kamero in mikrofon.</translation>
-<translation id="2827121003398607864">Kahf je pravkar postal še boljši</translation>
+<translation id="3293668930608086049">BrowseWeb3 uporablja vašo kamero in mikrofon.</translation>
+<translation id="2827121003398607864">BrowseWeb3 je pravkar postal še boljši</translation>
 <translation id="7649070708921625228">Pomoč</translation>
-<translation id="7631741717293858595">Več o teh funkcijah lahko izveste v nastavitvah za Kahf.</translation>
-<translation id="8678991866891573053">Kahf raziskuje nove funkcije, ki spletnim mestom omogočajo, da z manjšo količino prenesenih podatkov zagotavljajo isto izkušnjo pri brskanju.</translation>
-<translation id="3343095737966473035">Kahf ni privzeti brskalnik</translation>
-<translation id="5477319665405831211">V vseh svojih napravah sinhronizirajte in prilagodite Kahf</translation>
-<translation id="2339273275658335597">Posodobitev za Kahf</translation>
-<translation id="4784414698887946907">S tem bodo iz te naprave izbrisani podatki brskanja. Če želite pozneje prenesti podatke, se v Kahf prijavite kot <ph name="USER_EMAIL"/>.</translation>
+<translation id="7631741717293858595">Več o teh funkcijah lahko izveste v nastavitvah za BrowseWeb3.</translation>
+<translation id="8678991866891573053">BrowseWeb3 raziskuje nove funkcije, ki spletnim mestom omogočajo, da z manjšo količino prenesenih podatkov zagotavljajo isto izkušnjo pri brskanju.</translation>
+<translation id="3343095737966473035">BrowseWeb3 ni privzeti brskalnik</translation>
+<translation id="5477319665405831211">V vseh svojih napravah sinhronizirajte in prilagodite BrowseWeb3</translation>
+<translation id="2339273275658335597">Posodobitev za BrowseWeb3</translation>
+<translation id="4784414698887946907">S tem bodo iz te naprave izbrisani podatki brskanja. Če želite pozneje prenesti podatke, se v BrowseWeb3 prijavite kot <ph name="USER_EMAIL"/>.</translation>
 <translation id="7747138024166251722">Namestitvenemu programu ni uspelo ustvariti začasnega imenika. Preverite, ali je na disku dovolj prostora in ali imate dovoljenje za namestitev programske opreme.</translation>
-<translation id="1978509466033734608">Pospešite Kahf</translation>
-<translation id="6236814935154483927"><ph name="PAGE_TITLE"/> – delovna različica Kahfa</translation>
-<translation id="1652855885539187849">Profil v Kahfu s tem računom že obstaja v tej napravi.</translation>
+<translation id="1978509466033734608">Pospešite BrowseWeb3</translation>
+<translation id="6236814935154483927"><ph name="PAGE_TITLE"/> – delovna različica BrowseWeb3a</translation>
+<translation id="1652855885539187849">Profil v BrowseWeb3u s tem računom že obstaja v tej napravi.</translation>
 <translation id="7845233973568007926">Hvala, ker ste se odločili za namestitev. Preden uporabite <ph name="BUNDLE_NAME"/>, morate znova zagnati računalnik.</translation>
-<translation id="7963515534397191222">Kahfa ni bilo mogoče posodobiti na najnovejšo različico, zato nimate novih funkcij in varnostnih popravkov.</translation>
+<translation id="7963515534397191222">BrowseWeb3a ni bilo mogoče posodobiti na najnovejšo različico, zato nimate novih funkcij in varnostnih popravkov.</translation>
 <translation id="7872446069773932638">Prenašanje … Še <ph name="SECONDS"/> s.</translation>
-<translation id="1977195831772110829"><ph name="BEGIN_BOLD"/>Kako lahko upravljate podatke:<ph name="END_BOLD"/> Zaradi zaščite vaše varnosti samodejno izbrišemo vaša zanimanja, starejša od 4 tednov. Ko brskate naprej, se zanimanje morda znova prikaže na seznamu. Odstranite lahko tudi zanimanja, za katera ne želite, da jih Kahf predlaga.</translation>
-<translation id="2925193881330501265">V Kahf ste bili prijavljeni kot <ph name="USER_EMAIL_ADDRESS"/>. Pri vnovični prijavi uporabite isti račun.</translation>
-<translation id="6915252145142862992">To je sekundarna namestitev Kahfa in ga ni mogoče nastaviti kot privzeti brskalnik.</translation>
-<translation id="7685904775439037072">Ko bo imel Kahf dostop, vas bodo spletna mesta lahko pozvala k omogočanju dostopa.</translation>
+<translation id="1977195831772110829"><ph name="BEGIN_BOLD"/>Kako lahko upravljate podatke:<ph name="END_BOLD"/> Zaradi zaščite vaše varnosti samodejno izbrišemo vaša zanimanja, starejša od 4 tednov. Ko brskate naprej, se zanimanje morda znova prikaže na seznamu. Odstranite lahko tudi zanimanja, za katera ne želite, da jih BrowseWeb3 predlaga.</translation>
+<translation id="2925193881330501265">V BrowseWeb3 ste bili prijavljeni kot <ph name="USER_EMAIL_ADDRESS"/>. Pri vnovični prijavi uporabite isti račun.</translation>
+<translation id="6915252145142862992">To je sekundarna namestitev BrowseWeb3a in ga ni mogoče nastaviti kot privzeti brskalnik.</translation>
+<translation id="7685904775439037072">Ko bo imel BrowseWeb3 dostop, vas bodo spletna mesta lahko pozvala k omogočanju dostopa.</translation>
 <translation id="80471789339884597">Hvala, ker ste se odločili za namestitev. Preden uporabite <ph name="BUNDLE_NAME"/>, morate znova zagnati vse brskalnike.</translation>
 <translation id="8086881907087796310">Namestitev ni uspela, ker računalnik ne izpolnjuje najnižjih zahtev za strojno opremo.</translation>
-<translation id="8263061319795838019"><ph name="PAGE_TITLE"/> – Kahf for Testing</translation>
-<translation id="2061155704815580583">Kahf potrebuje dovoljenje za lokacijo za to spletno mesto.</translation>
+<translation id="8263061319795838019"><ph name="PAGE_TITLE"/> – BrowseWeb3 for Testing</translation>
+<translation id="2061155704815580583">BrowseWeb3 potrebuje dovoljenje za lokacijo za to spletno mesto.</translation>
 <translation id="5334309298019785904">Chrome OS ni mogel sinhronizirati podatkov, ker sinhronizacija ni na voljo za vašo domeno.</translation>
 <translation id="813913629614996137">Inicializiranje ...</translation>
-<translation id="9067428552314418522">Ta datoteka je nevarna, zato jo je Kahf blokiral.</translation>
-<translation id="7344826952831915813">Kahf je blokiral to datoteko, ker gre za nevarno vrsto datoteke.</translation>
-<translation id="8207657266087451193">Če slika nima koristnega opisa, ga bo Kahf poskušal zagotoviti. Opisi se ustvarijo tako, da se slike pošljejo Googlu. To lahko kadar koli izklopite v nastavitvah.</translation>
-<translation id="8622246347342688645">Kahf ne more preveriti gesel, ker niste prijavljeni</translation>
-<translation id="976541154724186511"><ph name="BEGIN_LINK"/>Kahf vas opozori<ph name="END_LINK"/> glede spletnih mest in prenosov, ki niso varni</translation>
-<translation id="89367911614620585">Ta datoteka je morda nevarna, zato jo je Kahf blokiral.</translation>
-<translation id="6098476632210317894">Vaša organizacija zapre Kahf, če se ne uporablja <ph name="TIMEOUT_DURATION"/>.</translation>
-<translation id="5196445203969439095">Opravite več s Kahfom</translation>
-<translation id="3360368475735266712">Prijavite se, da boste lahko Kahf sinhronizirali in prilagodili v vseh svojih napravah</translation>
-<translation id="2591326305549412656">Uporabnik <ph name="USER_EMAIL_ADDRESS"/> je prej uporabljal Kahf</translation>
-<translation id="3098618823450433881">Če želite do stvari v brskalniku Kahf dostopati v vseh svojih napravah, se prijavite in nato vklopite sinhronizacijo.</translation>
-<translation id="2569754604093464025">Če želite prejemati prihodnje posodobitve Kahfa, potrebujete Windows 10 ali novejšega. V tem računalniku je nameščen Windows 8.</translation>
-<translation id="8577108764439626300">Razvijalec je preklical objavo te razširitve in morda ni varna. Odstranite jo iz Kahfa, da si ne bo mogla več ogledati vaših podatkov na obiskanih spletnih mestih, vključno z osebnimi podatki, in jih spreminjati.</translation>
-<translation id="5337999052834672687">{0,plural, =1{Kahf znova zaženite v enem dnevu}one{Kahf znova zaženite v # dnevu}two{Kahf znova zaženite v # dnevih}few{Kahf znova zaženite v # dnevih}other{Kahf znova zaženite v # dnevih}}</translation>
-<translation id="6914496861676471566">Arhiv namestitvenega programa je poškodovan ali neveljaven. Znova prenesite Kahf.</translation>
-<translation id="4378573854226202617">Za Kahf potrebujete Windows 10 ali novejšega.</translation>
+<translation id="9067428552314418522">Ta datoteka je nevarna, zato jo je BrowseWeb3 blokiral.</translation>
+<translation id="7344826952831915813">BrowseWeb3 je blokiral to datoteko, ker gre za nevarno vrsto datoteke.</translation>
+<translation id="8207657266087451193">Če slika nima koristnega opisa, ga bo BrowseWeb3 poskušal zagotoviti. Opisi se ustvarijo tako, da se slike pošljejo Googlu. To lahko kadar koli izklopite v nastavitvah.</translation>
+<translation id="8622246347342688645">BrowseWeb3 ne more preveriti gesel, ker niste prijavljeni</translation>
+<translation id="976541154724186511"><ph name="BEGIN_LINK"/>BrowseWeb3 vas opozori<ph name="END_LINK"/> glede spletnih mest in prenosov, ki niso varni</translation>
+<translation id="89367911614620585">Ta datoteka je morda nevarna, zato jo je BrowseWeb3 blokiral.</translation>
+<translation id="6098476632210317894">Vaša organizacija zapre BrowseWeb3, če se ne uporablja <ph name="TIMEOUT_DURATION"/>.</translation>
+<translation id="5196445203969439095">Opravite več s BrowseWeb3om</translation>
+<translation id="3360368475735266712">Prijavite se, da boste lahko BrowseWeb3 sinhronizirali in prilagodili v vseh svojih napravah</translation>
+<translation id="2591326305549412656">Uporabnik <ph name="USER_EMAIL_ADDRESS"/> je prej uporabljal BrowseWeb3</translation>
+<translation id="3098618823450433881">Če želite do stvari v brskalniku BrowseWeb3 dostopati v vseh svojih napravah, se prijavite in nato vklopite sinhronizacijo.</translation>
+<translation id="2569754604093464025">Če želite prejemati prihodnje posodobitve BrowseWeb3a, potrebujete Windows 10 ali novejšega. V tem računalniku je nameščen Windows 8.</translation>
+<translation id="8577108764439626300">Razvijalec je preklical objavo te razširitve in morda ni varna. Odstranite jo iz BrowseWeb3a, da si ne bo mogla več ogledati vaših podatkov na obiskanih spletnih mestih, vključno z osebnimi podatki, in jih spreminjati.</translation>
+<translation id="5337999052834672687">{0,plural, =1{BrowseWeb3 znova zaženite v enem dnevu}one{BrowseWeb3 znova zaženite v # dnevu}two{BrowseWeb3 znova zaženite v # dnevih}few{BrowseWeb3 znova zaženite v # dnevih}other{BrowseWeb3 znova zaženite v # dnevih}}</translation>
+<translation id="6914496861676471566">Arhiv namestitvenega programa je poškodovan ali neveljaven. Znova prenesite BrowseWeb3.</translation>
+<translation id="4378573854226202617">Za BrowseWeb3 potrebujete Windows 10 ali novejšega.</translation>
 <translation id="6431861494713261006">Izbirno: Pomagajte izboljšati funkcije sistema Chrome OS in njegovo delovanje s samodejnim pošiljanjem diagnostičnih podatkov in podatkov o uporabi Googlu.</translation>
-<translation id="2097604701283463988">Kahf je zastarel</translation>
-<translation id="871233388178581868">Kahf lahko preveri gesla, če jih shranite</translation>
+<translation id="2097604701283463988">BrowseWeb3 je zastarel</translation>
+<translation id="871233388178581868">BrowseWeb3 lahko preveri gesla, če jih shranite</translation>
 <translation id="8550334526674375523">Ta delovni profil je v celoti ločen od osebnega profila.</translation>
 <translation id="8555465886620020932">Napaka storitve: <ph name="SERVICE_ERROR"/>.</translation>
-<translation id="227028348235968071">Kahf lahko preveri vaša gesla, ko se prijavite z računom Kahf</translation>
-<translation id="8121009781989288430">Copyright © <ph name="YEAR"/> Ustvarjalci Kahfa. Vse pravice pridržane.</translation>
-<translation id="7890337656251106515"><ph name="BEGIN_BOLD"/>Kako uporabljamo te podatke:<ph name="END_BOLD"/> Spletna mesta lahko v Kahfu shranjujejo podatke o vaših zanimanjih. Če na primer obiščete spletno mesto zaradi nakupa športnih copatov za maraton, bo spletno mesto morda določilo vaše zanimanje kot udeleževanje maratonov. Če pozneje obiščete drugo spletno mesto za registriranje za tek, vam lahko to spletno mesto glede na vaša zanimanja prikaže oglas za tekaško obutev.</translation>
-<translation id="3052349005266761501">Zagon Kahfa …</translation>
-<translation id="6283840329609797763">Namestitev ni uspela zaradi nenavedene napake. Znova prenesite Kahf.</translation>
-<translation id="5128665650717824082">Brskalnika Kahf for Testing ni mogoče nastaviti kot privzetega brskalnika.</translation>
-<translation id="2433912322225810055">Določa tudi, katera stran je prikazana, ko zaženete Kahf ali iščete v naslovni vrstici.</translation>
-<translation id="4100716194836114130">To je vaš Kahf</translation>
-<translation id="1419543648228375718">Se želite prijaviti v Kahf?</translation>
+<translation id="227028348235968071">BrowseWeb3 lahko preveri vaša gesla, ko se prijavite z računom BrowseWeb3</translation>
+<translation id="8121009781989288430">Copyright © <ph name="YEAR"/> Ustvarjalci BrowseWeb3a. Vse pravice pridržane.</translation>
+<translation id="7890337656251106515"><ph name="BEGIN_BOLD"/>Kako uporabljamo te podatke:<ph name="END_BOLD"/> Spletna mesta lahko v BrowseWeb3u shranjujejo podatke o vaših zanimanjih. Če na primer obiščete spletno mesto zaradi nakupa športnih copatov za maraton, bo spletno mesto morda določilo vaše zanimanje kot udeleževanje maratonov. Če pozneje obiščete drugo spletno mesto za registriranje za tek, vam lahko to spletno mesto glede na vaša zanimanja prikaže oglas za tekaško obutev.</translation>
+<translation id="3052349005266761501">Zagon BrowseWeb3a …</translation>
+<translation id="6283840329609797763">Namestitev ni uspela zaradi nenavedene napake. Znova prenesite BrowseWeb3.</translation>
+<translation id="5128665650717824082">Brskalnika BrowseWeb3 for Testing ni mogoče nastaviti kot privzetega brskalnika.</translation>
+<translation id="2433912322225810055">Določa tudi, katera stran je prikazana, ko zaženete BrowseWeb3 ali iščete v naslovni vrstici.</translation>
+<translation id="4100716194836114130">To je vaš BrowseWeb3</translation>
+<translation id="1419543648228375718">Se želite prijaviti v BrowseWeb3?</translation>
 <translation id="878572486461146056">Napaka pri namestitvi: Skrbnik omrežja je uveljavil pravilnik skupine, ki preprečuje namestitev: <ph name="INSTALL_ERROR"/></translation>
-<translation id="4831743161813926460">Kahf potrebuje dovoljenje za dostop do fotoaparata in mikrofona za to spletno mesto</translation>
+<translation id="4831743161813926460">BrowseWeb3 potrebuje dovoljenje za dostop do fotoaparata in mikrofona za to spletno mesto</translation>
 <translation id="8826492472752484139">Kliknite »Upravitelj gesel«</translation>
 <translation id="6933858244219479645">Sistem Chrome OS</translation>
-<translation id="4105986395895210872"><ph name="BEGIN_BOLD"/>Kateri podatki se uporabljajo:<ph name="END_BOLD"/> Zgodovina brskanja, evidenca spletnih mest, ki ste jih obiskali s Kahfom v tej napravi.</translation>
+<translation id="4105986395895210872"><ph name="BEGIN_BOLD"/>Kateri podatki se uporabljajo:<ph name="END_BOLD"/> Zgodovina brskanja, evidenca spletnih mest, ki ste jih obiskali s BrowseWeb3om v tej napravi.</translation>
 <translation id="8862326446509486874">Nimate ustreznih pravic za namestitev na ravni sistema. Poskusite znova zagnati namestitveni program kot skrbnik.</translation>
-<translation id="6412037018950369131">Če ste ga, uredite shranjeno geslo v Kahfu, da se bo ujemalo z novim geslom.</translation>
-<translation id="8285294305439559616">Kahf poskuša prikazati gesla. Če želite omogočiti to, vnesite geslo za Windows.</translation>
-<translation id="6514033039060816211">Kahf lahko oceni vaša zanimanja glede na vašo zgodovino brskanja zadnjih nekaj tednov. Ti podatki so shranjeni v vaši napravi.</translation>
-<translation id="6389268239133412586">Kahfa ni mogoče posodobiti</translation>
-<translation id="7731184591599776500">Logotip za Kahf Enterprise</translation>
+<translation id="6412037018950369131">Če ste ga, uredite shranjeno geslo v BrowseWeb3u, da se bo ujemalo z novim geslom.</translation>
+<translation id="8285294305439559616">BrowseWeb3 poskuša prikazati gesla. Če želite omogočiti to, vnesite geslo za Windows.</translation>
+<translation id="6514033039060816211">BrowseWeb3 lahko oceni vaša zanimanja glede na vašo zgodovino brskanja zadnjih nekaj tednov. Ti podatki so shranjeni v vaši napravi.</translation>
+<translation id="6389268239133412586">BrowseWeb3a ni mogoče posodobiti</translation>
+<translation id="7731184591599776500">Logotip za BrowseWeb3 Enterprise</translation>
 <translation id="8986207147630327271">V ta brskalnik dodajate delovni profil in skrbniku omogočate nadzor samo nad delovnim profilom.</translation>
-<translation id="82609232232243542">Prijava v Kahf</translation>
-<translation id="3273774796888928550">Prijavite se v Kahf. Če se želite v račun prijaviti samo enkrat, lahko <ph name="GUEST_LINK_BEGIN"/>napravo uporabljate kot gost<ph name="GUEST_LINK_END"/>.</translation>
-<translation id="4561046754724442504">Kahf se je samodejno zaprl</translation>
-<translation id="5173820533850252773">Kahf je zastarel</translation>
-<translation id="310518206836658214">{0,plural, =1{Kahf se bo znova zagnal čez eno uro}one{Kahf se bo znova zagnal čez # uro}two{Kahf se bo znova zagnal čez # uri}few{Kahf se bo znova zagnal čez # ure}other{Kahf se bo znova zagnal čez # ur}}</translation>
-<translation id="5190991181158966940">Če želite prejemati prihodnje posodobitve Kahfa, potrebujete Windows 10 ali novejšega. V tem računalniku je nameščen Windows 8.1.</translation>
-<translation id="7863882214613921971">Odpiranje povezave na novem &amp;zavihku v Kahfu</translation>
+<translation id="82609232232243542">Prijava v BrowseWeb3</translation>
+<translation id="3273774796888928550">Prijavite se v BrowseWeb3. Če se želite v račun prijaviti samo enkrat, lahko <ph name="GUEST_LINK_BEGIN"/>napravo uporabljate kot gost<ph name="GUEST_LINK_END"/>.</translation>
+<translation id="4561046754724442504">BrowseWeb3 se je samodejno zaprl</translation>
+<translation id="5173820533850252773">BrowseWeb3 je zastarel</translation>
+<translation id="310518206836658214">{0,plural, =1{BrowseWeb3 se bo znova zagnal čez eno uro}one{BrowseWeb3 se bo znova zagnal čez # uro}two{BrowseWeb3 se bo znova zagnal čez # uri}few{BrowseWeb3 se bo znova zagnal čez # ure}other{BrowseWeb3 se bo znova zagnal čez # ur}}</translation>
+<translation id="5190991181158966940">Če želite prejemati prihodnje posodobitve BrowseWeb3a, potrebujete Windows 10 ali novejšega. V tem računalniku je nameščen Windows 8.1.</translation>
+<translation id="7863882214613921971">Odpiranje povezave na novem &amp;zavihku v BrowseWeb3u</translation>
 <translation id="911206726377975832">Ali želite izbrisati tudi podatke brskanja?</translation>
-<translation id="5708733457516068434">Med temi preizkusi lahko vidite ali odstranite teme zanimanja, ki jih spletna mesta uporabljajo, da vam prikazujejo oglase. Kahf oceni vaša zanimanja glede na nedavno zgodovino brskanja.</translation>
-<translation id="2444257125841652328">Skrbnik sistema je Kahf nastavil tako, da za dostop do <ph name="TARGET_URL_HOSTNAME"/> odpre drug brskalnik.</translation>
-<translation id="7902365066753170041">Znova zaženite, če želite posodobiti &amp;Kahf</translation>
-<translation id="3350544518197210895">Kahf (mDNS-In)</translation>
-<translation id="296137235951584143">Prilagodite si Kahf</translation>
-<translation id="7977787072794666032">Kahf morda ne bo deloval pravilno, ker ni več podprt v sistemu Windows XP ali Windows Vista</translation>
-<translation id="8180288330711585962">Potrdila, ki jih upravlja Kahf</translation>
-<translation id="4484434718272972655">Kdo uporablja Kahf?</translation>
-<translation id="7173394303099002355">Prejmite Kahfovo najmočnejšo varnost</translation>
+<translation id="5708733457516068434">Med temi preizkusi lahko vidite ali odstranite teme zanimanja, ki jih spletna mesta uporabljajo, da vam prikazujejo oglase. BrowseWeb3 oceni vaša zanimanja glede na nedavno zgodovino brskanja.</translation>
+<translation id="2444257125841652328">Skrbnik sistema je BrowseWeb3 nastavil tako, da za dostop do <ph name="TARGET_URL_HOSTNAME"/> odpre drug brskalnik.</translation>
+<translation id="7902365066753170041">Znova zaženite, če želite posodobiti &amp;BrowseWeb3</translation>
+<translation id="3350544518197210895">BrowseWeb3 (mDNS-In)</translation>
+<translation id="296137235951584143">Prilagodite si BrowseWeb3</translation>
+<translation id="7977787072794666032">BrowseWeb3 morda ne bo deloval pravilno, ker ni več podprt v sistemu Windows XP ali Windows Vista</translation>
+<translation id="8180288330711585962">Potrdila, ki jih upravlja BrowseWeb3</translation>
+<translation id="4484434718272972655">Kdo uporablja BrowseWeb3?</translation>
+<translation id="7173394303099002355">Prejmite BrowseWeb3ovo najmočnejšo varnost</translation>
 <translation id="983803489796659991">Namestitev ni uspela, ker strežnik za posodobitve nima podatkov o zgoščeni vrednosti za aplikacijo.</translation>
-<translation id="8992261409816268381">Ustvarjalci Kahfa</translation>
+<translation id="8992261409816268381">Ustvarjalci BrowseWeb3a</translation>
 <translation id="137466361146087520">Google Chrome Beta</translation>
 <translation id="7535429826459677826">Google Chrome Dev</translation>
-<translation id="5359574361379286250">Če želite ta račun uporabiti samo enkrat, lahko v brskalniku Kahf uporabite <ph name="GUEST_LINK_BEGIN"/>Način za goste<ph name="GUEST_LINK_END"/>. Če želite dodati račun za drugo osebo, <ph name="LINK_BEGIN"/>dodajte nov profil<ph name="LINK_END"/> za vaš <ph name="DEVICE_TYPE"/>.
+<translation id="5359574361379286250">Če želite ta račun uporabiti samo enkrat, lahko v brskalniku BrowseWeb3 uporabite <ph name="GUEST_LINK_BEGIN"/>Način za goste<ph name="GUEST_LINK_END"/>. Če želite dodati račun za drugo osebo, <ph name="LINK_BEGIN"/>dodajte nov profil<ph name="LINK_END"/> za vaš <ph name="DEVICE_TYPE"/>.
 
-Za ta račun lahko veljajo dovoljenja, ki ste jih že dali spletnim mestom in aplikacijam. Sinhronizacijske verige Kahf lahko upravljate v <ph name="SETTINGS_LINK_BEGIN"/>Nastavitvah<ph name="SETTINGS_LINK_END"/>.</translation>
-<translation id="1743665722170667430">Razširitve, aplikacije in teme iz neznanih virov lahko škodujejo napravi. Kahf priporoča, da jih namestite samo iz <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/></translation>
-<translation id="6184592406110188164">Ta razširitev krši pravilnik spletne trgovine in morda ni varna. Odstranite jo iz Kahf, da ne bo mogla več videti in spreminjati vaših podatkov na spletnih mestih, ki jih obiščete, vključno z vašimi osebnimi podatki.</translation>
-<translation id="1299765473362724475">Opozorilo: brskalnik Kahf ne more preprečiti, da bi vtičniki beležili zgodovino vašega brskanja. Če želite ta vtičnik v načinu brez beleženja zgodovine onemogočiti, odznačite to možnost.</translation>
-<translation id="1448049584457347995">Zaradi večje varnosti smo v Kahfu onemogočili nekatere razširitve, ki niso navedene v storitvi <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> in so bile morda dodane brez vaše vednosti.</translation>
-<translation id="8848045066928358658">Zaradi večje varnosti smo v Kahfu onemogočili razširitve, ki niso navedene v storitvi <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> in so bile morda dodane brez vaše vednosti.</translation>
-<translation id="669092380621816981">Podatki brskanja te osebe bodo izbrisani iz te naprave. Če želite podatke obnoviti, se prijavite v Kahf kot <ph name="USER_EMAIL"/>.</translation>
-<translation id="4624945300945265642">Odpri povezavo v Kahfovem oknu brez bele&amp;ženja zgodovine</translation>
-<translation id="6554952862405000915">Odpri povezavo v Kahfovem oknu brez bele&amp;ženja zgodovine</translation>
-<translation id="8274659559228306809">{COUNT,plural, =0{Na voljo je nova posodobitev za Kahf, ki bo nameščena, takoj ko ga znova zaženete.}=1{Na voljo je nova posodobitev za Kahf, ki bo nameščena, takoj ko ga znova zaženete. Okno brez beleženja zgodovine se ne bo znova odprlo.}one{Na voljo je nova posodobitev za Kahf, ki bo nameščena, takoj ko ga znova zaženete. # okno brez beleženja zgodovine se ne bo znova odprlo.}two{Na voljo je nova posodobitev za Kahf, ki bo nameščena, takoj ko ga znova zaženete. # okni brez beleženja zgodovine se ne bosta znova odprli.}few{Na voljo je nova posodobitev za Kahf, ki bo nameščena, takoj ko ga znova zaženete. # okna brez beleženja zgodovine se ne bodo znova odprla.}other{Na voljo je nova posodobitev za Kahf, ki bo nameščena, takoj ko ga znova zaženete. # oken brez beleženja zgodovine se ne bo znova odprlo.}}</translation>
-<translation id="3829358914761176693">{COUNT,plural, =0{Skrbnik prosi, da za uveljavitev te posodobitve znova zaženete Kahf.}=1{Skrbnik prosi, da za uveljavitev te posodobitve znova zaženete Kahf. Okno brez beleženja zgodovine se ne bo znova odprlo.}one{Skrbnik prosi, da za uveljavitev te posodobitve znova zaženete Kahf. # okno brez beleženja zgodovine se ne bo znova odprlo.}two{Skrbnik prosi, da za uveljavitev te posodobitve znova zaženete Kahf. # okni brez beleženja zgodovine se ne bosta znova odprli.}few{Skrbnik prosi, da za uveljavitev te posodobitve znova zaženete Kahf. # okna brez beleženja zgodovine se ne bodo znova odprla.}other{Skrbnik prosi, da za uveljavitev te posodobitve znova zaženete Kahf. # oken brez beleženja zgodovine se ne bo znova odprlo.}}</translation>
-<translation id="552349673358711446">{COUNT,plural, =0{Skrbnik zahteva, da za uveljavitev te posodobitve znova zaženete Kahf.}=1{Skrbnik zahteva, da za uveljavitev te posodobitve znova zaženete Kahf. Okno brez beleženja zgodovine se ne bo znova odprlo.}one{Skrbnik zahteva, da za uveljavitev te posodobitve znova zaženete Kahf. # okno brez beleženja zgodovine se ne bo znova odprlo.}two{Skrbnik zahteva, da za uveljavitev te posodobitve znova zaženete Kahf. # okni brez beleženja zgodovine se ne bosta znova odprli.}few{Skrbnik zahteva, da za uveljavitev te posodobitve znova zaženete Kahf. # okna brez beleženja zgodovine se ne bodo znova odprla.}other{Skrbnik zahteva, da za uveljavitev te posodobitve znova zaženete Kahf. # oken brez beleženja zgodovine se ne bo znova odprlo.}}</translation>
-<translation id="2176087127109773485">Upravljate lahko prijavljene verige za sinhronizacijo Kahf. Vaše verige za sinhronizacijo Kahf se uporabljajo za brskalnik Kahf, Trgovino Play, Gmail in drugo. Če želite dodati račun za nekoga drugega, na primer družinskega člana, namesto tega dodajte nov profil v svoj <ph name="DEVICE_TYPE"/>. <ph name="LINK_BEGIN"/>Več o tem<ph name="LINK_END"/></translation>
-<translation id="79269250264141507">Ko v naslovno vrstico ali iskalno polje vtipkate besedilo, Kahf vneseno besedilo pošlje vašemu privzetemu iskalniku, da tako dobi boljše predloge. Ta funkcija je v zasebnem načinu izključena.</translation>
-<translation id="3739288578188828252">Ko v naslovno vrstico ali iskalno polje vtipkate besedilo, Kahf vneseno besedilo pošlje v Google Drive, da tako dobi boljše predloge. Ta funkcija je v zasebnem načinu izključena.</translation>
-<translation id="2589970573128789862">Kahf Private</translation>
-<translation id="5994282802285556682">Ko brskate v zasebnem načinu, vas Kahf opozori pred nalaganjem spletnega mesta prek nezanesljive povezave.</translation>
+Za ta račun lahko veljajo dovoljenja, ki ste jih že dali spletnim mestom in aplikacijam. Sinhronizacijske verige BrowseWeb3 lahko upravljate v <ph name="SETTINGS_LINK_BEGIN"/>Nastavitvah<ph name="SETTINGS_LINK_END"/>.</translation>
+<translation id="1743665722170667430">Razširitve, aplikacije in teme iz neznanih virov lahko škodujejo napravi. BrowseWeb3 priporoča, da jih namestite samo iz <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/></translation>
+<translation id="6184592406110188164">Ta razširitev krši pravilnik spletne trgovine in morda ni varna. Odstranite jo iz BrowseWeb3, da ne bo mogla več videti in spreminjati vaših podatkov na spletnih mestih, ki jih obiščete, vključno z vašimi osebnimi podatki.</translation>
+<translation id="1299765473362724475">Opozorilo: brskalnik BrowseWeb3 ne more preprečiti, da bi vtičniki beležili zgodovino vašega brskanja. Če želite ta vtičnik v načinu brez beleženja zgodovine onemogočiti, odznačite to možnost.</translation>
+<translation id="1448049584457347995">Zaradi večje varnosti smo v BrowseWeb3u onemogočili nekatere razširitve, ki niso navedene v storitvi <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> in so bile morda dodane brez vaše vednosti.</translation>
+<translation id="8848045066928358658">Zaradi večje varnosti smo v BrowseWeb3u onemogočili razširitve, ki niso navedene v storitvi <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> in so bile morda dodane brez vaše vednosti.</translation>
+<translation id="669092380621816981">Podatki brskanja te osebe bodo izbrisani iz te naprave. Če želite podatke obnoviti, se prijavite v BrowseWeb3 kot <ph name="USER_EMAIL"/>.</translation>
+<translation id="4624945300945265642">Odpri povezavo v BrowseWeb3ovem oknu brez bele&amp;ženja zgodovine</translation>
+<translation id="6554952862405000915">Odpri povezavo v BrowseWeb3ovem oknu brez bele&amp;ženja zgodovine</translation>
+<translation id="8274659559228306809">{COUNT,plural, =0{Na voljo je nova posodobitev za BrowseWeb3, ki bo nameščena, takoj ko ga znova zaženete.}=1{Na voljo je nova posodobitev za BrowseWeb3, ki bo nameščena, takoj ko ga znova zaženete. Okno brez beleženja zgodovine se ne bo znova odprlo.}one{Na voljo je nova posodobitev za BrowseWeb3, ki bo nameščena, takoj ko ga znova zaženete. # okno brez beleženja zgodovine se ne bo znova odprlo.}two{Na voljo je nova posodobitev za BrowseWeb3, ki bo nameščena, takoj ko ga znova zaženete. # okni brez beleženja zgodovine se ne bosta znova odprli.}few{Na voljo je nova posodobitev za BrowseWeb3, ki bo nameščena, takoj ko ga znova zaženete. # okna brez beleženja zgodovine se ne bodo znova odprla.}other{Na voljo je nova posodobitev za BrowseWeb3, ki bo nameščena, takoj ko ga znova zaženete. # oken brez beleženja zgodovine se ne bo znova odprlo.}}</translation>
+<translation id="3829358914761176693">{COUNT,plural, =0{Skrbnik prosi, da za uveljavitev te posodobitve znova zaženete BrowseWeb3.}=1{Skrbnik prosi, da za uveljavitev te posodobitve znova zaženete BrowseWeb3. Okno brez beleženja zgodovine se ne bo znova odprlo.}one{Skrbnik prosi, da za uveljavitev te posodobitve znova zaženete BrowseWeb3. # okno brez beleženja zgodovine se ne bo znova odprlo.}two{Skrbnik prosi, da za uveljavitev te posodobitve znova zaženete BrowseWeb3. # okni brez beleženja zgodovine se ne bosta znova odprli.}few{Skrbnik prosi, da za uveljavitev te posodobitve znova zaženete BrowseWeb3. # okna brez beleženja zgodovine se ne bodo znova odprla.}other{Skrbnik prosi, da za uveljavitev te posodobitve znova zaženete BrowseWeb3. # oken brez beleženja zgodovine se ne bo znova odprlo.}}</translation>
+<translation id="552349673358711446">{COUNT,plural, =0{Skrbnik zahteva, da za uveljavitev te posodobitve znova zaženete BrowseWeb3.}=1{Skrbnik zahteva, da za uveljavitev te posodobitve znova zaženete BrowseWeb3. Okno brez beleženja zgodovine se ne bo znova odprlo.}one{Skrbnik zahteva, da za uveljavitev te posodobitve znova zaženete BrowseWeb3. # okno brez beleženja zgodovine se ne bo znova odprlo.}two{Skrbnik zahteva, da za uveljavitev te posodobitve znova zaženete BrowseWeb3. # okni brez beleženja zgodovine se ne bosta znova odprli.}few{Skrbnik zahteva, da za uveljavitev te posodobitve znova zaženete BrowseWeb3. # okna brez beleženja zgodovine se ne bodo znova odprla.}other{Skrbnik zahteva, da za uveljavitev te posodobitve znova zaženete BrowseWeb3. # oken brez beleženja zgodovine se ne bo znova odprlo.}}</translation>
+<translation id="2176087127109773485">Upravljate lahko prijavljene verige za sinhronizacijo BrowseWeb3. Vaše verige za sinhronizacijo BrowseWeb3 se uporabljajo za brskalnik BrowseWeb3, Trgovino Play, Gmail in drugo. Če želite dodati račun za nekoga drugega, na primer družinskega člana, namesto tega dodajte nov profil v svoj <ph name="DEVICE_TYPE"/>. <ph name="LINK_BEGIN"/>Več o tem<ph name="LINK_END"/></translation>
+<translation id="79269250264141507">Ko v naslovno vrstico ali iskalno polje vtipkate besedilo, BrowseWeb3 vneseno besedilo pošlje vašemu privzetemu iskalniku, da tako dobi boljše predloge. Ta funkcija je v zasebnem načinu izključena.</translation>
+<translation id="3739288578188828252">Ko v naslovno vrstico ali iskalno polje vtipkate besedilo, BrowseWeb3 vneseno besedilo pošlje v Google Drive, da tako dobi boljše predloge. Ta funkcija je v zasebnem načinu izključena.</translation>
+<translation id="2589970573128789862">BrowseWeb3 Private</translation>
+<translation id="5994282802285556682">Ko brskate v zasebnem načinu, vas BrowseWeb3 opozori pred nalaganjem spletnega mesta prek nezanesljive povezave.</translation>
 </translationbundle>

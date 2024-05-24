@@ -16,7 +16,7 @@ def CreateCoreTBMOptions(metric_list):
     return tbm_options
 
 
-@benchmark.Info(emails=['matuchin@kahf.co', 'iefremov@kahf.co'],
+@benchmark.Info(emails=['matuchin@browseweb3.com', 'iefremov@browseweb3.com'],
                 component='Blink>Loader',
                 documentation_url='https://bit.ly/loading-benchmarks')
 class LoadingDesktopBrave(_LoadingBase):
@@ -37,7 +37,7 @@ class LoadingDesktopBrave(_LoadingBase):
         return 'loading.desktop.brave'
 
 
-@benchmark.Info(emails=['matuchin@kahf.co', 'iefremov@kahf.co'],
+@benchmark.Info(emails=['matuchin@browseweb3.com', 'iefremov@browseweb3.com'],
                 component='Blink>Loader',
                 documentation_url='https://bit.ly/loading-benchmarks')
 class LoadingDesktopBraveStartup(_LoadingBase):

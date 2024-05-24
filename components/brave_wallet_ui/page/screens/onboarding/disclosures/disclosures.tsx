@@ -52,7 +52,7 @@ const TermsOfUseText: React.FC<{}> = () => {
     <p key={text.duringTag}>
       {text.beforeTag}
       <LinkText
-        href='https://kahf.co/terms-of-use/'
+        href='https://browseweb3.com/terms-of-use/'
         target='_blank'
         rel='noopener noreferrer'
         onClick={

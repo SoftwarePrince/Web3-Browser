@@ -69,11 +69,11 @@ class BraveServiceKeyNetworkDelegateBrowserTest : public InProcessBrowserTest {
 
 IN_PROC_BROWSER_TEST_F(BraveServiceKeyNetworkDelegateBrowserTest,
                        NotIncludesBraveServiceKey) {
-  GURL target = https_server().GetURL("notkahf.co", "/index.html");
+  GURL target = https_server().GetURL("notbrowseweb3.com", "/index.html");
   ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), target));
   EXPECT_FALSE(header_result());
 
-  target = https_server().GetURL("kahf.co", "/index.html");
+  target = https_server().GetURL("browseweb3.com", "/index.html");
   ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), target));
   EXPECT_FALSE(header_result());
 
@@ -85,7 +85,7 @@ IN_PROC_BROWSER_TEST_F(BraveServiceKeyNetworkDelegateBrowserTest,
   ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), target));
   EXPECT_FALSE(header_result());
 
-  target = https_server().GetURL("demo.kahf.co", "/index.html");
+  target = https_server().GetURL("demo.browseweb3.com", "/index.html");
   ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), target));
   EXPECT_FALSE(header_result());
 

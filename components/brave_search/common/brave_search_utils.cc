@@ -24,7 +24,7 @@ constexpr auto kVettedHosts =
                                                  "safesearch.brave.com",
                                                  "safesearch.brave.software",
                                                  "safesearch.bravesoftware.com",
-                                                 "search-dev-local.kahf.co",
+                                                 "search-dev-local.browseweb3.com",
                                                  "search.brave.com",
                                                  "search.brave.software",
                                                  "search.bravesoftware.com",

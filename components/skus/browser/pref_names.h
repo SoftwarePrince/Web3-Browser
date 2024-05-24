@@ -9,7 +9,7 @@
 namespace skus {
 namespace prefs {
 
-// Dictionary storage for the SKU SDK. For example, account.kahf.co
+// Dictionary storage for the SKU SDK. For example, account.browseweb3.com
 // stores SKU key/value pairs in local storage.
 inline constexpr char kSkusState[] = "skus.state";
 inline constexpr char kSkusStateMigratedToLocalState[] =

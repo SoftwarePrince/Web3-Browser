@@ -53,7 +53,7 @@ export const mockSepolia: BraveWallet.NetworkInfo = {
   decimals: 18,
   iconUrls: [ETHIconUrl],
   isEip1559: true,
-  rpcEndpoints: [{ url: 'https://sepolia-infura.kahf.co' }],
+  rpcEndpoints: [{ url: 'https://sepolia-infura.browseweb3.com' }],
   symbol: 'ETH',
   symbolName: 'Ethereum'
 }
@@ -92,7 +92,7 @@ export const mockFilecoinTestnetNetwork: BraveWallet.NetworkInfo = {
   chainId: 't',
   chainName: 'Filecoin Testnet',
   activeRpcEndpointIndex: 0,
-  rpcEndpoints: [{ url: 'https://mainnet-beta-solana.kahf.co/rpc' }],
+  rpcEndpoints: [{ url: 'https://mainnet-beta-solana.browseweb3.com/rpc' }],
   blockExplorerUrls: ['https://calibration.filscan.io/tipset/message-detail'],
   symbol: 'FIL',
   symbolName: 'Filecoin',

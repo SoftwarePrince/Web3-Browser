@@ -351,8 +351,8 @@ export class MockedWalletApiProxy {
     getActiveOrigin: async () => {
       return {
         originInfo: {
-          originSpec: 'https://kahf.co',
-          eTldPlusOne: 'kahf.co'
+          originSpec: 'https://browseweb3.com',
+          eTldPlusOne: 'browseweb3.com'
         }
       }
     },

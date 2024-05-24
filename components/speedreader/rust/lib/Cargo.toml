@@ -2,8 +2,8 @@
 name = "speedreader"
 version = "0.1.0"
 authors = [
-    "gpestana <gpestana@kahf.co>",
-    "Andrius Aucinas <aaucinas@kahf.co>"
+    "gpestana <gpestana@browseweb3.com>",
+    "Andrius Aucinas <aaucinas@browseweb3.com>"
 ]
 edition = "2018"
 

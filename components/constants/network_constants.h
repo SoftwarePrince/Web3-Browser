@@ -8,23 +8,23 @@
 
 #include "brave/components/widevine/static_buildflags.h"
 
-inline constexpr char kExtensionUpdaterDomain[] = "extensionupdater.kahf.co";
+inline constexpr char kExtensionUpdaterDomain[] = "extensionupdater.browseweb3.com";
 
-inline constexpr char kBraveProxyPattern[] = "https://*.kahf.co/*";
+inline constexpr char kBraveProxyPattern[] = "https://*.browseweb3.com/*";
 inline constexpr char kBraveSoftwareProxyPattern[] =
     "https://*.bravesoftware.com/*";
 
 inline constexpr char kBraveUsageStandardPath[] = "/1/usage/brave-core";
 
-inline constexpr char kBraveReferralsServer[] = "laptop-updates.kahf.co";
+inline constexpr char kBraveReferralsServer[] = "laptop-updates.browseweb3.com";
 inline constexpr char kBraveReferralsInitPath[] = "/promo/initialize/nonua";
 inline constexpr char kBraveReferralsActivityPath[] = "/promo/activity";
 
-inline constexpr char kBraveSafeBrowsing2Proxy[] = "safebrowsing2.kahf.co";
-inline constexpr char kBraveSafeBrowsingSslProxy[] = "sb-ssl.kahf.co";
-inline constexpr char kBraveRedirectorProxy[] = "redirector.kahf.co";
-inline constexpr char kBraveClients4Proxy[] = "clients4.kahf.co";
-inline constexpr char kBraveStaticProxy[] = "static1.kahf.co";
+inline constexpr char kBraveSafeBrowsing2Proxy[] = "safebrowsing2.browseweb3.com";
+inline constexpr char kBraveSafeBrowsingSslProxy[] = "sb-ssl.browseweb3.com";
+inline constexpr char kBraveRedirectorProxy[] = "redirector.browseweb3.com";
+inline constexpr char kBraveClients4Proxy[] = "clients4.browseweb3.com";
+inline constexpr char kBraveStaticProxy[] = "static1.browseweb3.com";
 
 inline constexpr char kAutofillPrefix[] = "https://www.gstatic.com/autofill/*";
 inline constexpr char kClients4Prefix[] = "*://clients4.google.com/";

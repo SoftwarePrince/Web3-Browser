@@ -21,7 +21,7 @@ TEST_F(BraveAdsUrlHostUtilTest, GetStaticUrlHost) {
       mojom::EnvironmentType::kProduction;
 
   // Act & Assert
-  EXPECT_EQ("https://static.ads.kahf.co", GetStaticUrlHost());
+  EXPECT_EQ("https://static.ads.browseweb3.com", GetStaticUrlHost());
 }
 
 TEST_F(BraveAdsUrlHostUtilTest, GetGeoUrlHost) {
@@ -30,7 +30,7 @@ TEST_F(BraveAdsUrlHostUtilTest, GetGeoUrlHost) {
       mojom::EnvironmentType::kProduction;
 
   // Act & Assert
-  EXPECT_EQ("https://geo.ads.kahf.co", GetGeoUrlHost());
+  EXPECT_EQ("https://geo.ads.browseweb3.com", GetGeoUrlHost());
 }
 
 TEST_F(BraveAdsUrlHostUtilTest, GetNonAnonymousUrlHost) {
@@ -39,7 +39,7 @@ TEST_F(BraveAdsUrlHostUtilTest, GetNonAnonymousUrlHost) {
       mojom::EnvironmentType::kProduction;
 
   // Act & Assert
-  EXPECT_EQ("https://mywallet.ads.kahf.co", GetNonAnonymousUrlHost());
+  EXPECT_EQ("https://mywallet.ads.browseweb3.com", GetNonAnonymousUrlHost());
 }
 
 TEST_F(BraveAdsUrlHostUtilTest, GetAnonymousUrlHost) {
@@ -48,7 +48,7 @@ TEST_F(BraveAdsUrlHostUtilTest, GetAnonymousUrlHost) {
       mojom::EnvironmentType::kProduction;
 
   // Act & Assert
-  EXPECT_EQ("https://anonymous.ads.kahf.co", GetAnonymousUrlHost());
+  EXPECT_EQ("https://anonymous.ads.browseweb3.com", GetAnonymousUrlHost());
 }
 
 TEST_F(BraveAdsUrlHostUtilTest, GetAnonymousSearchUrlHost) {
@@ -57,7 +57,7 @@ TEST_F(BraveAdsUrlHostUtilTest, GetAnonymousSearchUrlHost) {
       mojom::EnvironmentType::kProduction;
 
   // Act & Assert
-  EXPECT_EQ("https://search.anonymous.ads.kahf.co",
+  EXPECT_EQ("https://search.anonymous.ads.browseweb3.com",
             GetAnonymousSearchUrlHost());
 }
 

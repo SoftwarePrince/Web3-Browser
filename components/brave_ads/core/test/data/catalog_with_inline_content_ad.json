@@ -17,10 +17,10 @@
               "payload": {
                 "title": "Test Title",
                 "description": "Test Description",
-                "imageUrl": "https://www.kahf.co",
+                "imageUrl": "https://www.browseweb3.com",
                 "dimensions": "200x100",
                 "ctaText": "Test Call to Action Text",
-                "targetUrl": "https://kahf.co"
+                "targetUrl": "https://browseweb3.com"
               }
             }
           ],
@@ -34,7 +34,7 @@
           "conversions": [
             {
               "observationWindow": 30,
-              "urlPattern": "https://www.kahf.co/*",
+              "urlPattern": "https://www.browseweb3.com/*",
               "type": "postview"
             }
           ],

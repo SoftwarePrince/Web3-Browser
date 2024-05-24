@@ -20,7 +20,7 @@ TEST_F(BraveAdsAnonymousSearchUrlHostTest, GetProductionUrlHost) {
       mojom::EnvironmentType::kProduction;
 
   // Act & Assert
-  EXPECT_EQ("https://search.anonymous.ads.kahf.co",
+  EXPECT_EQ("https://search.anonymous.ads.browseweb3.com",
             GetAnonymousSearchUrlHost());
 }
 

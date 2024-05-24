@@ -12,7 +12,7 @@ PACKAGE="kahf-browser"
 PROGNAME=kahf
 
 # Base directory for package installation.
-INSTALLDIR=/opt/kahf.co/kahf
+INSTALLDIR=/opt/browseweb3.com/kahf
 
 # Display string for desktop menu/icon.
 MENUNAME="Kahf Web Browser"
@@ -25,7 +25,7 @@ FULLDESC="Browse halal and faster by blocking ads and trackers that violate your
 
 # Package maintainer information.
 MAINTNAME="Halalz"
-MAINTMAIL="support@kahf.co"
-PRODUCTURL="https://kahf.co/"
+MAINTMAIL="support@browseweb3.com"
+PRODUCTURL="https://browseweb3.com/"
 VERSION=$(cat $OUTPUTDIR/version | tr -d 'v,')
 VERSIONFULL=$VERSION

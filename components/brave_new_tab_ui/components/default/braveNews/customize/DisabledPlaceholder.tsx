@@ -72,7 +72,7 @@ export default function DisabledPlaceholder (props: { enableBraveNews: () => voi
         </Subtitle>
         <Subtitle>
           {descriptionTwoTextParts.beforeTag}
-            <a href={'https://kahf.co/privacy/browser/'}>
+            <a href={'https://browseweb3.com/privacy/browser/'}>
               {descriptionTwoTextParts.duringTag}
             </a>
           {descriptionTwoTextParts.afterTag}

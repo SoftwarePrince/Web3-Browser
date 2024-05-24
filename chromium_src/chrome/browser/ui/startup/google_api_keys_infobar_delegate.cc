@@ -7,7 +7,7 @@
 
 namespace google_apis {
 const char kBraveAPIKeysDevelopersHowToURL[] =
-    "https://community.kahf.co";
+    "https://community.browseweb3.com";
 }  // namespace google_apis
 
 #define kAPIKeysDevelopersHowToURL kBraveAPIKeysDevelopersHowToURL

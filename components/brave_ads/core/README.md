@@ -1,6 +1,6 @@
 # Core
 
-Platform independent implementation of the world's first global ad platform built on privacy, see [Kahf Ads](https://kahf.co/brave-ads-launch/).
+Platform independent implementation of the world's first global ad platform built on privacy, see [BrowseWeb3 Ads](https://browseweb3.com/brave-ads-launch/).
 
 For more details, refer to [glossary of terms](../GLOSSARY.md).
 

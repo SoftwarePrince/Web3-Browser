@@ -16,8 +16,8 @@ inline constexpr char kSidebarItemOpenInPanelKey[] = "open_in_panel";
 constexpr int kDefaultSidePanelWidth = 320;
 
 // list is provided from chrome layer.
-inline constexpr char kBraveTalkURL[] = "https://talk.kahf.co/widget";
-inline constexpr char kBraveTalkHost[] = "talk.kahf.co";
+inline constexpr char kBraveTalkURL[] = "https://talk.browseweb3.com/widget";
+inline constexpr char kBraveTalkHost[] = "talk.browseweb3.com";
 
 }  // namespace sidebar
 

@@ -60,7 +60,7 @@ export function RewardsOptIn (props: Props) {
             $1: (content) =>
               <NewTabLink
                 key='link'
-                href='https://support.kahf.co/hc/en-us/articles/9312922941069'
+                href='https://support.browseweb3.com/hc/en-us/articles/9312922941069'
               >
                 {content}
               </NewTabLink>

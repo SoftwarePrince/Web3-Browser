@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Kahf এক্সটেনশন",
+    "message": "BrowseWeb3 এক্সটেনশন",
     "description": "The name of the extension."
   },
   "shields": {
@@ -24,12 +24,12 @@
     "description": "Message telling the user to disable shields if a site appears broken"
   },
   "disabledMessage": {
-    "message": "আপনি Kahf-এর গোপনীয়তা এবং নিরাপত্তার সুরক্ষা ছাড়াই এই সাইটটি ব্রাউজ করছেন। এটি কি শিল্ড আপের সাথে ঠিকমত কাজ করে না?",
+    "message": "আপনি BrowseWeb3-এর গোপনীয়তা এবং নিরাপত্তার সুরক্ষা ছাড়াই এই সাইটটি ব্রাউজ করছেন। এটি কি শিল্ড আপের সাথে ঠিকমত কাজ করে না?",
     "description": "Message telling the user that shields are disabled, and prompting them towards reporting an issue if necessary"
   },
   "reportBrokenSite": {
     "message": "একটি ভাঙ্গা সাইটের প্রতিবেদন করুন",
-    "description": "Message for the button allowing users to report a broken site to Kahf developers"
+    "description": "Message for the button allowing users to report a broken site to BrowseWeb3 developers"
   },
   "itemsBlocked": {
     "message": "ব্লক করা আইটেমসমূহ",
@@ -188,8 +188,8 @@
     "description": "Message for the simple view option"
   },
   "shieldsExplanation": {
-    "message": "সাইটগুলিতে প্রায়শই কুকিজ ও স্ক্রিপ্ট থাকে, এগুলি আপনাকে এবং আপনার ডিভাইস শনাক্ত করতে চেষ্টা করে (প্রায়শই বিজ্ঞাপনগুলিতে এম্বেড থাকে)। এগুলি আপনার পরিচয় জানার চেষ্টা করে এবং আপনি প্রতিটি সাইটে কী করেন তাতে নজর রেখে আপনাকে ওয়েবে অনুসরণ করে। Kahf এই জিনিসগুলি ব্লক করে, এতে আপনি অনুসৃত না হয়েই ব্রাউজ করতে পারবেন।",
-    "description": "Message in read-only view explaining what Kahf Shields do"
+    "message": "সাইটগুলিতে প্রায়শই কুকিজ ও স্ক্রিপ্ট থাকে, এগুলি আপনাকে এবং আপনার ডিভাইস শনাক্ত করতে চেষ্টা করে (প্রায়শই বিজ্ঞাপনগুলিতে এম্বেড থাকে)। এগুলি আপনার পরিচয় জানার চেষ্টা করে এবং আপনি প্রতিটি সাইটে কী করেন তাতে নজর রেখে আপনাকে ওয়েবে অনুসরণ করে। BrowseWeb3 এই জিনিসগুলি ব্লক করে, এতে আপনি অনুসৃত না হয়েই ব্রাউজ করতে পারবেন।",
+    "description": "Message in read-only view explaining what BrowseWeb3 Shields do"
   },
   "blockedResoucesExplanation": {
     "message": "ক্রশ-সাইট ট্র্যাকার এবং অন্যান্য রোমাঞ্চকর জিনিসগুলি ব্লক করা হয়েছে",
@@ -207,13 +207,13 @@
     "message": "আরও জানুন",
     "description": "Message inviting the user to learn more about Shields"
   },
-  "addToKahf": {
-    "message": "Kahf-এ জুড়ুন",
-    "description": "Message for adding an extension to Kahf"
+  "addToBrowseWeb3": {
+    "message": "BrowseWeb3-এ জুড়ুন",
+    "description": "Message for adding an extension to BrowseWeb3"
   },
-  "removeFromKahf": {
-    "message": "Kahf থেকে সরান",
-    "description": "Message for removing an extension from Kahf"
+  "removeFromBrowseWeb3": {
+    "message": "BrowseWeb3 থেকে সরান",
+    "description": "Message for removing an extension from BrowseWeb3"
   },
   "addToChrome": {
     "message": "Chrome এ জুড়ুন",

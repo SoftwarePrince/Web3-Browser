@@ -89,7 +89,7 @@ TEST_F(SolanaTxStateManagerUnitTest, SolanaTxMetaAndValue) {
   meta.set_tx_hash(
       "5VERv8NMvzbJMEkV8xnrLkEaWRtSz9CosKDYjCJjBRnbJLgp8uirBgmQpjKhoR4tjF3ZpRzr"
       "FmBV6UjKdiSZkQUW");
-  meta.set_origin(url::Origin::Create(GURL("https://test.kahf.co/")));
+  meta.set_origin(url::Origin::Create(GURL("https://test.browseweb3.com/")));
   meta.set_chain_id(mojom::kSolanaMainnet);
 
   base::Value::Dict meta_value = meta.ToValue();

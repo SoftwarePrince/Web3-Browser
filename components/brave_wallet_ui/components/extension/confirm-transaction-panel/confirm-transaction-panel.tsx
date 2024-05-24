@@ -80,7 +80,7 @@ const NftAssetIconWithPlaceholder = withPlaceholderIcon(NftIcon, ICON_CONFIG)
 
 const onClickLearnMore = () => {
   chrome.tabs.create(
-    { url: 'https://support.kahf.co/hc/en-us/articles/5546517853325' },
+    { url: 'https://support.browseweb3.com/hc/en-us/articles/5546517853325' },
     () => {
       if (chrome.runtime.lastError) {
         console.error('tabs.create failed: ' + chrome.runtime.lastError.message)

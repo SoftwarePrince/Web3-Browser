@@ -113,7 +113,7 @@ export const RecoveryPhraseExplainer = () => {
                 icon='key'
                 iconBackgroundColor='red200'
                 text={getLocale('braveWalletArticleLinkWhatsARecoveryPhrase')}
-                url='https://kahf.co/learn/wallet-recovery-phrase/'
+                url='https://browseweb3.com/learn/wallet-recovery-phrase/'
               />
             </CenteredRow>
           </div>

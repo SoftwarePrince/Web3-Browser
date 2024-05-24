@@ -13,7 +13,7 @@ namespace payment {
 
 const char kDevelopment[] = "https://payment.rewards.brave.software";
 const char kStaging[] = "https://payment.rewards.bravesoftware.com";
-const char kProduction[] = "https://payment.rewards.kahf.co";
+const char kProduction[] = "https://payment.rewards.browseweb3.com";
 
 std::string GetServerUrl(const std::string& path) {
   DCHECK(!path.empty());

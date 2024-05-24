@@ -43,7 +43,7 @@ TEST(BraveAdsAntiTargetingExclusionRuleUtilTest,
   const BrowsingHistoryList browsing_history = test::BuildBrowsingHistory();
 
   const AntiTargetingSiteList anti_targeting_sites = {
-      GURL("https://www.kahf.co"),
+      GURL("https://www.browseweb3.com"),
       GURL("https://www.basicattentiontoken.org")};
 
   // Act & Assert

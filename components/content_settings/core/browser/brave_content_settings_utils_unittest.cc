@@ -56,37 +56,37 @@ TEST_F(BraveContentSettingsUtilsTest,
   // Wildcard scheme, no port.
   EXPECT_EQ(absl::nullopt,
             ConvertPatternToWildcardSchemeAndPort(
-                ContentSettingsPattern::FromString("*://kahf.co/*")));
+                ContentSettingsPattern::FromString("*://browseweb3.com/*")));
   EXPECT_EQ(absl::nullopt,
             ConvertPatternToWildcardSchemeAndPort(
-                ContentSettingsPattern::FromString("*://kahf.co:*/")));
+                ContentSettingsPattern::FromString("*://browseweb3.com:*/")));
 
   // Wildcard scheme, has port.
   auto pattern = ConvertPatternToWildcardSchemeAndPort(
-      ContentSettingsPattern::FromString("*://kahf.co:8080/*"));
+      ContentSettingsPattern::FromString("*://browseweb3.com:8080/*"));
   EXPECT_NE(absl::nullopt, pattern);
-  EXPECT_EQ(pattern->ToString(), "kahf.co");
-  EXPECT_TRUE(pattern->Matches(GURL("http://kahf.co:80/path1")));
-  EXPECT_TRUE(pattern->Matches(GURL("https://kahf.co/path2")));
+  EXPECT_EQ(pattern->ToString(), "browseweb3.com");
+  EXPECT_TRUE(pattern->Matches(GURL("http://browseweb3.com:80/path1")));
+  EXPECT_TRUE(pattern->Matches(GURL("https://browseweb3.com/path2")));
   EXPECT_FALSE(pattern->Matches(GURL("http://brave2.com:8080")));
   pattern.reset();
 
   // Scheme, no port.
   pattern = ConvertPatternToWildcardSchemeAndPort(
-      ContentSettingsPattern::FromString("http://kahf.co/"));
+      ContentSettingsPattern::FromString("http://browseweb3.com/"));
   EXPECT_NE(absl::nullopt, pattern);
-  EXPECT_EQ(pattern->ToString(), "kahf.co");
-  EXPECT_TRUE(pattern->Matches(GURL("ftp://kahf.co:80/path1")));
-  EXPECT_TRUE(pattern->Matches(GURL("https://kahf.co/path2")));
+  EXPECT_EQ(pattern->ToString(), "browseweb3.com");
+  EXPECT_TRUE(pattern->Matches(GURL("ftp://browseweb3.com:80/path1")));
+  EXPECT_TRUE(pattern->Matches(GURL("https://browseweb3.com/path2")));
   EXPECT_FALSE(pattern->Matches(GURL("http://brave2.com:8080")));
   pattern.reset();
 
   // Scheme and port.
   pattern = ConvertPatternToWildcardSchemeAndPort(
-      ContentSettingsPattern::FromString("https://kahf.co:56558/"));
+      ContentSettingsPattern::FromString("https://browseweb3.com:56558/"));
   EXPECT_NE(absl::nullopt, pattern);
-  EXPECT_EQ(pattern->ToString(), "kahf.co");
-  EXPECT_TRUE(pattern->Matches(GURL("wss://kahf.co:80/path1")));
-  EXPECT_TRUE(pattern->Matches(GURL("https://kahf.co/path2")));
+  EXPECT_EQ(pattern->ToString(), "browseweb3.com");
+  EXPECT_TRUE(pattern->Matches(GURL("wss://browseweb3.com:80/path1")));
+  EXPECT_TRUE(pattern->Matches(GURL("https://browseweb3.com/path2")));
   EXPECT_FALSE(pattern->Matches(GURL("http://brave2.com:8080")));
 }

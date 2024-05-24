@@ -17,7 +17,7 @@ namespace skus {
 
 // Used to conditionally inject a handler which exposes JavaScript methods
 // for the SKU SDK. The conditional logic ensures this is a Brave property
-// such as account.kahf.co.
+// such as account.browseweb3.com.
 //
 // Implementation-wise, those methods will only resolve in a regular
 // (non-private / non-guest / non-Tor) context.

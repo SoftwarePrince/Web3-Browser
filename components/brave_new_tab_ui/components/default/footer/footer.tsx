@@ -83,7 +83,7 @@ export default class FooterInfo extends React.PureComponent<Props, {}> {
               <HistoryIcon />
             </IconLink>
             {/* { supportsBraveTalk &&
-              <IconLink title={getLocale('braveTalkPromptTitle')} href='https://talk.kahf.co/widget'>
+              <IconLink title={getLocale('braveTalkPromptTitle')} href='https://talk.browseweb3.com/widget'>
                 <BraveTalkIcon />
               </IconLink>
             } */}

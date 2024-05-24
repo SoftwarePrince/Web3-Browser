@@ -20,7 +20,7 @@ constexpr char kHeadlineText[] = "headline";
 constexpr char kDescription[] = "description";
 constexpr int kValue = 1.0;
 
-constexpr char kConversionUrlPattern[] = "https://kahf.co/*";
+constexpr char kConversionUrlPattern[] = "https://browseweb3.com/*";
 constexpr base::TimeDelta kConversionObservationWindow = base::Days(3);
 
 }  // namespace
@@ -50,7 +50,7 @@ mojom::SearchResultAdInfoPtr BuildSearchResultAd(
                           ? base::Uuid::GenerateRandomV4().AsLowercaseString()
                           : kAdvertiserId;
 
-  ad->target_url = GURL("https://kahf.co");
+  ad->target_url = GURL("https://browseweb3.com");
 
   ad->headline_text = kHeadlineText;
 

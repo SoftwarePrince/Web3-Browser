@@ -218,7 +218,7 @@ IN_PROC_BROWSER_TEST_F(TorProfileManagerTest, SwitchToTorProfileInheritPrefs) {
 
 IN_PROC_BROWSER_TEST_F(TorProfileManagerTest,
                        SwitchToTorProfileInheritContentSettings) {
-  const GURL brave_url("https://www.kahf.co");
+  const GURL brave_url("https://www.browseweb3.com");
   ProfileManager* profile_manager = g_browser_process->profile_manager();
   ASSERT_TRUE(profile_manager);
 

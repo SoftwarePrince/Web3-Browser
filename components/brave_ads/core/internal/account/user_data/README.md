@@ -6,15 +6,15 @@
 
 ## User Data Submitted when Redeeming Anonymous Confirmations
 
-Included in the confirmation payload for non-Kahf Rewards and Kahf Rewards users. See [anonymous confirmation redemption](../utility/redeem_confirmation/README.md).
+Included in the confirmation payload for non-BrowseWeb3 Rewards and BrowseWeb3 Rewards users. See [anonymous confirmation redemption](../utility/redeem_confirmation/README.md).
 
 | user data  | optional  | mutable  | description  |
 |---|---|---|---|
 | conversion  | yes  | no  | Conversion action and encrypted verifiable envelope.  |
 
-### Additional User Data Submitted for Kahf Rewards Users
+### Additional User Data Submitted for BrowseWeb3 Rewards Users
 
-Should only be included in the confirmation payload for users who have joined Kahf Rewards.
+Should only be included in the confirmation payload for users who have joined BrowseWeb3 Rewards.
 
 | user data  | optional  | mutable  | description  |
 |---|---|---|---|
@@ -26,7 +26,7 @@ Should only be included in the confirmation payload for users who have joined Ka
 | platform  | no  | no  | Operating system.  |
 | rotating_hash  | yes  | no  | Privacy-preserving time-based rotating hash.  |
 | segment  | yes  | no  | Advertising taxonomy for the chosen ad.  |
-| studies  | no  | no  | User studies. See [Griffin](https://github.com/brave/brave-browser/wiki/Kahf-Variations-(Griffin)).  |
+| studies  | no  | no  | User studies. See [Griffin](https://github.com/brave/brave-browser/wiki/BrowseWeb3-Variations-(Griffin)).  |
 | systemTimestamp  | no  | yes  | Privacy-preserving [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) timestamp.  |
 | topSegment  | yes  | no  | Top user interest segment. |
 | versionNumber  | no  | no  | Browser version number.  |

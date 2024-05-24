@@ -99,7 +99,7 @@ namespace {
 
 constexpr int kMaximumNumberOfTimesToRetryNetworkRequests = 1;
 
-constexpr char kNotificationAdUrlPrefix[] = "https://www.kahf.co/ads/?";
+constexpr char kNotificationAdUrlPrefix[] = "https://www.browseweb3.com/ads/?";
 
 int GetDataResourceId(const std::string& name) {
   if (name == data::resource::kCatalogJsonSchemaFilename) {

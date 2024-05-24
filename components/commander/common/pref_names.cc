@@ -7,6 +7,6 @@
 
 namespace commander::prefs {
 
-const char kCommanderFrecencies[] = "kahf.comander.command_frecencies";
+const char kCommanderFrecencies[] = "browseweb3.commander.command_frecencies";
 
 }

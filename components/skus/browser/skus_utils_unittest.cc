@@ -21,8 +21,8 @@ TEST(SkusUtilsUnittest, GetDefaultEnvironment) {
 }
 
 TEST(SkusUtilsUnittest, GetEnvironmentForDomain) {
-  EXPECT_EQ(GetEnvironmentForDomain("account.kahf.co"), kEnvProduction);
-  EXPECT_EQ(GetEnvironmentForDomain("vpn.kahf.co"), kEnvProduction);
+  EXPECT_EQ(GetEnvironmentForDomain("account.browseweb3.com"), kEnvProduction);
+  EXPECT_EQ(GetEnvironmentForDomain("vpn.browseweb3.com"), kEnvProduction);
 
   EXPECT_EQ(GetEnvironmentForDomain("vpn.bravesoftware.com"), kEnvStaging);
   EXPECT_EQ(GetEnvironmentForDomain("account.bravesoftware.com"), kEnvStaging);

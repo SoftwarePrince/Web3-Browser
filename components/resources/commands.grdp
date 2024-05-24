@@ -227,7 +227,7 @@
     Dev tools inspect
   </message>
   <message name="IDS_IDC_UPGRADE_DIALOG">
-    Upgrade Kahf
+    Upgrade BrowseWeb3
   </message>
   <message name="IDS_IDC_SHOW_AVATAR_MENU">
     Show avatar menu
@@ -320,31 +320,31 @@
     Toggle live captions
   </message>
   <message name="IDS_IDC_SHOW_BRAVE_WALLET_PANEL">
-    Show Kahf Wallet panel
+    Show BrowseWeb3 Wallet panel
   </message>
   <message name="IDS_IDC_CLOSE_BRAVE_WALLET_PANEL">
-    Close Kahf Wallet panel
+    Close BrowseWeb3 Wallet panel
   </message>
   <message name="IDS_IDC_SHOW_BRAVE_VPN_PANEL">
-    Show Kahf VPN panel
+    Show BrowseWeb3 VPN panel
   </message>
   <message name="IDS_IDC_TOGGLE_BRAVE_VPN_TOOLBAR_BUTTON">
-    Toggle Kahf VPN toolbar button
+    Toggle BrowseWeb3 VPN toolbar button
   </message>
   <message name="IDS_IDC_TOGGLE_BRAVE_VPN_TRAY_ICON">
-    Toggle Kahf VPN tray icon
+    Toggle BrowseWeb3 VPN tray icon
   </message>
   <message name="IDS_IDC_SEND_BRAVE_VPN_FEEDBACK">
-    Send Kahf VPN feedback
+    Send BrowseWeb3 VPN feedback
   </message>
   <message name="IDS_IDC_ABOUT_BRAVE_VPN">
-    About Kahf VPN
+    About BrowseWeb3 VPN
   </message>
   <message name="IDS_IDC_MANAGE_BRAVE_VPN_PLAN">
-    Manage Kahf VPN plan
+    Manage BrowseWeb3 VPN plan
   </message>
   <message name="IDS_IDC_TOGGLE_BRAVE_VPN">
-    Toggle Kahf VPN
+    Toggle BrowseWeb3 VPN
   </message>
   <message name="IDS_IDC_TOGGLE_TAB_MUTE">
     Toggle tab mute
@@ -362,13 +362,13 @@
     Toggle vertical tabs window title
   </message>
   <message name="IDS_IDC_CONFIGURE_BRAVE_NEWS">
-    Configure Kahf News
+    Configure BrowseWeb3 News
   </message>
   <message name="IDS_IDC_CONFIGURE_SHORTCUTS">
     Configure shortcuts
   </message>
   <message name="IDS_IDC_SHOW_BRAVE_TALK">
-    Show Kahf Talk
+    Show BrowseWeb3 Talk
   </message>
   <message name="IDS_IDC_BRAVE_BOOKMARK_BAR_ALWAYS">
     Always show bookmark bar

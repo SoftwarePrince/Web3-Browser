@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "A Kahf bővítmény",
+    "message": "A BrowseWeb3 bővítmény",
     "description": "The name of the extension."
   },
   "shields": {
@@ -24,12 +24,12 @@
     "description": "Message telling the user to disable shields if a site appears broken"
   },
   "disabledMessage": {
-    "message": "A Kahf adatvédelmi és biztonsági beállítási nélkül böngészik ezen az oldalon. Nem működik megfelelően a Shields alatt?",
+    "message": "A BrowseWeb3 adatvédelmi és biztonsági beállítási nélkül böngészik ezen az oldalon. Nem működik megfelelően a Shields alatt?",
     "description": "Message telling the user that shields are disabled, and prompting them towards reporting an issue if necessary"
   },
   "reportBrokenSite": {
     "message": "Nem működő oldal jelentése",
-    "description": "Message for the button allowing users to report a broken site to Kahf developers"
+    "description": "Message for the button allowing users to report a broken site to BrowseWeb3 developers"
   },
   "itemsBlocked": {
     "message": "Tárgyak letiltva",
@@ -188,8 +188,8 @@
     "description": "Message for the simple view option"
   },
   "shieldsExplanation": {
-    "message": "Az oldalak gyakran cookie-kat és parancsfájlokat tartalmaznak, amelyekkel megpróbálnak azonosítani téged és készülékedet (gyakran reklámokba ágyazva). Igyekeznek megtudni, hogy ki vagy, és mindenhova követnek az interneten - megfigyelve tevékenységedet minden oldalon. A Kahf letiltja ezeket a dolgokat, így kíváncsi tekintetek nélkül böngészhetsz.",
-    "description": "Message in read-only view explaining what Kahf Shields do"
+    "message": "Az oldalak gyakran cookie-kat és parancsfájlokat tartalmaznak, amelyekkel megpróbálnak azonosítani téged és készülékedet (gyakran reklámokba ágyazva). Igyekeznek megtudni, hogy ki vagy, és mindenhova követnek az interneten - megfigyelve tevékenységedet minden oldalon. A BrowseWeb3 letiltja ezeket a dolgokat, így kíváncsi tekintetek nélkül böngészhetsz.",
+    "description": "Message in read-only view explaining what BrowseWeb3 Shields do"
   },
   "blockedResoucesExplanation": {
     "message": "Letiltott webhelyközi követők és egyéb ijesztő dolgok",
@@ -207,13 +207,13 @@
     "message": "Tudjon meg többet",
     "description": "Message inviting the user to learn more about Shields"
   },
-  "addToKahf": {
-    "message": "Hozzáadás a Kahfhoz",
-    "description": "Message for adding an extension to Kahf"
+  "addToBrowseWeb3": {
+    "message": "Hozzáadás a BrowseWeb3hoz",
+    "description": "Message for adding an extension to BrowseWeb3"
   },
-  "removeFromKahf": {
-    "message": "Eltávolítás a Kahf-ból",
-    "description": "Message for removing an extension from Kahf"
+  "removeFromBrowseWeb3": {
+    "message": "Eltávolítás a BrowseWeb3-ból",
+    "description": "Message for removing an extension from BrowseWeb3"
   },
   "addToChrome": {
     "message": "Hozzáadás",

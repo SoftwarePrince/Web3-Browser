@@ -22,9 +22,9 @@ public final class BraveConstants {
     public static final String BRAVE_NIGHTLY_PACKAGE_NAME = "co.asil.browser_nightly";
 
     // used in BraveNtpAdapter
-    public static final String BRAVE_REF_URL = "https://kahf.co/r/";
+    public static final String BRAVE_REF_URL = "https://browseweb3.com/r/";
     public static final String BRAVE_NEWS_LEARN_MORE_URL =
-            "https://kahf.co/privacy/browser/#brave-news";
+            "https://browseweb3.com/privacy/browser/#brave-news";
 
     public static final String INDIA_COUNTRY_CODE = "IN";
 

@@ -77,7 +77,7 @@ TEST_F(FilTxStateManagerUnitTest, FilTxMetaAndValue) {
   meta.set_submitted_time(base::Time::Now());
   meta.set_confirmed_time(base::Time::Now());
   meta.set_tx_hash("cid");
-  meta.set_origin(url::Origin::Create(GURL("https://test.kahf.co")));
+  meta.set_origin(url::Origin::Create(GURL("https://test.browseweb3.com")));
   meta.set_chain_id(mojom::kFilecoinMainnet);
 
   base::Value::Dict meta_value = meta.ToValue();

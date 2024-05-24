@@ -304,7 +304,7 @@
       {
         "name": "isSupported",
         "type": "function",
-        "description": "Fetches whether or not Kahf Rewards is supported",
+        "description": "Fetches whether or not BrowseWeb3 Rewards is supported",
         "parameters": [
           {
             "type": "function",
@@ -321,7 +321,7 @@
       {
         "name": "isUnsupportedRegion",
         "type": "function",
-        "description": "Whether the locale is unsupported for Kahf Rewards",
+        "description": "Whether the locale is unsupported for BrowseWeb3 Rewards",
         "parameters": [
           {
             "type": "function",
@@ -338,7 +338,7 @@
       {
         "name": "recordNTPPanelTrigger",
         "type": "function",
-        "description": "Records an NTP Rewards card 'Start using Kahf Rewards' click.",
+        "description": "Records an NTP Rewards card 'Start using BrowseWeb3 Rewards' click.",
         "parameters": []
       },
       {

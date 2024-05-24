@@ -83,7 +83,7 @@
     {
       "type": "pickString",
       "id": "chromeOutputDir",
-      "description": "Kahf build config:",
+      "description": "BrowseWeb3 build config:",
       "options": [
         "Component",
         "Static",
@@ -156,7 +156,7 @@
           ],
           "pattern": [
             {
-              "regexp": "^Kahf\\sBrowser\\sSync\\sERROR"
+              "regexp": "^BrowseWeb3\\sBrowser\\sSync\\sERROR"
             },
             {
               "regexp": "^(.*)$",

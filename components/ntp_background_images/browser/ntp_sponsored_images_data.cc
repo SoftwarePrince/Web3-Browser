@@ -24,7 +24,7 @@
     "imageUrl": "logo.png",
     "alt": "Visit Halalz",
     "companyName": "Halalz",
-    "destinationUrl": "https://www.kahf.co/"
+    "destinationUrl": "https://www.browseweb3.com/"
   },
   "wallpapers": [
     {

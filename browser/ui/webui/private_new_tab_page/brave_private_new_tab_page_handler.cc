@@ -136,7 +136,7 @@ void BravePrivateNewTabPageHandler::GoToBraveSupport() {
     web_contents = web_contents_;
 
   web_contents->OpenURL(content::OpenURLParams(
-      GURL("https://support.kahf.co/"), content::Referrer(),
+      GURL("https://support.browseweb3.com/"), content::Referrer(),
       WindowOpenDisposition::NEW_FOREGROUND_TAB,
       ui::PageTransition::PAGE_TRANSITION_LINK, false));
 }

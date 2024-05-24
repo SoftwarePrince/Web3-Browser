@@ -1,7 +1,7 @@
 {
   "name": "brave-core",
   "version": "1.62.166",
-  "description": "Kahf Core is a set of changes, APIs and scripts used for customizing Chromium to make Kahf.",
+  "description": "BrowseWeb3 Core is a set of changes, APIs and scripts used for customizing Chromium to make BrowseWeb3.",
   "main": "index.js",
   "scripts": {
     "audit_deps": "node ./build/commands/scripts/audit.js -- --audit_dev_deps",
@@ -55,7 +55,7 @@
     "url": "git+https://github.com/AsilHQ/asil-core.git"
   },
   "author": {
-    "name": "Kahf Software <support@kahf.co>"
+    "name": "BrowseWeb3 Software <support@browseweb3.com>"
   },
   "contributors": [
     {

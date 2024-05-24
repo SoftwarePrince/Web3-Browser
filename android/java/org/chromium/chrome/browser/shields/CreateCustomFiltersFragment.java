@@ -32,7 +32,7 @@ import org.chromium.ui.widget.Toast;
 public class CreateCustomFiltersFragment extends BravePreferenceFragment
         implements ConnectionErrorHandler {
     public static final String BRAVE_ADBLOCK_FILTER_SYNTAX_PAGE =
-            "https://support.kahf.co/hc/en-us/articles/6449369961741";
+            "https://support.browseweb3.com/hc/en-us/articles/6449369961741";
 
     private FilterListAndroidHandler mFilterListAndroidHandler;
     private EditText mEtCustomFilters;

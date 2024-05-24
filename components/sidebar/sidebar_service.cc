@@ -55,7 +55,7 @@ SidebarItem::BuiltInItemType GetBuiltInItemTypeForLegacyURL(
   // A previous version of prefs used the URL even for built-in items, and not
   // the |SidebarItem::BuiltInItemType|. Therefore, this list should not
   // need to be updated.
-  if (url == "https://together.kahf.co/" || url == "https://talk.kahf.co/")
+  if (url == "https://together.browseweb3.com/" || url == "https://talk.browseweb3.com/")
     return SidebarItem::BuiltInItemType::kBraveTalk;
 
   if (url == "chrome://wallet/")

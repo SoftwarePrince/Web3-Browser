@@ -5,7 +5,7 @@
 
 #include "chrome/browser/devtools/url_constants.h"
 
-const char kRemoteFrontendDomain[] = "devtools.kahf.co";
+const char kRemoteFrontendDomain[] = "devtools.browseweb3.com";
 const char kRemoteFrontendBase[] =
-    "https://devtools.kahf.co/";
+    "https://devtools.browseweb3.com/";
 const char kRemoteFrontendPath[] = "serve_file";

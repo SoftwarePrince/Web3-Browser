@@ -1,5 +1,5 @@
 # Client
 
-Kahf Ads Client communication interfaces.
+BrowseWeb3 Ads Client communication interfaces.
 
 Please add to it!

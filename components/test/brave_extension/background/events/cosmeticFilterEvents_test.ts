@@ -14,9 +14,9 @@ describe('cosmeticFilterEvents events', () => {
   describe('when runtime.onMessage is received', () => {
     describe('contextMenuOpened', () => {
       it('assigns the base URI', () => {
-        chrome.runtime.sendMessage({ type: 'contextMenuOpened', baseURI: 'kahf.co' },
+        chrome.runtime.sendMessage({ type: 'contextMenuOpened', baseURI: 'browseweb3.com' },
         () => {
-          expect(cosmeticFilterEvents.rule.host).toBe('kahf.co')
+          expect(cosmeticFilterEvents.rule.host).toBe('browseweb3.com')
         })
       })
     })
@@ -44,7 +44,7 @@ describe('cosmeticFilterEvents events', () => {
 
     describe('addBlockElement', function () {
       it('triggers addBlockElement action (query call)', function () {
-        const info: chrome.contextMenus.OnClickData = { menuItemId: 'elementPickerMode', editable: false, pageUrl: 'kahf.co' }
+        const info: chrome.contextMenus.OnClickData = { menuItemId: 'elementPickerMode', editable: false, pageUrl: 'browseweb3.com' }
         // calls query
         const tab: chrome.tabs.Tab = {
           id: 3,
@@ -73,7 +73,7 @@ describe('cosmeticFilterEvents events', () => {
         })
         it('calls `chrome.tabs.insertCSS` with cosmetic filter rule', function () {
           selectorToReturn = '#test_selector'
-          cosmeticFilterEvents.applyCosmeticFilter('kahf.co', selectorToReturn)
+          cosmeticFilterEvents.applyCosmeticFilter('browseweb3.com', selectorToReturn)
           let returnObj = {
             'code': '#test_selector {display: none !important;}',
             'cssOrigin': 'user'

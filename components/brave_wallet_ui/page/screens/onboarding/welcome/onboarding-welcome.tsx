@@ -168,7 +168,7 @@ export const OnboardingWelcome = () => {
         <VerticalSpace space='20px' />
 
         <LearnMoreLink
-          href='https://support.kahf.co/hc/en-us/categories/360001059151-Brave-Wallet'
+          href='https://support.browseweb3.com/hc/en-us/categories/360001059151-Brave-Wallet'
           target='_blank'
           rel='noreferrer'
         >

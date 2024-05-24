@@ -34,7 +34,7 @@ type ArticleProps = Props & {
   shouldScrollIntoView?: boolean
 }
 
-const promotedInfoUrl = 'https://kahf.co/brave-today'
+const promotedInfoUrl = 'https://browseweb3.com/brave-today'
 
 function onClickPromoted (e: React.MouseEvent) {
   const openInNewTab = e.ctrlKey || e.metaKey

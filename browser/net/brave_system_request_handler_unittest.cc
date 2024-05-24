@@ -14,7 +14,7 @@
 namespace brave {
 
 TEST(BraveSystemRequestHandlerTest, AddBraveServiceKeyHeaderForBrave) {
-  GURL url("https://demo.kahf.co");
+  GURL url("https://demo.browseweb3.com");
   network::ResourceRequest request;
 
   request.url = url;

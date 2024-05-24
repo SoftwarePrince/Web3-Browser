@@ -40,7 +40,7 @@ AdInfo BuildAd(AdType ad_type, const bool should_use_random_uuids) {
 
   ad.segment = kSegment;
 
-  ad.target_url = GURL("https://kahf.co");
+  ad.target_url = GURL("https://browseweb3.com");
 
   return ad;
 }

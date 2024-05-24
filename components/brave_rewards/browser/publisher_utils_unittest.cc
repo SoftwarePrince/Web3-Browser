@@ -20,10 +20,10 @@ class RewardsPublisherUtilsTest : public testing::Test {
 };
 
 TEST_F(RewardsPublisherUtilsTest, GetPublisherIdFromURL) {
-  EXPECT_EQ(GetPublisherId("https://kahf.co"), "kahf.co");
-  EXPECT_EQ(GetPublisherId("http://kahf.co"), "kahf.co");
-  EXPECT_EQ(GetPublisherId("https://search.brave.com"), "kahf.co");
-  EXPECT_EQ(GetPublisherId("http://search.brave.com"), "kahf.co");
+  EXPECT_EQ(GetPublisherId("https://browseweb3.com"), "browseweb3.com");
+  EXPECT_EQ(GetPublisherId("http://browseweb3.com"), "browseweb3.com");
+  EXPECT_EQ(GetPublisherId("https://search.brave.com"), "browseweb3.com");
+  EXPECT_EQ(GetPublisherId("http://search.brave.com"), "browseweb3.com");
 
   EXPECT_EQ(GetPublisherId("https://brave.co.uk"), "brave.co.uk");
   EXPECT_EQ(GetPublisherId("https://www.brave.co.uk"), "brave.co.uk");

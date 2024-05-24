@@ -766,7 +766,7 @@ brave_ads::mojom::DBCommandResponseInfoPtr RunDBTransactionOnTaskRunner(
                    });
   };
 
-  NSString* baseUrl = @"https://brave-user-model-installer-input.s3.kahf.co";
+  NSString* baseUrl = @"https://brave-user-model-installer-input.s3.browseweb3.com";
   const auto flags = brave_rewards::RewardsFlags::ForCurrentProcess();
   if (flags.environment) {
     switch (*flags.environment) {

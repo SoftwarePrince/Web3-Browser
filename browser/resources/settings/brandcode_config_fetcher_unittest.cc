@@ -43,7 +43,7 @@ TEST_F(BrandcodeConfigFetcherTest, NoFetch) {
   auto uploader = std::make_unique<BrandcodeConfigFetcher>(
       test_url_loader_factory(),
       base::BindLambdaForTesting([&]() { callback_called = true; }),
-      GURL("https://www.kahf.co/"), "BRAV");
+      GURL("https://www.browseweb3.com/"), "BRAV");
   base::RunLoop().RunUntilIdle();
   EXPECT_FALSE(uploader->IsActive());
   EXPECT_FALSE(network_access_occurred);

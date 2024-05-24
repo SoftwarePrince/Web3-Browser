@@ -34,7 +34,7 @@ export const coinMarketEndpoints = ({
             data: result.values.map((coin) => {
               coin.image = coin.image.replace(
                 'https://assets.coingecko.com',
-                ' https://assets.cgproxy.kahf.co'
+                ' https://assets.cgproxy.browseweb3.com'
               )
               return coin
             })

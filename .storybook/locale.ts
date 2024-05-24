@@ -6,9 +6,9 @@ let locale: Record<string, string> = {
   about: 'about',
   accept: 'Accept',
   activityCopy:
-    ' Kahf Software. Kahf is a registered trademark of Kahf Software. Site names may be trademarks or registered trademarks of the site owner.',
+    ' BrowseWeb3 Software. BrowseWeb3 is a registered trademark of BrowseWeb3 Software. Site names may be trademarks or registered trademarks of the site owner.',
   activityNote:
-    'To protect your privacy, this Kahf Rewards statement is not saved, recorded or logged anywhere other than on your device (this computer). It cannot be retrieved from Kahf in the event of data loss on your device.',
+    'To protect your privacy, this BrowseWeb3 Rewards statement is not saved, recorded or logged anywhere other than on your device (this computer). It cannot be retrieved from BrowseWeb3 in the event of data loss on your device.',
   ads: 'Ads',
   ad: 'Ad',
   adsCurrentlyViewing: 'Your setting: maximum ads per hour: ',
@@ -28,18 +28,18 @@ let locale: Record<string, string> = {
   bat: 'BAT',
   braveAdsDesc:
     'No action required. Just collect tokens. Your data is safe with our Shields.',
-  braveAdsTitle: 'Kahf Ads',
-  braveAdsLaunchTitle: 'Kahf Ads has arrived!',
+  braveAdsTitle: 'BrowseWeb3 Ads',
+  braveAdsLaunchTitle: 'BrowseWeb3 Ads has arrived!',
   braveContributeDesc:
     'Set budget and browse normally. Your favorite sites get paid automatically.',
   braveContributeTitle: 'Auto-Contribute',
-  braveRewards: 'Kahf Rewards',
+  braveRewards: 'BrowseWeb3 Rewards',
   braveRewardsDesc:
     'Earn tokens for viewing privacy-respecting ads, and pay it forward by supporting content creators you love!',
   braveRewardsOptInText: "Yes, I'm In!",
   braveRewardsSubTitle: 'Get Rewarded for Browsing!',
   braveRewardsTeaser: 'How it works...',
-  braveRewardsTitle: 'Kahf Rewards',
+  braveRewardsTitle: 'BrowseWeb3 Rewards',
   braveVerified: 'Verified Creators',
   cancel: 'Cancel',
   captchaDrag: 'Drag the BAT Icon on to the',
@@ -62,12 +62,12 @@ let locale: Record<string, string> = {
   disabledPanelOff: 'Off',
   disabledPanelSettings: 'Settings.',
   disabledPanelPrivateText:
-    'Kahf Rewards is not available while in a Private Window.',
+    'BrowseWeb3 Rewards is not available while in a Private Window.',
   disabledPanelText:
     'You are not currently accruing any Rewards benefits while browsing. Turn Rewards back on in',
   disabledPanelTextTwo:
     'Earn by viewing privacy-respecting ads, and pay it forward to support content creators you love.',
-  disabledPanelTitle: 'Kahf Rewards is',
+  disabledPanelTitle: 'BrowseWeb3 Rewards is',
   dismiss: 'Closed',
   dndCaptchaText1: 'Drag and drop the token logo onto the',
   dndCaptchaText2: 'target',
@@ -81,7 +81,7 @@ let locale: Record<string, string> = {
   earningsClaimOne: 'Your Ads earnings,',
   earningsClaimTwo: 'are available.',
   earningsViewDepositHistory: 'View deposit history',
-  enableRewards: 'Enable Kahf Rewards',
+  enableRewards: 'Enable BrowseWeb3 Rewards',
   excludeSite: 'Exclude this site',
   excludedSites: 'Sites Excluded',
   excludedSitesText: 'Sites excluded from Auto-Contributions:',
@@ -91,7 +91,7 @@ let locale: Record<string, string> = {
   grantAmountTitleUGP: 'New Token Grant',
   grantDateTitleUGP: 'Grant Expiration Date',
   grantDisclaimer:
-    'Unused tokens by the expiration date will be automatically returned to the Kahf User Growth Pool.',
+    'Unused tokens by the expiration date will be automatically returned to the BrowseWeb3 User Growth Pool.',
   grantExpire: 'Grant Expiration Date',
   import: 'import',
   includeInAuto: 'Include in Auto-Contribute',
@@ -119,7 +119,7 @@ let locale: Record<string, string> = {
   newGrant: 'A free token grant is available.',
   nextContribution: 'Next Contribution',
   noActivity: 'No activities yet…',
-  noAdsHistory: 'There is currently no Kahf Ads history',
+  noAdsHistory: 'There is currently no BrowseWeb3 Ads history',
   noGrants: 'Currently no token grant is available.',
   notEnoughTokens: 'Not enough tokens.',
   off: 'off',
@@ -153,19 +153,19 @@ let locale: Record<string, string> = {
   recurringDonations: 'Monthly Contributions',
   relaunch: 'Relaunch',
   remove: 'remove',
-  resetWallet: 'Reset Kahf Rewards',
+  resetWallet: 'Reset BrowseWeb3 Rewards',
   removeAdFromSaved: 'Remove From Saved',
   clearExcludeList: 'Clear exclude list',
   removeFromExcluded: 'Remove from excluded',
   reviewSitesMsg: 'Your pinned sites have been moved to',
   rewardsBannerText1:
-    'Thanks for stopping by. We joined Kahf’s vision of protecting your privacy because we believe that fans like you would support us in our effort to keep the web a clean and safe place to be.',
+    'Thanks for stopping by. We joined BrowseWeb3’s vision of protecting your privacy because we believe that fans like you would support us in our effort to keep the web a clean and safe place to be.',
   rewardsContribute: 'Auto-Contribute',
   rewardsContributeAttention: 'Attention',
   rewardsExcludedText1: "You've excluded",
   rewardsExcludedText2: 'sites from Auto-Contribute.',
   rewardsSummary: 'Rewards Summary',
-  rewardsWidgetKahfRewards: 'Kahf Rewards',
+  rewardsWidgetBrowseWeb3Rewards: 'BrowseWeb3 Rewards',
   saveAd: 'Save',
   saved: 'Saved',
   seeAllItems: 'See all {{numItems}} items',
@@ -173,9 +173,9 @@ let locale: Record<string, string> = {
   sendDonation: 'Send my donation',
   sendTip: 'Send my Contribution',
   serviceText:
-    "By clicking 'Enable Kahf Rewards', you indicate that you have read and agree to the",
+    "By clicking 'Enable BrowseWeb3 Rewards', you indicate that you have read and agree to the",
   serviceTextToggle:
-    'By turning on Kahf Rewards, you indicate that you have read and agree to the',
+    'By turning on BrowseWeb3 Rewards, you indicate that you have read and agree to the',
   serviceTextPanelWelcome:
     'By clicking ‘Join Rewards’, you indicate that you have read and agree to the',
   serviceTextWelcome:
@@ -204,7 +204,7 @@ let locale: Record<string, string> = {
   transactions: 'Transactions',
   turnOnAds: 'Turn on Ads',
   turnOnRewardsDesc:
-    'This enables both Kahf Ads and Auto-Contribute. You can always opt out each any time.',
+    'This enables both BrowseWeb3 Ads and Auto-Contribute. You can always opt out each any time.',
   turnOnRewardsTitle: 'Turn on Rewards',
   tweetNow: 'Tweet',
   type: 'Type',
@@ -212,7 +212,7 @@ let locale: Record<string, string> = {
   unVerifiedCheck: 'Refresh status',
   unVerifiedPublisher: 'Unverified',
   unVerifiedText:
-    'This creator has not yet signed up to receive contributions from Kahf users.',
+    'This creator has not yet signed up to receive contributions from BrowseWeb3 users.',
   unVerifiedTextMore: 'Learn more.',
   verifiedPublisher: 'Verified Creator',
   verifyWalletTitle: 'Verify your wallet',
@@ -230,7 +230,7 @@ let locale: Record<string, string> = {
   walletFailedText: 'Please check your internet connection.',
   walletGoToVerifyPage: 'Complete wallet verification',
   walletGoToUphold: 'Go to your Uphold account',
-  walletDisconnect: 'Log out from Kahf Rewards',
+  walletDisconnect: 'Log out from BrowseWeb3 Rewards',
   walletVerificationButton: 'Verify wallet',
   walletVerificationFooter: 'Our wallet service is provided by Uphold',
   walletVerificationList1:
@@ -238,12 +238,12 @@ let locale: Record<string, string> = {
   walletVerificationList2:
     'Purchase additional BAT with credit cards and other sources',
   walletVerificationList3:
-    'Withdraw BAT that you may have previously added to your Kahf Rewards wallet',
+    'Withdraw BAT that you may have previously added to your BrowseWeb3 Rewards wallet',
   walletVerificationListHeader: 'Benefits of verifying',
   walletVerificationNote1:
     'Uphold may require you to verify your identity based on services requested.',
   walletVerificationNote2:
-    'Kahf Software Inc. does not process, store, or access any of the personal information that you provide to Uphold when you establish an account with them.',
+    'BrowseWeb3 Software Inc. does not process, store, or access any of the personal information that you provide to Uphold when you establish an account with them.',
   walletVerificationTitle1: 'Ready to verify your wallet?',
   walletVerified: 'Verified',
   welcome: 'Welcome!',
@@ -251,19 +251,19 @@ let locale: Record<string, string> = {
   welcomeButtonTextOne: 'Start Earning Now!',
   welcomeButtonTextTwo: 'Join Rewards',
   welcomeDescOne:
-    'You can now earn tokens for watching privacy focused Kahf Ads. Your contribution stays the same.',
+    'You can now earn tokens for watching privacy focused BrowseWeb3 Ads. Your contribution stays the same.',
   welcomeDescTwo:
     'Earn tokens for watching Ads and pay it forward to your favorite content creators.',
   welcomeFooterTextOne: 'Check out what’s improved',
   welcomeFooterTextTwo: 'Learn More',
-  welcomeHeaderOne: 'Kahf Payments is now Kahf Rewards with many upgrades.',
+  welcomeHeaderOne: 'BrowseWeb3 Payments is now BrowseWeb3 Rewards with many upgrades.',
   welcomeHeaderTwo:
-    'You are about to start a very Kahf way to browse the web.',
-  whyKahfRewards: 'Why Kahf Rewards?',
-  whyKahfRewardsDesc1:
+    'You are about to start a very BrowseWeb3 way to browse the web.',
+  whyBrowseWeb3Rewards: 'Why BrowseWeb3 Rewards?',
+  whyBrowseWeb3RewardsDesc1:
     'With conventional browsers, you pay to browse the web by viewing ads with your valuable attention, spending your valuable time downloading invasive ad technology, that transmits your valuable private data to advertisers — without your consent.',
-  whyKahfRewardsDesc2:
-    "Well, you've come to the right place. Kahf welcomes you to the new internet. One where your time is valued, your personal data is kept private, and you actually get paid for your attention.",
+  whyBrowseWeb3RewardsDesc2:
+    "Well, you've come to the right place. BrowseWeb3 welcomes you to the new internet. One where your time is valued, your personal data is kept private, and you actually get paid for your attention.",
   whyHow: 'Why & How',
   yourWallet: 'Your wallet',
   // New Tab Page
@@ -271,7 +271,7 @@ let locale: Record<string, string> = {
   estimatedBandwidthSaved: 'Bandwidth saved',
   estimatedTimeSaved: 'Estimated Time Saved',
   minutes: 'minutes',
-  photoBy: 'Photo by',
+  photoBy: '',
   customize: 'Customize',
   thumbRemoved: 'Top site removed',
   undoRemoved: 'Undo',
@@ -279,8 +279,8 @@ let locale: Record<string, string> = {
   hide: 'Hide',
   dashboardSettingsTitle: 'Customize Dashboard',
   showBackgroundImg: 'Show background image',
-  showKahfStats: 'Show Kahf Stats',
-  braveTalkWidgetTitle: 'Kahf Talk',
+  showBrowseWeb3Stats: 'Show BrowseWeb3 Stats',
+  braveTalkWidgetTitle: 'BrowseWeb3 Talk',
   showClock: 'Show Clock',
   showTopSites: 'Show Top Sites',
   showRewards: 'Show Rewards',

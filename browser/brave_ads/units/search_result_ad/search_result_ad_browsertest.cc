@@ -45,7 +45,7 @@ using testing::Mock;
 using testing::Return;
 
 constexpr char kAllowedDomain[] = "search.brave.com";
-constexpr char kNotAllowedDomain[] = "kahf.co";
+constexpr char kNotAllowedDomain[] = "browseweb3.com";
 constexpr char kClickRedirectPath[] = "/a/redirect";
 constexpr char kTargetDomain[] = "example.com";
 constexpr char kTargetPath[] = "/simple.html";

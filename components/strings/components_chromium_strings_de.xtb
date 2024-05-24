@@ -3,22 +3,22 @@
 <translationbundle lang="de">
 <translation id="130631256467250065">Deine Änderungen werden beim nächsten Neustart wirksam.</translation>
 <translation id="1555506416658437797">Zahlungsmethoden zu bearbeiten.</translation>
-<translation id="7999989146447764333">Absturzberichte sind in Kahf nicht verfügbar.</translation>
-<translation id="1953231710324290369">Dies ist eine sichere Kahf-Seite</translation>
-<translation id="907470742420136113">Kahf versucht, Einstellungen für das Ausfüllen von Zahlungsmethoden zu ändern.</translation>
-<translation id="4847979153841887006">Kahf-Logo</translation>
-<translation id="336808635693308470">Kahf versucht, Zahlungsmethoden zu bearbeiten.</translation>
-<translation id="7932149101545999102">Kahf wird durch das Open-Source-Projekt <ph name="BEGIN_LINK_CHROMIUM"/>Kahf<ph name="END_LINK_CHROMIUM"/> und andere <ph name="BEGIN_LINK_OSS"/>Open-Source-Software<ph name="END_LINK_OSS"/> ermöglicht.</translation>
-<translation id="8746410156982274638">Gehe zum Kahf-Menü &gt; „<ph name="SETTINGS_TITLE"/>“ &gt; „<ph name="ADVANCED_TITLE"/>“ &gt; „<ph name="PROXIES_TITLE"/>“ &gt; „LAN-Einstellungen“ und deaktiviere das Kästchen „Proxyserver für LAN verwenden“.</translation>
-<translation id="303960458633076466">Diese Seite wurde von Kahf blockiert</translation>
-<translation id="2017237562285586622">Erlaube Kahf in deinen Firewall- und Virenschutzeinstellungen den Zugriff auf das Netzwerk.</translation>
-<translation id="8619622797841001082">Gehe zum Kahf-Menü &gt; „<ph name="SETTINGS_TITLE"/>“ &gt; „<ph name="ADVANCED_TITLE"/>“ &gt; „<ph name="PROXIES_TITLE"/>“ und vergewissere dich, dass in deiner Konfiguration die Einstellung „Kein Proxy“ oder „Direkt“ verwendet wird.</translation>
+<translation id="7999989146447764333">Absturzberichte sind in BrowseWeb3 nicht verfügbar.</translation>
+<translation id="1953231710324290369">Dies ist eine sichere BrowseWeb3-Seite</translation>
+<translation id="907470742420136113">BrowseWeb3 versucht, Einstellungen für das Ausfüllen von Zahlungsmethoden zu ändern.</translation>
+<translation id="4847979153841887006">BrowseWeb3-Logo</translation>
+<translation id="336808635693308470">BrowseWeb3 versucht, Zahlungsmethoden zu bearbeiten.</translation>
+<translation id="7932149101545999102">BrowseWeb3 wird durch das Open-Source-Projekt <ph name="BEGIN_LINK_CHROMIUM"/>BrowseWeb3<ph name="END_LINK_CHROMIUM"/> und andere <ph name="BEGIN_LINK_OSS"/>Open-Source-Software<ph name="END_LINK_OSS"/> ermöglicht.</translation>
+<translation id="8746410156982274638">Gehe zum BrowseWeb3-Menü &gt; „<ph name="SETTINGS_TITLE"/>“ &gt; „<ph name="ADVANCED_TITLE"/>“ &gt; „<ph name="PROXIES_TITLE"/>“ &gt; „LAN-Einstellungen“ und deaktiviere das Kästchen „Proxyserver für LAN verwenden“.</translation>
+<translation id="303960458633076466">Diese Seite wurde von BrowseWeb3 blockiert</translation>
+<translation id="2017237562285586622">Erlaube BrowseWeb3 in deinen Firewall- und Virenschutzeinstellungen den Zugriff auf das Netzwerk.</translation>
+<translation id="8619622797841001082">Gehe zum BrowseWeb3-Menü &gt; „<ph name="SETTINGS_TITLE"/>“ &gt; „<ph name="ADVANCED_TITLE"/>“ &gt; „<ph name="PROXIES_TITLE"/>“ und vergewissere dich, dass in deiner Konfiguration die Einstellung „Kein Proxy“ oder „Direkt“ verwendet wird.</translation>
 <translation id="585620188971323280">Einstellungen für das Ausfüllen von Zahlungsmethoden zu ändern.</translation>
-<translation id="2765022094254723779">Kahf wird auch durch andere <ph name="BEGIN_LINK_OSS"/>Open-Source-Software<ph name="END_LINK_OSS"/> ermöglicht.</translation>
-<translation id="9156965752763025780">Deine Änderungen werden beim nächsten Neustart von Kahf wirksam.</translation>
-<translation id="6477625882876869143">Kahf wird durch das Open-Source-Projekt <ph name="BEGIN_LINK_CHROMIUM"/>Kahf<ph name="END_LINK_CHROMIUM"/> ermöglicht.</translation>
+<translation id="2765022094254723779">BrowseWeb3 wird auch durch andere <ph name="BEGIN_LINK_OSS"/>Open-Source-Software<ph name="END_LINK_OSS"/> ermöglicht.</translation>
+<translation id="9156965752763025780">Deine Änderungen werden beim nächsten Neustart von BrowseWeb3 wirksam.</translation>
+<translation id="6477625882876869143">BrowseWeb3 wird durch das Open-Source-Projekt <ph name="BEGIN_LINK_CHROMIUM"/>BrowseWeb3<ph name="END_LINK_CHROMIUM"/> ermöglicht.</translation>
 <translation id="4068928808254189629">Öffne
-          das Kahf-Menü &gt;
+          das BrowseWeb3-Menü &gt;
           <ph name="SETTINGS_TITLE"/>
           &gt;
           <ph name="ADVANCED_TITLE"/>
@@ -26,6 +26,6 @@
           Falls das Problem nicht dadurch verursacht wurde, empfehlen wir,
           diese Option für eine verbesserte Leistung wieder zu aktivieren.</translation>
 <translation id="8187289872471304532">Gehe zu „Programme“ &gt; „Systemeinstellungen“ &gt; „Netzwerk“ &gt; „Erweitert“ &gt; „Proxys“ und deaktiviere alle ausgewählten Proxyserver.</translation>
-<translation id="4159376633403260073">Du siehst eine sichere Kahf for Testing-Seite</translation>
-<translation id="88187049159266777">Kahf wurde nicht richtig beendet.</translation>
+<translation id="4159376633403260073">Du siehst eine sichere BrowseWeb3 for Testing-Seite</translation>
+<translation id="88187049159266777">BrowseWeb3 wurde nicht richtig beendet.</translation>
 </translationbundle>

@@ -94,9 +94,9 @@ class SkusUrlLoaderImplUnitTest : public testing::Test {
 
 TEST_F(SkusUrlLoaderImplUnitTest, SanitizedResponse) {
   SetResponseText("{}");
-  EXPECT_TRUE(GetRequestResponse("GET", "https://kahf.co").is_dict());
+  EXPECT_TRUE(GetRequestResponse("GET", "https://browseweb3.com").is_dict());
   SetResponseText("{,}");
-  EXPECT_TRUE(GetRequestResponse("GET", "https://kahf.co").is_none());
+  EXPECT_TRUE(GetRequestResponse("GET", "https://browseweb3.com").is_none());
 }
 
 TEST_F(SkusUrlLoaderImplUnitTest, BeginFetch) {
@@ -104,18 +104,18 @@ TEST_F(SkusUrlLoaderImplUnitTest, BeginFetch) {
   FetchResponse(
       "GET",
       rust::cxxbridge1::Box<skus::HttpRoundtripContext>::from_raw(nullptr),
-      "https://kahf.co", skus::SkusResult::Ok, "{}");
+      "https://browseweb3.com", skus::SkusResult::Ok, "{}");
 
   SetResponseText("");
   FetchResponse(
       "GET",
       rust::cxxbridge1::Box<skus::HttpRoundtripContext>::from_raw(nullptr),
-      "https://kahf.co", skus::SkusResult::Ok, "");
+      "https://browseweb3.com", skus::SkusResult::Ok, "");
 
   SetResponseText("");
   SetResponseCode(net::HTTP_INTERNAL_SERVER_ERROR);
   FetchResponse(
       "GET",
       rust::cxxbridge1::Box<skus::HttpRoundtripContext>::from_raw(nullptr),
-      "https://kahf.co", skus::SkusResult::Ok, std::string());
+      "https://browseweb3.com", skus::SkusResult::Ok, std::string());
 }

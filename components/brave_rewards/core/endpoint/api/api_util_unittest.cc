@@ -31,7 +31,7 @@ TEST(APIUtilTest, GetServerUrlStaging) {
 TEST(APIUtilTest, GetServerUrlProduction) {
   _environment = mojom::Environment::PRODUCTION;
   const std::string url = GetServerUrl("/test");
-  ASSERT_EQ(url, "https://api.rewards.kahf.co/test");
+  ASSERT_EQ(url, "https://api.rewards.browseweb3.com/test");
 }
 
 }  // namespace api

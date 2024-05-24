@@ -9,7 +9,7 @@ import { types } from '../../../brave_new_tab_ui/constants/grid_sites_types'
 import * as gridSitesState from '../../../brave_new_tab_ui/state/gridSitesState'
 
 const topSites: chrome.topSites.MostVisitedURL[] = [{
-  url: 'https://kahf.co',
+  url: 'https://browseweb3.com',
   title: 'brave'
 }, {
   url: 'https://cezaraugusto.net',

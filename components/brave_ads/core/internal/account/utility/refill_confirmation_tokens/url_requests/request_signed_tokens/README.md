@@ -1,5 +1,5 @@
 # Request Signed Tokens
 
-Request signed tokens for Kahf Rewards users.
+Request signed tokens for BrowseWeb3 Rewards users.
 
 Please add to it!
