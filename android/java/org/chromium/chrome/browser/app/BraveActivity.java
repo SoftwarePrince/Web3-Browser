@@ -214,16 +214,16 @@ public abstract class BraveActivity extends ChromeActivity
                    BraveNewsConnectionErrorHandler.BraveNewsConnectionErrorHandlerDelegate,
                    MiscAndroidMetricsConnectionErrorHandler
                            .MiscAndroidMetricsConnectionErrorHandlerDelegate {
-    public static final String BRAVE_BUY_URL = "kahf://wallet/crypto/fund-wallet";
-    public static final String BRAVE_SEND_URL = "kahf://wallet/send";
-    public static final String BRAVE_SWAP_URL = "kahf://wallet/swap";
-    public static final String BRAVE_DEPOSIT_URL = "kahf://wallet/crypto/deposit-funds";
-    public static final String BRAVE_REWARDS_SETTINGS_URL = "kahf://rewards/";
+    public static final String BRAVE_BUY_URL = "browseweb3://wallet/crypto/fund-wallet";
+    public static final String BRAVE_SEND_URL = "browseweb3://wallet/send";
+    public static final String BRAVE_SWAP_URL = "browseweb3://wallet/swap";
+    public static final String BRAVE_DEPOSIT_URL = "browseweb3://wallet/crypto/deposit-funds";
+    public static final String BRAVE_REWARDS_SETTINGS_URL = "browseweb3://rewards/";
     public static final String BRAVE_REWARDS_SETTINGS_WALLET_VERIFICATION_URL =
-            "kahf://rewards/#verify";
-    public static final String BRAVE_REWARDS_WALLET_RECONNECT_URL = "kahf://rewards/reconnect";
-    public static final String BRAVE_REWARDS_SETTINGS_MONTHLY_URL = "kahf://rewards/#monthly";
-    public static final String REWARDS_AC_SETTINGS_URL = "kahf://rewards/contribute";
+            "browseweb3://rewards/#verify";
+    public static final String BRAVE_REWARDS_WALLET_RECONNECT_URL = "browseweb3://rewards/reconnect";
+    public static final String BRAVE_REWARDS_SETTINGS_MONTHLY_URL = "browseweb3://rewards/#monthly";
+    public static final String REWARDS_AC_SETTINGS_URL = "browseweb3://rewards/contribute";
     public static final String BRAVE_AI_CHAT_URL = "chrome-untrusted://chat";
     public static final String REWARDS_LEARN_MORE_URL =
             "https://browseweb3.com/faq-rewards/#unclaimed-funds";

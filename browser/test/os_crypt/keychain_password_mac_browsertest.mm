@@ -18,8 +18,8 @@ struct TestParams {
 static const TestParams kTestVectors[] = {
     {
         nullptr,
-        "Kahf Safe Storage",
-        "Kahf",
+        "BrowseWeb3 Safe Storage",
+        "BrowseWeb3",
     },
     {
         "import-brave",

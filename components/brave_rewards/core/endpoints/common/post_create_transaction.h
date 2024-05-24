@@ -29,7 +29,7 @@ class PostCreateTransaction : public RequestBuilder {
 
  protected:
   inline static const std::string kFeeMessage =
-      "5% transaction fee collected by Halalz International";
+      "5% transaction fee collected by BrowseWeb3 International";
 
   std::string token_;
   std::string address_;

@@ -143,7 +143,7 @@ void WelcomeDOMHandler::HandleOpenSettingsPage(const base::Value::List& args) {
   Browser* browser = chrome::FindBrowserWithProfile(profile_);
   if (browser) {
     content::OpenURLParams open_params(
-        GURL("kahf://settings/privacy"), content::Referrer(),
+        GURL("browseweb3://settings/privacy"), content::Referrer(),
         WindowOpenDisposition::NEW_BACKGROUND_TAB,
         ui::PAGE_TRANSITION_AUTO_TOPLEVEL, false);
     browser->OpenURL(open_params);

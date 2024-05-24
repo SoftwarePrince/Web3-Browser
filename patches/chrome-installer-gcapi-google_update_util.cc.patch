@@ -8,13 +8,13 @@ index 433098591b24fa90174181a723c1715ad8391971..57fee82dd77b8159d47334893ef2e649
  
 +#if defined(OFFICIAL_BUILD)
 +const wchar_t kChromeRegClientsKey[] =
-+    L"Software\\Halalz\\Update\\Clients\\"
++    L"Software\\BrowseWeb3\\Update\\Clients\\"
 +    L"{AFE6A462-C574-4B8A-AF43-4CC60DF4563B}";
 +const wchar_t kChromeRegClientStateKey[] =
-+    L"Software\\Halalz\\Update\\ClientState\\"
++    L"Software\\BrowseWeb3\\Update\\ClientState\\"
 +    L"{AFE6A462-C574-4B8A-AF43-4CC60DF4563B}";
 +const wchar_t kChromeRegClientStateMediumKey[] =
-+    L"Software\\Halalz\\Update\\ClientStateMedium\\"
++    L"Software\\BrowseWeb3\\Update\\ClientStateMedium\\"
 +    L"{AFE6A462-C574-4B8A-AF43-4CC60DF4563B}";
 +#else
  const wchar_t kChromeRegClientsKey[] =

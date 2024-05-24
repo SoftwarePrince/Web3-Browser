@@ -17,7 +17,7 @@ export const defaultTopSitesData = [
     background: 'rgba(255,255,255,0.8)'
   },
   {
-    name: 'Halalz',
+    name: 'BrowseWeb3',
     url: 'https://browseweb3.com',
     favicon: BraveFavicon,
     background: 'rgba(255,255,255,0.8)'
@@ -30,7 +30,7 @@ export const defaultTopSitesData = [
   },
   {
     name: 'Play Store',
-    url: 'https://play.google.com/store/apps/details?id=org.halalz.asil&hl=en&gl=US',
+    url: 'https://play.google.com/store/apps/details?id=org.BrowseWeb3.asil&hl=en&gl=US',
     favicon: PlayStoreFavicon,
     background: 'rgba(255,255,255,0.8)'
   },

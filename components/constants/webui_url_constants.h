@@ -34,9 +34,9 @@ inline constexpr char kBraveUIAdblockURL[] = "chrome://adblock/";
 inline constexpr char kBraveUIWebcompatReporterURL[] = "chrome://webcompat/";
 inline constexpr char kBraveUIWalletURL[] = "chrome://wallet/";
 inline constexpr char kBraveUIWalletOnboardingURL[] =
-    "kahf://wallet/crypto/onboarding";
+    "browseweb3://wallet/crypto/onboarding";
 inline constexpr char kBraveUIWalletAccountCreationURL[] =
-    "kahf://wallet/crypto/accounts/add-account/create/";
+    "browseweb3://wallet/crypto/accounts/add-account/create/";
 inline constexpr char kBraveUIWalletPanelURL[] =
     "chrome://wallet-panel.top-chrome/";
 inline constexpr char kWalletPanelHost[] = "wallet-panel.top-chrome";
@@ -51,8 +51,8 @@ inline constexpr char kWalletSendPagePath[] = "/send";
 inline constexpr char kWalletSwapPagePath[] = "/swap";
 inline constexpr char kWalletDepositPagePath[] = "/crypto/deposit-funds";
 #endif  // BUILDFLAG(IS_ANDROID)
-inline constexpr char kExtensionSettingsURL[] = "kahf://settings/extensions";
-inline constexpr char kWalletSettingsURL[] = "kahf://settings/wallet";
+inline constexpr char kExtensionSettingsURL[] = "browseweb3://settings/extensions";
+inline constexpr char kWalletSettingsURL[] = "browseweb3://settings/wallet";
 inline constexpr char kBraveSyncPath[] = "braveSync";
 inline constexpr char kBraveSyncSetupPath[] = "braveSync/setup";
 inline constexpr char kTorInternalsHost[] = "tor-internals";
@@ -75,7 +75,7 @@ inline constexpr char kShieldsPanelHost[] = "brave-shields.top-chrome";
 inline constexpr char kCookieListOptInHost[] = "cookie-list-opt-in.top-chrome";
 inline constexpr char kCookieListOptInURL[] =
     "chrome://cookie-list-opt-in.top-chrome";
-inline constexpr char kFederatedInternalsURL[] = "kahf://federated-internals";
+inline constexpr char kFederatedInternalsURL[] = "browseweb3://federated-internals";
 inline constexpr char kFederatedInternalsHost[] = "federated-internals";
 inline constexpr char kContentFiltersPath[] = "shields/filters";
 inline constexpr char kPlaylistHost[] = "playlist";

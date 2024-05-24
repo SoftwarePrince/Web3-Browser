@@ -35,7 +35,7 @@ void ShowSync(Browser* browser) {
 
 void ShowBraveNewsConfigure(Browser* browser) {
   ShowSingletonTabOverwritingNTP(
-      browser, GURL("kahf://newtab/?openSettings=BraveNews"));
+      browser, GURL("browseweb3://newtab/?openSettings=BraveNews"));
 }
 
 void ShowShortcutsPage(Browser* browser) {

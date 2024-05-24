@@ -48,7 +48,7 @@ export const BuySendSwapDepositNav = () => {
         isPanel
       ) {
         chrome.tabs.create({
-          url: `kahf://wallet${option.route}`
+          url: `browseweb3://wallet${option.route}`
         })
       } else {
         history.push(option.route)

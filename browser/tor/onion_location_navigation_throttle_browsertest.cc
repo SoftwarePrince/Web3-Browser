@@ -41,7 +41,7 @@ namespace {
 constexpr char kTestOnionPath[] = "/onion";
 constexpr char kTestOnionURL[] = "https://brave.onion";
 constexpr char kTestInvalidScheme[] = "/invalid_scheme";
-constexpr char kTestInvalidSchemeURL[] = "kahf://brave.onion";
+constexpr char kTestInvalidSchemeURL[] = "browseweb3://brave.onion";
 constexpr char kTestNotOnion[] = "/not_onion";
 constexpr char kTestNotOnionURL[] = "https://browseweb3.com";
 

@@ -81,7 +81,7 @@ TEST_F(BraveFarblingServiceTest, PRNGKnownValuesDifferentSeeds) {
 TEST_F(BraveFarblingServiceTest, InvalidDomains) {
   const std::array<GURL, 8> test_cases = {
       GURL("about:blank"),
-      GURL("kahf://settings"),
+      GURL("browseweb3://settings"),
       GURL("chrome://version"),
       GURL("gopher://browseweb3.com"),
       GURL("file:///etc/passwd"),

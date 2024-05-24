@@ -27,16 +27,16 @@ const net::NetworkTrafficAnnotationTag
             "brave_shields_ad_block_subscription",
             R"(
         semantics {
-          sender: "Kahf Shields"
+          sender: "BrowseWeb3 Shields"
           description:
-            "Kahf periodically downloads updates to third-party filter lists "
-            "added by users on kahf://adblock."
+            "BrowseWeb3 periodically downloads updates to third-party filter lists "
+            "added by users on browseweb3://adblock."
           trigger:
-            "After being registered in kahf://adblock, any enabled filter "
+            "After being registered in browseweb3://adblock, any enabled filter "
             "list subscriptions will be updated in accordance with their "
             "`Expires` field if present, or daily otherwise. A manual refresh "
-            "for a particular list can also be triggered in kahf://adblock."
-          data: "The URL endpoint provided by the user in kahf://adblock to "
+            "for a particular list can also be triggered in browseweb3://adblock."
+          data: "The URL endpoint provided by the user in browseweb3://adblock to "
             "fetch list updates from. No user information is sent."
           destination: BRAVE_OWNED_SERVICE
         }
@@ -45,7 +45,7 @@ const net::NetworkTrafficAnnotationTag
           setting:
             "This request cannot be disabled in settings. However it will "
             "never be made if the corresponding entry is removed from the "
-            "kahf://adblock page's custom list subscription section."
+            "browseweb3://adblock page's custom list subscription section."
           policy_exception_justification: "Not yet implemented."
         })");
 

@@ -141,7 +141,7 @@ IN_PROC_BROWSER_TEST_F(BraveContentBrowserClientTest, CanLoadChromeURL) {
   };
 
   std::vector<std::string> schemes{
-      "kahf://",
+      "browseweb3://",
       "chrome://",
   };
 
@@ -156,7 +156,7 @@ IN_PROC_BROWSER_TEST_F(BraveContentBrowserClientTest, CanLoadChromeURL) {
       EXPECT_STREQ(base::UTF16ToUTF8(
                        browser()->location_bar_model()->GetFormattedFullURL())
                        .c_str(),
-                   ("kahf://" + page).c_str());
+                   ("browseweb3://" + page).c_str());
       EXPECT_STREQ(contents->GetController()
                        .GetLastCommittedEntry()
                        ->GetVirtualURL()
@@ -180,7 +180,7 @@ IN_PROC_BROWSER_TEST_F(BraveContentBrowserClientTest, CanLoadCustomBravePages) {
   };
 
   std::vector<std::string> schemes{
-      "kahf://",
+      "browseweb3://",
       "chrome://",
   };
 
@@ -195,7 +195,7 @@ IN_PROC_BROWSER_TEST_F(BraveContentBrowserClientTest, CanLoadCustomBravePages) {
       EXPECT_STREQ(base::UTF16ToUTF8(
                        browser()->location_bar_model()->GetFormattedFullURL())
                        .c_str(),
-                   ("kahf://" + page).c_str());
+                   ("browseweb3://" + page).c_str());
       EXPECT_STREQ(contents->GetController()
                        .GetLastCommittedEntry()
                        ->GetVirtualURL()
@@ -215,7 +215,7 @@ IN_PROC_BROWSER_TEST_F(BraveContentBrowserClientTest, CanLoadCustomBravePages) {
 IN_PROC_BROWSER_TEST_F(BraveContentBrowserClientTest, CanLoadAboutHost) {
   std::vector<std::string> schemes{
       "chrome://",
-      "kahf://",
+      "browseweb3://",
   };
 
   for (const std::string& scheme : schemes) {
@@ -228,7 +228,7 @@ IN_PROC_BROWSER_TEST_F(BraveContentBrowserClientTest, CanLoadAboutHost) {
     EXPECT_STREQ(base::UTF16ToUTF8(
                      browser()->location_bar_model()->GetFormattedFullURL())
                      .c_str(),
-                 "kahf://about");
+                 "browseweb3://about");
     EXPECT_STREQ(contents->GetController()
                      .GetLastCommittedEntry()
                      ->GetVirtualURL()
@@ -245,7 +245,7 @@ IN_PROC_BROWSER_TEST_F(BraveContentBrowserClientTest, CanLoadAboutHost) {
 }
 IN_PROC_BROWSER_TEST_F(BraveContentBrowserClientTest, RewriteChromeSync) {
   std::vector<std::string> schemes{
-      "kahf://",
+      "browseweb3://",
       "chrome://",
   };
 
@@ -259,7 +259,7 @@ IN_PROC_BROWSER_TEST_F(BraveContentBrowserClientTest, RewriteChromeSync) {
     EXPECT_STREQ(base::UTF16ToUTF8(
                      browser()->location_bar_model()->GetFormattedFullURL())
                      .c_str(),
-                 "kahf://sync");
+                 "browseweb3://sync");
     EXPECT_STREQ(contents->GetController()
                      .GetLastCommittedEntry()
                      ->GetVirtualURL()
@@ -277,7 +277,7 @@ IN_PROC_BROWSER_TEST_F(BraveContentBrowserClientTest, RewriteChromeSync) {
 
 IN_PROC_BROWSER_TEST_F(BraveContentBrowserClientTest, RewriteAdblock) {
   std::vector<std::string> schemes{
-      "kahf://",
+      "browseweb3://",
       "chrome://",
   };
 
@@ -291,7 +291,7 @@ IN_PROC_BROWSER_TEST_F(BraveContentBrowserClientTest, RewriteAdblock) {
     EXPECT_STREQ(base::UTF16ToUTF8(
                      browser()->location_bar_model()->GetFormattedFullURL())
                      .c_str(),
-                 "kahf://settings/shields/filters");
+                 "browseweb3://settings/shields/filters");
     EXPECT_EQ(browser()->location_bar_model()->GetURL(),
               GURL("chrome://settings/shields/filters"));
     EXPECT_EQ(

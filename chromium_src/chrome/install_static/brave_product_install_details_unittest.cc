@@ -72,58 +72,58 @@ struct TestData {
 #if defined(OFFICIAL_BUILD)
 constexpr TestData kTestData[] = {
     {
-        L"C:\\Program Files (x86)\\Halalz\\Kahf-Browser\\Application"
-        L"\\kahf.exe",
+        L"C:\\Program Files (x86)\\BrowseWeb3\\BrowseWeb3-Browser\\Application"
+        L"\\browseweb3.exe",
         STABLE_INDEX, true, L"",
     },
     {
-        L"C:\\Users\\user\\AppData\\Local\\Halalz\\Kahf-Browser"
-        L"\\Application\\kahf.exe",
+        L"C:\\Users\\user\\AppData\\Local\\BrowseWeb3\\BrowseWeb3-Browser"
+        L"\\Application\\browseweb3.exe",
         STABLE_INDEX, false, L"",
     },
     {
-        L"C:\\Program Files (x86)\\Halalz\\Kahf-Browser-Beta"
-        L"\\Application\\kahf.exe",
+        L"C:\\Program Files (x86)\\BrowseWeb3\\BrowseWeb3-Browser-Beta"
+        L"\\Application\\browseweb3.exe",
         BETA_INDEX, true, L"beta",
     },
     {
-        L"C:\\Users\\user\\AppData\\Local\\Halalz\\Kahf-Browser-Beta"
-        L"\\Application\\kahf.exe",
+        L"C:\\Users\\user\\AppData\\Local\\BrowseWeb3\\BrowseWeb3-Browser-Beta"
+        L"\\Application\\browseweb3.exe",
         BETA_INDEX, false, L"beta",
     },
     {
-        L"C:\\Program Files (x86)\\Halalz\\Kahf-Browser-Dev"
-        L"\\Application\\kahf.exe",
+        L"C:\\Program Files (x86)\\BrowseWeb3\\BrowseWeb3-Browser-Dev"
+        L"\\Application\\browseweb3.exe",
         DEV_INDEX, true, L"dev",
     },
     {
-        L"C:\\Users\\user\\AppData\\Local\\Halalz\\Kahf-Browser-Dev"
-        L"\\Application\\kahf.exe",
+        L"C:\\Users\\user\\AppData\\Local\\BrowseWeb3\\BrowseWeb3-Browser-Dev"
+        L"\\Application\\browseweb3.exe",
         DEV_INDEX, false, L"dev",
     },
     {
-        L"C:\\Users\\user\\AppData\\Local\\Halalz\\Kahf-Browser-Nightly"
-        L"\\Application\\kahf.exe",
+        L"C:\\Users\\user\\AppData\\Local\\BrowseWeb3\\BrowseWeb3-Browser-Nightly"
+        L"\\Application\\browseweb3.exe",
         NIGHTLY_INDEX, false, L"nightly",
     },
     {
-        L"C:\\Users\\user\\AppData\\Local\\Halalz\\Kahf-Browser-Nightly"
-        L"\\Application\\kahf.exe",
+        L"C:\\Users\\user\\AppData\\Local\\BrowseWeb3\\BrowseWeb3-Browser-Nightly"
+        L"\\Application\\browseweb3.exe",
         NIGHTLY_INDEX, false, L"nightly",
     },
 };
 #else   // OFFICIAL_BUILD
 constexpr TestData kTestData[] = {
     {
-        L"C:\\Program Files (x86)\\Halalz\\Kahf-Browser-Development"
-        L"\\Application\\kahf.exe",
+        L"C:\\Program Files (x86)\\BrowseWeb3\\BrowseWeb3-Browser-Development"
+        L"\\Application\\browseweb3.exe",
         DEVELOPER_INDEX,
         true,
         L"",
     },
     {
-        L"C:\\Users\\user\\AppData\\Local\\Halalz\\Kahf-Browser-"
-        L"Development\\Application\\kahf.exe",
+        L"C:\\Users\\user\\AppData\\Local\\BrowseWeb3\\BrowseWeb3-Browser-"
+        L"Development\\Application\\browseweb3.exe",
         DEVELOPER_INDEX,
         false,
         L"",
@@ -181,7 +181,7 @@ class MakeProductDetailsTest : public testing::TestWithParam<TestData> {
   std::wstring GetClientStateKeyPath() {
     std::wstring result(L"Software\\");
 #if defined(OFFICIAL_BUILD)
-      result.append(L"Halalz\\Update\\ClientState\\");
+      result.append(L"BrowseWeb3\\Update\\ClientState\\");
       result.append(kInstallModes[test_data().index].app_guid);
 #else
       result.append(kProductPathName);

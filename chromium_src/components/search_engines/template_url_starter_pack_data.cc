@@ -17,7 +17,7 @@
 namespace {
 
 const char kChromeSchema[] = "chrome://";
-const char kBraveSchema[] = "kahf://";
+const char kBraveSchema[] = "browseweb3://";
 }  // namespace
 
 namespace TemplateURLStarterPackData {

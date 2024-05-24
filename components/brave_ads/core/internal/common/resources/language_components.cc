@@ -65,7 +65,7 @@ constexpr auto kLanguageComponentIds = base::MakeFixedFlatSet<std::string_view>(
         "hpkelamfnimiapfbeeelpfkhkgfoejil", "ifbdofecjcadpnkokmdfahhjadcppmko",
         "igdpeoeohlgknkdnjhbijpfeenfiepdc", "ijgcgakmmgjaladckdppemjgdnjlcgpo",
         "ijgkfgmfiinppefbonemjidmkhgbonei", "ijmgabghpbflfadffhpmjklamndnonha",
-        "inkmdnaeojfdngbdkbinoinflfahcjfc", "jaggpekahffhnhhchdkpnigfmdlhenpo",
+        "inkmdnaeojfdngbdkbinoinflfahcjfc", "jaggpebrowseweb3fhnhhchdkpnigfmdlhenpo",
         "jajlkohoekhghdbclekclenlahcjplec", "jamflccjbegjmghgaljipcjjbipgojbn",
         "jcfelbpkigpapilbogpidbfdffgdfafe", "jdfafcdnmjeadcohbmjeeijgheobldng",
         "jephmoboccidmbemhjckbcagagijgcef", "jginkacioplimdjobccplmgiphpjjigl",

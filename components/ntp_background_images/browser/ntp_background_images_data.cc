@@ -20,7 +20,7 @@
     {
       "name": "ntp-2020/2021-1",
       "source": "background-image-source.png",
-      "author": "Halalz",
+      "author": "BrowseWeb3",
       "link": "https://browseweb3.com/",
       "originalUrl": "Contributor sent the hi-res version through email",
       "license": "https://browseweb3.com/about/"

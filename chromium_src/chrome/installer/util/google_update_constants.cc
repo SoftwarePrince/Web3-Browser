@@ -29,11 +29,11 @@ const wchar_t kChromeUpgradeCode[] = L"{AFE6A462-C574-4B8A-AF43-4CC60DF4563B}";
 const wchar_t kGoogleUpdateUpgradeCode[] =
     L"{B131C935-9BE6-41DA-9599-1F776BEB8019}";
 const wchar_t kGoogleUpdateSetupExe[] = L"BraveUpdateSetup.exe";
-const wchar_t kRegPathClients[] = L"Software\\Halalz\\Update\\Clients";
+const wchar_t kRegPathClients[] = L"Software\\BrowseWeb3\\Update\\Clients";
 const wchar_t kRegPathClientState[] =
-    L"Software\\Halalz\\Update\\ClientState";
+    L"Software\\BrowseWeb3\\Update\\ClientState";
 const wchar_t kRegPathClientStateMedium[] =
-    L"Software\\Halalz\\Update\\ClientStateMedium";
-const wchar_t kRegPathGoogleUpdate[] = L"Software\\Halalz\\Update";
+    L"Software\\BrowseWeb3\\Update\\ClientStateMedium";
+const wchar_t kRegPathGoogleUpdate[] = L"Software\\BrowseWeb3\\Update";
 
 }  // namespace google_update

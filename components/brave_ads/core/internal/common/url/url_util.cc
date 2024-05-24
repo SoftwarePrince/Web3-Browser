@@ -61,8 +61,8 @@ bool DoesSupportUrl(const GURL& url) {
     return true;
   }
 
-  // We must replace the kahf:// scheme with chrome:// due to GURL not parsing
-  // kahf:// schemes.
+  // We must replace the browseweb3:// scheme with chrome:// due to GURL not parsing
+  // browseweb3:// schemes.
   const GURL modified_url = ReplaceUrlBraveHostWithChromeHost(url);
   if (!modified_url.SchemeIs(kChromeScheme)) {
     return false;

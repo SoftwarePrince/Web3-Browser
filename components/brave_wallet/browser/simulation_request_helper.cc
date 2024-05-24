@@ -23,12 +23,12 @@ base::Value::Dict GetMetadata(const mojom::OriginInfoPtr& origin_info) {
   base::Value::Dict metadata_object;
 
   if (origin_info && origin_info->origin_spec != "chrome://wallet" &&
-      origin_info->origin_spec != "kahf://wallet") {
+      origin_info->origin_spec != "browseweb3://wallet") {
     metadata_object.Set("origin", origin_info->origin_spec);
   } else {
     // TODO(onyb): We use "https://browseweb3.com" as the default origin for now.
     //  This is because Blowfish doesn't support "chrome://wallet" and
-    //  "kahf://wallet" as origins yet. We'll update this once Blowfish
+    //  "browseweb3://wallet" as origins yet. We'll update this once Blowfish
     //  supports them.
     metadata_object.Set("origin", "https://browseweb3.com");
   }

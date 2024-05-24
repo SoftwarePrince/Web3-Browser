@@ -220,7 +220,7 @@ void ShowMoveItemsDialog(content::WebContents* contents,
 void ShowPlaylistSettings(content::WebContents* contents) {
   auto* browser_view = FindBrowserViewFromSidebarContents(contents);
   CHECK(browser_view);
-  ShowSingletonTab(browser_view->browser(), GURL("kahf://settings/playlist"));
+  ShowSingletonTab(browser_view->browser(), GURL("browseweb3://settings/playlist"));
 }
 
 }  // namespace playlist

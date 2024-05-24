@@ -36,7 +36,7 @@ struct MemoryMetric {
     {"malloc", "size"},
 };
 
-// Class acting as a controller of the kahf://adblock-internals WebUI.
+// Class acting as a controller of the browseweb3://adblock-internals WebUI.
 class BraveAdblockInternalsMessageHandler
     : public content::WebUIMessageHandler {
  public:

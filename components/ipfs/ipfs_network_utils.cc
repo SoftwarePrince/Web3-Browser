@@ -154,9 +154,9 @@ net::NetworkTrafficAnnotationTag GetIpfsNetworkTrafficAnnotationTag() {
             sender: "IPFS service"
             description:
               "This service is used to communicate with IPFS daemon "
-              "on behalf of the user interacting with the actions in kahf://ipfs."
+              "on behalf of the user interacting with the actions in browseweb3://ipfs."
             trigger:
-              "Triggered by actions in kahf://ipfs."
+              "Triggered by actions in browseweb3://ipfs."
             data:
               "Options of the commands."
             destination: WEBSITE
@@ -164,7 +164,7 @@ net::NetworkTrafficAnnotationTag GetIpfsNetworkTrafficAnnotationTag() {
           policy {
             cookies_allowed: NO
             setting:
-              "You can enable or disable this feature in kahf://settings."
+              "You can enable or disable this feature in browseweb3://settings."
             policy_exception_justification:
               "Not implemented."
           }

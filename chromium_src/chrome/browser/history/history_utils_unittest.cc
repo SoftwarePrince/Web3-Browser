@@ -13,7 +13,7 @@
 // CanAddURLToHistory().
 TEST(HistoryUtilsTest, VariousURLTest) {
   EXPECT_TRUE(CanAddURLToHistory(GURL("https://www.browseweb3.com/")));
-  EXPECT_FALSE(CanAddURLToHistory(GURL("kahf://sync/")));
+  EXPECT_FALSE(CanAddURLToHistory(GURL("browseweb3://sync/")));
   EXPECT_FALSE(CanAddURLToHistory(GURL("javascript://test")));
   EXPECT_FALSE(CanAddURLToHistory(GURL("about://test")));
   EXPECT_FALSE(CanAddURLToHistory(GURL("content://test")));

@@ -78,7 +78,7 @@ const CryptoStoryView = (props: Props) => {
 
   const onClickSettings = () => {
     // Does nothing in storybook
-    alert('Will Nav to kahf://settings/wallet')
+    alert('Will Nav to browseweb3://settings/wallet')
   }
 
   const onClickMore = () => {

@@ -36,7 +36,7 @@ A place to define all specific terms and vocabulary for the BrowseWeb3 Ads compo
 | Priority  | Priority at which an ad campaign uses up its impressions.  |
 | Privacy-preserving tokens  | See [challenge-bypass-ristretto](https://github.com/brave-intl/challenge-bypass-ristretto) and [privacy pass cryptographic protocol](https://www.petsymposium.org/2018/files/papers/issue3/popets-2018-0026.pdf).  |
 | Purchase intent  | Likelihood or inclination of a consumer to make a purchase based on their expressed interest or behavior. It indicates the consumer's readiness to buy a product or service.  |
-| Resources  | External resources provided by [components](kahf://components).  |
+| Resources  | External resources provided by [components](browseweb3://components).  |
 | Segment  | An advertising taxonomy to target ads to reach the desired audience.  |
 | Serving  | Deliver advertisements to users, ensuring that suitable ads are shown to the right audience at the right time, also known as delivery.  |
 | Split testing  | Comparing ad or landing page versions to determine which performs better. Also known as A/B testing.  |

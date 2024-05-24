@@ -1349,7 +1349,7 @@ brave_ads::mojom::DBCommandResponseInfoPtr RunDBTransactionOnTaskRunner(
       @"fnokionjijmckgggmhogifnocpabdafk" : @"iso_639_1_ty",
       @"ohcnbpfpchlcjchnljcdjebcjdbneecj" : @"iso_639_1_ug",
       @"pbegjfplhidokoonohceljofcpbojglg" : @"iso_639_1_uk",
-      @"jaggpekahffhnhhchdkpnigfmdlhenpo" : @"iso_639_1_ur",
+      @"jaggpebrowseweb3fhnhhchdkpnigfmdlhenpo" : @"iso_639_1_ur",
       @"jephmoboccidmbemhjckbcagagijgcef" : @"iso_639_1_uz",
       @"mbhiljiiffkobikkoechkpeaopagfhep" : @"iso_639_1_ve",
       @"pbjakpdfjkmcajeobebemnjglbjiniln" : @"iso_639_1_vi",

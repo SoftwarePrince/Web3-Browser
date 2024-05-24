@@ -295,10 +295,10 @@ class InstallStaticUtilTest
   void SetMetricsReportingPolicy(DWORD value) {
 #if defined(OFFICIAL_BUILD)
     static constexpr wchar_t kPolicyKey[] =
-        L"Software\\Policies\\Halalz\\Kahf-Browser";
+        L"Software\\Policies\\BrowseWeb3\\BrowseWeb3-Browser";
 #else
     static constexpr wchar_t kPolicyKey[] =
-        L"Software\\Policies\\Halalz\\Kahf-Browser-Development";
+        L"Software\\Policies\\BrowseWeb3\\BrowseWeb3-Browser-Development";
 #endif
 
     ASSERT_EQ(ERROR_SUCCESS,
@@ -314,7 +314,7 @@ class InstallStaticUtilTest
 
     std::wstring result(L"Software\\");
 #if defined(OFFICIAL_BUILD)
-      result.append(L"Halalz\\Update\\ClientState");
+      result.append(L"BrowseWeb3\\Update\\ClientState");
       if (medium)
         result.append(L"Medium");
       result.push_back(L'\\');
@@ -338,16 +338,16 @@ TEST_P(InstallStaticUtilTest, GetChromeInstallSubDirectory) {
   // The directory strings for the brand's install modes; parallel to
   // kInstallModes.
   static constexpr const wchar_t* kInstallDirs[] = {
-      L"Halalz\\Kahf-Browser",
-      L"Halalz\\Kahf-Browser-Beta",
-      L"Halalz\\Kahf-Browser-Dev",
-      L"Halalz\\Kahf-Browser-Nightly",
+      L"BrowseWeb3\\BrowseWeb3-Browser",
+      L"BrowseWeb3\\BrowseWeb3-Browser-Beta",
+      L"BrowseWeb3\\BrowseWeb3-Browser-Dev",
+      L"BrowseWeb3\\BrowseWeb3-Browser-Nightly",
   };
 #else
   // The directory strings for the brand's install modes; parallel to
   // kInstallModes.
   static constexpr const wchar_t* kInstallDirs[] = {
-      L"Halalz\\Kahf-Browser-Development",
+      L"BrowseWeb3\\BrowseWeb3-Browser-Development",
   };
 #endif
   static_assert(std::size(kInstallDirs) == NUM_INSTALL_MODES,
@@ -361,16 +361,16 @@ TEST_P(InstallStaticUtilTest, GetRegistryPath) {
   // The registry path strings for the brand's install modes; parallel to
   // kInstallModes.
   static constexpr const wchar_t* kRegistryPaths[] = {
-      L"Software\\Halalz\\Kahf-Browser",
-      L"Software\\Halalz\\Kahf-Browser-Beta",
-      L"Software\\Halalz\\Kahf-Browser-Dev",
-      L"Software\\Halalz\\Kahf-Browser-Nightly",
+      L"Software\\BrowseWeb3\\BrowseWeb3-Browser",
+      L"Software\\BrowseWeb3\\BrowseWeb3-Browser-Beta",
+      L"Software\\BrowseWeb3\\BrowseWeb3-Browser-Dev",
+      L"Software\\BrowseWeb3\\BrowseWeb3-Browser-Nightly",
   };
 #else
   // The registry path strings for the brand's install modes; parallel to
   // kInstallModes.
   static constexpr const wchar_t* kRegistryPaths[] = {
-      L"Software\\Halalz\\Kahf-Browser-Development",
+      L"Software\\BrowseWeb3\\BrowseWeb3-Browser-Development",
   };
 #endif
   static_assert(std::size(kRegistryPaths) == NUM_INSTALL_MODES,
@@ -385,20 +385,20 @@ TEST_P(InstallStaticUtilTest, GetUninstallRegistryPath) {
   // to kInstallModes.
   static constexpr const wchar_t* kUninstallRegistryPaths[] = {
       L"Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\"  // (cont'd)
-      L"Halalz Kahf-Browser",
+      L"BrowseWeb3 BrowseWeb3-Browser",
       L"Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\"  // (cont'd)
-      L"Halalz Kahf-Browser-Beta",
+      L"BrowseWeb3 BrowseWeb3-Browser-Beta",
       L"Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\"  // (cont'd)
-      L"Halalz Kahf-Browser-Dev",
+      L"BrowseWeb3 BrowseWeb3-Browser-Dev",
       L"Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\"  // (cont'd)
-      L"Halalz Kahf-Browser-Nightly",
+      L"BrowseWeb3 BrowseWeb3-Browser-Nightly",
   };
 #else
   // The registry path strings for the brand's install modes; parallel to
   // kInstallModes.
   static constexpr const wchar_t* kUninstallRegistryPaths[] = {
       L"Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\"  // (cont'd)
-      L"Halalz Kahf-Browser-Development",
+      L"BrowseWeb3 BrowseWeb3-Browser-Development",
   };
 #endif
   static_assert(std::size(kUninstallRegistryPaths) == NUM_INSTALL_MODES,
@@ -411,10 +411,10 @@ TEST_P(InstallStaticUtilTest, GetAppGuid) {
 #if defined(OFFICIAL_BUILD)
   // The app guids for the brand's install modes; parallel to kInstallModes.
   static constexpr const wchar_t* kAppGuids[] = {
-      L"{AFE6A462-C574-4B8A-AF43-4CC60DF4563B}",  // Kahf-Browser.
-      L"{103BD053-949B-43A8-9120-2E424887DE11}",  // Kahf-Browser-Beta.
-      L"{CB2150F2-595F-4633-891A-E39720CE0531}",  // Kahf-Browser-Dev.
-      L"{C6CB981E-DB30-4876-8639-109F8933582C}",  // Kahf-Browser-Nightly.
+      L"{AFE6A462-C574-4B8A-AF43-4CC60DF4563B}",  // BrowseWeb3-Browser.
+      L"{103BD053-949B-43A8-9120-2E424887DE11}",  // BrowseWeb3-Browser-Beta.
+      L"{CB2150F2-595F-4633-891A-E39720CE0531}",  // BrowseWeb3-Browser-Dev.
+      L"{C6CB981E-DB30-4876-8639-109F8933582C}",  // BrowseWeb3-Browser-Nightly.
   };
   static_assert(std::size(kAppGuids) == NUM_INSTALL_MODES,
                 "kAppGuids out of date.");
@@ -452,30 +452,30 @@ TEST_P(InstallStaticUtilTest, GetToastActivatorClsid) {
         0x2807,
         0x44c0,
         { 0x97, 0xd2, 0x6d, 0xa0, 0xdb, 0x62, 0x3d,
-          0xb4 } },  // Kahf-Browser.
+          0xb4 } },  // BrowseWeb3-Browser.
       { 0x9560028d,
         0xcca,
         0x49f0,
         { 0x8d, 0x47, 0xef, 0x22, 0xbb, 0xc4, 0xb,
-          0xa7 } },  // Kahf-Browser-Beta.
+          0xa7 } },  // BrowseWeb3-Browser-Beta.
       { 0x20b22981,
         0xf63a,
         0x47a6,
         { 0xa5, 0x47, 0x69, 0x1c, 0xc9, 0x4c, 0xae,
-          0xe0 } },  // Kahf-Browser-Dev.
+          0xe0 } },  // BrowseWeb3-Browser-Dev.
       { 0xf2edbc59,
         0x7217,
         0x4da5,
         { 0xa2, 0x59, 0x3, 0x2, 0xda, 0x6a, 0x0,
-          0xe1 } },  // Kahf-Browser-Nightly.
+          0xe1 } },  // BrowseWeb3-Browser-Nightly.
   };
 
   // The string representation of the CLSIDs above.
   static constexpr const wchar_t* kToastActivatorClsidsString[] = {
-      L"{06C9646D-2807-44C0-97D2-6DA0DB623DB4}",  // Kahf-Browser.
-      L"{9560028D-0CCA-49F0-8D47-EF22BBC40BA7}",  // Kahf-Browser-Beta.
-      L"{20B22981-F63A-47A6-A547-691CC94CAEE0}",  // Kahf-Browser-Dev.
-      L"{F2EDBC59-7217-4DA5-A259-0302DA6A00E1}",  // Kahf-Browser-Nightly.
+      L"{06C9646D-2807-44C0-97D2-6DA0DB623DB4}",  // BrowseWeb3-Browser.
+      L"{9560028D-0CCA-49F0-8D47-EF22BBC40BA7}",  // BrowseWeb3-Browser-Beta.
+      L"{20B22981-F63A-47A6-A547-691CC94CAEE0}",  // BrowseWeb3-Browser-Dev.
+      L"{F2EDBC59-7217-4DA5-A259-0302DA6A00E1}",  // BrowseWeb3-Browser-Nightly.
   };
 #else
   // The toast activator CLSIDs for the brand's install modes; parallel to
@@ -485,12 +485,12 @@ TEST_P(InstallStaticUtilTest, GetToastActivatorClsid) {
         0xba35,
         0x4c06,
         { 0x96, 0xe8, 0x6f, 0x30, 0xf1, 0x8c, 0xa5,
-          0x5c } },  // Kahf-Browser-Development.
+          0x5c } },  // BrowseWeb3-Browser-Development.
   };
 
   // The string representation of the CLSIDs above.
   static constexpr const wchar_t* kToastActivatorClsidsString[] = {
-      L"{EB41C6E8-BA35-4C06-96E8-6F30F18CA55C}"  // Kahf-Browser-Development.
+      L"{EB41C6E8-BA35-4C06-96E8-6F30F18CA55C}"  // BrowseWeb3-Browser-Development.
   };
 #endif
   static_assert(std::size(kToastActivatorClsids) == NUM_INSTALL_MODES,
@@ -575,10 +575,10 @@ TEST_P(InstallStaticUtilTest, GetChromeChannel) {
 #if defined(OFFICIAL_BUILD)
   // Parallel to kInstallModes.
   static constexpr version_info::Channel kChannels[] = {
-      version_info::Channel::STABLE,  // Kahf-Browser.
-      version_info::Channel::BETA,    // Kahf-Browser-Beta.
-      version_info::Channel::DEV,     // Kahf-Browser-Dev.
-      version_info::Channel::CANARY,  // Kahf-Browser-Nightly.
+      version_info::Channel::STABLE,  // BrowseWeb3-Browser.
+      version_info::Channel::BETA,    // BrowseWeb3-Browser-Beta.
+      version_info::Channel::DEV,     // BrowseWeb3-Browser-Dev.
+      version_info::Channel::CANARY,  // BrowseWeb3-Browser-Nightly.
   };
 #else
   // Parallel to kInstallModes.

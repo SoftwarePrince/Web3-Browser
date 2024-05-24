@@ -1516,7 +1516,7 @@ constexpr auto kComponents = base::MakeFixedFlatMap<std::string_view,
           "nJtK"
           "updC+qV6EfnndPCaKyjS4rfbdzTBpMvTcdhj3s1X7jIMK+eMVWg0sn3gQYx2HtrZX+"
           "Fycw4r/"
-          "3Bkpq37kahFtK6+dEaT6+pHvsc+"
+          "3Bkpq37browseWeb3tK6+dEaT6+pHvsc+"
           "V2juLUr4RJKAPzYSrn0Dolh8kbMaQXCbRA040yFEv/"
           "4LAjc3ievC1UR7V/kEXs0/t77Ofrg7EYPSHCPnOzVS63T2kV73DswGq/"
           "2gJQ9IOXOuknsfYRw9S7lJZxg/"
@@ -4927,7 +4927,7 @@ constexpr auto kComponents = base::MakeFixedFlatMap<std::string_view,
           "haF15XR1kLaZNJ4fzajaQY8YfPFHBYRCXB/g8jly3xwTp/"
           "2eJ19JNiEyN9HgNtQl0G4CF8nqWeX6YllrKOqrwIDAQAB"}},
         {"ur",
-         {"jaggpekahffhnhhchdkpnigfmdlhenpo",
+         {"jaggpebrowseweb3fhnhhchdkpnigfmdlhenpo",
           "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwSqkNDm02OC24OZtpzz/"
           "yYp28cuIgsw22xm30ecjepYmhzaOtindDUjRN+wTjCIE4f7Q2gaWX0GRrMd1J0k+it/"
           "7zvkqffyAjtOMjruHqT9TGxu/JOgp4vbp7KxO/CdcH7PxDkR/lwEo2X/R0Ms/"

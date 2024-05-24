@@ -128,7 +128,7 @@ constexpr char kTestBackgroundImages[] = R"(
         {
           "name": "ntp-2020/2021-1",
           "source": "background-image-source.webp",
-          "author": "Halalz",
+          "author": "BrowseWeb3",
           "link": "https://browseweb3.com/",
           "originalUrl": "Contributor sent the hi-res version through email",
           "license": "https://browseweb3.com/about/"
@@ -136,7 +136,7 @@ constexpr char kTestBackgroundImages[] = R"(
         {
           "name": "ntp-2020/2021-2",
           "source": "background-image-source.avif",
-          "author": "Halalz",
+          "author": "BrowseWeb3",
           "link": "https://browseweb3.com/",
           "originalUrl": "Contributor sent the hi-res version through email",
           "license": "https://browseweb3.com/about/"
@@ -342,7 +342,7 @@ TEST_F(NTPBackgroundImagesServiceTest, InternalDataTest) {
   const size_t bi_image_count = 2;
   EXPECT_EQ(bi_image_count, bi_data->backgrounds.size());
   // Check values are loaded correctly
-  EXPECT_EQ("Halalz", bi_data->backgrounds[0].author);
+  EXPECT_EQ("BrowseWeb3", bi_data->backgrounds[0].author);
   EXPECT_EQ("https://browseweb3.com/", bi_data->backgrounds[0].link);
   EXPECT_TRUE(observer.on_bi_updated_);
   EXPECT_TRUE(*bi_data->GetBackgroundAt(0).FindBool(kIsBackgroundKey));
@@ -395,7 +395,7 @@ TEST_F(NTPBackgroundImagesServiceTest, InternalDataTest) {
       {
         "name": "ntp-2020/2021-1",
         "source": "background-image-source.png",
-        "author": "Halalz",
+        "author": "BrowseWeb3",
         "link": "https://browseweb3.com/",
         "originalUrl": "Contributor sent the hi-res version through email",
         "license": "https://browseweb3.com/about/"

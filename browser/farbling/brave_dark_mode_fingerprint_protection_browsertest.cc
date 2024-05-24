@@ -230,7 +230,7 @@ IN_PROC_BROWSER_TEST_F(BraveDarkModeFingerprintProtectionTest,
 
   BlockFingerprinting();
   ASSERT_TRUE(
-      ui_test_utils::NavigateToURL(browser(), GURL("kahf://settings")));
+      ui_test_utils::NavigateToURL(browser(), GURL("browseweb3://settings")));
   ASSERT_TRUE(IsReportingDarkMode());
 }
 

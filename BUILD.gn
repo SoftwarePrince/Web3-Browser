@@ -130,8 +130,8 @@ if (is_win) {
       deps = [ "//chrome/installer/setup:setup" ]
     }
     sign("signed_brave_exe") {
-      sources = [ "$root_out_dir/kahf.exe" ]
-      outputs = [ "$root_out_dir/presigned_binaries/kahf.exe" ]
+      sources = [ "$root_out_dir/browseweb3.exe" ]
+      outputs = [ "$root_out_dir/presigned_binaries/browseweb3.exe" ]
       deps = [ "//brave/build/win:copy_exe" ]
     }
     sign("signed_chrome_dll") {

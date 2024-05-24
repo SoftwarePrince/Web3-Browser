@@ -6,6 +6,6 @@
 #include "src/content/public/common/url_constants.cc"
 
 namespace content {
-const char kBraveUIScheme[] = "kahf";
+const char kBraveUIScheme[] = "browseweb3";
 }
 

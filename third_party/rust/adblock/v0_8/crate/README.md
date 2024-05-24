@@ -8,7 +8,7 @@
 
 ### _Putting you back in control of your browsing experience._
 
-`adblock-rust` is the engine powering [Kahf](https://browseweb3.com)'s native adblocker, available as a library for anyone to use. It features:
+`adblock-rust` is the engine powering [BrowseWeb3](https://browseweb3.com)'s native adblocker, available as a library for anyone to use. It features:
 
 - Network blocking
 - Cosmetic filtering

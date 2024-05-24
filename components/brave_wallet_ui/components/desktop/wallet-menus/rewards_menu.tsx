@@ -25,7 +25,7 @@ import {
 const onClickRewardsSettings = () => {
   chrome.tabs.create(
     {
-      url: 'kahf://rewards'
+      url: 'browseweb3://rewards'
     },
     () => {
       if (chrome.runtime.lastError) {

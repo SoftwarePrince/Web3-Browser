@@ -30,7 +30,7 @@ namespace {
 constexpr char kBraveWireguardProcessType[] = "brave-vpn-wireguard-service";
 
 // The service starts under sytem user so we save crashes to
-// %PROGRAMDATA%\Halalz\{service name}\Crashpad
+// %PROGRAMDATA%\BrowseWeb3\{service name}\Crashpad
 base::FilePath GetBraveWireguardServiceProfileDir() {
   auto program_data = install_static::GetEnvironmentString("PROGRAMDATA");
   if (program_data.empty()) {

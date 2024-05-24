@@ -6,25 +6,25 @@
 # chromium-browser packages for various platforms.
 
 # Base name of the package.
-PACKAGE="kahf-browser"
+PACKAGE="browseweb3-browser"
 
 # Filename of the main executable (for generating launcher scripts, etc.)
-PROGNAME=kahf
+PROGNAME=browseweb3
 
 # Base directory for package installation.
-INSTALLDIR=/opt/browseweb3.com/kahf
+INSTALLDIR=/opt/browseweb3.com/browseweb3
 
 # Display string for desktop menu/icon.
-MENUNAME="Kahf Web Browser"
+MENUNAME="BrowseWeb3 Web Browser"
 
 # Brief package description.
-SHORTDESC="The web browser from Halalz"
+SHORTDESC="The web browser from BrowseWeb3"
 
 # Detailed package description.
 FULLDESC="Browse halal and faster by blocking ads and trackers that violate your privacy and cost you time and money."
 
 # Package maintainer information.
-MAINTNAME="Halalz"
+MAINTNAME="BrowseWeb3"
 MAINTMAIL="support@browseweb3.com"
 PRODUCTURL="https://browseweb3.com/"
 VERSION=$(cat $OUTPUTDIR/version | tr -d 'v,')

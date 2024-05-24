@@ -122,7 +122,7 @@ class AdBlockService {
 
   void EnableTag(const std::string& tag, bool enabled);
 
-  // Methods for kahf://adblock-internals.
+  // Methods for browseweb3://adblock-internals.
   using GetDebugInfoCallback =
       base::OnceCallback<void(base::Value::Dict, base::Value::Dict)>;
   void GetDebugInfoAsync(GetDebugInfoCallback callback);

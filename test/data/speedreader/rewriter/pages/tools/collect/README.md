@@ -1,5 +1,5 @@
 For regular sites:
-Run 'python collect.py -u top_urls.list -o "../../news_pages" -b "../../../../../../../../out/<Your build>/kahf.exe"'
+Run 'python collect.py -u top_urls.list -o "../../news_pages" -b "../../../../../../../../out/<Your build>/browseweb3.exe"'
 
 For sites from issues:
-Run 'python collect.py -u issues_urls.list -o "../../issues_pages" -b "../../../../../../../../out/<Your build>/kahf.exe"'
+Run 'python collect.py -u issues_urls.list -o "../../issues_pages" -b "../../../../../../../../out/<Your build>/browseweb3.exe"'

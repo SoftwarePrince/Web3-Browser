@@ -513,8 +513,8 @@ void RewardsDOMHandler::Init() {
       brave_rewards::RewardsServiceFactory::GetForProfile(profile);
   ads_service_ = brave_ads::AdsServiceFactory::GetForProfile(profile);
 
-  // Configure a pref change registrar to update kahf://rewards when settings
-  // are changed via kahf://settings
+  // Configure a pref change registrar to update browseweb3://rewards when settings
+  // are changed via browseweb3://settings
   InitPrefChangeRegistrar();
 }
 

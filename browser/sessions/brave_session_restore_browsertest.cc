@@ -30,7 +30,7 @@ IN_PROC_BROWSER_TEST_F(BraveSessionRestoreBrowserTest,
   SessionService* const session_service =
       SessionServiceFactory::GetForProfile(browser()->profile());
   ui_test_utils::NavigateToURLBlockUntilNavigationsComplete(
-      browser(), GURL("kahf://newtab/"), 1);
+      browser(), GURL("browseweb3://newtab/"), 1);
   ASSERT_EQ(true, EvalJs(web_contents,
                          R"(
         var textarea = document.createElement('textarea')
@@ -73,7 +73,7 @@ IN_PROC_BROWSER_TEST_F(BraveSessionRestoreBrowserTest,
   SessionService* const session_service =
       SessionServiceFactory::GetForProfile(browser()->profile());
   ui_test_utils::NavigateToURLBlockUntilNavigationsComplete(
-      browser(), GURL("kahf://rewards/"), 1);
+      browser(), GURL("browseweb3://rewards/"), 1);
   ASSERT_EQ(true, EvalJs(web_contents,
                          R"(
         var textarea = document.createElement('textarea')

@@ -1962,7 +1962,7 @@ other {# 个来源}
 <translation id="1097073572755862978">如果遇到系统崩溃或冻结，请发送诊断报告。<ph name="LINK_BEFORE"/>了解更多内容。<ph name="LINK_AFTER"/></translation>
 <translation id="5099408825243658796">分享和 BrowseWeb3 用户正在使用哪些功能有关的完全私密和匿名的产品见解。<ph name="LINK_BEFORE"/>了解更多内容。<ph name="LINK_AFTER"/></translation>
 <translation id="7415454883318062233">已完成设置</translation>
-<translation id="3141206739023333979">在 BrowseWeb3 中随时改变这些选择，网址为：<ph name="LINK_BEFORE1"/>  kahf://settings/privacy <ph name="LINK_AFTER2"/>。</translation>
+<translation id="3141206739023333979">在 BrowseWeb3 中随时改变这些选择，网址为：<ph name="LINK_BEFORE1"/>  browseweb3://settings/privacy <ph name="LINK_AFTER2"/>。</translation>
 <translation id="8321985064212130832">阅读我们完整的<ph name="LINK_BEFORE"/>隐私政策<ph name="LINK_AFTER"/></translation>
 <translation id="2801098717523961746">选择主题</translation>
 <translation id="6262510489122516114">您可以随时在 BrowseWeb3 设置中进行更改。</translation>
@@ -2029,7 +2029,7 @@ BrowseWeb3 有一个帮助服务，通过过滤在 VPN 连接上进行 DNS 查�
 <translation id="5004375364898143117">似乎 WireGuard 的连接存在一些问题。想要启用 IKEv2 后备功能以获得可靠的 VPN？只需重启浏览器即可。
 
 在兼容性或配置方面需要帮助吗？请联系我们友好的支持团队。
-您可以随时通过 kahf://settings/system 恢复到 WireGuard。
+您可以随时通过 browseweb3://settings/system 恢复到 WireGuard。
 
 让我们为您连线吧！
 

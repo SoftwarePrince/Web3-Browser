@@ -32,18 +32,18 @@ inline constexpr char kFPAllowCountPrefName[] =
     "brave_shields.p3a_fp_allow_domain_count";
 
 inline constexpr char kAdsSettingHistogramName[] =
-    "Kahf.Shields.AdBlockSetting";
+    "BrowseWeb3.Shields.AdBlockSetting";
 inline constexpr char kFingerprintSettingHistogramName[] =
-    "Kahf.Shields.FingerprintBlockSetting";
-inline constexpr char kUsageStatusHistogramName[] = "Kahf.Shields.UsageStatus";
+    "BrowseWeb3.Shields.FingerprintBlockSetting";
+inline constexpr char kUsageStatusHistogramName[] = "BrowseWeb3.Shields.UsageStatus";
 inline constexpr char kDomainAdsSettingsAboveHistogramName[] =
-    "Kahf.Shields.DomainAdsSettingsAboveGlobal";
+    "BrowseWeb3.Shields.DomainAdsSettingsAboveGlobal";
 inline constexpr char kDomainAdsSettingsBelowHistogramName[] =
-    "Kahf.Shields.DomainAdsSettingsBelowGlobal";
+    "BrowseWeb3.Shields.DomainAdsSettingsBelowGlobal";
 inline constexpr char kDomainFPSettingsAboveHistogramName[] =
-    "Kahf.Shields.DomainFingerprintSettingsAboveGlobal";
+    "BrowseWeb3.Shields.DomainFingerprintSettingsAboveGlobal";
 inline constexpr char kDomainFPSettingsBelowHistogramName[] =
-    "Kahf.Shields.DomainFingerprintSettingsBelowGlobal";
+    "BrowseWeb3.Shields.DomainFingerprintSettingsBelowGlobal";
 // Note: append-only enumeration! Never remove any existing values, as this enum
 // is used to bucket a UMA histogram, and removing values breaks that.
 enum ShieldsIconUsage {
@@ -62,10 +62,10 @@ enum ShieldsIconUsage {
 void MaybeRecordShieldsUsageP3A(ShieldsIconUsage usage,
                                 PrefService* local_state);
 
-// Records to global ads setting histogram: Kahf.Shields.AdBlockSetting
+// Records to global ads setting histogram: BrowseWeb3.Shields.AdBlockSetting
 void RecordShieldsAdsSetting(ControlType setting);
 
-// Records to global FP setting histogram: Kahf.Shields.FingerprintBlockSetting
+// Records to global FP setting histogram: BrowseWeb3.Shields.FingerprintBlockSetting
 void RecordShieldsFingerprintSetting(ControlType setting);
 
 // To be called when the global setting changes.

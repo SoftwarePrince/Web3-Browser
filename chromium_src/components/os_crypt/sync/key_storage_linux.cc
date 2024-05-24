@@ -6,8 +6,8 @@
 #include "components/os_crypt/sync/key_storage_linux.h"
 
 #define BRAVE_KEY_STORAGE_LINUX                             \
-  const char KeyStorageLinux::kFolderName[] = "Kahf Keys"; \
-  const char KeyStorageLinux::kKey[] = "Kahf Safe Storage";
+  const char KeyStorageLinux::kFolderName[] = "BrowseWeb3 Keys"; \
+  const char KeyStorageLinux::kKey[] = "BrowseWeb3 Safe Storage";
 
 #define BRAVE_KEY_STORAGE_LINUX_CREATE_SERVICE                          \
   if (use_backend && config.store.empty() &&                            \

@@ -31,7 +31,7 @@ BraveAutocompleteSchemeClassifier::BraveAutocompleteSchemeClassifier(
 BraveAutocompleteSchemeClassifier::~BraveAutocompleteSchemeClassifier() =
     default;
 
-// Without this override, typing in kahf:// URLs will search Google
+// Without this override, typing in browseweb3:// URLs will search Google
 metrics::OmniboxInputType
 BraveAutocompleteSchemeClassifier::GetInputTypeForScheme(
     const std::string& scheme) const {

@@ -1928,7 +1928,7 @@ constexpr SponsoredImagesComponentData kRegionalData[] = {
      "3ub0J0XslF+"
      "c729EXPrrakPb2MvzMruxQU47NYiPPozpq5Q3zSBVzy8RFoPSEKSKrPbhP6GnCslb5M1i"
      "sqDeMotgIhFUifhmI3jD6LdEamDtuEY3HclPuCGUF14tKUP6g+/35TJEsBwIDAQAB",
-     "bkpnenkahfnfobeolhbonknhlimbjmpa"},
+     "bkpnenbrowseweb3nfobeolhbonknhlimbjmpa"},
     {"SG",
      "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4ao1z+GSp93Jpfk+"
      "FwKivwDwGmF4gB7FdUCUloagG6li1H2nGWIULgl5/"

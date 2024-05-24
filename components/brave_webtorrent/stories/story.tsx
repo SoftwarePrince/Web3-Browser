@@ -35,7 +35,7 @@ const sampleTorrent = {
       length: 500
     }
   ],
-  serverURL: 'kahf://myfile',
+  serverURL: 'browseweb3://myfile',
   timeRemaining: 42,
   downloaded: 2000,
   uploaded: 8000,

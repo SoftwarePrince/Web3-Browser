@@ -61,7 +61,7 @@ void PushNotification(content::BrowserContext* context,
                       const std::u16string& body) {
   auto notification = CreateMessageCenterNotification(
       title, body, uuid,
-      GURL("kahf://wallet/crypto/accounts/" + from + "#" + uuid));
+      GURL("browseweb3://wallet/crypto/accounts/" + from + "#" + uuid));
   auto* profile = Profile::FromBrowserContext(context);
   NotificationDisplayServiceFactory::GetForProfile(profile)->Display(
       NotificationHandler::Type::SEND_TAB_TO_SELF, *notification, nullptr);

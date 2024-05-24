@@ -293,12 +293,12 @@ class BraveNetworkAuditTest : public InProcessBrowserTest {
 #endif  // BUILDFLAG(ENABLE_PLAYLIST_WEBUI)
 };
 
-// Loads kahf://welcome first to simulate a first run and then loads another
+// Loads browseweb3://welcome first to simulate a first run and then loads another
 // URL, and finally enables brave rewards, waiting some time after each load to
 // allow gathering network requests.
 IN_PROC_BROWSER_TEST_F(BraveNetworkAuditTest, BasicTests) {
   // Load the Welcome page.
-  ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), GURL("kahf://welcome")));
+  ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), GURL("browseweb3://welcome")));
   WaitForTimeout(kMaxTimeoutPerLoadedURL);
 
   // Add a password to the password manager.
@@ -315,7 +315,7 @@ IN_PROC_BROWSER_TEST_F(BraveNetworkAuditTest, BasicTests) {
   password_store->AddLogin(signin_form);
 
   // Load the NTP to check requests made from the JS widgets.
-  ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), GURL("kahf://newtab")));
+  ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), GURL("browseweb3://newtab")));
   WaitForTimeout(kMaxTimeoutPerLoadedURL);
 
   // Load a simple HTML page from the test server.
@@ -323,12 +323,12 @@ IN_PROC_BROWSER_TEST_F(BraveNetworkAuditTest, BasicTests) {
   ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), simple_url));
   WaitForTimeout(kMaxTimeoutPerLoadedURL);
 
-  // Finally, load kahf://rewards and enable Brave Rewards.
-  ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), GURL("kahf://rewards")));
+  // Finally, load browseweb3://rewards and enable Brave Rewards.
+  ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), GURL("browseweb3://rewards")));
   ASSERT_TRUE(EnableBraveRewards());
   WaitForTimeout(kMaxTimeoutPerLoadedURL);
 
-  ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), GURL("kahf://wallet")));
+  ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), GURL("browseweb3://wallet")));
   WaitForTimeout(kMaxTimeoutPerLoadedURL);
 
 #if defined(TOOLKIT_VIEWS)

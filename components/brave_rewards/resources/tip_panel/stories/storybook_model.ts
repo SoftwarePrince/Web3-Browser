@@ -16,7 +16,7 @@ export function createModel (): Model {
     creatorBanner: {
       name: 'browseweb3.com',
       provider: '',
-      title: 'Halalz',
+      title: 'BrowseWeb3',
       description:
         'Thanks for stopping by. Brave is on a mission to fix the web by ' +
         'giving users a safer, faster and better browsing experience ' +

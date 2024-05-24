@@ -67,11 +67,11 @@ const start = (passthroughArgs, buildConfig = config.defaultBuildConfig, options
   let user_data_dir
   if (options.user_data_dir_name) {
     if (process.platform === 'darwin') {
-      user_data_dir = path.join(process.env.HOME, 'Library', 'Application\\ Support', 'Halalz', options.user_data_dir_name)
+      user_data_dir = path.join(process.env.HOME, 'Library', 'Application\\ Support', 'BrowseWeb3', options.user_data_dir_name)
     } else if (process.platform === 'win32') {
-      user_data_dir = path.join(process.env.LocalAppData, 'Halalz', options.user_data_dir_name)
+      user_data_dir = path.join(process.env.LocalAppData, 'BrowseWeb3', options.user_data_dir_name)
     } else {
-      user_data_dir = path.join(process.env.HOME, '.config', 'Halalz', options.user_data_dir_name)
+      user_data_dir = path.join(process.env.HOME, '.config', 'BrowseWeb3', options.user_data_dir_name)
     }
     braveArgs.push('--user-data-dir=' + user_data_dir);
   }
@@ -86,11 +86,11 @@ const start = (passthroughArgs, buildConfig = config.defaultBuildConfig, options
 
   let outputPath = options.output_path
   if (!outputPath) {
-    outputPath = path.join(config.outputDir, 'kahf')
+    outputPath = path.join(config.outputDir, 'browseweb3')
     if (process.platform === 'win32') {
       outputPath = outputPath + '.exe'
     } else if (process.platform === 'darwin') {
-      outputPath = fs.readFileSync(outputPath.replace("kahf", "brave" ) + '_helper').toString().trim()
+      outputPath = fs.readFileSync(outputPath.replace("browseweb3", "brave" ) + '_helper').toString().trim()
     }
   }
   util.run(outputPath, braveArgs, cmdOptions)

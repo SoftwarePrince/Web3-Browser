@@ -36,11 +36,11 @@ BrowseWeb3 Ads is a [layered component](https://sites.google.com/a/chromium.org/
 
 ## Logs
 
-You can enable diagnostic logging to the `Rewards.log` file stored on your device; see [BrowseWeb3 Rewards](kahf://flags/#brave-rewards-verbose-logging). View this log file on the `Logs` tab at [rewards internals](kahf://rewards-internals).
+You can enable diagnostic logging to the `Rewards.log` file stored on your device; see [BrowseWeb3 Rewards](browseweb3://flags/#brave-rewards-verbose-logging). View this log file on the `Logs` tab at [rewards internals](browseweb3://rewards-internals).
 
 ## Diagnostics
 
-View diagnostics at [rewards internals](kahf://rewards-internals) on the `Ad diagnostics` tab.
+View diagnostics at [rewards internals](browseweb3://rewards-internals) on the `Ad diagnostics` tab.
 
 ## Browser Tests
 ```

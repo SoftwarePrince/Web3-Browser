@@ -13,12 +13,12 @@
 
 namespace install_static {
 
-const wchar_t kCompanyPathName[] = L"Halalz";
+const wchar_t kCompanyPathName[] = L"BrowseWeb3";
 
 #if defined(OFFICIAL_BUILD)
-const wchar_t kProductPathName[] = L"Kahf-Browser";
+const wchar_t kProductPathName[] = L"BrowseWeb3-Browser";
 #else
-const wchar_t kProductPathName[] = L"Kahf-Browser-Development";
+const wchar_t kProductPathName[] = L"BrowseWeb3-Browser-Development";
 #endif
 
 const size_t kProductPathNameLength = _countof(kProductPathName) - 1;
@@ -29,7 +29,7 @@ const char kSafeBrowsingName[] = "chromium";
 // Regarding the install switch, use the same values that are in
 // chrome/installer/mini_installer/configuration.cc
 const InstallConstants kInstallModes[] = {
-    // The primary install mode for stable Kahf.
+    // The primary install mode for stable BrowseWeb3.
     {
         .size = sizeof(kInstallModes[0]),
         .index = STABLE_INDEX,  // The first mode is for stable/beta/dev.
@@ -39,14 +39,14 @@ const InstallConstants kInstallModes[] = {
             L"",  // Empty install_suffix for the primary install mode.
         .logo_suffix = L"",  // No logo suffix for the primary install mode.
         .app_guid = L"{AFE6A462-C574-4B8A-AF43-4CC60DF4563B}",
-        .base_app_name = L"Kahf",               // A distinct base_app_name.
-        .base_app_id = L"Kahf",                 // A distinct base_app_id.
-        .browser_prog_id_prefix = L"KahfHTML",  // Browser ProgID prefix.
+        .base_app_name = L"BrowseWeb3",               // A distinct base_app_name.
+        .base_app_id = L"BrowseWeb3",                 // A distinct base_app_id.
+        .browser_prog_id_prefix = L"BrowseWeb3HTML",  // Browser ProgID prefix.
         .browser_prog_id_description =
-            L"Kahf HTML Document",         // Browser ProgID description.
-        .pdf_prog_id_prefix = L"KahfPDF",  // PDF ProgID prefix.
+            L"BrowseWeb3 HTML Document",         // Browser ProgID description.
+        .pdf_prog_id_prefix = L"BrowseWeb3PDF",  // PDF ProgID prefix.
         .pdf_prog_id_description =
-            L"Kahf PDF Document",  // PDF ProgID description.
+            L"BrowseWeb3 PDF Document",  // PDF ProgID description.
         .active_setup_guid =
             L"{AFE6A462-C574-4B8A-AF43-4CC60DF4563B}",  // Active Setup GUID.
         .legacy_command_execute_clsid =
@@ -78,7 +78,7 @@ const InstallConstants kInstallModes[] = {
             L"S-1-15-2-3251537155-1984446955-2931258699-841473695-1938553385-"
             L"934012149-",  // App container sid prefix for sandbox.
     },
-    // A secondary install mode for Kahf Beta
+    // A secondary install mode for BrowseWeb3 Beta
     {
         .size = sizeof(kInstallModes[0]),
         .index = BETA_INDEX,  // The mode for the side-by-side beta channel.
@@ -87,14 +87,14 @@ const InstallConstants kInstallModes[] = {
         .logo_suffix = L"Beta",           // Logo suffix.
         .app_guid =
             L"{103BD053-949B-43A8-9120-2E424887DE11}",  // A distinct app GUID.
-        .base_app_name = L"Kahf Beta",           // A distinct base_app_name.
-        .base_app_id = L"KahfBeta",              // A distinct base_app_id.
-        .browser_prog_id_prefix = L"KahfBHTML",  // Browser ProgID prefix.
+        .base_app_name = L"BrowseWeb3 Beta",           // A distinct base_app_name.
+        .base_app_id = L"BrowseWeb3Beta",              // A distinct base_app_id.
+        .browser_prog_id_prefix = L"BrowseWeb3BHTML",  // Browser ProgID prefix.
         .browser_prog_id_description =
-            L"Kahf Beta HTML Document",     // Browser ProgID description.
-        .pdf_prog_id_prefix = L"KahfBPDF",  // PDF ProgID prefix.
+            L"BrowseWeb3 Beta HTML Document",     // Browser ProgID description.
+        .pdf_prog_id_prefix = L"BrowseWeb3BPDF",  // PDF ProgID prefix.
         .pdf_prog_id_description =
-            L"Kahf Beta PDF Document",  // PDF ProgID description.
+            L"BrowseWeb3 Beta PDF Document",  // PDF ProgID description.
         .active_setup_guid =
             L"{103BD053-949B-43A8-9120-2E424887DE11}",  // Active Setup GUID.
         .legacy_command_execute_clsid = L"",  // CommandExecuteImpl CLSID.
@@ -124,7 +124,7 @@ const InstallConstants kInstallModes[] = {
             L"S-1-15-2-3251537155-1984446955-2931258699-841473695-1938553385-"
             L"934012150-",  // App container sid prefix for sandbox.
     },
-    // A secondary install mode for Kahf Dev
+    // A secondary install mode for BrowseWeb3 Dev
     {
         .size = sizeof(kInstallModes[0]),
         .index = DEV_INDEX,  // The mode for the side-by-side dev channel.
@@ -133,14 +133,14 @@ const InstallConstants kInstallModes[] = {
         .logo_suffix = L"Dev",           // Logo suffix.
         .app_guid =
             L"{CB2150F2-595F-4633-891A-E39720CE0531}",  // A distinct app GUID.
-        .base_app_name = L"Kahf Dev",            // A distinct base_app_name.
-        .base_app_id = L"KahfDev",               // A distinct base_app_id.
-        .browser_prog_id_prefix = L"KahfDHTML",  // Browser ProgID prefix.
+        .base_app_name = L"BrowseWeb3 Dev",            // A distinct base_app_name.
+        .base_app_id = L"BrowseWeb3Dev",               // A distinct base_app_id.
+        .browser_prog_id_prefix = L"BrowseWeb3DHTML",  // Browser ProgID prefix.
         .browser_prog_id_description =
-            L"Kahf Dev HTML Document",      // Browser ProgID description.
-        .pdf_prog_id_prefix = L"KahfDPDF",  // PDF ProgID prefix.
+            L"BrowseWeb3 Dev HTML Document",      // Browser ProgID description.
+        .pdf_prog_id_prefix = L"BrowseWeb3DPDF",  // PDF ProgID prefix.
         .pdf_prog_id_description =
-            L"Kahf Dev PDF Document",  // PDF ProgID description.
+            L"BrowseWeb3 Dev PDF Document",  // PDF ProgID description.
         .active_setup_guid =
             L"{CB2150F2-595F-4633-891A-E39720CE0531}",  // Active Setup GUID.
         .legacy_command_execute_clsid = L"",  // CommandExecuteImpl CLSID.
@@ -170,7 +170,7 @@ const InstallConstants kInstallModes[] = {
             L"S-1-15-2-3251537155-1984446955-2931258699-841473695-1938553385-"
             L"934012151-",  // App container sid prefix for sandbox.
     },
-    // A secondary install mode for Kahf SxS (canary).
+    // A secondary install mode for BrowseWeb3 SxS (canary).
     {
         .size = sizeof(kInstallModes[0]),
         .index =
@@ -180,14 +180,14 @@ const InstallConstants kInstallModes[] = {
         .logo_suffix = L"Canary",        // Logo suffix.
         .app_guid =
             L"{C6CB981E-DB30-4876-8639-109F8933582C}",  // A distinct app GUID.
-        .base_app_name = L"Kahf Nightly",        // A distinct base_app_name.
-        .base_app_id = L"KahfNightly",           // A distinct base_app_id.
-        .browser_prog_id_prefix = L"KahfSSHTM",  // Browser ProgID prefix.
+        .base_app_name = L"BrowseWeb3 Nightly",        // A distinct base_app_name.
+        .base_app_id = L"BrowseWeb3Nightly",           // A distinct base_app_id.
+        .browser_prog_id_prefix = L"BrowseWeb3SSHTM",  // Browser ProgID prefix.
         .browser_prog_id_description =
-            L"Kahf Nightly HTML Document",   // Browser ProgID description.
-        .pdf_prog_id_prefix = L"KahfSSPDF",  // PDF ProgID prefix.
+            L"BrowseWeb3 Nightly HTML Document",   // Browser ProgID description.
+        .pdf_prog_id_prefix = L"BrowseWeb3SSPDF",  // PDF ProgID prefix.
         .pdf_prog_id_description =
-            L"Kahf Nightly PDF Document",  // PDF ProgID description.
+            L"BrowseWeb3 Nightly PDF Document",  // PDF ProgID description.
         .active_setup_guid =
             L"{C6CB981E-DB30-4876-8639-109F8933582C}",  // Active Setup GUID.
         .legacy_command_execute_clsid =
@@ -222,7 +222,7 @@ const InstallConstants kInstallModes[] = {
 };
 #else
 const InstallConstants kInstallModes[] = {
-    // The primary (and only) install mode for Kahf developer build.
+    // The primary (and only) install mode for BrowseWeb3 developer build.
     {
         .size = sizeof(kInstallModes[0]),
         .index = DEVELOPER_INDEX,  // The one and only mode for developer mode.
@@ -232,15 +232,15 @@ const InstallConstants kInstallModes[] = {
             L"",  // Empty install_suffix for the primary install mode.
         .logo_suffix = L"",  // No logo suffix for the primary install mode.
         .app_guid =
-            L"",  // Empty app_guid since no integraion with Kahf Update.
-        .base_app_name = L"Kahf Development",     // A distinct base_app_name.
-        .base_app_id = L"KahfDevelopment",        // A distinct base_app_id.
-        .browser_prog_id_prefix = L"KahfDevHTM",  // Browser ProgID prefix.
+            L"",  // Empty app_guid since no integraion with BrowseWeb3 Update.
+        .base_app_name = L"BrowseWeb3 Development",     // A distinct base_app_name.
+        .base_app_id = L"BrowseWeb3Development",        // A distinct base_app_id.
+        .browser_prog_id_prefix = L"BrowseWeb3DevHTM",  // Browser ProgID prefix.
         .browser_prog_id_description =
-            L"Kahf Development HTML Document",  // Browser ProgID description.
-        .pdf_prog_id_prefix = L"KahfDevPDF",    // PDF ProgID prefix.
+            L"BrowseWeb3 Development HTML Document",  // Browser ProgID description.
+        .pdf_prog_id_prefix = L"BrowseWeb3DevPDF",    // PDF ProgID prefix.
         .pdf_prog_id_description =
-            L"Kahf Development PDF Document",  // PDF ProgID description.
+            L"BrowseWeb3 Development PDF Document",  // PDF ProgID description.
         .active_setup_guid =
             L"{D6527C63-5CDD-4EF3-9299-1504E17CBD18}",  // Active Setup GUID.
         .legacy_command_execute_clsid =

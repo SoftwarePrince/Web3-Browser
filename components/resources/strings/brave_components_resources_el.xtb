@@ -1962,7 +1962,7 @@
 <translation id="1097073572755862978">Στείλτε αναφορές διαγνωστικών, σε περίπτωση σφάλματος ή παγώματος. <ph name="LINK_BEFORE"/>Μάθετε περισσότερα.<ph name="LINK_AFTER"/></translation>
 <translation id="5099408825243658796">Κοινοποιήστε εντελώς ιδιωτικές και ανώνυμες πληροφορίες σχετικά με ποιες λειτουργίες χρησιμοποιούνται από τους χρήστες του BrowseWeb3. <ph name="LINK_BEFORE"/>Μάθετε περισσότερα.<ph name="LINK_AFTER"/></translation>
 <translation id="7415454883318062233">Η ρύθμιση ολοκληρώθηκε</translation>
-<translation id="3141206739023333979">Αλλάξτε αυτές τις επιλογές ανά πάσα στιγμή στο BrowseWeb3 στο <ph name="LINK_BEFORE1"/>kahf://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
+<translation id="3141206739023333979">Αλλάξτε αυτές τις επιλογές ανά πάσα στιγμή στο BrowseWeb3 στο <ph name="LINK_BEFORE1"/>browseweb3://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
 <translation id="8321985064212130832">Διαβάστε ολόκληρη την <ph name="LINK_BEFORE"/>Πολιτική απορρήτου<ph name="LINK_AFTER"/></translation>
 <translation id="2801098717523961746">Επιλέξτε το θέμα σας</translation>
 <translation id="6262510489122516114">Μπορείτε να το αλλάξετε ανά πάσα στιγμή στις ρυθμίσεις του BrowseWeb3.</translation>
@@ -2028,7 +2028,7 @@
 <translation id="5004375364898143117">Φαίνεται να έχετε προβλήματα με τη σύνδεση WireGuard. Θέλετε να ενεργοποιήσετε τη μετάπτωση IKEv2 για αξιόπιστο VPN; Απλώς, κάντε επανεκκίνηση στο πρόγραμμα περιήγησης.
 
 Χρειάζεστε βοήθεια με τη συμβατότητα ή τη διαμόρφωση; Επικοινωνήστε με την ομάδα υποστήριξης, που θα χαρεί να βοηθήσει.
-Μπορείτε όποτε θέλετε να επιστρέψετε στο WireGuard, στη διεύθυνση kahf://settings/system.
+Μπορείτε όποτε θέλετε να επιστρέψετε στο WireGuard, στη διεύθυνση browseweb3://settings/system.
 
 Πάμε να σας συνδέσουμε!
 

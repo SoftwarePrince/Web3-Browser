@@ -22,8 +22,8 @@
   "campaignId": "fb7ee174-5430-4fb9-8e97-29bf14e8d828",
   "logo": {
     "imageUrl": "logo.png",
-    "alt": "Visit Halalz",
-    "companyName": "Halalz",
+    "alt": "Visit BrowseWeb3",
+    "companyName": "BrowseWeb3",
     "destinationUrl": "https://www.browseweb3.com/"
   },
   "wallpapers": [

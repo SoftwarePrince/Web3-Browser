@@ -23,8 +23,8 @@ declare_args() {
   sparkle_eddsa_private_key = ""
   sparkle_eddsa_public_key = ""
 
-  brave_product_name = "kahf"
-  brave_exe = "kahf"
+  brave_product_name = "browseweb3"
+  brave_exe = "browseweb3"
   brave_version_major = "1"
   brave_version_minor = "0"
   brave_version_build = "0"
@@ -104,7 +104,7 @@ if (is_win) {
   if (target_cpu == "x86") {
     _arch = "32"
   }
-  brave_installer_exe = "kahf_installer.exe"
+  brave_installer_exe = "browseweb3_installer.exe"
   brave_stub_installer_exe =
       "BraveBrowser$_channel" + "Setup$_arch$brave_underline_full_version.exe"
   brave_untagged_stub_installer_exe =
@@ -138,11 +138,11 @@ if (is_win) {
     brave_product_dir_name_suffix = "-Development"
   }
   brave_product_dir_name =
-      "Halalz/Kahf-Browser$brave_product_dir_name_suffix"
+      "BrowseWeb3/BrowseWeb3-Browser$brave_product_dir_name_suffix"
 
   if (base_sparkle_update_url == "") {
     base_sparkle_update_url =
-        "https://updates.bravesoftware.com/sparkle/Kahf-Browser"
+        "https://updates.bravesoftware.com/sparkle/BrowseWeb3-Browser"
   }
 }
 

@@ -104,7 +104,7 @@ function HelpImprove () {
           </Button>
           <S.FootNote>
             {changeSettingsNote.beforeTag}
-            <a href="kahf://settings/privacy" onClick={handleOpenSettingsPage}>
+            <a href="browseweb3://settings/privacy" onClick={handleOpenSettingsPage}>
               {changeSettingsNote.duringTag}
             </a>
             {changeSettingsNote.afterTag}
