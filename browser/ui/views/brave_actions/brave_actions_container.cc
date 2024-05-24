@@ -83,16 +83,17 @@ void BraveActionsContainer::AddActionViewForShields() {
 }
 
 void BraveActionsContainer::AddActionViewForRewards() {
-  // auto button = std::make_unique<BraveRewardsActionView>(browser_);
-  // rewards_action_btn_ = AddChildViewAt(std::move(button), 2);
-  // rewards_action_btn_->SetPreferredSize(GetActionSize());
-  // rewards_action_btn_->SetVisible(ShouldShowBraveRewardsAction());
-  // rewards_action_btn_->Update();
+  auto button = std::make_unique<BraveRewardsActionView>(browser_);
+  rewards_action_btn_ = AddChildViewAt(std::move(button), 2);
+  rewards_action_btn_->SetPreferredSize(GetActionSize());
+  rewards_action_btn_->SetVisible(ShouldShowBraveRewardsAction());
+  rewards_action_btn_->Update();
 }
 
 void BraveActionsContainer::Update() {
   if (shields_action_btn_) {
-    shields_action_btn_->Update();
+    
+    // shields_action_btn_->Update();
   }
 
   if (rewards_action_btn_) {
@@ -112,8 +113,8 @@ void BraveActionsContainer::UpdateVisibility() {
   }
 
   if (rewards_action_btn_) {
-    // can_show = can_show || rewards_action_btn_->GetVisible();
-    can_show = can_show || false;
+    can_show = can_show || rewards_action_btn_->GetVisible();
+    // can_show = can_show || false;
     }
 
   // If no buttons are visible, then we want to hide this view so that the
