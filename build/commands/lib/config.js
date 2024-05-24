@@ -331,7 +331,7 @@ Config.prototype.buildArgs = function () {
     branding_path_product: "brave",
     enable_nacl: false,
     blink_symbol_level: 0,
-    enable_brave_vpn: true,
+    enable_brave_vpn: false,
     symbol_level : 0,
     v8_symbol_level : 0,
     enable_widevine: true,
