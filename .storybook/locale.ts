@@ -271,7 +271,7 @@ let locale: Record<string, string> = {
   estimatedBandwidthSaved: 'Bandwidth saved',
   estimatedTimeSaved: 'Estimated Time Saved',
   minutes: 'minutes',
-  photoBy: '',
+  photoBy: 'photoBy',
   customize: 'Customize',
   thumbRemoved: 'Top site removed',
   undoRemoved: 'Undo',
