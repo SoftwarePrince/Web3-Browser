@@ -11,7 +11,7 @@ import { ArrowDownIcon } from './icons/arrow_down_icon'
 
 import * as style from './grant_captcha_challenge.style'
 
-import dragIconURL from '../assets/grant_captcha_icon.png'
+import dragIconURL from '../assets/grant_captcha_icon2.png'
 
 interface Point {
   x: number

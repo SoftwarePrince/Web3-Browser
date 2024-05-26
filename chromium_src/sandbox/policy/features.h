@@ -10,7 +10,7 @@
 
 namespace sandbox::policy::features {
 
-// Enables patching of executable's name from browseweb3.exe to chrome.exe in
+// Enables patching of executable's name from bw3.exe to chrome.exe in
 // sandboxed processes.
 SANDBOX_POLICY_EXPORT BASE_DECLARE_FEATURE(kModuleFileNamePatch);
 

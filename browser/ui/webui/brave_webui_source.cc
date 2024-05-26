@@ -86,11 +86,11 @@ void CustomizeWebUIHTMLSource(content::WebUI* web_ui,
     }
     }, {
       std::string("rewards"), {
-        { "favicon.ico", IDR_BRAVE_REWARDS_FAVICON },
+        { "favicon_datum.ico", IDR_BRAVE_REWARDS_FAVICON },
       }
     }, {
       std::string("welcome"), {
-        { "favicon.ico", IDR_BRAVE_WELCOME_PAGE_FAVICON }
+        { "favicon_datum.ico", IDR_BRAVE_WELCOME_PAGE_FAVICON }
       }
     },
 #endif

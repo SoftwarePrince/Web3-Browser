@@ -176,7 +176,7 @@
       EXPAND_FEATURE_ENTRIES({                                                 \
           "brave-module-filename-patch",                                       \
           "Enable Module Filename patch",                                      \
-          "Enables patching of executable's name from browseweb3.exe to "           \
+          "Enables patching of executable's name from bw3.exe to "           \
           "chrome.exe in sandboxed processes.",                                \
           kOsWin,                                                              \
           FEATURE_VALUE_TYPE(sandbox::policy::features::kModuleFileNamePatch), \

@@ -73,42 +73,42 @@ struct TestData {
 constexpr TestData kTestData[] = {
     {
         L"C:\\Program Files (x86)\\BrowseWeb3\\BrowseWeb3-Browser\\Application"
-        L"\\browseweb3.exe",
+        L"\\bw3.exe",
         STABLE_INDEX, true, L"",
     },
     {
         L"C:\\Users\\user\\AppData\\Local\\BrowseWeb3\\BrowseWeb3-Browser"
-        L"\\Application\\browseweb3.exe",
+        L"\\Application\\bw3.exe",
         STABLE_INDEX, false, L"",
     },
     {
         L"C:\\Program Files (x86)\\BrowseWeb3\\BrowseWeb3-Browser-Beta"
-        L"\\Application\\browseweb3.exe",
+        L"\\Application\\bw3.exe",
         BETA_INDEX, true, L"beta",
     },
     {
         L"C:\\Users\\user\\AppData\\Local\\BrowseWeb3\\BrowseWeb3-Browser-Beta"
-        L"\\Application\\browseweb3.exe",
+        L"\\Application\\bw3.exe",
         BETA_INDEX, false, L"beta",
     },
     {
         L"C:\\Program Files (x86)\\BrowseWeb3\\BrowseWeb3-Browser-Dev"
-        L"\\Application\\browseweb3.exe",
+        L"\\Application\\bw3.exe",
         DEV_INDEX, true, L"dev",
     },
     {
         L"C:\\Users\\user\\AppData\\Local\\BrowseWeb3\\BrowseWeb3-Browser-Dev"
-        L"\\Application\\browseweb3.exe",
+        L"\\Application\\bw3.exe",
         DEV_INDEX, false, L"dev",
     },
     {
         L"C:\\Users\\user\\AppData\\Local\\BrowseWeb3\\BrowseWeb3-Browser-Nightly"
-        L"\\Application\\browseweb3.exe",
+        L"\\Application\\bw3.exe",
         NIGHTLY_INDEX, false, L"nightly",
     },
     {
         L"C:\\Users\\user\\AppData\\Local\\BrowseWeb3\\BrowseWeb3-Browser-Nightly"
-        L"\\Application\\browseweb3.exe",
+        L"\\Application\\bw3.exe",
         NIGHTLY_INDEX, false, L"nightly",
     },
 };
@@ -116,14 +116,14 @@ constexpr TestData kTestData[] = {
 constexpr TestData kTestData[] = {
     {
         L"C:\\Program Files (x86)\\BrowseWeb3\\BrowseWeb3-Browser-Development"
-        L"\\Application\\browseweb3.exe",
+        L"\\Application\\bw3.exe",
         DEVELOPER_INDEX,
         true,
         L"",
     },
     {
         L"C:\\Users\\user\\AppData\\Local\\BrowseWeb3\\BrowseWeb3-Browser-"
-        L"Development\\Application\\browseweb3.exe",
+        L"Development\\Application\\bw3.exe",
         DEVELOPER_INDEX,
         false,
         L"",

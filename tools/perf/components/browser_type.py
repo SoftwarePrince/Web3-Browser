@@ -280,7 +280,7 @@ class BraveBrowserTypeImpl(BrowserType):
       return _DownloadWinInstallerAndExtract(out_dir,
                                              self._GetSetupDownloadUrl(tag),
                                              self._GetWinInstallPath(),
-                                             'browseweb3.exe')
+                                             'bw3.exe')
     if target_os == 'android':
       url = _GetBraveDownloadUrl(tag, 'BraveMonoarm64.apk')
       apk_filename = os.path.join(out_dir, os.pardir, 'BraveMonoarm64.apk')
