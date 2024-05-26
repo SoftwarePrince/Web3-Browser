@@ -80,6 +80,7 @@ void BraveActionsContainer::AddActionViewForShields() {
                      1);
   shields_action_btn_->SetPreferredSize(GetActionSize());
   shields_action_btn_->Init();
+  shields_action_btn_->SetVisible(false);
 }
 
 void BraveActionsContainer::AddActionViewForRewards() {
@@ -108,8 +109,7 @@ void BraveActionsContainer::UpdateVisibility() {
   bool can_show = false;
 
   if (shields_action_btn_) {
-    // can_show = shields_action_btn_->GetVisible();
-    can_show = false;
+    can_show = shields_action_btn_->GetVisible();
   }
 
   if (rewards_action_btn_) {

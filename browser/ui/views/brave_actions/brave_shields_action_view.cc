@@ -183,10 +183,10 @@ gfx::ImageSkia BraveShieldsActionView::GetIconImage(bool is_enabled) {
 }
 
 void BraveShieldsActionView::UpdateIconState() {
-  // const gfx::ImageSkia icon(GetImageSource(), GetPreferredSize());
-  // // Use badge-and-icon source for button's image in all states
-  // SetImageModel(views::Button::STATE_NORMAL,
-  //               ui::ImageModel::FromImageSkia(icon));
+  const gfx::ImageSkia icon(GetImageSource(), GetPreferredSize());
+  // Use badge-and-icon source for button's image in all states
+  SetImageModel(views::Button::STATE_NORMAL,
+                ui::ImageModel::FromImageSkia(icon));
 }
 
 void BraveShieldsActionView::ButtonPressed() {
