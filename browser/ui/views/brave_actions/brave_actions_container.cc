@@ -52,7 +52,10 @@ void BraveActionsContainer::Init() {
       gfx::Insets::TLBR(0, kSeparatorMargin, 0, kSeparatorMargin)));
   // Just in case the extensions load before this function does (not likely!)
   // make sure separator is at index 0
+
+  brave_button_separator_->SetVisible(false);
   AddChildViewAt(brave_button_separator_, 0);
+
   AddActionViewForShields();
   AddActionViewForRewards();
 
